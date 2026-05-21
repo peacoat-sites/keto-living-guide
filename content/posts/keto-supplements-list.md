@@ -136,3 +136,13 @@ Magnesium, without much competition. Sodium is technically the biggest driver of
 Supplements are genuinely useful, but they work in service of the diet, not instead of it. Get your food right first: quality protein, plenty of fat, green vegetables, and real salt. Then use this list as a targeted toolkit to address specific gaps and smooth out the transition. You don't need to buy everything at once. Start with a good electrolyte blend and some magnesium glycinate, pay attention to how you feel, and add from there. Most keto journeys that end in frustration end because the basics weren't in place, not because someone forgot to buy exogenous ketones.
 
 *Photo: [Ella Olsson](https://www.pexels.com/@ella-olsson-572949) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+
