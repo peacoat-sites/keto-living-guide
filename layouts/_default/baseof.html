@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+  <meta name="robots" content="noindex, follow">
+  {{- end }}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:locale" content="en_US">
+  {{ if .Params.image -}}
+  <meta property="og:image" content="{{ .Params.image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  {{- end }}
+  {{ if .IsPage -}}
+  <meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{ with .Params.categories -}}<meta property="article:section" content="{{ index . 0 | title }}">{{ end }}
+  {{- end }}
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="{{ if .Params.image }}summary_large_image{{ else }}summary{{ end }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image }}">{{ end }}
+
+  <!-- Sitemap / RSS -->
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+  <link rel="alternate" type="application/rss+xml" href="/index.xml">
+
+  <!-- Fonts: Authority theme — Playfair + Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Per-site hero gradient colors (set in config.toml [params]) -->
+  <style>
+    :root {
+      --hero-c1: {{ .Site.Params.hero_color_1 | default "#0f172a" }};
+      --hero-c2: {{ .Site.Params.hero_color_2 | default "#1e3a8a" }};
+      --hero-c3: {{ .Site.Params.hero_color_3 | default "#c9a84c" }};
+      --hero-c4: {{ .Site.Params.hero_color_4 | default "#1a2744" }};
+      --site-accent: {{ .Site.Params.primary_color | default "#c9a84c" }};
+    }
+  </style>
+
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense_id }}" crossorigin="anonymous"></script>
+
+  <!-- Cloudflare Analytics -->
+  {{ if .Site.Params.cloudflare_analytics }}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflare_analytics }}"}'></script>
+  {{ end }}
+
+  <!-- Affiliate network verification tags -->
+  {{ if .Site.Params.impact_verification }}
+  <meta name="impact-site-verification" content="{{ .Site.Params.impact_verification }}">
+  {{ end }}
+
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Structured Data -->
+  {{ partial "schema.html" . }}
+
+</head>
+<body>
+
+  {{ partial "trust-ribbon.html" . }}
+  {{ partial "header.html" . }}
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <script src="/js/main.js"></script>
+
+  <!-- Impact affiliate tracker (site-specific) -->
+  {{ if .Site.Params.impact_tracking_id }}
+  <script type="text/javascript">
+  (function(i,m,p,a,c,t){c.ire_o=p;c[p]=c[p]||function(){(c[p].a=c[p].a||[]).push(arguments)};t=a.createElement(m);var z=a.getElementsByTagName(m)[0];t.async=1;t.src=i;z.parentNode.insertBefore(t,z)})('https://utt.impactcdn.com/{{ .Site.Params.impact_tracking_id }}.js','script','impactStat',document,window);impactStat('trackImpression');
+  </script>
+  {{ end }}
+</body>
+</html>

@@ -1,0 +1,73 @@
+baseURL = "https://ketolivingguide.com/"
+enableGitInfo = true
+languageCode = "en-us"
+title = "Keto Living Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Your complete guide to ketogenic living — meal plans, recipes, science-backed tips, and everything you need to thrive on low-carb."
+  niche = "Keto & Low-Carb Living"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "healthy keto diet low carb food"
+  author = "Keto Living Guide Editorial Team"
+  logo_text = "Keto Living Guide"
+  tagline = "Keto Made Simple"
+  primary_color = "#1b4332"
+  cloudflare_analytics = ""
+
+  # Authority theme
+  hero_color_1 = "#0a1f15"
+  hero_color_2 = "#1b4332"
+  hero_color_3 = "#b45309"
+  hero_color_4 = "#92400e"
+  monthly_readers = 74000
+  research_hours  = 560
+  satisfaction    = 97
+  trust_extra     = "Registered dietitians & certified nutrition coaches"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
+
+[permalinks]
+  posts = "/:slug/"
+
+[related]
+  includeNewer = true
+  threshold    = 80
+  toLower      = false
+  [[related.indices]]
+    name   = "keywords"
+    weight = 100
+  [[related.indices]]
+    name   = "tags"
+    weight = 80
+  [[related.indices]]
+    name   = "categories"
+    weight = 50
