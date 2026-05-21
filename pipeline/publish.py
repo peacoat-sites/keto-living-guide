@@ -233,54 +233,6 @@ SITE_PERSONAS = {
             "specific to your situation.*"
         ),
     },
-    "keto-living-guide": {
-        "tone": (
-            "You are a registered dietitian and certified personal trainer who has coached hundreds of "
-            "clients through ketogenic eating. You are science-backed but practical -- you explain the "
-            "research clearly without being preachy, and you acknowledge that keto is not for everyone. "
-            "You write for the curious beginner and the frustrated plateau-buster alike, with real meal "
-            "examples, honest caveats, and no supplement upsells."
-        ),
-        "authors": [
-            {"name": "Dr. Maya Chen", "bio": "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."},
-            {"name": "Jake Morrison", "bio": "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."},
-            {"name": "Sarah Whitmore", "bio": "Sports nutritionist specializing in metabolic health and ketogenic performance for athletes and everyday people."},
-            {"name": "Tom Reyes", "bio": "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."},
-        ],
-        "ymyl": False,
-        "disclaimer": "",
-    },
-    "chicken-keeper-guide": {
-        "tone": (
-            "You are a backyard chicken keeper of 12 years who has raised over 200 birds across 14 breeds. "
-            "You write with warmth and no-nonsense practicality. You share what works in the real world -- "
-            "not just textbook answers -- and are honest about the messy and rewarding parts of keeping chickens."
-        ),
-        "authors": [
-            {"name": "Karen Fields", "bio": "Backyard chicken keeper of 12 years. Has raised 14 breeds and mentored dozens of first-time flock owners."},
-            {"name": "Ben Hartley", "bio": "Small-scale farmer and poultry keeper. Raises dual-purpose heritage breeds and writes about sustainable backyard farming."},
-            {"name": "Lisa Vance", "bio": "Certified poultry advisor and urban farming educator helping city dwellers set up thriving backyard flocks."},
-            {"name": "Mike Olson", "bio": "4-H poultry program leader specializing in flock health, breed selection, and egg production optimization."},
-        ],
-        "ymyl": False,
-        "disclaimer": "",
-    },
-    "rv-life-guide": {
-        "tone": (
-            "You are a full-time RVer of 6 years who sold a suburban house in 2019 and has since driven "
-            "over 90,000 miles across North America. You write with candor about the realities of RV life -- "
-            "the breakdowns, the budget surprises, and the best sunsets of your life. You tell people what "
-            "it is really like, without being a cheerleader for the lifestyle."
-        ),
-        "authors": [
-            {"name": "Dan Calloway", "bio": "Full-time RVer since 2019. 90,000+ miles across 48 states. Covers budgeting, maintenance, and campground life."},
-            {"name": "Rachel Simmons", "bio": "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."},
-            {"name": "Carlos Mendez", "bio": "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."},
-            {"name": "Amy Kowalski", "bio": "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."},
-        ],
-        "ymyl": False,
-        "disclaimer": "",
-    },
 }
 
 # ── AMAZON AFFILIATE PRODUCTS (by niche key) ─────────────────────────────────
@@ -637,6 +589,48 @@ def fetch_image(query: str, used_ids: set) -> dict | None:
 
 # ── PUBLISHED KEYWORD TRACKING ────────────────────────────────────────────────
 
+def get_published_articles(repo: str) -> list:
+    """Fetch published article titles and slugs for internal linking."""
+    try:
+        r = requests.get(
+            f"https://api.github.com/repos/{GITHUB_ORG}/{repo}/contents/content/posts",
+            headers=GH_HEADERS,
+            timeout=15
+        )
+        if r.status_code == 200:
+            articles = []
+            for f in r.json():
+                if isinstance(f, dict) and f["name"].endswith(".md"):
+                    slug = f["name"].replace(".md", "")
+                    title = slug.replace("-", " ").title()
+                    articles.append({"slug": slug, "title": title, "url": f"/{slug}/"})
+            return articles[:20]
+    except Exception:
+        pass
+    return []
+
+
+def extract_faq_pairs(markdown_text: str) -> list:
+    """Extract FAQ question/answer pairs from article markdown."""
+    import re
+    pairs = []
+    # Find FAQ section (## FAQ or ## Frequently Asked Questions)
+    faq_match = re.search(r'##\s+(?:FAQ|Frequently Asked Questions|Common Questions)[^\n]*\n(.*?)(?=\n##|\Z)', markdown_text, re.IGNORECASE | re.DOTALL)
+    if not faq_match:
+        return pairs
+    faq_section = faq_match.group(1)
+    # Extract H3 question + following paragraph as answer
+    questions = re.findall(r'###\s+([^\n]+)\n+(.*?)(?=\n###|\Z)', faq_section, re.DOTALL)
+    for question, answer in questions[:8]:
+        answer_clean = re.sub(r'\n+', ' ', answer.strip())
+        answer_clean = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', answer_clean)  # strip links
+        answer_clean = re.sub(r'[*_`]', '', answer_clean)  # strip markdown
+        answer_clean = answer_clean[:300].strip()
+        if question.strip() and answer_clean:
+            pairs.append({"question": question.strip(), "answer": answer_clean})
+    return pairs
+
+
 def get_published_slugs(repo: str) -> set:
     """Fetch list of already-published article filenames from GitHub."""
     try:
@@ -682,6 +676,16 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
             "Do not list them -- weave them into a sentence as supporting evidence."
         )
 
+    # Internal linking — pass existing articles so Claude can weave in contextual links
+    existing_articles = site_config.get("_published_articles", [])
+    internal_link_instruction = ""
+    if existing_articles:
+        article_list = "\n".join(f'  - [{a["title"]}]({a["url"]})' for a in existing_articles[:15])
+        internal_link_instruction = (
+            f"- Include 2-3 contextual internal links to related articles from this site. "
+            f"Use ONLY URLs from this list, link naturally within sentences, use descriptive anchor text:\n{article_list}"
+        )
+
     ymyl_instruction = ""
     if ymyl:
         ymyl_instruction = (
@@ -706,6 +710,7 @@ Writing rules (follow every one):
 - Do not pad with filler. Every paragraph must earn its place.
 {ymyl_instruction}
 {ref_instruction}
+{internal_link_instruction}
 {affiliate_note}
 
 Output ONLY the article body in Markdown. No preamble, no title (title comes from frontmatter)."""
@@ -750,6 +755,7 @@ def build_markdown(
     persona: dict,
     ymyl: bool,
     disclaimer: str,
+    faq_pairs=None,
 ) -> str:
     slug = keyword_to_slug(keyword)
     date = datetime.now(timezone.utc).isoformat()
@@ -765,6 +771,14 @@ def build_markdown(
     if ymyl and disclaimer:
         content += f"\n\n---\n\n{disclaimer}"
 
+    faq_yaml = ""
+    if faq_pairs:
+        faq_lines = "\n".join(
+            f'  - q: "{p["question"].replace(chr(34), chr(39))}"\n    a: "{p["answer"].replace(chr(34), chr(39))}"'
+            for p in faq_pairs
+        )
+        faq_yaml = f"faq:\n{faq_lines}\n"
+
     frontmatter = f"""---
 title: "{keyword.title()}"
 date: {date}
@@ -777,7 +791,7 @@ author: "{persona['name']}"
 author_bio: "{persona['bio']}"
 slug: "{slug}"
 affiliate_disclosure: {"true" if AMAZON_TRACKING_ID else "false"}
----
+{faq_yaml}---
 
 """
     return frontmatter + content
@@ -873,9 +887,11 @@ def publish_site(site_name: str, count: int):
     niche = site["niche"]
     print(f"\nPublishing {count} articles to {site_name} ({site['domain']})")
 
-    # Load keywords + already-published slugs
-    keywords       = load_keywords(repo)
-    published      = get_published_slugs(repo)
+    # Load keywords + already-published slugs + existing articles for internal linking
+    keywords          = load_keywords(repo)
+    published         = get_published_slugs(repo)
+    published_articles = get_published_articles(repo)
+    site["_published_articles"] = published_articles
     persona_pool   = SITE_PERSONAS.get(repo, {}).get("authors", [{"name": "Editorial Team", "bio": "Content team."}])
     ymyl           = SITE_PERSONAS.get(repo, {}).get("ymyl", False)
     disclaimer     = SITE_PERSONAS.get(repo, {}).get("disclaimer", "")
@@ -919,6 +935,9 @@ def publish_site(site_name: str, count: int):
             image = fetch_image(site.get("image_query", keyword), used_img_ids)
             print(f"    Image: {'ok' if image else 'none'}")
 
+            # Extract FAQ pairs for schema
+            faq_pairs = extract_faq_pairs(article["content"])
+
             # Build markdown
             tags = [w for w in keyword.split() if len(w) > 3][:5]
             markdown = build_markdown(
@@ -928,6 +947,7 @@ def publish_site(site_name: str, count: int):
                 persona=persona,
                 ymyl=ymyl,
                 disclaimer=disclaimer,
+                faq_pairs=faq_pairs,
             )
 
             # Commit
@@ -969,3 +989,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
