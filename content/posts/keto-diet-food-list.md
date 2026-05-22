@@ -3,7 +3,7 @@ title: "Keto Diet Food List"
 date: 2026-05-21T02:14:36.423114+00:00
 draft: false
 description: "Discover the ultimate keto diet food list. Learn which high-fat, low-carb foods to eat and avoid to stay in ketosis and reach your weight loss goals faster."
-image: "https://images.pexels.com/photos/10025498/pexels-photo-10025498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37128330/pexels-photo-37128330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "food", "list"]
 author: "Tom Reyes"
