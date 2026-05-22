@@ -3,7 +3,7 @@ title: "Net Carbs Vs Total Carbs"
 date: 2026-05-21T04:02:38.812708+00:00
 draft: false
 description: "Learn the difference between net carbs and total carbs, how to calculate them, and which method best supports your health and low-carb diet goals."
-image: "https://images.pexels.com/photos/13376599/pexels-photo-13376599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15167396/pexels-photo-15167396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["carbs", "total", "carbs"]
 author: "Dr. Maya Chen"
