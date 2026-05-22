@@ -3,7 +3,7 @@ title: "Keto Diet For Beginners"
 date: 2026-05-21T02:00:09.592234+00:00
 draft: false
 description: "Start your keto journey with confidence. Learn the basics of the ketogenic diet, what to eat, what to avoid, and simple tips to help beginners achieve fast resu"
-image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34993898/pexels-photo-34993898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "beginners"]
 author: "Dr. Maya Chen"
