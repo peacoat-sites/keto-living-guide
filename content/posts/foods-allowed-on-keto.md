@@ -3,7 +3,7 @@ title: "Foods Allowed On Keto"
 date: 2026-05-21T02:16:59.827023+00:00
 draft: false
 description: "Discover which foods are allowed on keto. From healthy fats and proteins to low-carb veggies, learn what to eat to stay in ketosis and reach your goals."
-image: "https://images.pexels.com/photos/10074027/pexels-photo-10074027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37321079/pexels-photo-37321079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["foods", "allowed", "keto"]
 author: "Jake Morrison"
