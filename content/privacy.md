@@ -7,47 +7,76 @@ description: "Privacy Policy for Keto Living Guide"
 
 ## Privacy Policy
 
-Last updated: January 1, 2026
+*Last updated: May 27, 2026*
 
-This Privacy Policy explains how Keto Living Guide ("we," "us," or "our") collects, uses, and protects information when you visit ketolivingguide.com.
+This Privacy Policy describes how Keto Living Guide ("we," "us," or "our") collects, uses, and shares information when you visit ketolivingguide.com (the "Site").
+
+---
 
 ## Information We Collect
 
-**Automatically collected:** When you visit our Site, we automatically collect certain information including your IP address, browser type, referring URLs, and pages visited. This is standard web server log data.
+**Information You Provide**
+We do not require account creation to read our content. If you contact us, we collect the name, email address, and message you provide.
 
-**Cookies:** We use cookies to improve your experience. You may disable cookies in your browser settings, though some features may not function properly.
+**Automatically Collected Information**
+When you visit the Site, we and our partners automatically collect: your IP address and approximate location (city/region), browser type and device, pages visited and time on page, referring URL or search query, and date/time of visit. This is collected via server logs, cookies, and the third-party services described below.
+
+---
+
+## Cookies
+
+| Cookie Type | Purpose |
+|---|---|
+| Strictly Necessary | Site functionality |
+| Analytics | Understanding how visitors use the Site (Google Analytics) |
+| Advertising | Serving relevant ads (Google AdSense) |
+
+You can disable cookies in your browser settings. Disabling advertising cookies means ads may be less relevant but you will still see ads.
+
+---
+
+## Third-Party Services
+
+**Google Analytics** — We use Google Analytics to understand site usage. It collects anonymized data via cookies. [Google's Privacy Policy](https://policies.google.com/privacy) | [Opt-out Add-on](https://tools.google.com/dlpage/gaoptout)
+
+**Google AdSense** — We display ads served by Google AdSense. Google uses the DoubleClick cookie to serve ads based on prior site visits. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI Opt-out](https://optout.networkadvertising.org/).
+
+**Amazon Associates** — We participate in the Amazon Associates Program. When you purchase through our links, we may earn a commission. [Amazon's Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+
+---
 
 ## How We Use Information
 
-We use collected information to:
-- Analyze site traffic and improve content
-- Serve relevant advertisements via Google AdSense
-- Monitor site performance
+We use information to operate and improve the Site, analyze traffic, serve ads, respond to inquiries, and comply with legal obligations. **We do not sell your personal information.**
 
-## Google AdSense
+---
 
-We use Google AdSense to display advertisements. Google uses cookies to serve ads based on your prior visits to this and other websites. You can opt out of personalized advertising at [Google's Ads Settings](https://www.google.com/settings/ads).
+## Your Privacy Rights
 
-## Google Analytics
+**California (CCPA):** You have the right to know what data we collect, request deletion, and opt out of data sales. We do not sell personal data. Contact us to exercise your rights.
 
-We use Google Analytics to understand how visitors use our Site. Google Analytics collects anonymized data about your visit. See [Google's Privacy Policy](https://policies.google.com/privacy) for details.
+**European Residents (GDPR):** You have rights to access, correct, or delete your personal data. Our legal bases are legitimate interest (analytics) and consent (advertising cookies). Contact us to exercise your rights.
 
-## Third-Party Links
+---
 
-Our Site contains links to third-party websites. We are not responsible for their privacy practices.
+## Data Retention
 
-## Your Rights
+Analytics data is retained for up to 26 months. Contact form messages are retained for up to 2 years.
 
-Depending on your location, you may have rights to access, correct, or delete your personal data. Contact us at contact@ketolivingguide.com to exercise these rights.
+---
 
 ## Children's Privacy
 
-Our Site is not directed at children under 13. We do not knowingly collect information from children.
+This Site is not directed at children under 13. We do not knowingly collect data from children.
+
+---
 
 ## Changes to This Policy
 
-We may update this Privacy Policy periodically. We will notify you of significant changes by posting the new policy on this page.
+We may update this policy periodically. Changes will be posted on this page with a revised date.
+
+---
 
 ## Contact
 
-Questions? Email us at contact@ketolivingguide.com
+Email: contact@ketolivingguide.com
