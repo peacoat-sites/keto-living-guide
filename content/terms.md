@@ -7,38 +7,66 @@ description: "Terms of Service for Keto Living Guide"
 
 ## Terms of Service
 
-Last updated: January 1, 2026
+*Last updated: May 27, 2026*
 
-By accessing and using Keto Living Guide ("the Site"), you agree to be bound by these Terms of Service.
+By accessing ketolivingguide.com (the "Site"), you agree to these Terms of Service. If you do not agree, please do not use the Site.
 
-## Use of Content
+---
 
-The content on this Site is for informational and educational purposes only. Nothing on this Site constitutes professional advice. Always consult a qualified professional before acting on any information found here.
+## 1. Informational Purpose Only
 
-## Intellectual Property
+Content on this Site is for general informational and educational purposes only. It does not constitute professional advice — legal, financial, medical, or otherwise. Always consult a qualified professional for advice specific to your situation.
 
-All content on this Site, including articles, images, and design, is the property of Keto Living Guide unless otherwise noted. You may share content with attribution and a link back to the original article.
+---
 
-## Affiliate Disclosure
+## 2. Accuracy of Information
 
-This Site participates in affiliate programs. We may earn a commission when you click links to partner sites and make purchases. This does not affect our editorial independence or the price you pay.
+We make reasonable efforts to ensure accuracy but make no warranties about the completeness, accuracy, or timeliness of content. Information may change without notice. Verify important information from primary sources.
 
-## Disclaimer of Warranties
+---
 
-This Site is provided "as is" without warranties of any kind. We do not guarantee the accuracy, completeness, or usefulness of any information on the Site.
+## 3. Intellectual Property
 
-## Limitation of Liability
+Original content on this Site is protected by copyright. You may share links and quote brief excerpts with attribution. You may not reproduce full articles or use our content commercially without written permission.
 
-Keto Living Guide shall not be liable for any damages arising from your use of or inability to use this Site or its content.
+---
 
-## Third-Party Links
+## 4. Affiliate Links
 
-This Site may contain links to third-party websites. We are not responsible for the content or privacy practices of those sites.
+This Site participates in affiliate programs including Amazon Associates. We earn a commission when you purchase through our links. This does not affect the price you pay or our editorial recommendations.
 
-## Changes to Terms
+---
 
-We reserve the right to modify these Terms at any time. Continued use of the Site constitutes acceptance of updated Terms.
+## 5. Advertising
 
-## Contact
+This Site displays ads via Google AdSense and potentially other networks. We are not responsible for third-party ad content.
 
-For questions about these Terms, contact us at contact@ketolivingguide.com
+---
+
+## 6. Third-Party Links
+
+We link to external sites for reference. We do not endorse or control those sites and are not responsible for their content or privacy practices.
+
+---
+
+## 7. Disclaimer of Warranties
+
+THE SITE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. WE DISCLAIM ALL IMPLIED WARRANTIES INCLUDING MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+---
+
+## 8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Keto Living Guide SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OF THE SITE.
+
+---
+
+## 9. Changes to Terms
+
+We may modify these Terms at any time. Continued use of the Site after changes are posted constitutes acceptance.
+
+---
+
+## 10. Contact
+
+Questions? Email: contact@ketolivingguide.com
