@@ -34,6 +34,12 @@ author = "Stephen Brenish"
   impact_verification = ""
   impact_tracking_id  = "" 
 
+  persona_name       = "Natalie Rowe"
+  persona_title      = "Nutrition & Keto Research Editor"
+  persona_bio        = "Natalie has followed and researched the ketogenic diet for over six years. She writes evidence-based guides on low-carb living — covering macros, meal planning, keto adaptation, and long-term maintenance — without the hype."
+  persona_initials   = "NR"
+  disclaimer         = "This site is for general informational purposes only. Dietary changes can affect health conditions and medications. Consult your doctor or a registered dietitian before making significant changes to your diet."
+
 [taxonomies]
   category = "categories"
   tag = "tags"
