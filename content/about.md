@@ -1,28 +1,38 @@
 ---
-title: "About Us"
+title: "About Keto Living Guide"
 date: 2026-01-01
 draft: false
-description: "About Keto Living Guide — our mission and what we cover"
+description: "About Keto Living Guide — meet Natalie Rowe and learn how we cover the ketogenic diet."
 ---
 
 ## About Keto Living Guide
 
-Keto Living Guide is an independent resource dedicated to providing clear, practical, and trustworthy information on ketogenic diet and low-carb living.
+Keto Living Guide is an independent nutrition resource focused on the ketogenic diet and low-carb eating — what the research actually says, what works in practice, and how to make it sustainable long-term.
 
-Our content is researched and written to help everyday people make informed decisions. We cover practical topics with step-by-step guidance, expert insights, and real-world examples.
+## Meet the Editor
 
-## Our Mission
+**Natalie Rowe** is the editor behind Keto Living Guide.
 
-We believe good information should be accessible to everyone. Our goal is to cut through the noise and deliver content that is accurate, actionable, and easy to understand — whether you're a beginner or looking to go deeper.
+Natalie has followed and studied the ketogenic diet for over six years. She started keto for personal health reasons, fell down the research rabbit hole, and eventually started writing to help other people cut through the misinformation that saturates the low-carb space online. Her focus is evidence-based: she cites studies, explains mechanisms, and clearly distinguishes between what's established and what's still being debated.
 
-## Editorial Standards
+## What We Cover
 
-Every article on this Site goes through a review process to ensure accuracy and relevance. We update our content regularly to reflect the latest information.
+Keto Living Guide covers the full landscape of ketogenic and low-carb eating — macro calculation, meal planning, keto adaptation, common side effects and how to manage them, food lists, eating out strategies, long-term maintenance, and the research on keto for specific health goals.
+
+## Our Approach
+
+We don't sell keto products. We don't push supplements. Every recommendation is based on published nutritional research, meta-analyses, and practical experience — not affiliate incentives.
+
+We clearly label opinion versus evidence, and we update articles when new research changes the picture.
+
+## Important Disclaimer
+
+Keto Living Guide provides general nutritional information only. Natalie Rowe is a researcher and writer — not a registered dietitian or medical professional. The ketogenic diet can significantly affect blood sugar, cholesterol, and medication requirements. Always consult your doctor or a registered dietitian before making major dietary changes, especially if you have existing health conditions.
 
 ## Affiliate Disclosure
 
-Some links on this Site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you. This never influences our editorial recommendations — we only recommend products and services we genuinely believe in.
+Some links on this site, particularly for books and kitchen equipment, are Amazon affiliate links. Purchases through these links may earn us a small commission at no extra cost to you.
 
-## Contact Us
+## Contact
 
-Have a question, suggestion, or want to reach out? Visit our [Contact page](/contact).
+Questions or topic requests? [Reach out here](/contact/).
