@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#fdf9f0"
+  nav_style = "light"
 logo_text_2 = "Living Guide"
 logo_text_1 = "Keto"
   description = "Your complete guide to ketogenic living — feal plans, recipes, science-backed tips, and everything you need to thrive on low-carb."
