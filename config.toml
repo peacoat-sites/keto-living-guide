@@ -1,10 +1,11 @@
 baseURL = "https://ketolivingguide.com/"
 languageCode = "en-us"
 title = "Keto Living Guide"
-[pagination]
-  pagerSize = 12
 enableRobotsTXT = true
 enableEmoji = true
+
+[pagination]
+  pagerSize = 12
 
 [params]
   page_bg = "#fdf8ef"
