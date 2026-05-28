@@ -3,7 +3,7 @@ title: "Keto Lunch Ideas"
 date: 2026-05-23T10:47:31.884889+00:00
 draft: false
 description: "Discover delicious keto lunch ideas that are easy to prepare and packed with protein and healthy fats. Perfect low-carb meals for weight loss and energy."
-image: "https://pixabay.com/get/gb2bbfa8c7f6cfbaaa432eab997ad5ddf2e01bbc5b71b2948c35db826be653372c75116daea10c1a1ef955f45eab9be4dc2031a310f75f51502fef5410f1b31d1_1280.jpg"
+image: "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["recipes"]
 tags: ["keto", "lunch", "ideas"]
 author: "Editorial Team"
