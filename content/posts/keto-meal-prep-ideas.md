@@ -3,7 +3,7 @@ title: "Keto Meal Prep Ideas"
 date: 2026-05-26T12:25:31.963058+00:00
 draft: false
 description: "Discover easy keto meal prep ideas to save time and stay on track. Simple recipes, shopping lists, and storage tips for successful ketogenic dieting."
-image: "https://pixabay.com/get/gd1d22f0216326d08ff76ad497ea2f195a39c1ed9fb9896a0c3e5d5bcb26e15ff0c78f4e5bc80af2d5adec504a278f5bf2d3bac50645d7b7ad0445957956efd6e_1280.jpg"
+image: "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["recipes"]
 tags: ["keto", "meal", "prep", "ideas"]
 author: "Editorial Team"
