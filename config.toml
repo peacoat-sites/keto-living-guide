@@ -8,6 +8,13 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+hero_color_4 = "#020500"
+hero_color_3 = "#84cc16"
+hero_color_2 = "#081200"
+hero_color_1 = "#030800"
+primary_color = "#84cc16"
+logo_text_2 = "Living Guide"
+logo_text_1 = "Keto"
   description = "Your complete guide to ketogenic living — feal plans, recipes, science-backed tips, and everything you need to thrive on low-carb."
   niche = "Keto & Low-Carb Living"
   adsense_id = "ca-pub-3466203197759215"
