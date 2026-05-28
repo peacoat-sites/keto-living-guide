@@ -15,7 +15,7 @@ By accessing ketolivingguide.com (the "Site"), you agree to these Terms of Servi
 
 ## 1. Informational Purpose Only
 
-Content on this Site is for general informational and educational purposes only. It does not constitute professional advice ,  legal, financial, medical, or otherwise. Always consult a qualified professional for advice specific to your situation.
+Content on this Site is for general informational and educational purposes only. It does not constitute professional advice,  legal, financial, medical, or otherwise. Always consult a qualified professional for advice specific to your situation.
 
 ---
 
