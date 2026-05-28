@@ -37,11 +37,11 @@ You can disable cookies in your browser settings. Disabling advertising cookies 
 
 ## Third-Party Services
 
-**Google Analytics** — We use Google Analytics to understand site usage. It collects anonymized data via cookies. [Google's Privacy Policy](https://policies.google.com/privacy) | [Opt-out Add-on](https://tools.google.com/dlpage/gaoptout)
+**Google Analytics** ,  We use Google Analytics to understand site usage. It collects anonymized data via cookies. [Google's Privacy Policy](https://policies.google.com/privacy) | [Opt-out Add-on](https://tools.google.com/dlpage/gaoptout)
 
-**Google AdSense** — We display ads served by Google AdSense. Google uses the DoubleClick cookie to serve ads based on prior site visits. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI Opt-out](https://optout.networkadvertising.org/).
+**Google AdSense** ,  We display ads served by Google AdSense. Google uses the DoubleClick cookie to serve ads based on prior site visits. Opt out at [Google Ad Settings](https://www.google.com/settings/ads) or [NAI Opt-out](https://optout.networkadvertising.org/).
 
-**Amazon Associates** — We participate in the Amazon Associates Program. When you purchase through our links, we may earn a commission. [Amazon's Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+**Amazon Associates** ,  We participate in the Amazon Associates Program. When you purchase through our links, we may earn a commission. [Amazon's Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 
 ---
 
