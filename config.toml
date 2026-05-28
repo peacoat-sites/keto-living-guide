@@ -1,6 +1,7 @@
 baseURL = "https://ketolivingguide.com/"
 languageCode = "en-us"
 title = "Keto Living Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
