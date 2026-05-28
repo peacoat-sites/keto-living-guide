@@ -7,7 +7,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#fdf9f0"
+  page_bg = "#fdf8ef"
   nav_style = "light"
 logo_text_2 = "Living Guide"
 logo_text_1 = "Keto"
@@ -21,7 +21,7 @@ logo_text_1 = "Keto"
   author = "Keto Living Guide Editorial Team"
   logo_text = "Keto Living Guide"
   tagline = "Keto Made Simple"
-  primary_color = "#92400e"
+  primary_color = "#b45309"
   cloudflare_analytics = ""
 
   # Authority theme
