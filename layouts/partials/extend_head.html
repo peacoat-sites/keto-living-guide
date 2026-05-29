@@ -28,6 +28,18 @@
 </script>
 {{ end }}
 
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title | jsonify }},
+  "url": "{{ .Site.BaseURL }}",
+  "description": {{ .Site.Params.description | jsonify }}
+}
+</script>
+{{- end }}
+
 <!-- Schema Markup -->
 {{ if eq .Type "posts" }}
 <script type="application/ld+json">
@@ -45,7 +57,11 @@
     "@type": "Organization",
     "name": {{ .Site.Title | jsonify }}
   },
-  "url": "{{ .Permalink }}"{{ with .Params.image }},
+  "url": "{{ .Permalink }}",
+  "mainEntityOfPage": "{{ .Permalink }}",
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+  "wordCount": {{ .WordCount }}{{ if .Params.categories }},
+  "articleSection": {{ index .Params.categories 0 | title | jsonify }}{{ end }}{{ with .Params.image }},
   "image": {{ . | jsonify }}{{ end }}
 }
 </script>
