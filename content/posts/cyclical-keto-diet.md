@@ -1,6 +1,6 @@
 ---
 title: "Cyclical Keto Diet"
-date: 2026-05-29T21:51:17.207794+00:00
+date: 2026-05-21T04:16:57.661400+00:00
 draft: false
 description: "Discover how the cyclical keto diet works, its benefits for athletes and bodybuilders, and how alternating carb intake can boost performance while staying in ke"
 image: "https://images.pexels.com/photos/1305063/pexels-photo-1305063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

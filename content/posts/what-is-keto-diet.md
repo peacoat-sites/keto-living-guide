@@ -1,6 +1,6 @@
 ---
 title: "What Is Keto Diet"
-date: 2026-05-21T01:57:45.787511+00:00
+date: 2026-05-24T05:53:12.333989+00:00
 draft: false
 description: "Discover what the keto diet is, how it works, and its key benefits. Learn about foods to eat, avoid, and how this low-carb lifestyle can transform your health."
 image: "https://images.pexels.com/photos/7966386/pexels-photo-7966386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

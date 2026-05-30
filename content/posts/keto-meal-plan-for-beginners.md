@@ -1,6 +1,6 @@
 ---
 title: "Keto Meal Plan For Beginners"
-date: 2026-05-27T12:36:25.634448+00:00
+date: 2026-05-25T12:57:19.656061+00:00
 draft: false
 description: "Start your keto journey with our complete beginner meal plan. Learn easy recipes, macro ratios, and daily meal ideas to succeed on the ketogenic diet."
 image: "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

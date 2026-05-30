@@ -1,6 +1,6 @@
 ---
 title: "Keto For Women Over 40"
-date: 2026-05-21T04:17:07.180799+00:00
+date: 2026-05-29T14:30:55.256264+00:00
 draft: false
 description: "Discover how the keto diet can help women over 40 balance hormones, boost metabolism, lose weight, and feel their best through menopause and beyond."
 image: "https://images.pexels.com/photos/15641820/pexels-photo-15641820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

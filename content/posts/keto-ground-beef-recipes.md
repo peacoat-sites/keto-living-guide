@@ -1,6 +1,6 @@
 ---
 title: "Keto Ground Beef Recipes"
-date: 2026-05-26T12:23:23.277177+00:00
+date: 2026-05-28T01:44:17.385553+00:00
 draft: false
 description: "Discover delicious keto ground beef recipes for quick, low-carb meals. Easy ground beef dishes perfect for weight loss and ketogenic diets."
 image: "https://images.pexels.com/photos/34429593/pexels-photo-34429593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

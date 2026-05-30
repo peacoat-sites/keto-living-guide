@@ -1,6 +1,6 @@
 ---
 title: "Keto Bread Recipe"
-date: 2026-05-25T12:46:23.682149+00:00
+date: 2026-05-25T15:20:09.147337+00:00
 draft: false
 description: "Try this keto bread recipe for low-carb baking at home. Easy steps, simple ingredients, and delicious results. Perfect for your ketogenic diet goals."
 image: "https://images.pexels.com/photos/7936658/pexels-photo-7936658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

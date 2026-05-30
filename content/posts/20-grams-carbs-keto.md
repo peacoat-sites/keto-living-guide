@@ -1,6 +1,6 @@
 ---
 title: "20 Grams Carbs Keto"
-date: 2026-05-29T21:46:57.452815+00:00
+date: 2026-05-23T12:41:58.598913+00:00
 draft: false
 description: "Discover what 20 grams of carbs looks like on a keto diet, with food examples, tips, and a simple guide to staying in ketosis every day."
 image: "https://images.pexels.com/photos/5242266/pexels-photo-5242266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

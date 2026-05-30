@@ -1,6 +1,6 @@
 ---
 title: "Foods To Avoid On Keto"
-date: 2026-05-21T02:19:38.055566+00:00
+date: 2026-05-23T12:08:19.495491+00:00
 draft: false
 description: "Discover which foods to avoid on keto to stay in ketosis. Cut out sugar, grains, fruit, and starchy carbs to maximize fat burning and reach your health goals."
 image: "https://images.pexels.com/photos/20106930/pexels-photo-20106930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
