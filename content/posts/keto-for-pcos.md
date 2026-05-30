@@ -3,7 +3,7 @@ title: "Keto For Pcos"
 date: 2026-05-29T21:59:46.189621+00:00
 draft: false
 description: "Discover how the keto diet may help manage PCOS symptoms by balancing hormones, reducing insulin resistance, and supporting weight loss for better overall healt"
-image: ""
+image: "https://images.pexels.com/photos/19808820/pexels-photo-19808820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "PCOS"]
 author: "Maria Vasquez"

@@ -3,7 +3,7 @@ title: "Keto Vs Low Carb Difference"
 date: 2026-05-29T21:49:00.891316+00:00
 draft: false
 description: "Discover the key differences between keto and low carb diets. Learn which approach suits your health goals, how they affect the body, and which one delivers bet"
-image: ""
+image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "carb", "difference"]
 author: "Claire Novak"

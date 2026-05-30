@@ -3,7 +3,7 @@ title: "Keto And Cholesterol"
 date: 2026-05-29T22:02:03.721478+00:00
 draft: false
 description: "Discover how the keto diet affects cholesterol levels, including HDL, LDL, and triglycerides, and what the latest research says about heart health on keto."
-image: ""
+image: "https://images.pexels.com/photos/7965940/pexels-photo-7965940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "cholesterol"]
 author: "Dana Hargrove"
