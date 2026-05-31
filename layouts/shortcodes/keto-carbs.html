@@ -1,0 +1,37 @@
+{{/* Keto net-carb comparison table — renders site.Data.keto_foods (USDA FoodData Central).
+     Usage in any article:  {{< keto-carbs >}}   (optional category filter: {{< keto-carbs category="Vegetable" >}}) */}}
+{{ $data := site.Data.keto_foods }}
+{{ $filter := .Get "category" }}
+{{ if $data }}
+<div class="keto-table-wrap" style="margin:32px 0;overflow-x:auto;border:1px solid var(--border,#e7e5e4);border-radius:12px">
+  <table class="keto-table" style="width:100%;border-collapse:collapse;font-size:.92rem;min-width:520px">
+    <thead>
+      <tr style="background:var(--surface2,#f5f2ec);text-align:left">
+        <th style="padding:12px 16px;font-weight:700">Food</th>
+        <th style="padding:12px 10px;font-weight:700;text-align:center">Net Carbs</th>
+        <th style="padding:12px 10px;font-weight:700;text-align:center">Protein</th>
+        <th style="padding:12px 10px;font-weight:700;text-align:center">Fat</th>
+        <th style="padding:12px 10px;font-weight:700;text-align:center">Calories</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $data.foods }}
+      {{ if or (not $filter) (eq .category $filter) }}
+      {{ $c := .net_carbs }}
+      {{ $color := "#16a34a" }}{{ if gt $c 7.0 }}{{ $color = "#dc2626" }}{{ else if gt $c 3.0 }}{{ $color = "#d97706" }}{{ end }}
+      <tr style="border-top:1px solid var(--border,#e7e5e4)">
+        <td style="padding:11px 16px;font-weight:600">{{ .name }}<span style="display:block;font-size:11px;color:var(--muted,#78716c);font-weight:400">{{ .category }}</span></td>
+        <td style="padding:11px 10px;text-align:center"><span style="display:inline-block;min-width:46px;padding:3px 8px;border-radius:20px;background:{{ $color }}1a;color:{{ $color }};font-weight:700">{{ .net_carbs }}g</span></td>
+        <td style="padding:11px 10px;text-align:center;color:var(--muted,#57534e)">{{ .protein }}g</td>
+        <td style="padding:11px 10px;text-align:center;color:var(--muted,#57534e)">{{ .fat }}g</td>
+        <td style="padding:11px 10px;text-align:center;color:var(--muted,#57534e)">{{ if .calories }}{{ .calories }}{{ else }}—{{ end }}</td>
+      </tr>
+      {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+  <div style="padding:10px 16px;font-size:11px;color:var(--muted,#78716c);background:var(--surface2,#f5f2ec)">
+    {{ $data.basis }} · Net carbs = total carbs − fiber · Source: <a href="https://fdc.nal.usda.gov/" rel="nofollow noopener" target="_blank" style="color:inherit;text-decoration:underline">USDA FoodData Central</a>
+  </div>
+</div>
+{{ end }}
