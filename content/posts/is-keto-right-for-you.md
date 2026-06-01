@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is Keto Right for You? Take the 2-Minute Quiz"
 description: "Not sure if a ketogenic diet fits your lifestyle? Answer 7 quick questions to find out how well keto matches your habits, goals, and tastes."
 slug: "is-keto-right-for-you"
