@@ -10,6 +10,17 @@ author: "Tom Reyes"
 author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-diet-food-list"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I eat bread or pasta on keto?"
+    a: "Traditional bread and pasta are made from wheat flour, which is about 70 percent starch by weight. A single slice of sandwich bread has roughly 12 to 15 net carbs. That said, there are legitimate low-carb alternatives. Almond flour and coconut flour breads can be made or purchased with 2 to 4 net carbs per slice. Shirataki noodles (made from konjac) are essentially zero-carb and work surprisingly well as a pasta substitute in sauced dishes."
+  - q: "How do I know if a food will kick me out of ketosis?"
+    a: "There's no single food that permanently kicks you out, but anything that spikes blood insulin can temporarily suppress ketone production. The threshold varies by individual. Some people can handle 50 grams of net carbs and stay in mild ketosis. Others need to stay under 20 grams. If you want certainty, a blood ketone meter like the Keto-Mojo gives you actual data rather than guessing."
+  - q: "Are sweeteners allowed on keto?"
+    a: "Some are fine. Erythritol and allulose have minimal impact on blood sugar and insulin. Stevia and monk fruit are also well-tolerated. Avoid maltitol, which has a glycemic index nearly as high as table sugar despite being marketed as 'sugar-free.' The problem with sweeteners isn't always the carb count on paper. For some people, sweet tastes trigger cravings that derail adherence. Experiment and see how your body responds."
+  - q: "What about alcohol?"
+    a: "Pure spirits like vodka, whiskey, gin, and tequila have zero carbs. Dry wines have about 3 to 4 grams of carbs per 5-ounce glass. Beer is mostly too high, though some light lagers and hard seltzers fall in the 2 to 4 gram range. The real issue is that alcohol slows fat oxidation while your liver processes it, which can stall weight loss even when the carbs are low. An occasional drink rarely derails a well-established keto practice. Daily drinking might."
+  - q: "Do I need to buy special 'keto' products?"
+    a: "No. The 'keto' label on packaged foods often means little beyond a marketing charge. Most of what you need is whole food that has always been low-carb: meat, fish, eggs, cheese, vegetables, olive oil, butter. Some keto specialty products are genuinely useful, particularly almond flour, coconut flour, and erythritol for baking. But walking into a grocery store and buying real, unprocessed food is still the most effective, most affordable approach."
 ---
 
 Most people fail keto in the first two weeks not because the diet is too hard, but because they stood in the grocery store aisle completely lost. They grabbed a few avocados, some bacon, and a bag of almonds, then went home and ate an 80-gram carb dinner without realizing it. A reliable food list isn't just a shopping guide. It's the difference between actually entering ketosis and just eating a weird version of your old diet.

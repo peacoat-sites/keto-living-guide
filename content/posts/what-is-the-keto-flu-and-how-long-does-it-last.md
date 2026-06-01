@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-is-the-keto-flu-and-how-long-does-it-last"
 affiliate_disclosure: false
+faqs:
+  - q: "Can you speed up keto flu recovery?"
+    a: "Yes, meaningfully. Aggressive electrolyte replacement, especially sodium, shortens the acute phase for most people. Some clients I've worked with preloaded electrolytes in the two days before starting keto and had a noticeably milder transition. MCT oil, used in small doses initially to avoid GI distress, can also accelerate ketone availability and reduce brain fog during the gap between glucose depletion and efficient fat-burning. Sports Research MCT Oil is a clean option to start with. (The site may earn a commission.)"
+  - q: "Is keto flu a sign that keto is working?"
+    a: "Loosely, yes. You're experiencing symptoms because insulin is dropping and carbohydrates are genuinely depleted, which is the mechanism you're aiming for. But you shouldn't need to feel terrible to confirm it's working. A blood ketone meter gives you a direct readout. Most people reach nutritional ketosis (0.5-3.0 mmol/L) within 2-5 days of strict carbohydrate restriction."
+  - q: "Why do some people never get keto flu?"
+    a: "Several factors seem to reduce susceptibility. People who were already eating relatively low-carb have less glycogen to deplete and less dramatic insulin shifts. People who are very physically active often have better baseline electrolyte habits. Genetics likely plays a role in how efficiently individuals transition between fuel sources. If you sailed through, good, but don't assume everyone who struggles is doing something wrong."
+  - q: "Will keto flu come back if you cheat and restart?"
+    a: "Yes, typically. Every time you return to ketosis after a significant carbohydrate load, your body runs through the glycogen depletion and electrolyte shift again. The second or third time is often shorter and less severe since you know exactly what to do, but it's not free. This is one reason that planned carb cycling, rather than accidental cheating, makes the reentry less disruptive."
+  - q: "Can keto flu affect your sleep?"
+    a: "It can, and the mechanism is interesting. Carbohydrates support serotonin and melatonin synthesis, so people sometimes sleep worse in the first week or two on keto. Magnesium supplementation helps. So does keeping carb restriction to earlier in the day if you're doing carb cycling, or ensuring adequate calorie intake overall. Sleep disruption typically normalizes by weeks 2-3."
 ---
 
 You cut carbs four days ago. You feel like you've been hit by a slow-moving truck. Your head aches, your legs are heavy, and you're snapping at people who don't deserve it. You're wondering whether keto is actually working or actively trying to kill you.

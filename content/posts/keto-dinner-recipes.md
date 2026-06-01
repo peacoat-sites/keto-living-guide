@@ -10,6 +10,17 @@ author: "Jake Morrison"
 author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "keto-dinner-recipes"
 affiliate_disclosure: false
+faqs:
+  - q: "How many carbs should a keto dinner have?"
+    a: "Aim for 10-15 grams of net carbs per dinner at most. Net carbs are total carbohydrates minus fiber and (for some people) sugar alcohols. This leaves room in your daily budget for a keto breakfast, lunch, and any snacks while staying under the 20-50g daily threshold most people need to maintain ketosis."
+  - q: "Can I eat keto if my family doesn't?"
+    a: "Yes, and more easily than you'd think. Most keto dinners are naturally built around a protein that everyone eats. Make the ribeye for the table, serve pasta on the side for the kids, and roast asparagus in butter for yourself. The taco bowl recipe above is a perfect example: same seasoned beef for everyone, just swap the tortillas for lettuce."
+  - q: "What's the fastest keto dinner I can make on a busy night?"
+    a: "A sheet pan meal wins every time. Salmon fillets and broccoli at 400°F for 18-20 minutes is genuinely 25 minutes total including prep. Alternatively, a rotisserie chicken from the grocery store with a bag of pre-washed spinach wilted in butter takes less than 10 minutes. Don't let perfect be the enemy of fast."
+  - q: "Do I need MCT oil in my cooking?"
+    a: "You don't need it, but it has legitimate uses. MCT oil (medium-chain triglycerides, derived from coconut oil) is absorbed differently than most fats and converted to ketones quickly, which can help people transitioning into ketosis. Some clients add a tablespoon to a fat-based sauce or drizzle it over a salad. It has a neutral flavor in most forms. It's not magic, and it's not necessary, but it's a reasonable tool."
+  - q: "Will keto dinners leave me hungry later at night?"
+    a: "If you're eating enough fat and enough total calories, no. Hunger at night usually means one of three things: the dinner was too low in fat, total calories were too restricted, or electrolytes are low (which mimics hunger). A fat-forward dinner like crispy chicken thighs with creamed spinach or a ribeye with buttered asparagus should carry most people comfortably to the next morning. If it doesn't, a small snack of cheese, a hard-boiled egg, or a handful of macadamia nuts is entirely keto-compatible."
 ---
 
 Most people quit keto at dinner. Not at breakfast, when eggs are easy. Not at lunch, when a salad feels virtuous. It's the evening meal, when the family wants pasta and you're staring at a block of cheese wondering what exactly you're supposed to do with it, that breaks the streak. I've watched this happen with dozens of clients. The plan falls apart not because keto is too hard, but because nobody gave them a repertoire of real dinners that actually taste like dinner.

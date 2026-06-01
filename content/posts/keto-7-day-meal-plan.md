@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "keto-7-day-meal-plan"
 affiliate_disclosure: false
+faqs:
+  - q: "How many carbs per day does this meal plan stick to?"
+    a: "Every day in this plan is designed to stay under 25 grams of net carbs. Most days come in closer to 15-20 grams. Net carbs are calculated by subtracting fiber from total carbs, which is the number that actually matters for ketosis."
+  - q: "Can I swap meals around between days?"
+    a: "Absolutely. The days aren't interdependent except where one meal uses leftovers from the previous night's dinner (Days 2 and 7 do this). Swapping a Day 3 breakfast with a Day 6 breakfast, for example, has no effect on your results."
+  - q: "What if I'm not hungry for a snack?"
+    a: "Skip it. Keto tends to reduce hunger naturally once you're fat-adapted because fat and protein are more satiating than carbs. If you're genuinely not hungry, there's no rule that says you need to eat. Forcing food when you're not hungry just adds unnecessary calories."
+  - q: "Is this plan suitable for someone who's never done keto before?"
+    a: "Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our keto diet for beginners guide to understand the full framework. Knowing the 'why' behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate."
+  - q: "Will I actually lose weight in the first week?"
+    a: "Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal."
 ---
 
 Most people who try keto quit within the first week. Not because the diet doesn't work, but because they open the fridge on Monday morning with no plan, no prepped food, and no idea what to eat that isn't a bowl of cereal. That single moment of friction is enough to send them straight back to toast and orange juice. A solid 7-day meal plan removes that friction completely. You know exactly what to eat, you've already bought the groceries, and you're not standing in the kitchen at 7am making decisions you're not ready to make.

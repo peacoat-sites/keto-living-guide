@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "20-grams-carbs-keto"
 affiliate_disclosure: false
+faqs:
+  - q: "Is 20 grams net carbs or total carbs?"
+    a: "Standard keto practice counts net carbs, which is total carbohydrates minus dietary fiber and, in most approaches, minus sugar alcohols like erythritol that have minimal blood glucose impact. Some people, particularly those with stalled weight loss or significant insulin resistance, choose to count total carbs instead. Total carb counting eliminates any ambiguity about fiber sources and can be useful if you're not seeing expected results on net carbs. Neither approach is universally correct. Try net carbs first; switch to total if you're not progressing."
+  - q: "Why am I not in ketosis even though I'm eating under 20 grams?"
+    a: "Several things can interfere. High protein intake can raise blood glucose through gluconeogenesis, though this is often less significant than people fear. Hidden carbs in sauces, dressings, and processed foods are a more common culprit. Stress and poor sleep raise cortisol, which raises blood glucose. Some medications affect glucose metabolism. And urine ketone strips become unreliable after the first few weeks of adaptation as your kidneys excrete fewer ketones. Switch to a blood ketone meter for accurate readings before concluding something is wrong."
+  - q: "Can I do keto at 30 or 40 grams instead of 20?"
+    a: "Yes, and for many adapted individuals this works fine. The 20-gram threshold is most important during the initial transition into ketosis. Once you're metabolically adapted, a higher carb ceiling often maintains ketosis depending on your individual metabolism and activity level. Use ketone testing to verify rather than assuming."
+  - q: "Does exercise change how many carbs I can eat on keto?"
+    a: "It can. Muscle glycogen depletion from exercise creates more room for dietary carbohydrates before you overflow into glucose-fueled metabolism. This is the principle behind targeted ketogenic diets (TKD), where small carb amounts are consumed around workouts. Athletes doing significant endurance or resistance training often find they can sustain ketosis at higher carb intakes than sedentary individuals. The effect is real but the magnitude varies considerably between people."
+  - q: "What happens if I go over 20 grams one day?"
+    a: "Probably not much, especially if you're already adapted. A single excess will temporarily reduce ketone production, but a metabolically adapted person typically returns to ketosis within 24 hours. The disruption is more significant during the initial weeks of adaptation. Persistent daily overages above your personal threshold will impair ketosis long-term. One bad day won't derail weeks of progress."
 ---
 
 Most people starting keto land on 20 grams of net carbs per day because someone told them to. A blog post, a Reddit thread, a friend who lost 40 pounds. And it works, at least at first, so nobody asks where the number actually came from. What surprises me, even after years of working with clients on this, is how few people understand *why* 20 grams became the default, what the research actually says about it, and whether that specific number is doing them any favors or just creating unnecessary misery.

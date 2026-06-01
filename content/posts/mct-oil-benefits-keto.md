@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "mct-oil-benefits-keto"
 affiliate_disclosure: false
+faqs:
+  - q: "Does MCT oil break a fast?"
+    a: "Technically, MCT oil contains calories, so it does break a strict fast. But in practice, because it doesn't significantly raise insulin levels and it actively promotes ketone production, most people using MCT oil during intermittent fasting find it doesn't impair the metabolic benefits they're after. If your goal is cellular autophagy, be more conservative. If your goal is fat burning and ketone elevation, MCT oil during a fast is generally fine."
+  - q: "How long does it take to feel the effects of MCT oil?"
+    a: "Most people notice elevated energy and mental clarity within 30 to 90 minutes of taking MCT oil. Blood ketone levels can rise measurably within that window. The effect is most pronounced in the morning when liver glycogen is lower."
+  - q: "Can you take MCT oil if you're not doing keto?"
+    a: "Yes, and some people do. MCT oil can raise ketones even in the absence of a low-carb diet, though the effect is smaller and shorter-lived when glycogen stores are full. Athletes sometimes use MCT oil for quick fuel during training. That said, the benefits are most significant on a keto background."
+  - q: "What's the best time of day to take MCT oil?"
+    a: "Morning is most popular and most effective for cognitive benefits. Taking it with your first meal or in coffee helps you start the day with elevated ketone levels. A mid-day dose can help with the afternoon energy dip some people experience. Avoid taking it close to bedtime for some people it can cause restlessness or GI discomfort overnight."
+  - q: "Is MCT oil safe long-term?"
+    a: "Current research doesn't flag long-term MCT oil use as harmful for healthy adults. It's been studied for decades in the context of medical nutrition therapy for conditions like epilepsy and malabsorption syndromes. The main thing to watch is calorie density. If you're adding it liberally without adjusting elsewhere, it can contribute to a calorie surplus over time. Used mindfully, it's considered safe and beneficial."
 ---
 
 Picture this: it's 7 a.m., day four of your keto diet, and you're dragging yourself to the kitchen wondering why you don't feel the mental clarity everyone promised. You've been eating the right foods, keeping carbs under 20 grams, but something still feels off. A lot of people in that exact spot get told to "add MCT oil." But nobody explains *why* it works, how much to use, or what it actually does inside your body. That gap is what this article closes.

@@ -10,6 +10,17 @@ author: "Jake Morrison"
 author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "how-fast-keto-weight-loss"
 affiliate_disclosure: false
+faqs:
+  - q: "How much weight can I expect to lose in the first month of keto?"
+    a: "A realistic range for the first month is 8 to 15 pounds, though this varies widely. The first week typically accounts for 3 to 8 pounds of water weight. After that, genuine fat loss of 1 to 2 pounds per week is achievable with a proper caloric deficit. If you're losing more than 2 pounds per week after the first two weeks, you're likely in too aggressive a deficit, which can cause muscle loss and metabolic adaptation."
+  - q: "Does keto make you lose weight faster than a regular low-calorie diet?"
+    a: "Short-term, yes. The water weight drop creates faster initial loss. Over 12 months, most controlled studies show keto and low-fat diets converge to similar fat loss results when calories are matched. Where keto has a real edge is satiety: many people find it easier to maintain a deficit without feeling deprived, which leads to better long-term adherence. The best diet is the one you'll actually stick to."
+  - q: "Can I add MCT oil to speed up fat loss?"
+    a: "MCT oil, particularly C8 caprylic acid, raises ketone levels and may increase fat oxidation slightly. The evidence for meaningful weight loss acceleration is modest, but some people find it useful for managing hunger and boosting energy during the adaptation phase. Start with one teaspoon per day to avoid digestive upset and work up from there. Sports Research MCT Oil is a solid option. (This site may earn a commission on qualifying purchases.)"
+  - q: "Why did I gain weight after starting keto, even though I'm following it correctly?"
+    a: "If you're gaining in the first week, you likely haven't fully depleted your glycogen stores yet, or you may have increased calorie intake without realizing it. Fat is calorie-dense, and portions matter. If you're gaining after a month of keto, check total calories first. After that, look at whether any medical factors like thyroid dysfunction or PCOS might be playing a role. These conditions genuinely affect weight loss and are worth discussing with your doctor."
+  - q: "How do I know if I'm actually in ketosis?"
+    a: "The most accurate at-home method is a blood ketone meter. Nutritional ketosis is generally defined as blood ketone levels between 0.5 and 3.0 mmol/L. Urine strips are cheaper but less reliable after the first few weeks because your body gets better at using ketones rather than excreting them. Breath meters fall somewhere in between. Symptoms like reduced hunger, mental clarity, and a slightly metallic or fruity taste in the mouth are common early signs, but they're not a reliable long-term indicator."
 ---
 
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.

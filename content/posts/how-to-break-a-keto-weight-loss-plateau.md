@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-break-a-keto-weight-loss-plateau"
 affiliate_disclosure: false
+faqs:
+  - q: "How long should I try one change before concluding it isn't working?"
+    a: "Give any single intervention at least two weeks before judging it. The scale responds to water fluctuations, hormonal cycles, and digestive contents in ways that make a one-week read useless. If you're changing multiple variables simultaneously, you'll never know what actually worked. Change one thing, wait two weeks, evaluate, then adjust."
+  - q: "Should I try a 'keto cheat day' to break a plateau?"
+    a: "A deliberate, controlled diet break at maintenance calories is backed by some research. A cheat day involving pizza and ice cream is not the same thing. It spikes insulin, kicks you out of ketosis, takes 2 to 4 days to return to fat-burning mode, and typically sets back any progress the week before. If you want the physiological benefit of a diet break, do it with real food at maintenance macros, not a free-for-all."
+  - q: "I'm losing inches but not weight. Is that a plateau?"
+    a: "No. Body recomposition, losing fat while maintaining or gaining lean mass, is real and it's a better outcome than the scale dropping. If your clothes are fitting differently, your measurements are changing, or your strength is improving, you're making progress. The scale measures total mass, including muscle, fat, water, food in transit, and bone. Treat it as one data point among several, not the final word."
+  - q: "Could a medical issue be causing my plateau?"
+    a: "Yes, and it's worth taking seriously if you've audited your intake rigorously and made reasonable changes with no response over 4 to 6 weeks. Hypothyroidism, polycystic ovary syndrome (PCOS), insulin resistance beyond typical, and elevated cortisol from adrenal dysfunction can all impair fat loss significantly. A basic panel with your doctor, including TSH, free T3, fasting insulin, and cortisol, can rule these in or out. Working with a registered dietitian alongside your physician is advisable if you suspect something clinical is in play."
+  - q: "Is it possible I've just reached my body's natural set point?"
+    a: "Possibly. The concept of a set point, your body defending a particular weight range by adjusting hunger hormones and metabolic rate, is real and not fully understood. If you've lost a significant amount of weight and are near a healthy body fat range, your body will resist further loss more actively. At some point, the goal shifts from losing weight to maintaining a healthy composition. That's not failure. That's biology."
 ---
 
 You've been strict. You've logged every gram. The scale hasn't moved in three weeks. If you're reading this because that's exactly where you are right now, the frustrating truth is that most of the advice you'll find online will tell you to "trust the process" or add more butter to your coffee. Neither actually solves anything.

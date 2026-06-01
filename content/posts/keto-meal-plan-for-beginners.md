@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "keto-meal-plan-for-beginners"
 affiliate_disclosure: false
+faqs:
+  - q: "How much weight can I lose in the first week on keto?"
+    a: "Most beginners lose between 2 and 10 pounds in the first week, but the majority of that is water weight. As glycogen depletes, water that was stored with it exits your body. Real fat loss typically starts showing up from week 2 onward. Our article on how fast keto weight loss happens breaks down realistic expectations by week and month."
+  - q: "Can I drink coffee or alcohol on this meal plan?"
+    a: "Black coffee is fine and won't affect ketosis. Bulletproof coffee, made with butter and MCT oil, is a popular option that also adds fat to your morning. Alcohol is trickier. Dry wines and spirits like vodka or whiskey have minimal carbs, but alcohol itself slows fat burning temporarily. For beginners, it's best to skip it for the first two weeks while your body is adapting."
+  - q: "Do I need to count calories on keto?"
+    a: "Not necessarily, especially in the beginning. Keto is naturally satiating because fat and protein keep hunger at bay for longer than carbohydrates do. That said, if you're not seeing progress after 3-4 weeks, a calorie audit is a useful troubleshooting step."
+  - q: "What do I do if I accidentally eat too many carbs?"
+    a: "Don't panic. You're not starting over from zero. Get back on plan at your next meal. If you ate a significant amount, drinking extra water, doing some light exercise, and going to bed a little hungry can help your body return to ketosis faster. One slip doesn't erase progress."
+  - q: "Is this meal plan safe for people with diabetes or insulin resistance?"
+    a: "Ketogenic diets have shown real promise for improving insulin sensitivity and blood sugar regulation. Many people with Type 2 diabetes use it successfully. However, if you're on medication for diabetes, insulin especially, you need to involve your doctor before starting. Carb reduction can change your medication needs quickly, and adjustments may be required. Our deep-dive on keto and insulin resistance is worth reading if this applies to you."
 ---
 
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.

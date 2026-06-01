@@ -10,6 +10,17 @@ author: "Tom Reyes"
 author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-plateau-weight-loss"
 affiliate_disclosure: false
+faqs:
+  - q: "How long does a keto plateau typically last?"
+    a: "For most people, a plateau lasts 2 to 6 weeks before the body adjusts or before a dietary tweak breaks it. If you've been genuinely stuck for more than 8 weeks with no change in measurements or body composition, that's a signal to reassess your approach more substantially, not give up on keto entirely."
+  - q: "Can I be in ketosis and still not lose weight?"
+    a: "Yes, absolutely. Ketosis means your body is using fat as its primary fuel source, but if you're consuming more fat than your body needs, it burns dietary fat preferentially and spares body fat. Weight loss still requires a calorie deficit. Ketosis creates conditions that make that deficit easier to maintain, but it doesn't make calorie balance irrelevant."
+  - q: "Should I test my ketone levels during a plateau?"
+    a: "It can be useful, mostly to confirm you're actually in ketosis and not experiencing carb creep. Blood ketone meters like the Keto-Mojo GK+ Monitor are the most accurate option. Nutritional ketosis is generally 0.5 to 3.0 mmol/L. Chasing very high ketone levels doesn't correlate with better fat loss, so use testing as a diagnostic tool, not a goal in itself. (This site may earn a commission on qualifying purchases.)"
+  - q: "Is a weight loss plateau on keto different from one on a regular diet?"
+    a: "Mechanistically, the underlying causes are similar: metabolic adaptation, calorie creep, reduced activity. Where keto differs is that dropping below your carb threshold and managing hidden carbs adds an extra variable. On a standard diet, you don't have the ketosis factor to consider. Keto-specific triggers like consuming too much dietary fat or using keto processed foods can stall progress in ways that don't apply to other diets."
+  - q: "Do I need to 'cycle' off keto to break a plateau?"
+    a: "Not necessarily. A structured carb refeed day (as described above) can provide metabolic benefit without abandoning keto long-term. True cyclical keto, where you do 5 days low-carb and 2 days higher-carb, works well for some people, particularly athletes who need glycogen for performance. But it's not a requirement for everyone hitting a plateau. Simpler fixes like calorie auditing and protein adjustment should come first."
 ---
 
 You've been strict with your macros for weeks. The scale moved fast at first, maybe 8 or 10 pounds in the first month, and you were feeling unstoppable. Then, nothing. A week goes by. Two weeks. The number on the scale just sits there, staring back at you like it's personally offended by your discipline. You haven't cheated. You're still eating under 20 grams of carbs a day. So what gives? You've hit a keto plateau, and you're far from alone. It happens to nearly everyone who follows a low-carb diet long enough, and the reasons behind it are more nuanced than most people realize.

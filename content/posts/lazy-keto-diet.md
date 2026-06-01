@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "lazy-keto-diet"
 affiliate_disclosure: false
+faqs:
+  - q: "Will lazy keto still put me in ketosis?"
+    a: "For many people, yes. Keeping net carbs under 20-30 grams is the primary trigger for ketosis, and lazy keto preserves that limit. The variable is protein. If you're eating very high protein without tracking, you may notice lower ketone readings. That doesn't automatically mean you're not burning fat, but it's worth checking if results have stalled."
+  - q: "Can I lose weight on lazy keto without tracking calories?"
+    a: "Some people do, particularly those who find protein and fat naturally satiating and aren't prone to overeating on keto foods. Others find that without calorie awareness, they eat at a surplus and don't lose weight despite staying low-carb. There's no universal answer. If you've been at it for six or more weeks with no movement on the scale, a temporary calorie check is worth doing before changing anything else."
+  - q: "How is lazy keto different from 'dirty keto'?"
+    a: "Lazy keto is about simplifying what you track. Dirty keto is about not caring where your carbs come from, so processed meats, fast food, and keto junk food all qualify as long as the macros fit. You can do lazy keto with whole foods. Dirty keto specifically deemphasizes food quality. They overlap sometimes but aren't the same thing."
+  - q: "Do I need ketone strips on lazy keto?"
+    a: "They're not required, but they're useful early on. A pack of urine ketone strips is inexpensive and gives you a rough confirmation that your carb ceiling is working. Blood ketone meters are more accurate but overkill for most people doing lazy keto for general health and weight loss. Use strips for a few weeks to calibrate, then stop if you want."
+  - q: "What are the most common reasons lazy keto stops working?"
+    a: "Three patterns come up repeatedly. One: carb creep, where portion sizes and hidden carbs slowly push you over your daily limit without you noticing. Two: protein displacement, where you're eating enough protein that your fat intake is relatively low and ketosis is inconsistent. Three: caloric surplus, eating more total food than your body needs even if every choice is low-carb. A three-day food log usually identifies which one is happening."
 ---
 
 You've been tracking every gram of food for three weeks. Carbs, fat, protein, fiber, net carbs, calories. Your phone is full of barcode scans and your lunch break disappears into MyFitnessPal. You're doing everything right, and you're exhausted by it. If that sounds familiar, lazy keto exists for a reason, and it works better than most strict-keto advocates want to admit.

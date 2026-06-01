@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "cyclical-keto-diet"
 affiliate_disclosure: false
+faqs:
+  - q: "Will I gain fat on refeed days?"
+    a: "You'll likely see the scale go up by 1-3 pounds after a refeed, but most of that is glycogen and the water stored with it (roughly 3 grams of water per gram of glycogen), not fat. Actual fat gain from a single high-carb day requires a significant caloric surplus. Keep the refeeds mostly whole-food carbohydrates, keep fat intake lower on those days, and the weight typically drops back within a day or two of returning to keto."
+  - q: "How do I know if I'm back in ketosis after a refeed?"
+    a: "The most reliable method is a blood ketone meter targeting levels above 0.5 mmol/L. Most people return to measurable ketosis within 24-48 hours of resuming strict keto, especially if they exercised during or after the refeed. Some people feel the shift subjectively through mental clarity and reduced hunger. Both signals matter, but the meter gives you certainty."
+  - q: "Can I do CKD without exercising heavily?"
+    a: "You can, but the case for it gets weaker. The primary rationale for carbohydrate refeeds is glycogen replenishment for athletic performance and supporting hormonal signaling under prolonged caloric restriction. If you're sedentary or only doing light activity, standard keto or targeted keto (small carbs around workouts only) is likely a better fit."
+  - q: "How long should I do standard keto before trying CKD?"
+    a: "I generally recommend at least 8-12 weeks of consistent standard keto first. You want to be genuinely fat-adapted, comfortable with the dietary habits, and clear on why you're considering CKD before adding complexity. Jumping to cyclical keto too early usually means you're troubleshooting two things at once."
+  - q: "Are there people who should avoid CKD entirely?"
+    a: "Yes. People managing epilepsy with ketosis, those with type 1 or type 2 diabetes (especially on insulin or certain medications), anyone with a history of disordered eating, and people with known metabolic disorders should consult their healthcare provider before experimenting with carb cycling. The periodic high-carbohydrate intake introduces variables that can have real clinical consequences in those situations."
 ---
 
 You've been strict keto for three months. The weight was moving, you felt sharper, and you'd finally figured out what to eat. Then came the plateau, the fatigue during workouts, and honestly, the growing exhaustion of saying no to everything. You're not failing. You might just be ready for a more advanced approach.

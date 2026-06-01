@@ -10,6 +10,17 @@ author: "Dr. Maya Chen"
 author_bio: "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."
 slug: "keto-for-women-over-40"
 affiliate_disclosure: false
+faqs:
+  - q: "Will keto mess with my thyroid?"
+    a: "Possibly, if you go very low calorie at the same time. The research shows that very-low-carbohydrate diets can lower T3 in some people, but the effect is modest in most and often resolves with adequate calories and protein. If you have a diagnosed thyroid condition, get a baseline thyroid panel before starting, and retest at 90 days. Don't rely on how you feel alone."
+  - q: "How long until I see results?"
+    a: "Most women lose water weight in the first week, sometimes 4 to 8 pounds, which is glycogen depletion, not fat. True fat loss typically becomes measurable by weeks 3 to 6. If you're postmenopausal, the adaptation phase can take longer. Give it a minimum of 90 days with consistent tracking before evaluating whether keto is working for you."
+  - q: "Can I do keto if I'm on hormone replacement therapy (HRT)?"
+    a: "Yes, and for many women, the combination works well. HRT improves insulin sensitivity and preserves lean mass, which means keto's metabolic benefits may be even more pronounced. There are no known interactions between a ketogenic diet and standard HRT formulations. Discuss with your prescribing physician if you have specific concerns."
+  - q: "I keep stalling after the first month. What's wrong?"
+    a: "Stalls are almost always one of four things: too many carbs sneaking in (sauces, dressings, protein bars), too much protein converting to glucose via gluconeogenesis, too little protein causing muscle loss, or a caloric surplus from fat. Track everything for one week with an app like Cronometer and look for the leak. Also check your sleep and stress levels. Both can stall fat loss without a single dietary change."
+  - q: "Do I need to exercise on keto, or will the diet do the work alone?"
+    a: "Keto alone will produce fat loss, but strength training is the single best investment a woman over 40 can make for her long-term health and body composition. Muscle is metabolically active tissue. It improves insulin sensitivity, raises your resting metabolic rate, and protects against osteoporosis. Aim for two to three resistance training sessions per week. You don't need intense cardio; walks, lifting, and yoga are all compatible with keto."
 ---
 
 You're eating fewer than 1,400 calories a day, you cut out bread and pasta months ago, and the scale hasn't moved in six weeks. Sound familiar? For a lot of women in their 40s and 50s, this is the frustrating reality: the strategies that worked at 28 simply don't work anymore. And it's not a willpower problem. It's biology.

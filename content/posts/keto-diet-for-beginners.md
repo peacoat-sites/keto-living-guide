@@ -10,6 +10,17 @@ author: "Dr. Maya Chen"
 author_bio: "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."
 slug: "keto-diet-for-beginners"
 affiliate_disclosure: false
+faqs:
+  - q: "How long does it take to get into ketosis?"
+    a: "Most people reach measurable nutritional ketosis (above 0.5 mmol/L) within 2 to 4 days of eating under 20 grams of net carbs. Exercise speeds this up by depleting glycogen faster. Eating a heavy carb meal the day before you start does not help, despite what you may have read. Just start."
+  - q: "Will keto destroy my cholesterol levels?"
+    a: "This is one of the most common fears, and the answer is more nuanced than a yes or no. Most people see LDL particle size increase (larger particles are less associated with cardiovascular risk), HDL cholesterol rise, and triglycerides drop significantly. Some individuals, a group sometimes called 'lean mass hyper-responders,' see LDL rise substantially. If you have existing cardiovascular risk factors, get a baseline lipid panel before starting and retest after 3 months. Don't self-diagnose based on a basic cholesterol number alone."
+  - q: "Can I drink alcohol on keto?"
+    a: "Some alcohol is workable. Dry wines (pinot noir, sauvignon blanc, brut champagne) have roughly 2 to 4 grams of carbs per glass. Spirits like whiskey, vodka, tequila, and gin have zero carbs straight. The real issue is that alcohol pauses ketone production while your liver processes it, and it tends to lower inhibitions around food choices. Beer is almost always too high in carbs. If you drink, drink dry, drink less than usual, and be honest about how it affects your progress."
+  - q: "Do I need to count calories on keto?"
+    a: "Not necessarily, at least not at the start. One of keto's genuine advantages is appetite suppression. Many people eat at a natural caloric deficit because fat and protein are satiating. If you've been on keto for 6 to 8 weeks and weight loss has completely stalled, that's the time to track calories for a week or two and see what's happening. Nuts, cheese, and heavy cream are the usual culprits when calories creep up invisibly."
+  - q: "Is keto safe if I have type 2 diabetes?"
+    a: "Keto can be remarkably effective for type 2 diabetes management, with some clinical trials showing significant reductions in HbA1c and medication requirements. It's also a situation where medical supervision is non-negotiable. If you're on insulin or sulfonylureas, your medication needs can drop quickly as blood sugar improves, and without adjustment you risk hypoglycemia. Talk to your doctor before starting. If your doctor dismisses the question entirely without engaging with the research, it may be worth seeking a second opinion from someone with a background in metabolic health."
 ---
 
 Most people who start keto quit within the first week. Not because the diet doesn't work, but because they feel absolutely terrible and have no idea why. The headache hits on day two. By day four, their legs feel like concrete. They're irritable, exhausted, and wondering if they've made a terrible mistake. Here's the thing: that suffering is real, but it's also almost entirely preventable if you know what's actually happening inside your body and what to do about it.

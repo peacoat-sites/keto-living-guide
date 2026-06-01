@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-fruit-list"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I eat fruit and still stay in ketosis?"
+    a: "Yes, with the right choices and portions. Berries, avocado, and small amounts of other low-carb fruits can fit within a 20-50g daily net carb budget without knocking you out of ketosis. The key variables are which fruit, how much, and what else you've eaten that day. Everyone's carb tolerance is slightly different, and if you're unsure about your personal response, testing with a blood ketone meter gives you real information rather than guesswork."
+  - q: "Are tomatoes and cucumbers keto-friendly?"
+    a: "Botanically, yes, both are fruits. Nutritionally, they're excellent keto choices. A medium tomato has about 3.5g net carbs. A cup of sliced cucumber has roughly 2g net carbs. Both are used more like vegetables in cooking, which is why they often get left off keto fruit lists, but they deserve a mention because they're genuinely useful for adding volume and freshness without significant carbs."
+  - q: "Why do some keto sources say blueberries are fine and others say avoid them?"
+    a: "Because 'keto' is not one fixed protocol. Someone doing strict therapeutic keto at 20g net carbs per day has almost no room for blueberries. Someone doing a more flexible low-carb approach at 50g per day can have a quarter-cup without issue. Both people might be calling what they do 'keto.' When you see conflicting advice, check the carb threshold the source is working with. That resolves most of the apparent contradiction."
+  - q: "Does fruit sugar behave differently than added sugar on keto?"
+    a: "Fructose is fructose at the molecular level, whether it comes from fruit or a soda. The difference is that whole fruit comes with fiber, water, and micronutrients that slow absorption and provide nutritional value you don't get from refined sugar. That matters for health generally, but it doesn't mean fruit sugar is metabolically invisible on a ketogenic diet. The fiber matters for net carb calculations, but the fructose still affects liver glycogen. Fruit is a better source of sweetness than candy. It's not a free pass."
+  - q: "What's the best fruit to add back first when transitioning off strict keto?"
+    a: "Berries first, every time. They have the lowest net carbs, the highest fiber ratio, and strong nutritional value. After berries, stone fruits like peaches and plums are reasonable second choices if portions are controlled. Hold off on grapes, mangoes, and bananas until you're clearly in a maintenance or carb-cycling phase and understand how your body responds to higher carb loads."
 ---
 
 You pick up a peach at the farmers market, and for a second you think: *it's fruit, it's natural, it can't be that bad.* Then you get home, look it up, and find out one medium peach has 13 grams of net carbs. On a strict keto diet, that's most of your daily carb budget in a single piece of fruit. Natural doesn't mean low-carb, and this is where a lot of people quietly blow their macros without realizing it.

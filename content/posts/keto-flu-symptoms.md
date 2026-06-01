@@ -10,6 +10,17 @@ author: "Tom Reyes"
 author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-flu-symptoms"
 affiliate_disclosure: false
+faqs:
+  - q: "How do I know if what I'm feeling is keto flu or something more serious?"
+    a: "Keto flu symptoms are predictable and tied directly to carb reduction. They show up within the first 1 to 4 days of starting keto, peak in intensity around days 2 to 4, and should improve noticeably by day 7 to 10. If you have a fever, severe vomiting, chest pain that doesn't resolve with electrolytes, or symptoms that are getting worse after two weeks, those are reasons to see a doctor. Heart palpitations that persist despite good sodium and magnesium intake also warrant a checkup."
+  - q: "Can I prevent keto flu entirely?"
+    a: "You can reduce its severity significantly, though some people will feel it no matter what. Starting electrolyte supplementation on day one rather than waiting for symptoms, transitioning gradually by cutting carbs over a week instead of overnight, and maintaining adequate fat and calorie intake all make a real difference. Some people with already low carb diets experience almost nothing when they make the full switch to keto."
+  - q: "Will exercise help or hurt during keto flu?"
+    a: "Light movement is fine and may actually help clear glycogen stores faster, potentially shortening the transition. High-intensity exercise during the first week typically worsens symptoms by accelerating electrolyte loss and stressing a body that's already under metabolic pressure. Save intense training for week two or later."
+  - q: "Do I have to supplement electrolytes forever on keto?"
+    a: "Not necessarily in supplement form, but you'll need more electrolytes than the average person indefinitely, because the kidneys continue excreting more sodium on a low-insulin diet. Most people who are fully fat-adapted find they can meet their needs through food, such as salting liberally, eating avocados and leafy greens, and drinking broth regularly, without relying on supplements. During hot weather or heavy exercise, the equation shifts and supplementation becomes useful again."
+  - q: "Is keto flu worse the second time you do keto?"
+    a: "It can be, if you had a full return to high-carb eating between attempts. Your body has to go through the glycogen depletion and electrolyte flush again from scratch. The good news is that many people report their second transition is faster than their first, possibly because they know what to expect and handle electrolytes better from day one."
 ---
 
 You're three days into keto, you've eaten nothing but eggs, bacon, and salad, and you feel like you're coming down with the worst cold of your life. Your head is pounding, your legs feel like wet cement, and you snapped at your coworker over something you can't even remember. Congratulations. You almost certainly have the keto flu, and despite how miserable it feels right now, it's actually a sign that something real is happening in your body.
