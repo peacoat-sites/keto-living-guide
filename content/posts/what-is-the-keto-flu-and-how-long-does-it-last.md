@@ -3,7 +3,7 @@ title: "What Is The Keto Flu And How Long Does It Last"
 date: 2026-06-01T15:34:56.142176+00:00
 draft: false
 description: "Discover what keto flu is, why it happens when starting a ketogenic diet, and how long symptoms typically last, plus tips to reduce discomfort fast."
-image: ""
+image: "https://images.pexels.com/photos/8670205/pexels-photo-8670205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Ketosis"]
 tags: ["what", "keto", "long", "does", "last"]
 author: "Claire Novak"

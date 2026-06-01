@@ -3,7 +3,7 @@ title: "How To Break A Keto Weight Loss Plateau"
 date: 2026-05-30T10:57:17.765479+00:00
 draft: false
 description: "Stuck on a keto plateau? Discover proven strategies to break through stalled weight loss, from adjusting macros and calories to optimizing sleep and exercise ha"
-image: ""
+image: "https://images.pexels.com/photos/5714344/pexels-photo-5714344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Weight Loss"]
 tags: ["break", "keto", "weight", "loss", "plateau"]
 author: "Claire Novak"

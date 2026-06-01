@@ -1,5 +1,6 @@
 ---
 title: "Keto Food Database: Net Carbs in Common Foods"
+image: "https://images.pexels.com/photos/1484522/pexels-photo-1484522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Compare net carbs, protein, fat, and calories for common keto foods. Data sourced from the USDA FoodData Central database, updated monthly."
 slug: "keto-food-database"
 date: 2026-05-29T09:00:00+00:00
