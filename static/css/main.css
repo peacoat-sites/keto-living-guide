@@ -667,3 +667,31 @@ a     { color: inherit; text-decoration: none; }
   .carousel-body { padding: 18px 16px 50px; }
 }
 
+
+/* ── Hero carousel v2: enlarged, text shifted left, mobile-first ──── */
+.hero-split-inner {
+  max-width: 1460px;
+  grid-template-columns: 1fr 680px;
+  gap: 52px;
+  align-items: center;
+}
+.hero-split-text { padding-top: 0; }
+.hero-carousel { height: 540px; }
+.carousel-body { padding: 30px 32px 68px; }
+.carousel-title { font-size: 1.6rem; line-height: 1.2; }
+.carousel-cat  { font-size: 11px; }
+.carousel-meta { font-size: 13px; }
+.carousel-cta  { font-size: 13px; padding: 10px 20px; }
+/* arrows live in the upper image zone, clear of the bottom text overlay */
+.carousel-prev, .carousel-next { top: 38%; width: 42px; height: 42px; font-size: 24px; }
+
+@media (max-width: 900px) {
+  .hero-split { padding: 36px 16px 44px; }
+  .hero-split-inner { grid-template-columns: 1fr; gap: 22px; max-width: 600px; }
+  .hero-split-cards { order: -1; }        /* carousel is the first thing on mobile */
+  .hero-split-text  { order: 2; }
+  .hero-carousel { height: 400px; }
+  .carousel-title { font-size: 1.3rem; }
+  .carousel-prev, .carousel-next { top: 42%; }
+}
+
