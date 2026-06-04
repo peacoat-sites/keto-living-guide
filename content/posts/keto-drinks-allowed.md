@@ -3,7 +3,7 @@ title: "Keto Drinks Allowed"
 date: 2026-06-01T22:36:19.543012+00:00
 draft: false
 description: "Discover the best keto-friendly drinks to keep you in ketosis. From water and coffee to low-carb smoothies, learn what you can sip guilt-free on the keto diet."
-image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4113653/pexels-photo-4113653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "drinks", "allowed"]
 author: "Maria Vasquez"

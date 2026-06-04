@@ -3,7 +3,7 @@ title: "Keto Grocery List"
 date: 2026-05-25T13:58:54.757297+00:00
 draft: false
 description: "Stock your kitchen for keto success with this complete grocery list covering proteins, healthy fats, low-carb veggies, dairy, and pantry staples to keep you in "
-image: "https://images.pexels.com/photos/17597407/pexels-photo-17597407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3850662/pexels-photo-3850662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "grocery", "list"]
 author: "Dana Hargrove"

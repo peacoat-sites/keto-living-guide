@@ -3,7 +3,7 @@ title: "Lazy Keto Diet"
 date: 2026-05-21T13:30:23.363847+00:00
 draft: false
 description: "Discover how the lazy keto diet works, what you can eat, and how it differs from strict keto. A simple guide to effortless low-carb eating for beginners."
-image: "https://images.pexels.com/photos/1484522/pexels-photo-1484522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9213869/pexels-photo-9213869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["lazy", "keto", "diet"]
 author: "Claire Novak"

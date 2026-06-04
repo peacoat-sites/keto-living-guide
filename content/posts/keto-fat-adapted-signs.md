@@ -3,7 +3,7 @@ title: "Keto Fat Adapted Signs"
 date: 2026-06-01T22:38:38.539568+00:00
 draft: false
 description: "Discover the key signs you are fat adapted on keto, from steady energy and reduced hunger to better mental clarity and improved athletic performance."
-image: "https://images.pexels.com/photos/106877/pexels-photo-106877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "adapted", "signs"]
 author: "Dana Hargrove"

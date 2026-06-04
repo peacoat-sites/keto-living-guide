@@ -3,7 +3,7 @@ title: "Keto Diet Over 50"
 date: 2026-06-04T12:21:09.533397+00:00
 draft: false
 description: "Discover how the keto diet can transform your health after 50. Learn key tips, benefits, and potential risks to help you lose weight and boost energy safely."
-image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37416570/pexels-photo-37416570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "diet", "over"]
 author: "Maria Vasquez"

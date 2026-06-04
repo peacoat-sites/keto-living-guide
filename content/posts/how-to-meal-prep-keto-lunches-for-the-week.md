@@ -3,7 +3,7 @@ title: "How To Meal Prep Keto Lunches For The Week"
 date: 2026-05-31T11:08:41.608410+00:00
 draft: false
 description: "Plan a full week of keto lunches with ease. Discover simple meal prep tips, low-carb recipe ideas, and time-saving strategies to stay on track effortlessly."
-image: "https://images.pexels.com/photos/17597407/pexels-photo-17597407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9213888/pexels-photo-9213888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Meal Plans"]
 tags: ["meal", "prep", "keto", "lunches", "week"]
 author: "Dana Hargrove"

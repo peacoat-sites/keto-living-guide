@@ -3,7 +3,7 @@ title: "Keto Salmon Recipe"
 date: 2026-06-04T12:23:17.662673+00:00
 draft: false
 description: "Discover a delicious keto salmon recipe packed with healthy fats and bold flavors. Easy to make, low carb, and perfect for a satisfying weeknight dinner."
-image: "https://images.pexels.com/photos/793759/pexels-photo-793759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16845479/pexels-photo-16845479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "salmon", "recipe"]
 author: "Dana Hargrove"

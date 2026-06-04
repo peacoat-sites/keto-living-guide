@@ -3,7 +3,7 @@ title: "Is Keto Safe Long Term"
 date: 2026-06-02T15:48:22.233927+00:00
 draft: false
 description: "Wondering if keto is safe long term? Discover what research says about the risks, benefits, and expert recommendations for following a ketogenic diet over time."
-image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13376483/pexels-photo-13376483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "safe", "long", "term"]
 author: "Maria Vasquez"

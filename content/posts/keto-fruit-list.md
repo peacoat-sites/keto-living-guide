@@ -3,7 +3,7 @@ title: "Keto Fruit List"
 date: 2026-05-26T04:59:13.887947+00:00
 draft: false
 description: "Discover the best low-carb fruits for your keto diet. Our keto fruit list helps you enjoy sweet flavors while staying in ketosis and reaching your health goals."
-image: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3850610/pexels-photo-3850610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "fruit", "list"]
 author: "Claire Novak"
