@@ -104,7 +104,7 @@
         }
 
         var timer;
-        function resetTimer(){ clearInterval(timer); timer = setInterval(function(){ goTo(cur+1); }, 6000); }
+        function resetTimer(){ clearInterval(timer); timer = setInterval(function(){ goTo(cur+1); }, 8000); }
         document.getElementById('carousel-prev').addEventListener('click', function(){ goTo(cur-1); resetTimer(); });
         document.getElementById('carousel-next').addEventListener('click', function(){ goTo(cur+1); resetTimer(); });
         resetTimer();
