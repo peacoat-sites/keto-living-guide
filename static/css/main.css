@@ -695,3 +695,17 @@ a     { color: inherit; text-decoration: none; }
   .carousel-prev, .carousel-next { top: 42%; }
 }
 
+
+/* ── Hero carousel v3: bigger + fills the pane top-to-bottom ──────── */
+.hero-split { padding: 40px 24px 46px; }
+.hero-split-inner { grid-template-columns: 1fr 740px; gap: 56px; }
+.hero-carousel { height: 600px; box-shadow: 0 6px 40px rgba(0,0,0,0.16); }
+.carousel-title { font-size: 1.75rem; }
+.carousel-body { padding: 32px 34px 72px; }
+@media (max-width: 900px) {
+  .hero-split { padding: 28px 16px 36px; }
+  .hero-split-inner { gap: 20px; }
+  .hero-carousel { height: 440px; }
+  .carousel-title { font-size: 1.35rem; }
+}
+
