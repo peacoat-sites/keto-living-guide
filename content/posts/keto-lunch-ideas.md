@@ -6,8 +6,6 @@ description: "Discover delicious keto lunch ideas that are easy to prepare and p
 image: "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["recipes"]
 tags: ["keto", "lunch", "ideas"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-lunch-ideas"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Canned tuna, canned salmon, and hard-boiled eggs require minimal or zero cooking. Cheese-based plates, avocado with canned sardines, or a simple caprese salad (fresh mozzarella, tomato, olive oil, basil) are all low-effort, high-quality fat sources that don't require you to cook a protein from scratch."
   - q: "Can keto lunches help with afternoon energy crashes?"
     a: "Often, yes. The typical post-lunch energy slump is largely driven by a spike and drop in blood sugar, which carbohydrate-heavy meals trigger. A fat and protein-forward keto lunch produces a much flatter blood glucose response, which tends to mean steadier energy through the afternoon. Many people find this is one of the most noticeable early benefits of the diet."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Picture this: it's 12:30 pm, you're hungry, your coworkers are ordering pizza, and you're staring into the fridge wondering if string cheese and leftover chicken count as lunch. They do, technically. But you deserve better than that. Keto lunches are actually one of the easiest meals to nail once you shift away from the bread-and-sandwich mindset that most of us grew up with. The midday meal is where a lot of people quietly fall off the keto wagon, not because they lack willpower, but because they haven't built a go-to rotation of satisfying, practical options.

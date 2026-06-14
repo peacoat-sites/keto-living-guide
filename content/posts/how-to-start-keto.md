@@ -6,8 +6,6 @@ description: "Learn how to start keto with our beginner-friendly guide. Discover
 image: "https://images.pexels.com/photos/5898219/pexels-photo-5898219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["start", "keto"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "how-to-start-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The honest answer is: we have strong data out to about two years, and safety profiles look good for most healthy adults. Some studies show improvements in cardiovascular risk markers, particularly triglycerides and HDL. Others note that LDL cholesterol rises in some people. If you have a history of heart disease, kidney disease, liver conditions, or you're pregnant, talk to your doctor before starting. Keto can interact with diabetes medications, sometimes dramatically, so medication adjustments under medical supervision may be necessary."
   - q: "What do I do when weight loss stalls?"
     a: "Plateaus on keto usually come down to a few culprits. Calories crept up without you noticing. Carbs crept up without you noticing (this is the most common cause). Or you've simply lost enough that your maintenance calories have dropped and your current intake matches them. Start by accurately tracking everything for a week. Look for hidden carbs. If macros and calories look right, try adding a 16:8 intermittent fasting window. If the plateau persists beyond three to four weeks despite accurate tracking, it may be worth taking a one-week 'diet break' at maintenance calories before returning to"
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people quit keto within the first two weeks. Not because it doesn't work, but because they walk into it expecting the diet to feel like every other low-calorie plan they've tried, get blindsided by fatigue, headaches, and a general feeling of misery around day three, and assume they're doing something wrong. They're not. That misery has a name and a solution, and once you understand what's actually happening inside your body during those first days, starting keto stops feeling like a gamble and starts feeling like a plan.

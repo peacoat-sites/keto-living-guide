@@ -6,8 +6,6 @@ description: "Discover the best keto-friendly drinks to keep you in ketosis. Fro
 image: "https://images.pexels.com/photos/4113653/pexels-photo-4113653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "drinks", "allowed"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-drinks-allowed"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's no single number that applies to everyone. A reasonable starting point is half your body weight in ounces daily, more if you're active or in a warm climate. On keto specifically, given the water and electrolyte loss that comes with lower insulin levels, staying well-hydrated and supplementing electrolytes is genuinely more important than on a standard diet. Pale yellow urine is a practical target."
   - q: "Are energy drinks okay on keto?"
     a: "Some are, some aren't. Zero-sugar versions of drinks like Monster or Bang are technically zero carbs, but they often contain high doses of caffeine and other stimulants that may not be appropriate for everyone. The original, full-sugar versions of most energy drinks have 25 to 30 grams of carbs per can. Always check the label. If you're sensitive to stimulants or have any cardiovascular concerns, talking to your doctor before relying on energy drinks daily is a reasonable precaution."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. This moment, which I've heard described by clients more times than I can count, reveals something most keto guides skip over: drinks can make or break your carb count in ways that feel invisible until they don't.

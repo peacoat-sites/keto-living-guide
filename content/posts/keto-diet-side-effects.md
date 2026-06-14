@@ -6,8 +6,6 @@ description: "Discover the most common keto diet side effects, from keto flu to 
 image: "https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "side", "effects"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "keto-diet-side-effects"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some people report feeling colder than usual, especially in the first month. A few things may be happening: lower caloric intake reduces thermogenesis, and mild thyroid T3 downregulation (the conversion of T4 to active T3 can dip temporarily with very low carbohydrate intake) affects body temperature regulation. If persistent coldness is accompanied by hair loss, constipation not explained by low fiber, and fatigue beyond the keto flu window, get your thyroid panel checked."
   - q: "Do these side effects mean keto isn't working?"
     a: "No. The keto flu specifically is almost a sign that you've cut carbs enough to trigger the metabolic shift. Think of it as your body complaining about change, not about harm. Manage your electrolytes, don't restrict calories aggressively in week one, and give yourself the two-week grace period before making a verdict."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You started keto on Monday. By Wednesday you feel like you got hit by a bus. Your head is pounding, your legs are heavy, and you're so foggy you had to read the same email three times. You're ready to quit. Before you do, here's what you need to know: what you're experiencing has a name, it has a cause, and for most people, it passes within a week. The side effects of keto are real, but they're also largely manageable once you understand what's actually happening inside your body.

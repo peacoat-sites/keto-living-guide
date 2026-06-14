@@ -6,8 +6,6 @@ description: "Discover the ultimate keto diet food list. Learn which high-fat, l
 image: "https://images.pexels.com/photos/37128330/pexels-photo-37128330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "food", "list"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-diet-food-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Pure spirits like vodka, whiskey, gin, and tequila have zero carbs. Dry wines have about 3 to 4 grams of carbs per 5-ounce glass. Beer is mostly too high, though some light lagers and hard seltzers fall in the 2 to 4 gram range. The real issue is that alcohol slows fat oxidation while your liver processes it, which can stall weight loss even when the carbs are low. An occasional drink rarely derails a well-established keto practice. Daily drinking might."
   - q: "Do I need to buy special 'keto' products?"
     a: "No. The 'keto' label on packaged foods often means little beyond a marketing charge. Most of what you need is whole food that has always been low-carb: meat, fish, eggs, cheese, vegetables, olive oil, butter. Some keto specialty products are genuinely useful, particularly almond flour, coconut flour, and erythritol for baking. But walking into a grocery store and buying real, unprocessed food is still the most effective, most affordable approach."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most people fail keto in the first two weeks not because the diet is too hard, but because they stood in the grocery store aisle completely lost. They grabbed a few avocados, some bacon, and a bag of almonds, then went home and ate an 80-gram carb dinner without realizing it. A reliable food list isn't just a shopping guide. It's the difference between actually entering ketosis and just eating a weird version of your old diet.

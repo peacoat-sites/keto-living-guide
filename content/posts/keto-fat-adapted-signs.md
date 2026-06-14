@@ -6,8 +6,6 @@ description: "Discover the key signs you are fat adapted on keto, from steady en
 image: "https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking-olive.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "adapted", "signs"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-fat-adapted-signs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Once adapted, most people can tolerate occasional higher-carb meals without fully losing the adaptation, especially if they return to their normal eating pattern afterward. That said, frequent large carb refeeds will erode it over time. Consistency matters more than perfection."
   - q: "I'm six weeks in and still feel tired. Did I do something wrong?"
     a: "Not necessarily. Check your electrolyte intake first: this resolves more 'still tired' cases than anything else. Also look at total calorie intake, sleep quality, and stress load. If you're genuinely eating under 20-25 grams of net carbs daily, getting enough fat and calories, and managing electrolytes, consider consulting with a dietitian or your doctor to rule out thyroid issues or other factors. Keto isn't a cure-all, and some fatigue has nothing to do with macros."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 You wake up at 6 a.m., and breakfast sounds... optional. Not because you're forcing yourself to fast, but because you're genuinely not hungry. Three weeks ago, you were raiding the pantry by 9 a.m. and running on caffeine by noon. Something has shifted. If you've been eating keto for a few weeks and you're noticing things like this, there's a good chance your body is making the transition to fat adaptation, and it feels very different from what most people expect.

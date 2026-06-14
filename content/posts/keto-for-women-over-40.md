@@ -6,8 +6,6 @@ description: "Discover how the keto diet can help women over 40 balance hormones
 image: "https://images.pexels.com/photos/15641820/pexels-photo-15641820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "women", "over"]
-author: "Dr. Maya Chen"
-author_bio: "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."
 slug: "keto-for-women-over-40"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Stalls are almost always one of four things: too many carbs sneaking in (sauces, dressings, protein bars), too much protein converting to glucose via gluconeogenesis, too little protein causing muscle loss, or a caloric surplus from fat. Track everything for one week with an app like Cronometer and look for the leak. Also check your sleep and stress levels. Both can stall fat loss without a single dietary change."
   - q: "Do I need to exercise on keto, or will the diet do the work alone?"
     a: "Keto alone will produce fat loss, but strength training is the single best investment a woman over 40 can make for her long-term health and body composition. Muscle is metabolically active tissue. It improves insulin sensitivity, raises your resting metabolic rate, and protects against osteoporosis. Aim for two to three resistance training sessions per week. You don't need intense cardio; walks, lifting, and yoga are all compatible with keto."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 You're eating fewer than 1,400 calories a day, you cut out bread and pasta months ago, and the scale hasn't moved in six weeks. Sound familiar? For a lot of women in their 40s and 50s, this is the frustrating reality: the strategies that worked at 28 simply don't work anymore. And it's not a willpower problem. It's biology.

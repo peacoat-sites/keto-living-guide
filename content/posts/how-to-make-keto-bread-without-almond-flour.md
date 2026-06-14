@@ -6,8 +6,6 @@ description: "Learn how to make delicious keto bread without almond flour using 
 image: "https://images.pexels.com/photos/17597407/pexels-photo-17597407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Recipes"]
 tags: ["make", "keto", "bread", "without", "almond"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-make-keto-bread-without-almond-flour"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Because there are no preservatives and the fat content is high, keto bread molds faster than commercial bread. Slice it completely, wrap the slices individually, and freeze them. Pull slices out as needed and toast directly from frozen. This keeps quality high for 2-3 months and eliminates the 'it went green on day three' problem entirely."
   - q: "Is keto bread actually good for weight loss?"
     a: "The research here is genuinely mixed. Replacing conventional bread with keto bread removes most of the carbohydrate load, which helps people stay in ketosis. But keto breads are calorie-dense and easy to overeat, especially when they're good. A slice of coconut flour bread might have 120-150 calories. Track it. It counts."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Almond flour is not the only option. It just gets treated like one.

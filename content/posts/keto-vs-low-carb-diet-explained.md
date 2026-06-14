@@ -6,8 +6,6 @@ description: "Discover the key differences between keto and low carb diets, how 
 image: "https://images.pexels.com/photos/1660027/pexels-photo-1660027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diet Basics"]
 tags: ["keto", "carb", "diet", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-vs-low-carb-diet-explained"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "That's actually the wrong direction. Keto is the more restrictive of the two. Low carb allows foods that keto generally excludes: moderate amounts of fruit, legumes like lentils or chickpeas, some root vegetables, small servings of whole grains, and more flexibility with dairy. Keto typically limits you to non-starchy vegetables, meat, fish, eggs, full-fat dairy, nuts, seeds, and healthy fats, with very limited exceptions."
   - q: "Will I lose muscle on keto?"
     a: "Not necessarily, but it requires attention. Very low carb diets can be muscle-sparing when protein intake is adequate, typically 1.2 to 1.6 grams per kilogram of body weight daily, and when you're resistance training. The concern about muscle loss on keto often comes from early studies where protein was too low, or from individuals who weren't strength training. If you're eating enough protein and lifting weights, you can preserve lean mass on keto. Some studies actually show favorable outcomes for body composition, with fat loss exceeding muscle retention at a higher ratio than calorie restri"
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 You've probably typed some version of "keto vs low carb" into a search bar at least once already, maybe while standing in a grocery store aisle trying to decide if the almond flour tortillas are going to fit your plan. Or maybe you've been doing "low carb" for a few weeks and someone told you it doesn't count unless you're actually in ketosis. Either way, you're here because the line between these two approaches feels blurry, and the internet tends to make it blurrier with confident-sounding contradictions that don't actually help you make a decision.

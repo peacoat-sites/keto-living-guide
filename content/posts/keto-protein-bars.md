@@ -6,10 +6,13 @@ description: "Discover the best keto protein bars to fuel your low-carb lifestyl
 image: "https://images.pexels.com/photos/8817793/pexels-photo-8817793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["products"]
 tags: ["keto", "protein", "bars"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-protein-bars"
 affiliate_disclosure: false
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Most keto protein bars are junk dressed up in good-looking macros. I'll be honest: I spent a few months really digging into this category after too many clients came to me frustrated that bars they thought were keto-friendly had stalled their progress. What I found surprised me, and some of it genuinely changed the advice I give.

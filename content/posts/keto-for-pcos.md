@@ -6,8 +6,6 @@ description: "Discover how the keto diet may help manage PCOS symptoms by balanc
 image: "https://images.pexels.com/photos/19808820/pexels-photo-19808820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "PCOS"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-for-pcos"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some people see LDL rise on a ketogenic diet, which is worth monitoring. The picture matters more than a single number: small, dense LDL is more concerning than large, buoyant LDL, and many people on keto see improvements in HDL and triglycerides that shift the overall risk profile favorably. Get a baseline lipid panel before you start, recheck at 3-6 months, and discuss the results with your doctor. Don't just assume the changes are fine."
   - q: "Do I have to stay on keto forever to maintain the benefits?"
     a: "No. The goal is not permanent dietary restriction but improving your underlying insulin sensitivity enough that you need less restriction to maintain good metabolic function. Some women find that after 6-12 months of low-carb eating, they can reintroduce moderate amounts of quality carbohydrates without their symptoms returning. Others do better with long-term low-carb eating. This is genuinely individual, and the right answer depends on how your labs and symptoms respond over time."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 You've probably done the research. You know your diagnosis, you've heard that diet matters, and somewhere along the way someone mentioned keto. Maybe your doctor brought it up, maybe you found it in a forum at 11pm while trying to make sense of why losing weight feels so much harder for you than it does for everyone else. If that sounds familiar, you're not imagining things, and you're not alone. PCOS affects roughly 1 in 10 women of reproductive age, and the metabolic component of this condition makes standard dietary advice genuinely less effective for many people who have it.

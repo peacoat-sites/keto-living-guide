@@ -6,8 +6,6 @@ description: "Calculate your perfect keto macros with our free calculator. Get p
 image: "https://images.pexels.com/photos/32112379/pexels-photo-32112379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "macros", "calculator"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "keto-macros-calculator"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Intermittent fasting and keto are separate tools that many people combine. The calculator gives you daily macro targets, and intermittent fasting affects the window in which you eat them. Your gram targets don't change based on your eating window, you just fit them into fewer meals."
   - q: "My protein target seems really high. Won't that kick me out of ketosis?"
     a: "Probably not. The gluconeogenesis concern is largely overstated in the research for most people at typical protein intakes. Eating 0.7 to 1.0 grams of protein per pound of lean mass won't flood your system with glucose. What it will do is preserve your muscle mass, keep you fuller between meals, and support better body composition long-term. Blood ketone levels may sit slightly lower on higher-protein keto compared to a strict therapeutic protocol, but for most people pursuing fat loss or general health, that's a worthwhile trade."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 You've been eating keto for three weeks, you feel pretty good, but the scale hasn't budged. You tweak your carbs, you cut out that nightly handful of nuts, and still nothing. Sound familiar? Nine times out of ten, when I dig into what a stalled client is actually eating, the problem isn't willpower or hidden carbs. It's macros that were never dialed in correctly to begin with. A keto macros calculator is the starting point most people skip, or rush through in two minutes without understanding what the numbers actually mean. Let's fix that.

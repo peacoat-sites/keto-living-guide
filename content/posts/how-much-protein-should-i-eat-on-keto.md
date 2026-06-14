@@ -6,8 +6,6 @@ description: "Discover how much protein you should eat on keto to stay in ketosi
 image: "https://images.pexels.com/photos/5463886/pexels-photo-5463886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Macros"]
 tags: ["much", "protein", "should", "keto"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-protein-should-i-eat-on-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your total daily target stays the same. What changes is the window you have to hit it. If you're eating in a 6-8 hour window, you'll need to be more intentional about including substantial protein in each meal rather than spreading it across 12 hours. This is actually a common reason people under-eat protein on combined keto-IF protocols without realizing it."
   - q: "What about electrolytes? Do higher protein intakes affect them?"
     a: "Indirectly, yes. Higher protein intakes can increase urinary calcium excretion slightly, though the clinical significance of this in healthy individuals eating adequate calcium is debated. On keto specifically, electrolyte management matters regardless of protein level, since carb restriction reduces insulin and increases renal excretion of sodium, magnesium, and potassium. A quality electrolyte supplement is worth using especially in the first few months."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most keto content tells you to keep protein "moderate" and leaves it there. That single vague word has probably cost more people their results than any other piece of dietary advice online. Some eat too little and lose muscle while the scale barely moves. Others eat more, panic about gluconeogenesis turning their steak into a donut, and cut back unnecessarily. The research on protein and ketosis is more nuanced than either camp admits, and getting this number right is probably the most underrated lever in a keto diet.

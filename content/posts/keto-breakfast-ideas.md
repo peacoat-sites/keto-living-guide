@@ -6,8 +6,6 @@ description: "Start your day right with our best keto breakfast ideas. Quick, de
 image: "https://images.pexels.com/photos/6123031/pexels-photo-6123031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "breakfast", "ideas"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-breakfast-ideas"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but you need to be selective about which fruits and how much. Berries are your best bet. Raspberries, blackberries, and strawberries are all relatively low in net carbs compared to other fruits. A half cup of raspberries has about 3 grams of net carbs. A half cup of blueberries is higher at around 9 grams. Bananas, mangoes, pineapple, and grapes are basically sugar delivery systems and will push you out of ketosis quickly. Check the foods to avoid on keto guide for a comprehensive breakdown."
   - q: "How long before I stop craving toast and cereal in the morning?"
     a: "Most people notice carb cravings fading significantly between days 10 and 21. The first week is often the hardest, particularly if you're experiencing keto flu symptoms like fatigue, headaches, or brain fog. Those symptoms are real and usually related to electrolyte shifts, not starvation. Once your body adapts to running on fat, the idea of a bowl of sugary cereal genuinely starts to lose its appeal. That transition is different for everyone, but it almost always comes. Mornings don't have to be a negotiation between what you want to eat and what your diet allows. The breakfasts above aren't"
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Most people assume that giving up breakfast cereals, toast, and orange juice means mornings become a sad, repetitive scrambled-egg routine. That assumption kills more keto diets than cheat days do. The truth is that breakfast on keto can be more satisfying, more varied, and honestly more delicious than whatever you were eating before. Once you understand which ingredients work and which ones quietly sabotage your macros, the whole thing clicks into place.

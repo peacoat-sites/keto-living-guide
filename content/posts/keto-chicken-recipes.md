@@ -6,8 +6,6 @@ description: "Discover delicious keto chicken recipes perfect for low-carb diets
 image: "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["recipes"]
 tags: ["keto", "chicken", "recipes"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-chicken-recipes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mostly yes, with one caveat. Plain rotisserie chicken is perfectly fine. Some store-bought rotisserie birds are injected with a brine that includes dextrose or modified starch, and the seasoning blends occasionally contain sugar. Check the ingredients list at the store. Costco's rotisserie chicken, for example, contains less than 1 gram of carbs per serving and is a legitimate keto staple for millions of people."
   - q: "What's the best fat to cook keto chicken in?"
     a: "For high-heat cooking like searing or roasting, avocado oil is excellent because its smoke point sits around 500°F. Butter adds rich flavor and pairs naturally with the savory notes of chicken but burns more easily, so it's better for finishing or medium-heat cooking. Ghee combines the best of both worlds with a higher smoke point than butter and the same rich flavor. Olive oil works well for lower-heat methods or as a finishing drizzle. What you want to avoid is cooking spray with additives or low-fat options that strip out the dietary fat you actually need."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Chicken is the most purchased protein in the United States, with Americans eating roughly 100 pounds of it per year per person. Yet somehow, it's also the protein that people on keto complain about the most. "It's boring." "I always dry it out." "I've had grilled chicken four nights in a row and I want to quit everything." Sound familiar? The good news is that chicken and keto are genuinely a perfect match, and the problem isn't the protein. It's the approach.

@@ -6,8 +6,6 @@ description: "Discover how the keto diet can transform your health after 50. Lea
 image: "https://images.pexels.com/photos/37416570/pexels-photo-37416570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "diet", "over"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-diet-over-50"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Intermittent fasting can complement keto nicely and many people over 50 find it helps manage appetite, but it's not required. If you're someone who has always eaten breakfast and the thought of skipping it makes you miserable, skip the fasting and focus on the macros. One variable at a time."
   - q: "Why am I not losing weight on keto even in ketosis?"
     a: "Calories still matter, even on a ketogenic diet. The appetite suppression that keto provides often naturally reduces calorie intake, but this doesn't happen for everyone. Other common culprits in this age group: thyroid issues (worth ruling out with bloodwork), too-low protein causing muscle loss alongside fat, and stress-driven cortisol elevation that stalls fat loss regardless of diet. If you've been strict for six weeks with no movement on the scale, it's time to look at total intake with a food log."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.

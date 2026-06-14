@@ -6,8 +6,6 @@ description: "Stuck on a keto plateau? Discover proven strategies to break throu
 image: "https://images.pexels.com/photos/4716814/pexels-photo-4716814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "plateau", "weight", "loss"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-plateau-weight-loss"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mechanistically, the underlying causes are similar: metabolic adaptation, calorie creep, reduced activity. Where keto differs is that dropping below your carb threshold and managing hidden carbs adds an extra variable. On a standard diet, you don't have the ketosis factor to consider. Keto-specific triggers like consuming too much dietary fat or using keto processed foods can stall progress in ways that don't apply to other diets."
   - q: "Do I need to 'cycle' off keto to break a plateau?"
     a: "Not necessarily. A structured carb refeed day (as described above) can provide metabolic benefit without abandoning keto long-term. True cyclical keto, where you do 5 days low-carb and 2 days higher-carb, works well for some people, particularly athletes who need glycogen for performance. But it's not a requirement for everyone hitting a plateau. Simpler fixes like calorie auditing and protein adjustment should come first."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 You've been strict with your macros for weeks. The scale moved fast at first, maybe 8 or 10 pounds in the first month, and you were feeling unstoppable. Then, nothing. A week goes by. Two weeks. The number on the scale just sits there, staring back at you like it's personally offended by your discipline. You haven't cheated. You're still eating under 20 grams of carbs a day. So what gives? You've hit a keto plateau, and you're far from alone. It happens to nearly everyone who follows a low-carb diet long enough, and the reasons behind it are more nuanced than most people realize.

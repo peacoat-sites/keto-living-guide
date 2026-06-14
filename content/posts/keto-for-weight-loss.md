@@ -6,8 +6,6 @@ description: "Discover how the ketogenic diet can help you lose weight fast. Lea
 image: "https://images.pexels.com/photos/6478667/pexels-photo-6478667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "weight", "loss"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "keto-for-weight-loss"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Strictly speaking, no. Many people lose weight on keto without ever counting a calorie, because the satiety effect naturally reduces intake. But if you've been doing keto for 6 to 8 weeks with no fat loss, counting calories for 2 weeks is a valuable diagnostic tool. Many people discover they're eating 400 to 600 more calories than they realized, particularly from nuts, cheese, and cooking fats."
   - q: "What happens when I stop keto? Will I regain all the weight?"
     a: "You'll regain the water weight from the first two weeks, almost guaranteed, because reintroducing carbs refills glycogen and brings the water back with it. Fat regain depends entirely on what you do next. If you go back to the eating habits that led to weight gain originally, yes, the weight will come back. Some people use keto as a long-term lifestyle. Others use it for a 3 to 6 month reset and then transition to a whole-foods, moderate-carb diet. The goal should always be building eating habits you can sustain, not just tolerating a protocol until you hit a goal weight."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Imagine stepping on the scale every Monday morning for three months, eating salads, counting calories, doing cardio five days a week, and watching the number barely budge. That's where Maria was when she came to me. She was eating around 1,400 calories a day and still couldn't crack 185 pounds. Within six weeks of switching to keto, she dropped 14 pounds. Was it magic? No. Was it a fluke? Also no. What changed was *how her body was fueling itself*, and that shift makes all the difference for a lot of people who've hit a wall with conventional dieting.

@@ -6,8 +6,6 @@ description: "Discover how the cyclical keto diet works, its benefits for athlet
 image: "https://images.pexels.com/photos/8858694/pexels-photo-8858694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["cyclical", "keto", "diet"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "cyclical-keto-diet"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I generally recommend at least 8-12 weeks of consistent standard keto first. You want to be genuinely fat-adapted, comfortable with the dietary habits, and clear on why you're considering CKD before adding complexity. Jumping to cyclical keto too early usually means you're troubleshooting two things at once."
   - q: "Are there people who should avoid CKD entirely?"
     a: "Yes. People managing epilepsy with ketosis, those with type 1 or type 2 diabetes (especially on insulin or certain medications), anyone with a history of disordered eating, and people with known metabolic disorders should consult their healthcare provider before experimenting with carb cycling. The periodic high-carbohydrate intake introduces variables that can have real clinical consequences in those situations."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 You've been strict keto for three months. The weight was moving, you felt sharper, and you'd finally figured out what to eat. Then came the plateau, the fatigue during workouts, and honestly, the growing exhaustion of saying no to everything. You're not failing. You might just be ready for a more advanced approach.

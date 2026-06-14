@@ -6,8 +6,6 @@ description: "Stock your pantry with the best keto snacks from any grocery store
 image: "https://images.pexels.com/photos/5507655/pexels-photo-5507655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Recipes"]
 tags: ["best", "keto", "snacks", "grocery", "store"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-keto-snacks-to-buy-at-the-grocery-store"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They add up fast. I've seen this derail more keto attempts than almost anything else, because nuts feel like a 'free' food. An ounce of macadamia nuts is genuinely great at about 2g net carbs. But an ounce of almonds is around 3g, cashews are 8g, and nobody stops at an ounce. Pre-portioning into small bags before the week starts is probably the single most practical habit for keeping nut snacking under control. A kitchen scale helps here enormously, especially in the first few months. A simple food scale doesn't have to be expensive and makes portion accuracy much easier. (Disclosure: this sit"
   - q: "Is there a keto snack that's good for long days when I can't refrigerate anything?"
     a: "Meat sticks like Chomps, pork rinds, macadamia nuts, and individually wrapped cheese rounds like BabyBel (they hold a few hours unrefrigerated due to the wax coating) are the most practical. Whisps parmesan crisps are also fully shelf-stable and don't crush easily in a bag. Building a small 'car kit' with these shelf-stable options has saved a lot of my clients from convenience store disasters on long days."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people walk into the grocery store planning to "grab something keto" and walk out with a bag of pork rinds and a prayer. I've done it. I've watched clients do it. And I'll be honest, it usually ends one of two ways: boredom sets in by day four, or they grab something that looked keto-friendly on the packaging but quietly knocked them out of ketosis by lunch. The snack aisle is genuinely one of the most confusing places to navigate on a low-carb diet, because food marketing has learned to exploit the language. "Low carb," "sugar free," "keto friendly" can all appear on a label that contains 18 grams of net carbs per serving. So let me share what I've actually learned, both from the research and from working with real people trying to make this sustainable.

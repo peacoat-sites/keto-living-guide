@@ -6,8 +6,6 @@ description: "Learn how to calculate net carbs on keto by subtracting fiber and 
 image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Macros"]
 tags: ["calculate", "carbs", "keto"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-calculate-net-carbs-on-keto"
 affiliate_disclosure: false
 faqs:
@@ -19,6 +17,11 @@ faqs:
     a: "For restaurants, apps like Carb Manager or MyFitnessPal have large databases, but accuracy varies. For chains, the official nutrition page is usually more reliable. For homemade meals, weigh each ingredient separately and look up each one in Cronometer or USDA FoodData Central, then add up the totals. It takes more time initially, but you build pattern recognition quickly and stop needing to look things up as often."
   - q: "Is 20g net carbs the right target for everyone?"
     a: "No. Twenty grams is a commonly used starting point because it puts most people into ketosis reliably, but some people need to go lower (closer to 15g) and others can sustain ketosis at 30-40g, especially with regular exercise. The only way to know where you land is to test, either with blood ketone strips (most accurate), urine strips (rough but cheap), or a breath meter. Don't assume you're in ketosis based on carb counts alone, especially early on."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That number, the "total carbs" figure, almost always overstates what your body actually processes. I've seen clients stall for weeks, convinced they were doing everything right, only to discover they were eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.

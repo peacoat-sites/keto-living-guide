@@ -6,8 +6,6 @@ description: "Stuck on a keto plateau? Discover proven strategies to break throu
 image: "https://images.pexels.com/photos/5714344/pexels-photo-5714344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Weight Loss"]
 tags: ["break", "keto", "weight", "loss", "plateau"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-break-a-keto-weight-loss-plateau"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and it's worth taking seriously if you've audited your intake rigorously and made reasonable changes with no response over 4 to 6 weeks. Hypothyroidism, polycystic ovary syndrome (PCOS), insulin resistance beyond typical, and elevated cortisol from adrenal dysfunction can all impair fat loss significantly. A basic panel with your doctor, including TSH, free T3, fasting insulin, and cortisol, can rule these in or out. Working with a registered dietitian alongside your physician is advisable if you suspect something clinical is in play."
   - q: "Is it possible I've just reached my body's natural set point?"
     a: "Possibly. The concept of a set point, your body defending a particular weight range by adjusting hunger hormones and metabolic rate, is real and not fully understood. If you've lost a significant amount of weight and are near a healthy body fat range, your body will resist further loss more actively. At some point, the goal shifts from losing weight to maintaining a healthy composition. That's not failure. That's biology."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 You've been strict. You've logged every gram. The scale hasn't moved in three weeks. If you're reading this because that's exactly where you are right now, the frustrating truth is that most of the advice you'll find online will tell you to "trust the process" or add more butter to your coffee. Neither actually solves anything.

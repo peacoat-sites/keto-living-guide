@@ -6,6 +6,11 @@ slug: "is-keto-right-for-you"
 date: 2026-05-29T10:00:00+00:00
 categories: ["Diet Basics"]
 tags: ["keto", "quiz", "beginners", "lifestyle"]
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Keto works wonders for some people and feels like a constant struggle for others. The difference usually comes down to your habits, your goals, and how you feel about food, not willpower. This quick quiz looks at seven of the factors that most often predict whether someone sticks with keto and thrives, or burns out in the first month.

@@ -6,8 +6,6 @@ description: "Discover how the keto diet can fuel your running performance, boos
 image: "https://images.pexels.com/photos/17391583/pexels-photo-17391583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "runners"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-diet-for-runners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. One of the benefits of fat adaptation is that fasted morning runs become much more manageable. Many adapted runners do well training fasted for runs up to an hour. For longer or harder sessions, some calories beforehand (even just MCT oil or a small protein source) may help."
   - q: "Should I track ketones as a runner?"
     a: "It's useful early on to confirm you're actually in ketosis, but I wouldn't obsess over it long-term. Blood ketone meters like the Keto-Mojo are more accurate than urine strips, which become unreliable once you're adapted. After a few months, how your training feels and recovers tells you more than a number on a meter."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Most runners who try keto quit within three weeks. Not because keto failed them, but because nobody warned them what the first month actually feels like on tired legs.

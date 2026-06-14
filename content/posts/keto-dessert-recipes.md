@@ -6,8 +6,6 @@ description: "Discover easy, delicious keto dessert recipes that satisfy your sw
 image: "https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["recipes"]
 tags: ["keto", "dessert", "recipes"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-dessert-recipes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Blanched almond flour is the most forgiving and the most versatile. It produces results closest to conventional baking and doesn't require major recipe adjustments. Coconut flour produces great results too, but it requires a different recipe structure entirely. Start with almond flour and branch out from there."
   - q: "Do keto desserts work for people who aren't on keto?"
     a: "Completely. Many people who don't follow keto specifically still choose these recipes because they're lower in sugar, gluten-free, and often higher in protein than standard baked goods. The flavors hold up regardless of your dietary goals."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people assume that starting keto means saying goodbye to dessert forever. That assumption is wrong, and it's one of the biggest reasons people quit the diet in week two. The truth is, you can make a chocolate lava cake with only 4 grams of net carbs, a cheesecake that doesn't spike your blood sugar, and fat bombs that actually taste like candy. Keto baking has come a long way, and once you understand the handful of ingredient swaps that make it work, the whole world of sweet food opens back up.

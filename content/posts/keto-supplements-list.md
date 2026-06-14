@@ -6,8 +6,6 @@ description: "Discover the best keto supplements to boost your results. Our comp
 image: "https://images.pexels.com/photos/6805770/pexels-photo-6805770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["supplements"]
 tags: ["keto", "supplements", "list"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-supplements-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most healthy adults, yes. The main interaction worth knowing: very high magnesium intake can have a mild effect on calcium absorption, and high-dose potassium supplementation (far above 99 mg per dose) carries cardiac risk, which is why standalone potassium supplements are dose-limited. If you have kidney disease, heart disease, or are on medications that affect electrolytes (like ACE inhibitors or diuretics), talk to your doctor before adjusting supplementation significantly."
   - q: "What's the single most impactful supplement for keto beginners?"
     a: "Magnesium, without much competition. Sodium is technically the biggest driver of keto flu, but most people can get adequate sodium from salting their food and drinking broth. Magnesium is harder to replace through diet alone, deficiency is already widespread before keto, and the symptoms of low magnesium (muscle cramps, poor sleep, anxiety, headaches) are exactly the symptoms that make people quit keto in week one. A $15 bottle of magnesium glycinate has kept more people on track than any expensive ketone supplement ever has."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 You're three days into keto, you feel like you got hit by a truck, and someone in a Facebook group just told you to "take some electrolytes." Great advice, but which ones? How much? And while you're at it, what about all those other supplements people keep mentioning: MCT oil, exogenous ketones, magnesium glycinate, digestive enzymes? The supplement aisle (and the internet) can feel overwhelming fast. Let me cut through the noise.

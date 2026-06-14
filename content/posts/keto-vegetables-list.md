@@ -6,8 +6,6 @@ description: "Discover the best keto vegetables to eat on a low carb diet. Our c
 image: "https://images.pexels.com/photos/5677794/pexels-photo-5677794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "vegetables", "list"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-vegetables-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically, yes, but I don't recommend it long-term. People who go very low on vegetables often struggle with constipation, micronutrient deficiencies, and the kind of fatigue that's blamed on 'keto' when it's actually a nutrition gap. Vegetables make keto sustainable and healthier over time. If you're not a fan of vegetables, start with ones that are easy to hide in eggs, soups, or smoothies and work from there."
   - q: "Why does my keto app show different carb counts than what you've listed?"
     a: "Carb counts vary based on the specific variety of a vegetable, whether it's raw or cooked (cooking concentrates sugars slightly and shrinks volume), and the database your app is pulling from. The numbers in this article are reasonable averages, not laboratory-precise figures. Use them as a guide, and when in doubt, default to the database entry that shows the preparation method closest to how you're actually eating the food."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You've just committed to keto, you're standing in the produce section of the grocery store, and suddenly every vegetable you've ever eaten feels like a potential trap. Is that zucchini fine? What about carrots? And corn counts as a vegetable, right? This moment of produce-aisle paralysis is something I've heard from almost every client who starts a ketogenic diet. The good news: most vegetables are not the enemy. The tricky part is knowing which ones are working with your goals and which ones are quietly blowing your carb budget before dinner even hits the table.

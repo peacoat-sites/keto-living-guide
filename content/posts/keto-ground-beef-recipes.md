@@ -6,8 +6,6 @@ description: "Discover delicious keto ground beef recipes for quick, low-carb me
 image: "https://images.pexels.com/photos/34429593/pexels-photo-34429593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "ground", "beef", "recipes"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-ground-beef-recipes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The trick is integration, not addition. Mix fat into the dish rather than adding it on top. Cream cheese stirred into a hot beef skillet melts into the sauce. Butter added at the end coats every bite. Avocado served alongside adds nearly 15 grams of healthy fat per half avocado without making anything greasy. Cheese, sour cream, and heavy cream all work the same way."
   - q: "Will eating ground beef every day knock me out of ketosis?"
     a: "No. Ketosis is determined by carbohydrate intake, not by eating ground beef repeatedly. As long as you're staying under your personal carb threshold (usually 20 to 50 grams of net carbs per day), you'll stay in ketosis. The variety of preparation methods means you can eat ground beef daily without boredom. The recipes above are proof of that. If you're curious about how quickly your body enters and exits ketosis, our article on how long to enter ketosis covers it in detail."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Ground beef sits in your fridge. It's 6 p.m. You're hungry, you're trying to stay under 20 grams of net carbs today, and you have zero interest in eating a plain burger patty for the third time this week. Sound familiar? Here's the good news: ground beef might be the single most versatile protein in the keto pantry. It's cheap, fast to cook, and takes on flavors from Korean gochujang bowls to Italian-style stuffed peppers without blinking. I've tested dozens of ground beef recipes with keto clients over the years, and the results are consistently impressive. Let's get into it.

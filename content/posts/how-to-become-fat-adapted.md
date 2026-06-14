@@ -6,8 +6,6 @@ description: "Learn what it means to become fat adapted, how long it takes, and 
 image: "https://images.pexels.com/photos/4020143/pexels-photo-4020143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["become", "adapted"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-become-fat-adapted"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this distinction matters. Ketosis just means your liver is producing ketones above a baseline threshold. Fat adaptation means your whole body has reorganized its fuel-use priorities. You can measure ketones on day three and still be months away from true fat adaptation."
   - q: "What breaks fat adaptation once you have it?"
     a: "Going back to high-carb eating for an extended period will undo it, though people who've been fat-adapted before tend to re-adapt faster the second time. An occasional high-carb meal is unlikely to derail months of adaptation, but making it a regular habit will. The body is efficient: it uses whatever fuel is consistently available."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Most people think they failed keto. What actually happened is they quit before fat adaptation kicked in.

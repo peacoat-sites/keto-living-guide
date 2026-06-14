@@ -6,8 +6,6 @@ description: "Discover the key differences between keto and low carb diets. Lear
 image: "https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "carb", "difference"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-vs-low-carb-difference"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Lazy keto typically means tracking only carbs, not calories or fat ratios, while staying under roughly 20 to 50 grams of net carbs. In practice, it lands somewhere between true ketogenic eating and general low-carb. Some people maintain ketosis this way. Others don't. If you're not measuring, you're not really knowing."
   - q: "Can you switch between keto and low-carb?"
     a: "Absolutely, and some people do this deliberately. Strict keto for a defined period, then a maintenance phase at 75 to 100 grams of net carbs. The transition out of ketosis is faster than the transition in: add 50 grams of carbs and most people exit ketosis within a day. Going back in takes the usual two to four days minimum."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You've been eating "low carb" for three weeks, but your coworker who "does keto" says you're not actually in ketosis. You cut bread and pasta. Isn't that the same thing? Not exactly, and the difference matters more than most keto blogs will tell you.

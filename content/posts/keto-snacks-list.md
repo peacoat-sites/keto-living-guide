@@ -6,8 +6,6 @@ description: "Discover the best keto-friendly snacks to keep you satisfied while
 image: "https://images.pexels.com/photos/5202285/pexels-photo-5202285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "snacks", "list"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-snacks-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Anything that doesn't need refrigeration and survives being thrown in a bag. Beef jerky and meat sticks (Chomps or Epic), macadamia nuts, pork rinds, dark chocolate squares, single-serve almond butter packs, and hard cheese in sealed packaging all work well. Pepperoni slices in individual packages are also a great option. Avoid anything with dips or creamy components unless you have a cooler."
   - q: "Will eating too many snacks kick me out of ketosis?"
     a: "The carb content of what you eat matters more than the number of snacks. You can eat three or four low-carb snacks throughout the day and stay in ketosis if they each have 1 to 2g net carbs. What gets people in trouble is portion creep, eating multiple servings of nuts without tracking, or reaching for snacks that seem keto but have hidden carbs. If you want to verify you're still in ketosis, Keto-Mojo and similar ketone testing meters give you an accurate blood reading. The transition to keto snacking doesn't have to feel like deprivation. Honestly, once you've got a go-to list of snacks that"
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 You're standing in front of the pantry at 3 p.m., hunger kicking in, and everything you reach for has more carbs than your entire daily budget. Sound familiar? This is the moment that breaks most keto dieters, not the meals, but the snacks. The good news: there are dozens of satisfying, genuinely delicious options that won't touch your ketosis. This guide lays them all out, organized by category, so you can stop guessing and start snacking with confidence.

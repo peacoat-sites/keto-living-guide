@@ -6,8 +6,6 @@ description: "Discover our complete keto 30 day meal plan with easy recipes, sho
 image: "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-30-day-meal-plan"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not forever, but for the first two weeks: yes. Most people who skip tracking underestimate carbs by 10 to 15g per day and eat less fat than they think. Two weeks of honest tracking builds the mental model you need to eventually eyeball it accurately. After that, periodic check-ins, maybe once a week, are enough for most people. The Cronometer app is more accurate than MyFitnessPal for micronutrients, which matters on keto."
   - q: "What's a realistic outcome to expect from 30 days?"
     a: "Honestly? It varies substantially based on starting point, adherence, and individual metabolism. People with more body fat to lose, higher starting insulin levels, or those switching from a high-sugar diet tend to see more dramatic early results. What most people can realistically expect after 30 solid days: reduced appetite, less reliance on snacking, improved energy stability, and some degree of fat loss. Specific numbers depend on too many individual variables to quote honestly, and anyone promising a specific outcome for everyone is selling something. Consult with a registered dietitian or"
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Most people who try a 30-day keto meal plan spend the first week white-knuckling through hunger, the second week googling "keto plateau already?", and somewhere around day 18, they're eating plain chicken thighs over the sink because they ran out of ideas. The plan they downloaded looked great as a PDF. It just didn't survive contact with a real week.

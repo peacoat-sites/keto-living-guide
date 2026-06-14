@@ -6,8 +6,6 @@ description: "Wondering if a keto diet cheat day will ruin your progress? Learn 
 image: "https://images.pexels.com/photos/33009977/pexels-photo-33009977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "cheat"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-diet-cheat-day"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some people find a short fast (skipping breakfast and eating their first meal at noon, for instance) helps them feel back on track faster. The evidence that it meaningfully speeds ketosis re-entry is thin, but if you're not hungry and it feels right, there's no real harm. Don't force it if you wake up ravenous."
   - q: "Can I do keto five days a week and eat normally on weekends?"
     a: "Technically this is called cyclical keto, and some people do it intentionally. But 'normally' covers a huge range. If your weekend eating involves 300+ grams of carbs a day, you're spending a significant chunk of every week outside of ketosis. For some goals, that's fine. For others, it'll stall your progress more than you expect."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You've been strict for three weeks. Maybe four. The number on the scale has been moving, your pants are looser, and then Saturday shows up with a birthday dinner, a slice of cake, and a voice in your head that says: *one day won't kill me.*

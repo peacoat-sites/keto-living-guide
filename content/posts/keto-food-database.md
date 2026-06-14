@@ -6,6 +6,11 @@ slug: "keto-food-database"
 date: 2026-05-29T09:00:00+00:00
 categories: ["Diet Basics"]
 tags: ["keto", "net carbs", "food database", "macros"]
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Use this database to compare the **net carbs** (total carbohydrate minus fiber) of common keto-friendly foods. Values are per 100 grams, raw, sourced directly from the USDA FoodData Central database and refreshed monthly. Foods are sorted from lowest to highest net carbs, so the most keto-friendly options appear first.

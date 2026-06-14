@@ -6,8 +6,6 @@ description: "Discover our complete keto 7 day meal plan with easy recipes, shop
 image: "https://images.pexels.com/photos/1412010/pexels-photo-1412010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-7-day-meal-plan"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our keto diet for beginners guide to understand the full framework. Knowing the 'why' behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate."
   - q: "Will I actually lose weight in the first week?"
     a: "Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most people who try keto quit within the first week. Not because the diet doesn't work, but because they open the fridge on Monday morning with no plan, no prepped food, and no idea what to eat that isn't a bowl of cereal. That single moment of friction is enough to send them straight back to toast and orange juice. A solid 7-day meal plan removes that friction completely. You know exactly what to eat, you've already bought the groceries, and you're not standing in the kitchen at 7am making decisions you're not ready to make.

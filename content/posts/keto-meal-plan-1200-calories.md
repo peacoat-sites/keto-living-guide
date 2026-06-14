@@ -6,8 +6,6 @@ description: "Discover a simple keto meal plan at 1200 calories to burn fat fast
 image: "https://images.pexels.com/photos/11852051/pexels-photo-11852051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "1200", "calories"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-meal-plan-1200-calories"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "More than you might think. On very low calorie diets, getting at least 70-80g of protein per day helps preserve muscle mass. Some research, including work by Donald Layman at the University of Illinois, suggests protein needs are actually higher during weight loss than they are at maintenance. Prioritize protein over fat at 1,200 calories; fat will take care of itself."
   - q: "Do I need MCT oil on a 1,200-calorie keto plan?"
     a: "No. MCT oil can help with ketone production and some people find it useful for mental clarity, but at 100 calories per tablespoon, it's a luxury you may not have room for at this intake level. If you find it genuinely helpful, use it in small amounts (half a tablespoon) and count every drop."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 1,200 calories is a number that makes most dietitians wince a little. Not because it's always wrong, but because it gets thrown around so casually, applied to so many different bodies, and paired with approaches that make it much harder than it needs to be. Add keto on top of it, and you've got a combination that can either work really well or leave you exhausted, hungry, and frustrated within two weeks.

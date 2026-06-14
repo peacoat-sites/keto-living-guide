@@ -6,8 +6,6 @@ description: "Discover delicious keto egg recipes perfect for low-carb living. F
 image: "https://images.pexels.com/photos/13376599/pexels-photo-13376599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "recipes"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-egg-recipes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Cook all vegetables before adding them to the raw egg mixture. Excess water from raw vegetables is the main culprit. Also make sure you're not underbaking: the center should jiggle only very slightly when you pull it from the oven."
   - q: "Does the type of egg matter for keto?"
     a: "Nutritionally, the differences between conventional and pasture-raised eggs are real but modest. Pasture-raised eggs (Vital Farms is the most widely available brand) do have higher omega-3 content and darker, richer yolks. Whether that justifies the price difference (often $7-9 vs. $2-3 per dozen) is a personal call. For everyday cooking, conventional eggs are fine. For recipes where the egg flavor is prominent, like a simple fried egg or a soft scramble, the quality difference is more noticeable."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Eggs are the most underrated macro on keto. Not because people ignore them, but because most people stop at scrambled eggs and a pat of butter and call it a day, which means they're leaving a genuinely versatile, cheap, and filling food doing about 10% of what it could.

@@ -6,8 +6,6 @@ description: "Discover how the keto diet affects cholesterol levels, including H
 image: "https://images.pexels.com/photos/7965940/pexels-photo-7965940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "cholesterol"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-and-cholesterol"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Triglycerides typically respond within 6 to 12 weeks. HDL changes tend to be slower, sometimes taking 3 to 6 months to fully reflect a dietary shift. LDL can fluctuate early in keto as fat mobilization increases, so testing in the first 4 to 6 weeks may not give you a stable picture. If you're making dietary adjustments, give it 8 to 12 weeks before retesting."
   - q: "Can I take MCT oil if I have high cholesterol?"
     a: "MCT oil (medium-chain triglycerides) appears to have a more neutral effect on LDL than long-chain saturated fats like those in butter or coconut oil, though it's not a cholesterol-lowering agent. Some research suggests MCTs may modestly raise HDL. If you're using it, moderate amounts (1 to 2 tablespoons daily) are typical starting doses. If your lipids are already a concern, it's worth mentioning to your doctor. A quality MCT oil like Bulletproof Brain Octane or similar products may be easier on digestion than cheaper alternatives. (This site may earn a commission on qualifying purchases.)"
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You got your lipid panel back, and the numbers scared you. Total cholesterol climbed 30 points since you started keto. Your doctor raised an eyebrow. Maybe they told you to stop the diet. Now you're sitting with a decision: trust the process everyone online swears by, or take the warning seriously. I've been in that room with clients dozens of times, and here's what I wish someone had told them before the panic set in.

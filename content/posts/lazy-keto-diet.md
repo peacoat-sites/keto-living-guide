@@ -6,8 +6,6 @@ description: "Discover how the lazy keto diet works, what you can eat, and how i
 image: "https://images.pexels.com/photos/9213869/pexels-photo-9213869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["lazy", "keto", "diet"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "lazy-keto-diet"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They're not required, but they're useful early on. A pack of urine ketone strips is inexpensive and gives you a rough confirmation that your carb ceiling is working. Blood ketone meters are more accurate but overkill for most people doing lazy keto for general health and weight loss. Use strips for a few weeks to calibrate, then stop if you want."
   - q: "What are the most common reasons lazy keto stops working?"
     a: "Three patterns come up repeatedly. One: carb creep, where portion sizes and hidden carbs slowly push you over your daily limit without you noticing. Two: protein displacement, where you're eating enough protein that your fat intake is relatively low and ketosis is inconsistent. Three: caloric surplus, eating more total food than your body needs even if every choice is low-carb. A three-day food log usually identifies which one is happening."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 You've been tracking every gram of food for three weeks. Carbs, fat, protein, fiber, net carbs, calories. Your phone is full of barcode scans and your lunch break disappears into MyFitnessPal. You're doing everything right, and you're exhausted by it. If that sounds familiar, lazy keto exists for a reason, and it works better than most strict-keto advocates want to admit.

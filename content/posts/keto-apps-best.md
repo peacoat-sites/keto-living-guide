@@ -6,10 +6,13 @@ description: "Discover the best keto apps to track macros, plan meals, and stay 
 image: "https://images.pexels.com/photos/6327655/pexels-photo-6327655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["tools"]
 tags: ["keto", "apps", "best"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-apps-best"
 affiliate_disclosure: false
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Most people pick a keto app the same way they pick a Netflix show: scroll for two minutes, grab something popular, and wonder why it's not working for them three weeks later. I did exactly that when I first started tracking macros, and I spent an embarrassing amount of time logging food in an app that wasn't even designed with low-carb eating in mind.

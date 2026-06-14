@@ -6,8 +6,6 @@ description: "Discover which foods are allowed on keto. From healthy fats and pr
 image: "https://images.pexels.com/photos/37321079/pexels-photo-37321079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["foods", "allowed", "keto"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "foods-allowed-on-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "When you're starting out, yes. Tracking for at least the first two to four weeks builds an accurate mental map of where carbs actually hide. Most people are shocked to discover how quickly small amounts add up. After you've built that intuition, many people transition to more casual tracking. Apps like Cronometer or Carb Manager make this easy. A decent set of meal prep containers paired with a food scale turns tracking into a 5-minute daily habit rather than a burden. (This site may earn a commission on qualifying purchases.)"
   - q: "What are electrolytes, and why do people keep mentioning them?"
     a: "When you cut carbs, your kidneys excrete more sodium, which triggers losses of potassium and magnesium as well. This electrolyte depletion is the main cause of 'keto flu,' the fatigue, headaches, and muscle cramps some people experience in the first one to two weeks. Salting your food generously, eating magnesium-rich foods like spinach and pumpkin seeds, and considering a dedicated keto electrolyte supplement can make the transition dramatically more comfortable. (This site may earn a commission on qualifying purchases.)"
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Most people assume cutting carbs means eating plain chicken breast and iceberg lettuce until they cry. Then they discover avocado is basically a keto superfood, that bacon exists, that heavy cream goes in coffee, and suddenly the whole thing looks a lot more appealing. The truth is that a well-stocked keto kitchen is surprisingly abundant. The confusion comes from not knowing exactly where the lines are drawn, and that confusion leads to stalled ketosis or, worse, abandoning the diet entirely after eating "just one banana." So let's fix that right now with a real, detailed breakdown of what you can eat, why it works, and how to put it together in actual meals.

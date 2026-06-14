@@ -6,8 +6,6 @@ description: "Discover the best keto tracker apps to monitor your macros, track 
 image: "https://images.pexels.com/photos/6327667/pexels-photo-6327667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["tools"]
 tags: ["keto", "tracker", "apps"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-tracker-apps"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, though you'll get less from it. Even lazy keto benefits from occasionally spot-checking your carb intake, since carb counts in condiments, sauces, and packaged foods sneak up fast. Logging one day every week or two as a 'calibration' check is a reasonable middle ground."
   - q: "Should I track calories on keto, or just carbs and macros?"
     a: "The research here is genuinely mixed. Many people lose weight on keto without explicit calorie counting because protein and fat are more satiating. But if you've been eating keto for more than 6-8 weeks without results, tracking calories for two weeks is worth doing. It's a diagnostic tool, not a lifelong requirement, and you might be surprised where your calories are actually coming from."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people pick a keto tracker the same way they pick a gym: grab the most popular one, set it up once, and then quietly stop using it two weeks later. I've watched this pattern with clients for years, and I'll be honest, I contributed to it for a while by just defaulting to whatever app had the best App Store rating. What surprised me when I actually dug in was how differently these apps are designed at a philosophy level, and how badly that mismatch can derail someone who's otherwise doing everything right.

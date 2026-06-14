@@ -6,8 +6,6 @@ description: "Discover the best keto coffee drinks to boost energy and support f
 image: "https://images.pexels.com/photos/11121826/pexels-photo-11121826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "coffee", "drinks"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-coffee-drinks"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can be for some people, particularly if you're adapted to fat-fueling and genuinely not hungry in the morning. For others, 300-500 calories of mostly fat is not enough and leads to overeating later. Neither outcome is more correct. Pay attention to how you feel three hours later, not how the drink looks on paper."
   - q: "What's the easiest keto coffee for someone just starting out?"
     a: "Heavy cream in black coffee. Not a blended butter bomb, not an MCT oil protocol. Two to four tablespoons of heavy cream, whatever coffee you'd normally make. Get used to no sugar first. Once that's comfortable, you can layer in more complexity if you want to."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most keto coffee content is a butter-in-a-blender fantasy that ignores what people actually want: something that tastes good, fits a real morning, and doesn't require a culinary degree or a $500 blender. Let's fix that.

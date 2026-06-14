@@ -6,8 +6,6 @@ description: "Discover which foods to avoid on keto to stay in ketosis. Cut out 
 image: "https://images.pexels.com/photos/20106930/pexels-photo-20106930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["foods", "avoid", "keto"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "foods-to-avoid-on-keto"
 affiliate_disclosure: false
 faqs:
@@ -19,6 +17,11 @@ faqs:
     a: "This is a persistent myth. The idea is that raw oats have a lower glycemic index than cooked oats. While that's partially true, it doesn't change the carb count. Half a cup of dry rolled oats has about 27 grams of net carbs regardless of whether you cook them or soak them overnight. They won't fit a standard keto approach. If you love the texture and ritual of overnight oats, there are keto-friendly versions made with chia seeds, hemp hearts, and unsweetened coconut flakes that give a similar experience with a fraction of the carbs."
   - q: "What's the deal with 'low-carb' labeled products at the grocery store?"
     a: "Read the label, not the front of the package. 'Low-carb' isn't regulated the way 'organic' or 'gluten-free' is, so manufacturers use it loosely. A product labeled low-carb might still have 15 grams of net carbs per serving, which is a lot if your daily limit is 20. Ingredients to watch out for include maltitol (the sugar alcohol that spikes blood sugar most), wheat flour listed as a minor ingredient, and tapioca starch, which is commonly used in 'keto' tortillas and breads but adds more carbs than it appears to. When in doubt, weigh your portion with a kitchen scale and plug it into a tracking"
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You followed the meal plan perfectly. You skipped the bread, you passed on dessert, you even turned down your coworker's birthday cake. But the scale hasn't moved in two weeks, and you're wondering what you're missing. Nine times out of ten, when I dig into a client's food diary, the culprit is something that *sounds* healthy or low-carb but is quietly pushing them over their carbohydrate threshold. The foods that knock people out of ketosis aren't always obvious. Some of them are lurking in your fridge right now.

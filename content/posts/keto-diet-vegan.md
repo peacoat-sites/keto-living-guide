@@ -6,10 +6,13 @@ description: "Discover how to combine keto and vegan diets successfully. Learn t
 image: "https://images.pexels.com/photos/6025677/pexels-photo-6025677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "vegan"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-diet-vegan"
 affiliate_disclosure: false
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Most people who try vegan keto quit within two weeks. Not because the diet doesn't work, but because they built their meals around the same five foods and got bored enough to give up. The approach itself is sound. The execution is usually terrible.

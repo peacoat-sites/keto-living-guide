@@ -6,8 +6,6 @@ description: "Discover how combining keto and intermittent fasting can accelerat
 image: "https://images.pexels.com/photos/33009989/pexels-photo-33009989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "intermittent", "fasting"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-intermittent-fasting"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is real and common, especially in the first few weeks. A few things that actually help: increasing protein and fat at your last meal the night before, making sure you're not under-eating overall, checking your electrolytes (low sodium causes fatigue and cravings that masquerade as hunger), and making sure you're sleeping enough. Chronic sleep deprivation raises ghrelin, the hunger hormone, and will fight against any fasting effort. If after four to six weeks you still can't tolerate skipping breakfast without feeling awful, a 12:12 or 14:10 window is completely legitimate and still confer"
   - q: "Is keto IF safe long-term?"
     a: "Honest answer: we don't have great long-term randomized controlled trial data on this specific combination over five or ten years. What we have is a reasonable mechanistic rationale, positive shorter-term data on both approaches separately, and substantial anecdotal experience from practitioners working with clients. For metabolically healthy adults who are eating enough, getting adequate protein, and monitoring how they feel, there's nothing alarming in the current literature. That said, 'safe' is always individual. Working with a registered dietitian who actually knows low-carb nutrition (no"
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You've been eating keto for three weeks. The scale moved at first, then stalled. You're doing everything "right," but somewhere around 2pm you're eating your fourth handful of macadamia nuts because you're not sure if you're actually hungry or just bored or just doing the thing where you graze because the food is keto-approved and therefore fine. Sound familiar? That's the moment a lot of people start hearing about combining keto with intermittent fasting, usually from someone who swears it changed everything. The thing is, sometimes it actually does. But not for the reasons most people think, and not in the way most people try it.

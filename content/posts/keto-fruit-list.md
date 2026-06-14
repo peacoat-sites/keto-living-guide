@@ -6,8 +6,6 @@ description: "Discover the best low-carb fruits for your keto diet. Our keto fru
 image: "https://images.pexels.com/photos/3850610/pexels-photo-3850610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "fruit", "list"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-fruit-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Fructose is fructose at the molecular level, whether it comes from fruit or a soda. The difference is that whole fruit comes with fiber, water, and micronutrients that slow absorption and provide nutritional value you don't get from refined sugar. That matters for health generally, but it doesn't mean fruit sugar is metabolically invisible on a ketogenic diet. The fiber matters for net carb calculations, but the fructose still affects liver glycogen. Fruit is a better source of sweetness than candy. It's not a free pass."
   - q: "What's the best fruit to add back first when transitioning off strict keto?"
     a: "Berries first, every time. They have the lowest net carbs, the highest fiber ratio, and strong nutritional value. After berries, stone fruits like peaches and plums are reasonable second choices if portions are controlled. Hold off on grapes, mangoes, and bananas until you're clearly in a maintenance or carb-cycling phase and understand how your body responds to higher carb loads."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 You pick up a peach at the farmers market, and for a second you think: *it's fruit, it's natural, it can't be that bad.* Then you get home, look it up, and find out one medium peach has 13 grams of net carbs. On a strict keto diet, that's most of your daily carb budget in a single piece of fruit. Natural doesn't mean low-carb, and this is where a lot of people quietly blow their macros without realizing it.

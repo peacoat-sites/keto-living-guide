@@ -6,8 +6,6 @@ description: "Struggling with keto diet constipation? Discover the common causes
 image: "https://images.pexels.com/photos/36936952/pexels-photo-36936952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "constipation"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-diet-constipation"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They overlap in timing but they're different things. Keto flu refers to fatigue, headaches, brain fog, and muscle aches in the first week. Constipation is its own issue driven by dehydration, fiber loss, and microbiome shifts. You can have one without the other."
   - q: "Should I quit keto if the constipation doesn't resolve?"
     a: "I'd adjust before quitting. The most common reasons it doesn't resolve are too little vegetable fiber, insufficient magnesium, and inadequate hydration. Try a targeted fix for two to three weeks before concluding that keto itself is the problem. That said, if your digestion is chronically unhappy on this diet despite doing everything right, it's worth having a frank conversation with a registered dietitian or your doctor about whether this eating pattern is genuinely a fit for you."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Nobody warns you about this part.

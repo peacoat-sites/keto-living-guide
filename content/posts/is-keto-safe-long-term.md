@@ -6,8 +6,6 @@ description: "Wondering if keto is safe long term? Discover what research says a
 image: "https://images.pexels.com/photos/13376483/pexels-photo-13376483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "safe", "long", "term"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "is-keto-safe-long-term"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can, if you're not paying attention. The most common deficiencies I see are magnesium, potassium, vitamin D, and B vitamins (especially if you're not eating much organ meat or fortified foods). Eating a wide variety of non-starchy vegetables, fatty fish, and whole-food sources covers most of this. A magnesium glycinate supplement, around $15-20 a month, is something I recommend to nearly all my long-term keto clients."
   - q: "Is keto safe long-term for women specifically?"
     a: "The research is thinner here, which is frustrating. Some women report menstrual irregularities, particularly at very low calorie intakes combined with keto. Thyroid function is another area worth monitoring, since some women see T3 shift downward in extended ketosis. These aren't universal effects, but they're worth watching for, especially if you notice changes in energy, hair loss, or cycle disruption."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Most people who ask me this question have already been doing keto for three to six months. They've lost weight, they feel sharper, maybe their doctor mentioned their fasting glucose looked better. And now they're quietly worried they're doing something they'll regret in ten years.

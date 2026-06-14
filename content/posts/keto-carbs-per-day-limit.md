@@ -6,8 +6,6 @@ description: "Discover the ideal keto carbs per day limit to stay in ketosis. Le
 image: "https://images.pexels.com/photos/106877/pexels-photo-106877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "carbs", "limit"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-carbs-per-day-limit"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on how far over and what your current metabolic state is. If you're well-adapted and eat 5 to 10 grams over your usual intake, you may not notice any difference. If you're a beginner and eat 60 grams in one day when you've been targeting 20, you'll likely drop out of ketosis temporarily. The longer you've been keto-adapted, the more buffer you have. Don't treat a single over-budget day as a reason to abandon the approach. Get back to baseline the next day and move on."
   - q: "Should I count carbs in coffee additives or cooking oils?"
     a: "Cooking oils and plain fats have zero carbs, so no. Black coffee has trace carbs (under 1 gram per cup) that you can reasonably ignore. Where it gets important is with cream, flavored creamers, and any sweeteners. Heavy cream has about 0.4 grams of carbs per tablespoon, which is minimal but adds up if you're using several tablespoons daily. Flavored coffee creamers, even 'sugar-free' versions, can have 1 to 2 grams per tablespoon from thickeners and fillers. If you're drinking three or four cups of coffee a day with seasoned cream, it's worth logging."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 You're four days into keto. You've been careful, you've cut out bread and pasta, you're drinking water like it's your job. But the scale hasn't budged, you feel like garbage, and you're wondering if you miscounted something. A friend tells you that you need to stay under 20 grams of carbs. A blog says 50 is fine. A YouTube video says net carbs are the only thing that matters. You close three tabs in frustration and eat a handful of almonds, suddenly unsure whether that was a mistake.

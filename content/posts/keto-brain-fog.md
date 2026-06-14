@@ -6,8 +6,6 @@ description: "Struggling with keto brain fog? Discover why it happens, how long 
 image: "https://images.pexels.com/photos/3070970/pexels-photo-3070970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "brain"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-brain-fog"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "More fat helps if total calories are too low. Protein is interesting: some evidence suggests adequate protein (around 1.2 to 1.7 grams per kilogram of body weight) supports cognitive function, and many keto dieters undereat it. I'd look at whether protein intake is sufficient before adding more fat."
   - q: "Is MCT oil actually worth buying for brain fog?"
     a: "Probably, as a short-term tool during adaptation. The effect is real for many people, and the mechanism (rapid conversion to ketones) makes sense. It won't fix electrolyte deficiencies or sleep problems, so treat it as a supplement to the basics, not a replacement. Budget brands are fine; you don't need the premium versions."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most people blame keto brain fog on the diet itself. That framing is almost always wrong, and it keeps people from fixing the actual problem.

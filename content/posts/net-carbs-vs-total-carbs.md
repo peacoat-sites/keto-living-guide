@@ -6,8 +6,6 @@ description: "Learn the difference between net carbs and total carbs, how to cal
 image: "https://images.pexels.com/photos/15167396/pexels-photo-15167396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["carbs", "total", "carbs"]
-author: "Dr. Maya Chen"
-author_bio: "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."
 slug: "net-carbs-vs-total-carbs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Psyllium husk is one of the most studied fibers and has a genuinely minimal glycemic impact. It's also useful for digestive regularity on keto, which can be a real issue when you're cutting grains. A tablespoon of psyllium husk powder has about 7 grams of total carbs, almost entirely fiber, with effectively zero net carbs. Subtract confidently."
   - q: "If I go over on net carbs but not total carbs, will I get kicked out of ketosis?"
     a: "It depends on the source of those extra net carbs. If you went over because you ate an extra cup of broccoli, almost certainly not. If you went over because you had a maltitol-heavy candy bar and you underestimated the impact, possibly yes. Ketosis is driven by actual blood glucose and insulin response, not the number in your app. The only reliable way to know is to test ketones directly. If you're getting kicked out of ketosis at carb levels that should theoretically keep you in, the usual culprits are hidden sugars, underestimated portions, or sugar alcohols that aren't as inert as advertise"
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 You're three weeks into keto, you've been diligent about staying under 20 grams of carbs per day, and then a friend tells you that you've been counting wrong the whole time. Maybe you've been tracking total carbs when you should be tracking net carbs, or vice versa. Suddenly a food that seemed off-limits looks fair game, and a snack you've been eating freely might be the reason you haven't hit ketosis yet. This single distinction, net carbs versus total carbs, causes more confusion among beginners than almost any other keto concept. Let's untangle it for good.

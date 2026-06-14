@@ -6,8 +6,6 @@ description: "Discover why electrolytes on keto matter, which minerals you need 
 image: "https://images.pexels.com/photos/30296727/pexels-photo-30296727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["electrolytes", "keto"]
-author: "Sarah Whitmore"
-author_bio: "Sports nutritionist specializing in metabolic health and ketogenic performance for athletes and everyday people."
 slug: "electrolytes-on-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. A lot of popular sports drinks and electrolyte mixes contain 10-20 grams of sugar or more per serving, which will knock you out of ketosis or at minimum spike your insulin enough to interfere with fat burning. Look at the label and check total carbohydrates. You want products with less than 2 grams of net carbs per serving, and ideally zero. LMNT, Ultima Replenisher, and Nuun Sport (not Nuun Energy, which has caffeine and more carbs) are the ones I most commonly recommend."
   - q: "Can I get enough electrolytes from keto foods alone without any supplements?"
     a: "Yes, it's possible, but it requires consistent, deliberate meal planning. A day with two cups of leafy greens, a whole avocado, a 6-oz portion of salmon, pumpkin seeds as a snack, and food seasoned generously with salt can cover most of your bases. Where people run into trouble is eating the same three or four keto staples repeatedly without tracking. Chicken breast and cheese every day won't cut it. Variety matters. A good food tracking app like Cronometer, which actually shows micronutrients unlike most trackers, is worth using for at least a few weeks to see where your gaps are."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You're three days into keto, feeling proud of yourself for ditching the bread and pasta, and then it hits: a throbbing headache, shaky legs, and a fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on the phrase "keto flu." Most articles tell you to push through. Here's what they often leave out: what you're experiencing isn't really a carb-withdrawal crisis. It's an electrolyte emergency, and it's almost entirely preventable.

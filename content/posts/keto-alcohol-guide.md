@@ -6,8 +6,6 @@ description: "Discover which alcoholic drinks fit your keto lifestyle. Learn low
 image: "https://images.pexels.com/photos/5639496/pexels-photo-5639496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "alcohol", "guide"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-alcohol-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plain hard seltzers like White Claw Natural Lime or Truly Hard Seltzer run about 2g of carbs per can and are generally fine in moderation. The 'lemonade' and 'tea' varieties and anything with added juice can be significantly higher, so check the label rather than assuming."
   - q: "Will alcohol stop my weight loss on keto?"
     a: "It can slow it, yes. Alcohol is metabolized before fat, so fat burning takes a back seat while you're drinking. Regular, heavy drinking on keto will likely stall your progress. Occasional moderate drinking, combined with smart choices about what you're drinking and what you're eating afterward, typically has a small and temporary effect for most people."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about alcohol on keto than any article I'd read.

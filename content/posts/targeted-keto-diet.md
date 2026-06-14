@@ -6,8 +6,6 @@ description: "Discover how a targeted keto diet can boost your performance and e
 image: "https://images.pexels.com/photos/2383008/pexels-photo-2383008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["targeted", "keto", "diet"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "targeted-keto-diet"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "White rice, dextrose powder, glucose tablets, and watermelon are popular choices. You want fast absorption and minimal fiber. Avoid protein bars marketed as 'keto-friendly carbs' for this purpose: they're usually slow-digesting and loaded with fiber or sugar alcohols that won't serve you here. Keep it simple. A small serving of white rice 45 minutes before training is genuinely one of the better options."
   - q: "Does TKD work for women differently than men?"
     a: "Hormonal differences mean women often have a somewhat different response to carbohydrate timing and fat adaptation. Some research suggests women oxidize fat more readily than men during moderate exercise, which may mean carbohydrate supplementation matters less for women at lower training intensities. However, the underlying physiology of glycogen use during high-intensity exercise applies across sexes. If you're a woman doing intense training and experiencing the performance issues described above, TKD is worth testing under the same principles. Tracking your response over 3 to 4 weeks will t"
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.

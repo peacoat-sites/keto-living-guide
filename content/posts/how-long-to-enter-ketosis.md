@@ -6,8 +6,6 @@ description: "Find out exactly how long it takes to enter ketosis, what factors 
 image: "https://images.pexels.com/photos/8175357/pexels-photo-8175357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["long", "enter", "ketosis"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "how-long-to-enter-ketosis"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Moderate exercise helps. Intense exercise is more complicated. Very high-intensity work (heavy weightlifting, sprinting, HIIT) uses glycogen almost exclusively and can temporarily raise blood glucose through cortisol release. This may actually slow your transition slightly. A 30 to 45 minute walk, a light bike ride, or moderate-intensity resistance training is the sweet spot for glycogen depletion without hormonal interference."
   - q: "Can I accidentally kick myself out of ketosis once I'm in it?"
     a: "Absolutely. Eating 50 or more grams of net carbs in a sitting, a large amount of fruit, a regular-size burger bun, rice at dinner, or even a few glasses of wine can raise insulin and interrupt ketone production for 12 to 48 hours. The good news is that re-entering ketosis after a slip is usually faster than the initial transition because your body has already adapted enzymatically. Many experienced keto dieters are back in ketosis within 24 hours after a cheat meal."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most people expect to wake up in ketosis after three or four days of cutting carbs. Then day five arrives, they test their urine with a ketone strip, and it reads negative. Panic sets in. They google furiously, second-guess every meal, and sometimes quit before their body has had a real chance to make the shift. Sound familiar? The truth is that "how long does it take to enter ketosis" doesn't have a single clean answer, and the range can genuinely surprise you: anywhere from 2 days to 2 weeks, depending on factors most beginner guides never mention.

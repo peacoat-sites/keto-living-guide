@@ -6,8 +6,6 @@ description: "Discover what 20 grams of carbs looks like on a keto diet, with fo
 image: "https://images.pexels.com/photos/5242266/pexels-photo-5242266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["grams", "carbs", "keto"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "20-grams-carbs-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. Muscle glycogen depletion from exercise creates more room for dietary carbohydrates before you overflow into glucose-fueled metabolism. This is the principle behind targeted ketogenic diets (TKD), where small carb amounts are consumed around workouts. Athletes doing significant endurance or resistance training often find they can sustain ketosis at higher carb intakes than sedentary individuals. The effect is real but the magnitude varies considerably between people."
   - q: "What happens if I go over 20 grams one day?"
     a: "Probably not much, especially if you're already adapted. A single excess will temporarily reduce ketone production, but a metabolically adapted person typically returns to ketosis within 24 hours. The disruption is more significant during the initial weeks of adaptation. Persistent daily overages above your personal threshold will impair ketosis long-term. One bad day won't derail weeks of progress."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most people starting keto land on 20 grams of net carbs per day because someone told them to. A blog post, a Reddit thread, a friend who lost 40 pounds. And it works, at least at first, so nobody asks where the number actually came from. What surprises me, even after years of working with clients on this, is how few people understand *why* 20 grams became the default, what the research actually says about it, and whether that specific number is doing them any favors or just creating unnecessary misery.

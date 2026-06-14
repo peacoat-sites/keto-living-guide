@@ -6,8 +6,6 @@ description: "Discover easy and delicious keto dinner recipes perfect for low-ca
 image: "https://images.pexels.com/photos/6952150/pexels-photo-6952150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "dinner", "recipes"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "keto-dinner-recipes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You don't need it, but it has legitimate uses. MCT oil (medium-chain triglycerides, derived from coconut oil) is absorbed differently than most fats and converted to ketones quickly, which can help people transitioning into ketosis. Some clients add a tablespoon to a fat-based sauce or drizzle it over a salad. It has a neutral flavor in most forms. It's not magic, and it's not necessary, but it's a reasonable tool."
   - q: "Will keto dinners leave me hungry later at night?"
     a: "If you're eating enough fat and enough total calories, no. Hunger at night usually means one of three things: the dinner was too low in fat, total calories were too restricted, or electrolytes are low (which mimics hunger). A fat-forward dinner like crispy chicken thighs with creamed spinach or a ribeye with buttered asparagus should carry most people comfortably to the next morning. If it doesn't, a small snack of cheese, a hard-boiled egg, or a handful of macadamia nuts is entirely keto-compatible."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people quit keto at dinner. Not at breakfast, when eggs are easy. Not at lunch, when a salad feels virtuous. It's the evening meal, when the family wants pasta and you're staring at a block of cheese wondering what exactly you're supposed to do with it, that breaks the streak. I've watched this happen with dozens of clients. The plan falls apart not because keto is too hard, but because nobody gave them a repertoire of real dinners that actually taste like dinner.

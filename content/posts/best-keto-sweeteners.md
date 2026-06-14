@@ -6,8 +6,6 @@ description: "Discover the best keto sweeteners to satisfy your sweet tooth with
 image: "https://images.pexels.com/photos/1305063/pexels-photo-1305063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "keto", "sweeteners"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-keto-sweeteners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most of the culprits are sugar alcohols, specifically the ones your body absorbs incompletely. When maltitol, sorbitol, or isomalt reach your large intestine unabsorbed, gut bacteria ferment them and produce gas. Erythritol is the exception among sugar alcohols because it's absorbed almost entirely in the small intestine before it can ferment. Stevia and monk fruit don't cause this issue. If you're bloating after keto sweets, maltitol in the ingredient list is suspect number one."
   - q: "Can I use regular brown sugar substitutes for keto baking?"
     a: "There are some good options. Allulose with a small amount of blackstrap molasses (about half a teaspoon per cup of sweetener) mimics brown sugar's flavor reasonably well with minimal carb impact from the molasses. Several commercial brown sugar substitutes use erythritol or allulose with natural flavoring. Check the label for any maltitol, brown rice syrup, or other high-glycemic fillers, which occasionally appear even in products marketed to keto consumers."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You've been doing keto for three weeks, you're staying under 20 grams of carbs, and you decide to reward yourself with a "keto brownie" made with a popular sweetener blend you grabbed at the grocery store. Two hours later, you're stalled, bloated, and reading ingredient labels with a flashlight. The sweetener was the problem, and the bag never told you why.

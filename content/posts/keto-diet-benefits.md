@@ -6,8 +6,6 @@ description: "Discover the top keto diet benefits, from rapid weight loss and im
 image: "https://images.pexels.com/photos/13630358/pexels-photo-13630358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "benefits"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-diet-benefits"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Short-term, possibly. The first 2-4 weeks can see a drop in high-intensity performance as your muscles adapt to burning fat instead of glycogen. After that adaptation period, most endurance athletes report returning to baseline or improving. High-intensity power sports (sprinting, heavy lifting at max effort) rely heavily on glycogen and tend to see more persistent performance effects. Many strength athletes use a targeted ketogenic approach, adding 20-30g fast carbs right before training to address this."
   - q: "What's the difference between keto and just 'low carb'?"
     a: "It's a matter of degree. A general low-carb diet might cap carbs at 100-150g per day, which reduces blood sugar swings and improves insulin sensitivity but doesn't reliably produce ketosis. Keto requires staying under 50g net carbs per day (often under 20-25g to be reliable), which is specific enough to trigger significant ketone production. Some people do better with standard low carb and never feel the need to go all the way to ketosis, and that's a completely valid approach."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Most people who end up going keto don't do it because they read a study. They do it because something stopped working. The scale hasn't moved in six weeks. They're tired after lunch every single day. Their doctor mentioned their fasting glucose is "trending up." That was the moment for a lot of my clients, and it might be yours too. The keto diet gets a lot of hype and a fair amount of eye-rolls, but underneath both reactions there's a real body of evidence worth understanding before you decide whether this way of eating makes sense for you.

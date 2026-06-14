@@ -6,8 +6,6 @@ description: "Discover easy keto fat bombs recipes packed with healthy fats to k
 image: "https://images.pexels.com/photos/5149348/pexels-photo-5149348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "bombs", "recipe"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-fat-bombs-recipe"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Any food with calories breaks a fast. Whether that matters depends on your goals. If you're doing time-restricted eating primarily for metabolic benefits and your fat bombs are kept to under 50 calories, the impact is minimal for most people. For strict extended fasts, skip them until your eating window."
   - q: "Are store-bought fat bombs worth buying?"
     a: "A few are decent, but most are overpriced for what they deliver and contain ingredient compromises you wouldn't make at home. If convenience matters, keto-friendly snack bars are worth comparing against homemade cost and quality. Make your own when you can. The cost per piece is a fraction of retail, and you control every ingredient. Making fat bombs well is a small skill that pays off consistently, not because they're keto magic, but because having something genuinely satisfying on hand reduces the decisions that derail diets. One good batch on Sunday means a week of not raiding the office sn"
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Most fat bomb recipes floating around keto blogs are essentially candy with a press release. Heavy cream, peanut butter, chocolate chips, a drizzle of something photogenic, and a macro count that's been optimistically rounded. If you've made a batch and found them either too sweet to feel like real food or not satisfying enough to justify the calories, you're not imagining things. The recipe wasn't designed around your hunger signals. It was designed around clicks.

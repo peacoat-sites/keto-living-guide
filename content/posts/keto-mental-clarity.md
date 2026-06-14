@@ -6,8 +6,6 @@ description: "Discover how the keto diet can boost mental clarity, sharpen focus
 image: "https://images.pexels.com/photos/31233885/pexels-photo-31233885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "mental", "clarity"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-mental-clarity"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Large amounts of fat in a single meal can cause a temporary dip in alertness in some people, particularly saturated fat from things like heavy cream or fatty meat. This isn't universal, but it's real. If you notice this pattern, try distributing fat more evenly across the day rather than front-loading it, and pay attention to whether specific sources are the culprit."
   - q: "Is the mental clarity just placebo effect?"
     a: "Some of it probably is, and I don't think that's a reason to dismiss it. Placebo effects on cognitive symptoms are real and meaningful. But the mechanisms I described above, ketone metabolism, glucose stability, electrolyte balance, and sleep improvement, are physiologically sound. The honest answer is: it's likely some of both, and for most people, it doesn't much matter why it works if it works."
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 A lot of people come to keto for weight loss. But they stay for the brain.

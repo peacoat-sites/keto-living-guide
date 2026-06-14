@@ -6,8 +6,6 @@ description: "Discover the key differences between dirty keto and clean keto die
 image: "https://images.pexels.com/photos/142890/pexels-photo-142890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["dirty", "keto", "clean", "keto"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "dirty-keto-vs-clean-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Clean keto does not require premium-label foods to be effective. Conventional eggs are still nutrient-dense. Frozen spinach and broccoli are just as nutritious as fresh. Canned sardines are among the best omega-3 sources available anywhere and cost almost nothing. The clean vs. dirty distinction is about processed vs. whole food, not budget vs. premium. You can eat genuinely well on this approach without spending more than you would on convenience food."
   - q: "Should I consult a doctor or dietitian before starting keto?"
     a: "Yes, and I'd say this even without the YMYL disclaimer prompting me to. If you're managing diabetes, cardiovascular disease, kidney issues, or are on medications, keto can affect how your body responds to those conditions in ways that need monitoring. A registered dietitian who works with low-carb diets can also help you navigate the food quality side of things in a way that's personalized to your labs, your lifestyle, and your history. Generic advice, including this article, has limits. The real question was never 'which one gets you into ketosis faster.' Both do. The question is what you're"
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
+author_title: "Medical Reviewer"
+author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+
 ---
 
 Picture this: two people are both "doing keto." One eats bacon, string cheese, and fast food bunless burgers every day. The other meal-preps salmon, roasted vegetables, and avocado. Both are hitting under 20 grams of net carbs. Both are in ketosis. One of them feels amazing after three months. The other is exhausted, constipated, and quietly wondering why everyone said this diet would change their life. That gap, right there, is the dirty keto vs. clean keto problem in a nutshell.

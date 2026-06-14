@@ -6,8 +6,6 @@ description: "Discover how the keto diet may help manage type 2 diabetes by lowe
 image: "https://images.pexels.com/photos/4016595/pexels-photo-4016595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "type", "diabetes"]
-author: "Sarah Whitmore"
-author_bio: "Sports nutritionist specializing in metabolic health and ketogenic performance for athletes and everyday people."
 slug: "keto-for-type-2-diabetes"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. Protein and fat are naturally satiating, and ketones themselves appear to suppress appetite. Most people eat fewer calories without tracking them, which is one reason keto tends to produce weight loss even without calorie counting. That said, if you're not seeing blood sugar improvements or weight loss after four to six weeks, logging food in an app like Cronometer for a week or two can reveal hidden carbs or calorie surplus. It's a useful diagnostic tool, not a permanent chore."
   - q: "What's the best way to handle eating out on keto with diabetes?"
     a: "Stick to protein and fat, ask for substitutions without shame, and watch for hidden carbs in sauces, marinades, and breading. At most restaurants, a bunless burger with a side salad, grilled fish with vegetables, or a steak with no potato swap is achievable. Tex-Mex spots are tricky because beans and rice are everywhere, but a fajita bowl with meat, guacamole, cheese, and sour cream minus the tortillas and rice works perfectly well. Your glucose meter will quickly teach you which restaurants and which dishes are actually safe for you."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Imagine your doctor tells you that your A1C has dropped from 8.4 to 5.9 in six months, and you've cut your metformin dose in half. That's not a hypothetical. That's what happened to David, a 54-year-old client of mine who started a ketogenic diet after years of struggling to control his blood sugar through calorie restriction alone. His results weren't magic. They were metabolic.

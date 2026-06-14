@@ -6,8 +6,6 @@ description: "Try this keto bread recipe for low-carb baking at home. Easy steps
 image: "https://images.pexels.com/photos/7936658/pexels-photo-7936658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "bread", "recipe"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-bread-recipe"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Keep it in an airtight container or zip bag. At room temperature it lasts 2 to 3 days. In the refrigerator it's good for up to a week. For longer storage, slice the entire loaf after it cools, place parchment between slices, and freeze in a sealed bag for up to 3 months. Toast from frozen without thawing first."
   - q: "Is store-bought keto bread actually keto?"
     a: "Some of it is, some of it isn't. Always check the nutrition label and specifically look at net carbs (total carbs minus fiber and sugar alcohols). Some commercial keto breads use wheat gluten or oat fiber, which keeps the net carbs low but may cause issues for people who are sensitive to gluten. If strict ketosis is your goal, homemade gives you full control over every ingredient."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Most people quit keto within the first two weeks, and if you ask them why, a huge number will say the same thing: they missed bread. Not pasta, not cake, not even pizza. Bread. That soft, chewy, familiar staple that holds sandwiches together, soaks up soup, and makes breakfast feel like breakfast. The good news is you don't have to give it up. A well-made keto bread recipe can get you within striking distance of the real thing, and once you nail the technique, you'll wonder why you ever thought this diet meant deprivation.

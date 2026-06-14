@@ -6,8 +6,6 @@ description: "Easy keto meals that fit your busy lifestyle. Discover simple, del
 image: "https://images.pexels.com/photos/36501108/pexels-photo-36501108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["easy", "keto", "meals"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "easy-keto-meals"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and this is one of keto's underrated strengths. Most keto meals are built around proteins and flavors that everyone enjoys. Make taco bowls, burger patties, or sheet pan chicken for the family. Serve theirs with rice, tortillas, or bread. Keep yours grain-free. The main protein is identical, which means you're not cooking two separate dinners."
   - q: "What's the best way to handle keto when eating out?"
     a: "Most restaurants are easier to navigate keto-friendly than people expect. At a burger spot, order the burger without the bun and add avocado. At a steakhouse, replace the potato with extra vegetables or a side salad. At a Mexican restaurant, a fajita bowl minus the rice and beans works well. At an Italian restaurant, skip pasta dishes and go for grilled proteins with olive oil. The main traps to avoid are breaded proteins, sweet sauces, and anything 'glazed' or 'teriyaki.'"
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're already a little hungry and a little cranky, and you have zero interest in spending 45 minutes in the kitchen. Sound familiar? A lot of people abandon keto right at this exact moment. Not because the diet stopped working, but because they ran out of fast, satisfying ideas. The good news is that keto is actually one of the most meal-prep-friendly dietary approaches out there, and once you get a feel for the core building blocks, you can throw together a genuinely great dinner in 15 to 20 minutes flat.

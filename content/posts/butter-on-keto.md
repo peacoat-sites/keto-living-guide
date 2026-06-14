@@ -6,10 +6,13 @@ description: "Discover why butter is a keto superfood! High in healthy fats and 
 image: "https://images.pexels.com/photos/10025498/pexels-photo-10025498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["butter", "keto"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "butter-on-keto"
 affiliate_disclosure: false
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Butter is probably the least controversial fat in keto circles, which is exactly why most articles about it are so useless. Everyone already knows it's "allowed." What they don't know is which butter actually matters, how much moves the needle on ketosis versus how much is just calorie padding, and whether the grass-fed premium is worth the price or just savvy marketing aimed at people who've already bought in.

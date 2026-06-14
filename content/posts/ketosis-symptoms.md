@@ -6,8 +6,6 @@ description: "Discover the most common ketosis symptoms, from increased energy a
 image: "https://images.pexels.com/photos/9927899/pexels-photo-9927899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["ketosis", "symptoms"]
-author: "Dr. Maya Chen"
-author_bio: "Registered dietitian and certified personal trainer. Has coached 400+ clients through ketogenic eating."
 slug: "ketosis-symptoms"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is less common but real. A second-wave slump around weeks two to four sometimes hits when your body has burned through glycogen stores but hasn't yet fully upregulated the fat-oxidation enzymes needed to run efficiently on ketones. True fat adaptation takes four to twelve weeks for most people. Keep your electrolytes up, eat enough, and stay patient. Adding in some light-to-moderate exercise can actually speed up fat adaptation by increasing demand for alternative fuel."
   - q: "Will I lose more weight if I have more ketosis symptoms?"
     a: "No, and this is an important misconception to clear up. Symptom intensity doesn't correlate with fat loss or ketone levels. Someone who feels miserable during the transition isn't losing more weight than someone who sails through it. What actually drives fat loss on keto is a sustained caloric deficit, maintained over time, with adequate protein to protect muscle mass. Darker urine strips don't mean faster results either. Focus on food quality, consistency, and total intake tracked with a kitchen scale for accuracy, not on how bad you feel."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 You started eating keto three days ago, and something feels off. Your head is pounding, your mouth tastes like you've been chewing on pennies, and you're somehow both exhausted and weirdly energized at the same time. Before you Google your symptoms in a panic and convince yourself you have a rare metabolic disorder, take a breath. What you're experiencing is almost certainly your body crossing the threshold into ketosis, and most of it is completely normal. Some of it is even a good sign.

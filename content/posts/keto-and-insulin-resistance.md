@@ -6,8 +6,6 @@ description: "Discover how the keto diet may help improve insulin resistance, st
 image: "https://images.pexels.com/photos/4108124/pexels-photo-4108124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "insulin", "resistance"]
-author: "Tom Reyes"
-author_bio: "Health writer and low-carb researcher focusing on ketosis, insulin resistance, and metabolic flexibility."
 slug: "keto-and-insulin-resistance"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Testing is useful, especially early on. A continuous glucose monitor (CGM) or a basic glucometer gives you real-time feedback on how specific foods affect your blood sugar. Ketone testing via blood (more accurate) or urine strips helps confirm you're in ketosis. The Keto-Mojo meter tests both blood glucose and ketones from one device and is well-regarded in the keto community. (This site may earn a commission.)"
   - q: "Is keto safe if I'm currently on diabetes medication?"
     a: "This is a non-negotiable one to discuss with your doctor before starting. Keto lowers blood glucose significantly and quickly. If you're taking sulfonylureas or insulin, your dose may need to be reduced almost immediately to avoid hypoglycemia. The diet can be powerful precisely because it works, and that effectiveness can interact with medication in ways that need medical supervision."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Imagine your doctor just told you that your fasting insulin came back at 28 µIU/mL. The normal range is under 10. Your blood sugar looks "fine" on paper, but your body has been quietly working overtime for years, pumping out extra insulin just to keep glucose in check. That gap between normal blood sugar and sky-high insulin is exactly where insulin resistance lives, and it's where a lot of people spend a decade before anyone gives them a real explanation. If that scenario sounds familiar, or if you've been told you're "pre-diabetic," carry weight around your midsection, struggle with energy crashes after meals, or simply can't lose weight no matter how little you eat, then understanding how a ketogenic diet interacts with insulin resistance might be the most useful thing you read this year.

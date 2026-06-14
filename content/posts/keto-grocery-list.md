@@ -6,8 +6,6 @@ description: "Stock your kitchen for keto success with this complete grocery lis
 image: "https://images.pexels.com/photos/3850662/pexels-photo-3850662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "grocery", "list"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-grocery-list"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your budget allows, grass-fed beef does have a better omega-3 to omega-6 ratio and some differences in micronutrient content. But conventional meat is not going to derail your keto results. I'd rather see someone eating conventional chicken thighs consistently than buying grass-fed beef twice a month and filling the gaps with processed keto snacks. Don't let perfect be the enemy of good here."
   - q: "How do I handle shopping for the rest of the family who isn't doing keto?"
     a: "This is genuinely one of the harder practical challenges, and I won't minimize it. The most useful approach is building meals around a keto-friendly protein and vegetable base, then adding a carb side (rice, bread, pasta) separately for the non-keto members. That way you're cooking one meal, not two. Keep your keto staples clearly identified so they don't disappear into family snacking. When everyone's eating from the same pot of protein and vegetables, the friction goes down considerably."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 You're standing in the grocery store, cart half-full, staring at a package of almond flour and trying to remember whether you already have some at home. You've got a mental list that made perfect sense at 7am but is now a fuzzy collection of "I think I need..." and "wasn't there something about electrolytes?" You leave spending more than you planned, get home, and realize you forgot heavy cream. Again.

@@ -6,8 +6,6 @@ description: "Discover what keto flu is, why it happens when starting a ketogeni
 image: "https://images.pexels.com/photos/8670205/pexels-photo-8670205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Ketosis"]
 tags: ["what", "keto", "long", "does", "last"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-is-the-keto-flu-and-how-long-does-it-last"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, typically. Every time you return to ketosis after a significant carbohydrate load, your body runs through the glycogen depletion and electrolyte shift again. The second or third time is often shorter and less severe since you know exactly what to do, but it's not free. This is one reason that planned carb cycling, rather than accidental cheating, makes the reentry less disruptive."
   - q: "Can keto flu affect your sleep?"
     a: "It can, and the mechanism is interesting. Carbohydrates support serotonin and melatonin synthesis, so people sometimes sleep worse in the first week or two on keto. Magnesium supplementation helps. So does keeping carb restriction to earlier in the day if you're doing carb cycling, or ensuring adequate calorie intake overall. Sleep disruption typically normalizes by weeks 2-3."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 You cut carbs four days ago. You feel like you've been hit by a slow-moving truck. Your head aches, your legs are heavy, and you're snapping at people who don't deserve it. You're wondering whether keto is actually working or actively trying to kill you.

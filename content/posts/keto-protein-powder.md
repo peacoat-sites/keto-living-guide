@@ -6,8 +6,6 @@ description: "Discover the best keto protein powders to support low-carb goals. 
 image: "https://images.pexels.com/photos/6632328/pexels-photo-6632328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["supplements"]
 tags: ["keto", "protein", "powder"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-protein-powder"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but be more careful about total carbs from all sources during the first 2-4 weeks. Your body is adjusting its metabolic machinery and any consistent carb creep, even from small amounts in shakes, can slow the transition. Stick to a very clean isolate during this period."
   - q: "Why do I feel bloated after protein shakes on keto?"
     a: "Usually it's a dairy sensitivity (whey is dairy-derived), the specific sweetener used, or consuming the shake too fast. Try egg white protein or a pea/rice blend to see if the issue follows. If bloating goes away, you've found your culprit."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Most keto protein powder advice stops at "check the carbs on the label." That's table stakes. The harder questions, which almost nobody addresses clearly, are about what the protein actually does to your ketosis, whether the product is worth the premium price, and why so many people feel worse after adding a protein shake to a keto diet, not better.

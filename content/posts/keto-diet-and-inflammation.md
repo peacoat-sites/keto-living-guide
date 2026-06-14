@@ -6,8 +6,6 @@ description: "Discover how the keto diet may reduce chronic inflammation, the sc
 image: "https://images.pexels.com/photos/6544260/pexels-photo-6544260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "inflammation"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "keto-diet-and-inflammation"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research is genuinely complicated here. Saturated fat in isolation, in metabolically healthy people, doesn't appear to be as inflammatory as older dietary guidelines suggested. But context matters: the same amount of saturated fat in someone with high blood sugar or metabolic syndrome behaves differently. The stronger argument for anti-inflammatory keto is to emphasize monounsaturated fats (olive oil, avocados) and omega-3s rather than treating saturated fat as either villain or hero."
   - q: "Do I need to be in deep ketosis for the anti-inflammatory effects?"
     a: "Probably not. Research on BHB's effects on the NLRP3 inflammasome doesn't suggest you need very high ketone levels. Consistent mild ketosis, which most people achieve at under 50g of net carbs per day, appears to be enough to generate meaningful BHB and capture most of the benefit. Chasing ketone readings of 3.0+ is usually unnecessary and, frankly, hard to sustain."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Most of what you'll read about keto and inflammation falls into one of two camps: breathless claims that it "cures" autoimmune disease, or dismissive warnings that all that saturated fat will inflame your arteries into oblivion. Both miss the actual picture, which is more interesting and more conditional than either side admits.

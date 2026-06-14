@@ -6,8 +6,6 @@ description: "Indulge in a rich, moist keto chocolate cake that satisfies your s
 image: "https://images.pexels.com/photos/30882827/pexels-photo-30882827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "chocolate", "cake"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "keto-chocolate-cake"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Refrigerated and covered, it keeps well for 4-5 days. The texture is best on day one or two. If your cake dries out faster than that, add a tablespoon of avocado oil to your next batch or swap sour cream in for any non-fat dairy."
   - q: "Does keto chocolate cake actually kick you out of ketosis?"
     a: "Depends entirely on your portion and your individual response. A well-made slice using allulose or erythritol shouldn't cause a significant blood sugar spike for most people, but everyone responds differently. If you're tracking strictly, measure your specific ingredients and use a macro calculator. And if you have any underlying health conditions, talking to a dietitian or your doctor before making significant dietary changes is always a good call."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Most keto chocolate cake recipes will lie to you. Not maliciously, just optimistically. They'll show you a glossy photo of something that looks like it came out of a bakery, and then you'll follow the instructions exactly and end up with a dense, eggy disc that tastes vaguely of almond flour and disappointment. I've tested probably two dozen variations of this recipe over the years, made the classic mistakes, and learned what actually separates the ones worth making from the ones worth forgetting.

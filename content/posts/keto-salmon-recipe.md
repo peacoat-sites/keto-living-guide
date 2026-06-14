@@ -6,8 +6,6 @@ description: "Discover a delicious keto salmon recipe packed with healthy fats a
 image: "https://images.pexels.com/photos/16845479/pexels-photo-16845479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "salmon", "recipe"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "keto-salmon-recipe"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The most reliable visual cue is color change: the flesh should be opaque about two-thirds of the way up from the bottom when cooking skin-side down. For a more precise check, a food thermometer reading 125°F to 130°F at the thickest part gives you a medium, silky texture. 145°F (the FDA-recommended safe temperature) is technically safe but will be noticeably drier."
   - q: "Can I make keto salmon in the oven instead of a pan?"
     a: "Yes. Bake at 400°F for 12 to 15 minutes depending on thickness. You won't get the crispy skin, but it's more hands-off and the texture holds up better if you're planning to refrigerate leftovers. Finishing with browned butter or cream sauce still works after oven cooking."
+author: "Diana Walsh"
+author_slug: "diana-walsh"
+author_title: "Lifestyle Writer"
+author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+
 ---
 
 Salmon might be the single most forgiving fish you can cook on keto, and somehow people still manage to ruin it. I've watched clients spend $18 on a beautiful wild-caught fillet and turn it into a gray, chalky disappointment by overcooking it two minutes past done. So before we get to any actual recipe, I want to talk about the one thing that separates good keto salmon from great keto salmon: fat timing.

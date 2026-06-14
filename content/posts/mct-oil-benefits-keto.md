@@ -6,8 +6,6 @@ description: "MCT oil benefits keto: boost ketone production, increase energy, i
 image: "https://images.pexels.com/photos/8490090/pexels-photo-8490090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["supplements"]
 tags: ["benefits", "keto"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "mct-oil-benefits-keto"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Morning is most popular and most effective for cognitive benefits. Taking it with your first meal or in coffee helps you start the day with elevated ketone levels. A mid-day dose can help with the afternoon energy dip some people experience. Avoid taking it close to bedtime for some people it can cause restlessness or GI discomfort overnight."
   - q: "Is MCT oil safe long-term?"
     a: "Current research doesn't flag long-term MCT oil use as harmful for healthy adults. It's been studied for decades in the context of medical nutrition therapy for conditions like epilepsy and malabsorption syndromes. The main thing to watch is calorie density. If you're adding it liberally without adjusting elsewhere, it can contribute to a calorie surplus over time. Used mindfully, it's considered safe and beneficial."
+author: "Emma Lawson"
+author_slug: "emma-lawson"
+author_title: "Nutrition Coach"
+author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+
 ---
 
 Picture this: it's 7 a.m., day four of your keto diet, and you're dragging yourself to the kitchen wondering why you don't feel the mental clarity everyone promised. You've been eating the right foods, keeping carbs under 20 grams, but something still feels off. A lot of people in that exact spot get told to "add MCT oil." But nobody explains *why* it works, how much to use, or what it actually does inside your body. That gap is what this article closes.

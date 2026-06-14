@@ -6,8 +6,6 @@ description: "Start your keto journey with our complete beginner meal plan. Lear
 image: "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "beginners"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "keto-meal-plan-for-beginners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Don't panic. You're not starting over from zero. Get back on plan at your next meal. If you ate a significant amount, drinking extra water, doing some light exercise, and going to bed a little hungry can help your body return to ketosis faster. One slip doesn't erase progress."
   - q: "Is this meal plan safe for people with diabetes or insulin resistance?"
     a: "Ketogenic diets have shown real promise for improving insulin sensitivity and blood sugar regulation. Many people with Type 2 diabetes use it successfully. However, if you're on medication for diabetes, insulin especially, you need to involve your doctor before starting. Carb reduction can change your medication needs quickly, and adjustments may be required. Our deep-dive on keto and insulin resistance is worth reading if this applies to you."
+author: "Ryan Park"
+author_slug: "ryan-park"
+author_title: "Fitness Editor"
+author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+
 ---
 
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.

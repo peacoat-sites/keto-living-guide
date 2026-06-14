@@ -6,8 +6,6 @@ description: "Discover how fast keto weight loss really works, what results to e
 image: "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["fast", "keto", "weight", "loss"]
-author: "Jake Morrison"
-author_bio: "Certified nutrition coach and keto educator. Lost 65 lbs on keto in 2018 and has been helping others ever since."
 slug: "how-fast-keto-weight-loss"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're gaining in the first week, you likely haven't fully depleted your glycogen stores yet, or you may have increased calorie intake without realizing it. Fat is calorie-dense, and portions matter. If you're gaining after a month of keto, check total calories first. After that, look at whether any medical factors like thyroid dysfunction or PCOS might be playing a role. These conditions genuinely affect weight loss and are worth discussing with your doctor."
   - q: "How do I know if I'm actually in ketosis?"
     a: "The most accurate at-home method is a blood ketone meter. Nutritional ketosis is generally defined as blood ketone levels between 0.5 and 3.0 mmol/L. Urine strips are cheaper but less reliable after the first few weeks because your body gets better at using ketones rather than excreting them. Breath meters fall somewhere in between. Symptoms like reduced hunger, mental clarity, and a slightly metallic or fruity taste in the mouth are common early signs, but they're not a reliable long-term indicator."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.

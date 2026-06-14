@@ -6,8 +6,6 @@ description: "Discover the best keto meal delivery services that save time and k
 image: "https://images.pexels.com/photos/10074027/pexels-photo-10074027.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["products"]
 tags: ["keto", "meal", "delivery", "services"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-meal-delivery-services"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a real gap in the delivery model. For travel, the most practical approach is a combination of strategic restaurant ordering (steak, eggs, salads with olive oil, grilled fish) and shelf-stable backups. Individually packaged nuts, jerky with minimal additives, and single-serve nut butters travel well. Some people also use keto-friendly protein bars as insurance. None of these are perfect, but they're far better than arriving somewhere hungry with no plan."
   - q: "Do I need to use a keto meal delivery service to be successful on keto?"
     a: "No, and I want to be direct about this. Plenty of people do keto successfully through home cooking, meal prepping, and thoughtful restaurant choices. Delivery services are a tool, not a requirement. If you enjoy cooking and can batch prep on Sundays, a good cookbook like Practical Keto Meal Plans and some solid containers might serve you better than a subscription. Use delivery where it actually helps your life. Don't use it out of obligation."
+author: "Jake Torres"
+author_slug: "jake-torres"
+author_title: "Recipe Developer"
+author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+
 ---
 
 You've been eating keto for three weeks. The first week felt manageable. You batch-cooked on Sunday, portioned out your meals, and actually felt good about it. Then Wednesday of week two happened — long day, no prep done, and you ended up staring into the fridge at 7pm eating string cheese and deli turkey slices over the sink. By week three, you're researching whether keto meal delivery is actually worth it or just an expensive shortcut for people who can't get it together. Neither of those things is true, by the way.

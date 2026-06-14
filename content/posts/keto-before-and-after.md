@@ -6,8 +6,6 @@ description: "Discover inspiring keto before and after transformations. Real wei
 image: ""
 categories: ["inspiration"]
 tags: ["keto", "before", "after"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "keto-before-and-after"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In the first week, yes, a meaningful chunk of it is. After that, genuine fat loss takes over if you're in a caloric deficit. The two effects layer on top of each other, which is part of why early results look so striking."
   - q: "Do you need to be in ketosis to see results?"
     a: "Strict ketosis (blood ketones above 0.5 mmol/L) isn't required for every benefit. Many of the metabolic improvements associated with keto come from carbohydrate restriction itself, even if you're in a moderate-low range rather than deep ketosis. For some goals, like therapeutic use for epilepsy, precise ketosis matters more. For general fat loss, the line is less rigid."
+author: "Mark Chen"
+author_slug: "mark-chen"
+author_title: "Research Editor"
+author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+
 ---
 
 Most people arrive at keto carrying some combination of hope and skepticism. You've probably seen the dramatic before-and-after photos online, maybe read a few success stories, and you're trying to figure out what's real versus what's been cherry-picked for maximum impact. That's a fair instinct. After years of working with clients one-on-one, I've watched keto produce genuinely striking results for some people and frustratingly modest ones for others, and the difference usually isn't willpower.
