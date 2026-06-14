@@ -3,7 +3,7 @@ title: "Keto Before And After"
 date: 2026-06-14T14:58:53.142696+00:00
 draft: false
 description: "Discover inspiring keto before and after transformations. Real weight loss stories, tips, and results to motivate your ketogenic diet journey starting today."
-image: ""
+image: "https://images.pexels.com/photos/2228553/pexels-photo-2228553.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["inspiration"]
 tags: ["keto", "before", "after"]
 slug: "keto-before-and-after"
