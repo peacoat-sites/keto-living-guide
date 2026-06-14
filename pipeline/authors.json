@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "sarah-mitchell",
+    "name": "Dr. Sarah Mitchell",
+    "title": "Medical Reviewer",
+    "specialty": "Metabolic Health & Nutritional Ketosis",
+    "bio": "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+  },
+  {
+    "slug": "jake-torres",
+    "name": "Jake Torres",
+    "title": "Recipe Developer",
+    "specialty": "Keto Cooking & Meal Planning",
+    "bio": "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+  },
+  {
+    "slug": "emma-lawson",
+    "name": "Emma Lawson",
+    "title": "Nutrition Coach",
+    "specialty": "Low-Carb Lifestyle & Habit Building",
+    "bio": "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+  },
+  {
+    "slug": "ryan-park",
+    "name": "Ryan Park",
+    "title": "Fitness Editor",
+    "specialty": "Keto Performance & Strength Training",
+    "bio": "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+  },
+  {
+    "slug": "diana-walsh",
+    "name": "Diana Walsh",
+    "title": "Lifestyle Writer",
+    "specialty": "Keto Meal Planning & Pantry Staples",
+    "bio": "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+  },
+  {
+    "slug": "mark-chen",
+    "name": "Mark Chen",
+    "title": "Research Editor",
+    "specialty": "Keto Science & Emerging Research",
+    "bio": "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+  }
+]
