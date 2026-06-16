@@ -3,7 +3,7 @@ title: "Keto Fast Food Options"
 date: 2026-05-28T12:36:14.398700+00:00
 draft: false
 description: "Discover the best keto fast food options to keep you on track. From bunless burgers to grilled chicken, enjoy low-carb meals without sacrificing taste or conven"
-image: "https://images.pexels.com/photos/793759/pexels-photo-793759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1137473/pexels-photo-1137473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "fast", "food", "options"]
 slug: "keto-fast-food-options"
@@ -106,7 +106,7 @@ When you're not starving, you make better decisions at the drive-through window.
 
 Fast food on keto is a solvable problem. Not a perfect one, not a problem that goes away entirely, but a manageable one once you know where the real carb traps are and what the menus actually offer. The gap between the worst choice and the best choice at any given fast food restaurant is enormous, and knowing the difference is genuinely useful information when you're tired, busy, and just need to eat something. As always, if you have specific health conditions or are working with a medical team on your diet, loop them in before making significant dietary changes. But if you're a generally healthy adult navigating the drive-through? You've got more options than you think.
 
-*Photo: [Jane  T D.](https://www.pexels.com/@janetrangdoan) via Pexels*
+*Photo: [Flo Dahm](https://www.pexels.com/@flodahm) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How To Start Keto"
 date: 2026-05-29T06:45:33.801579+00:00
 draft: false
 description: "Learn how to start keto with our beginner-friendly guide. Discover what to eat, foods to avoid, and simple tips to help you succeed on a ketogenic diet."
-image: "https://images.pexels.com/photos/5898219/pexels-photo-5898219.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3757743/pexels-photo-3757743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["start", "keto"]
 slug: "how-to-start-keto"
@@ -112,4 +112,4 @@ Set your macro targets based on your goals. For weight loss, a common starting p
 
 Starting keto is genuinely one of the more dramatic metabolic experiments you can run on your own body, and the first two weeks are the hardest part. Once you're through the adaptation window, most people describe a clarity and sustained energy that feels different from anything they experienced on higher-carb eating. That's not hype; it's what fat-adapted metabolism actually feels like. Get your electrolytes right, track your macros honestly for a few weeks, and give it a full 30 days before you decide whether it's for you. Most people who make it through that first window are glad they did.
 
-*Photo: [Mateusz Feliksik](https://www.pexels.com/@mateusz-feliksik-1896604) via Pexels*
+*Photo: [Alexy Almond](https://www.pexels.com/@alexy-almond) via Pexels*

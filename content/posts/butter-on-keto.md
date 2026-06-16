@@ -3,7 +3,7 @@ title: "Butter On Keto"
 date: 2026-06-09T15:44:36.286576+00:00
 draft: false
 description: "Discover why butter is a keto superfood! High in healthy fats and nearly zero carbs, learn how to use butter to fuel ketosis and enhance your low-carb meals."
-image: "https://images.pexels.com/photos/10025498/pexels-photo-10025498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7965889/pexels-photo-7965889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["butter", "keto"]
 slug: "butter-on-keto"
@@ -79,7 +79,7 @@ Ghee has a higher fat percentage, no milk solids, and a higher smoke point. For 
 
 Only if it's replacing a meal. Bulletproof-style coffee works well as a fat-based breakfast for people with low morning appetite. Adding it on top of a meal you're already eating just adds calories without any specific metabolic benefit.
 
-*Photo: [Biel  Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
+*Photo: [Felicity Tai](https://www.pexels.com/@felicity-tai) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Easy Keto Meals"
 date: 2026-05-24T14:46:59.461844+00:00
 draft: false
 description: "Easy keto meals that fit your busy lifestyle. Discover simple, delicious low-carb recipes, quick dinner ideas, and meal prep tips to stay in ketosis."
-image: "https://images.pexels.com/photos/36501108/pexels-photo-36501108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3298057/pexels-photo-3298057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["easy", "keto", "meals"]
 slug: "easy-keto-meals"
@@ -150,4 +150,4 @@ Batch cooking also works hand-in-hand with understanding [what to expect in term
 
 Easy keto meals aren't about complicated recipes or expensive specialty products. They're about learning a small set of reliable building blocks, keeping your pantry and fridge stocked intelligently, and trusting that simple is often better. Once you have a rotation of 8 to 10 meals you genuinely enjoy, the whole thing stops feeling like a restrictive diet and starts feeling like just the way you eat. That's exactly where you want to be.
 
-*Photo: [Jenna Hamra](https://www.pexels.com/@jenna-hamra-248942) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

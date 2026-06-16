@@ -3,7 +3,7 @@ title: "Keto Meal Plan 1200 Calories"
 date: 2026-06-12T15:52:03.178397+00:00
 draft: false
 description: "Discover a simple keto meal plan at 1200 calories to burn fat fast. Get easy low-carb recipes, shopping lists, and tips to kickstart your weight loss today."
-image: "https://images.pexels.com/photos/11852051/pexels-photo-11852051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4519053/pexels-photo-4519053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "1200", "calories"]
 slug: "keto-meal-plan-1200-calories"
@@ -71,7 +71,7 @@ If you're working with a doctor or registered dietitian who has reviewed your la
 ---
 
 
-*Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
+*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 
 ---
 

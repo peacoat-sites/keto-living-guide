@@ -3,7 +3,7 @@ title: "Keto Brain Fog"
 date: 2026-06-07T14:31:52.489413+00:00
 draft: false
 description: "Struggling with keto brain fog? Discover why it happens, how long it lasts, and proven tips to clear mental cloudiness fast on your ketogenic diet journey."
-image: "https://images.pexels.com/photos/3070970/pexels-photo-3070970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8560845/pexels-photo-8560845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "brain"]
 slug: "keto-brain-fog"
@@ -91,7 +91,7 @@ MCT oil is worth mentioning here. It converts to ketones quickly, even outside o
 
 The adaptation period is genuinely rough for some people, and it's okay to acknowledge that without catastrophizing it. Most keto brain fog is solvable. The fix is almost always boring: more sodium, more sleep, more patience, sometimes more food. The people who get through it and give their body a full six weeks to adapt are usually glad they did.
 
-*Photo: [Andy Kuzma](https://www.pexels.com/@littlesoad) via Pexels*
+*Photo: [Timur Weber](https://www.pexels.com/@timur-weber) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "How Much Protein Should I Eat On Keto"
 date: 2026-06-01T20:33:06.277074+00:00
 draft: false
 description: "Discover how much protein you should eat on keto to stay in ketosis, preserve muscle, and reach your goals. Get expert guidelines and easy daily intake tips."
-image: "https://images.pexels.com/photos/5463886/pexels-photo-5463886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34415588/pexels-photo-34415588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Macros"]
 tags: ["much", "protein", "should", "keto"]
 slug: "how-much-protein-should-i-eat-on-keto"

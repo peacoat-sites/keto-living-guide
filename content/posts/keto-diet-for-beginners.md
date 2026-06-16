@@ -3,7 +3,7 @@ title: "Keto Diet For Beginners"
 date: 2026-05-28T10:38:40.712902+00:00
 draft: false
 description: "Start your keto journey with confidence. Learn the basics of the ketogenic diet, what to eat, what to avoid, and simple tips to help beginners achieve fast resu"
-image: "https://images.pexels.com/photos/34993898/pexels-photo-34993898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3760259/pexels-photo-3760259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "beginners"]
 slug: "keto-diet-for-beginners"
@@ -146,4 +146,4 @@ If you want to accelerate fat adaptation, adding MCT oil to your morning coffee 
 
 Starting keto is genuinely simple, even if it doesn't feel that way when you're staring at a label trying to do carb math in the grocery store aisle. Eat real food, keep carbs under 20 grams, take your electrolytes seriously, and give your body a full four to six weeks before you decide whether this way of eating works for you. The first week is almost always the hardest. Thousands of people who felt miserable on day three are thriving on month three. You might be one of them.
 
-*Photo: [Ronit HaNegby](https://www.pexels.com/@ronit-hanegby-3651216) via Pexels*
+*Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*

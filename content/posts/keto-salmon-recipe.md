@@ -3,7 +3,7 @@ title: "Keto Salmon Recipe"
 date: 2026-06-04T12:23:17.662673+00:00
 draft: false
 description: "Discover a delicious keto salmon recipe packed with healthy fats and bold flavors. Easy to make, low carb, and perfect for a satisfying weeknight dinner."
-image: "https://images.pexels.com/photos/16845479/pexels-photo-16845479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8951035/pexels-photo-8951035.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "salmon", "recipe"]
 slug: "keto-salmon-recipe"
@@ -109,7 +109,7 @@ The brown butter version on a Tuesday night with asparagus on the side is, genui
 
 *(This site may earn a commission on Amazon purchases made through links in this article.)*
 
-*Photo: [Jane  T D.](https://www.pexels.com/@janetrangdoan) via Pexels*
+*Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 
 ---
 

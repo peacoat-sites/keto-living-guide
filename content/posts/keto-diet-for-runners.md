@@ -3,7 +3,7 @@ title: "Keto Diet For Runners"
 date: 2026-06-08T16:40:37.785777+00:00
 draft: false
 description: "Discover how the keto diet can fuel your running performance, boost fat burning, and enhance endurance. Learn tips, benefits, and potential risks for runners."
-image: "https://images.pexels.com/photos/17391583/pexels-photo-17391583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12683172/pexels-photo-12683172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "runners"]
 slug: "keto-diet-for-runners"
@@ -79,7 +79,7 @@ MCT oil is worth mentioning here. [MCT oil](https://www.amazon.com/s?k=MCT+oil+p
 
 The runners I've seen do best on keto aren't the ones who went all-in overnight because they listened to a podcast. They're the ones who treated it like a training adaptation, patient, methodical, willing to accept some temporary regression for a longer-term shift. Whether that trade-off makes sense for you depends entirely on what kind of runner you are and what you actually want. Working with a sports dietitian who knows both endurance training and low-carb physiology is worth the investment if you're serious about getting this right.
 
-*Photo: [Nadin Sh](https://www.pexels.com/@nadin-sh-78971847) via Pexels*
+*Photo: [RUN 4 FFWPU](https://www.pexels.com/@runffwpu) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "New Studies Clash on Long-Term Keto: What the Science Actually Says"
 date: 2026-06-15T17:36:56.564374+00:00
 draft: false
 description: "Conflicting research on long-term keto diets has experts divided. We break down the latest studies to reveal what the science actually says about safety and res"
-image: "https://images.pexels.com/photos/35645523/pexels-photo-35645523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7845367/pexels-photo-7845367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["studies", "clash", "long-term", "keto:", "what"]
 author: "Emma Lawson"
@@ -69,7 +69,7 @@ The blunt truth is that we don't have the long-term human randomized controlled 
 - [A long-term ketogenic diet causes hyperlipidemia, liver dysfunction, and glucose intolerance](https://www.science.org/doi/10.1126/sciadv.adx2752) (2025, widely circulated January 2026)
 - [Keto diet could unlock the effects of exercise for people with high blood sugar](https://news.vt.edu/articles/2026/02/research_fralinbiomed_lessardketo.html) (February 27, 2026)
 
-*Photo: [Sahil Singh](https://www.pexels.com/@sahilcaptures) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

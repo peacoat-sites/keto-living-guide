@@ -3,7 +3,7 @@ title: "Keto For Women Over 40"
 date: 2026-05-29T14:30:55.256264+00:00
 draft: false
 description: "Discover how the keto diet can help women over 40 balance hormones, boost metabolism, lose weight, and feel their best through menopause and beyond."
-image: "https://images.pexels.com/photos/15641820/pexels-photo-15641820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6874289/pexels-photo-6874289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "women", "over"]
 slug: "keto-for-women-over-40"
@@ -132,4 +132,4 @@ For smoothies, [MCT oil](https://www.amazon.com) is worth adding because medium-
 
 The truth is that keto isn't magic, but it does align unusually well with the hormonal reality of life after 40. It addresses insulin resistance directly. It provides a stable fuel source for a brain coping with shifting estrogen. It can reduce inflammation that's been building quietly for years. Start with the basics, test your ketones, protect your protein, and give yourself a real 90 days before drawing conclusions. Your 40s can absolutely be the decade you feel the best in your body. This might be the approach that gets you there.
 
-*Photo: [Rasul Yarichev](https://www.pexels.com/@rasul70) via Pexels*
+*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*

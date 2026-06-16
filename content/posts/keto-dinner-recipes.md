@@ -3,7 +3,7 @@ title: "Keto Dinner Recipes"
 date: 2026-05-28T04:24:04.244958+00:00
 draft: false
 description: "Discover easy and delicious keto dinner recipes perfect for low-carb living. From hearty meats to creamy sauces, enjoy satisfying meals that keep you in ketosis"
-image: "https://images.pexels.com/photos/6952150/pexels-photo-6952150.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1309595/pexels-photo-1309595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "dinner", "recipes"]
 slug: "keto-dinner-recipes"
@@ -143,4 +143,4 @@ If energy crashes are hitting you hard, especially in the first two weeks, it's 
 
 Dinner shouldn't be the meal that defeats you. With a formula instead of a rulebook, a little Sunday prep, and a handful of recipes you actually like, keto evenings can become the most satisfying part of the eating day. Start with one recipe this week. Cook it well. Then add another. That's how a sustainable habit gets built, one good dinner at a time.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*

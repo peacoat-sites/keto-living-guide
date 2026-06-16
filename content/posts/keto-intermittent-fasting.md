@@ -3,7 +3,7 @@ title: "Keto Intermittent Fasting"
 date: 2026-05-24T08:36:36.540976+00:00
 draft: false
 description: "Discover how combining keto and intermittent fasting can accelerate fat loss, boost energy, and improve metabolic health. Learn the best strategies to get start"
-image: "https://images.pexels.com/photos/33009989/pexels-photo-33009989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/48770/business-time-clock-clocks-48770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "intermittent", "fasting"]
 slug: "keto-intermittent-fasting"
@@ -110,7 +110,7 @@ Keep things like [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&t
 
 The goal here isn't to do the hardest version of keto IF to prove something. It's to find a structure that makes eating simpler, keeps you out of the grazing-because-it's-keto trap, and supports whatever your actual health goals are. Start slow, get the electrolytes right, protect your protein intake, and pay attention to how you feel rather than just what the scale says. Keto IF done well can be genuinely sustainable. Done carelessly, it's just another complicated system to burn out on. You've got better things to do with your energy.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

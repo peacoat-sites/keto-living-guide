@@ -3,7 +3,7 @@ title: "Keto Meal Plan On A Budget"
 date: 2026-05-27T03:12:55.060131+00:00
 draft: false
 description: "Discover how to follow a keto diet without breaking the bank. Get our budget-friendly keto meal plan with simple, affordable recipes and smart shopping tips."
-image: "https://images.pexels.com/photos/5900160/pexels-photo-5900160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10574817/pexels-photo-10574817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "budget"]
 slug: "keto-meal-plan-on-a-budget"
@@ -139,7 +139,7 @@ For meal prep, having the right containers makes a real difference in whether yo
 
 Eating keto on a tight budget is genuinely possible, but it requires you to let go of the version of keto you see in glossy food photography. The version that works in real life looks like chicken thighs and eggs and a head of cabbage and a slow cooker doing its thing while you're at work. It's less photogenic and considerably more sustainable. As with any significant dietary change, if you have underlying health conditions or take medications, it's worth checking in with your doctor or a registered dietitian before making major shifts. But if you've been held back by the assumption that keto has to be expensive, I hope this makes it a little easier to take the first practical step.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Rulo Davila](https://www.pexels.com/@rulomx) via Pexels*
 
 ---
 

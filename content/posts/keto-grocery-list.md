@@ -3,7 +3,7 @@ title: "Keto Grocery List"
 date: 2026-05-25T13:58:54.757297+00:00
 draft: false
 description: "Stock your kitchen for keto success with this complete grocery list covering proteins, healthy fats, low-carb veggies, dairy, and pantry staples to keep you in "
-image: "https://images.pexels.com/photos/3850662/pexels-photo-3850662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3962283/pexels-photo-3962283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "grocery", "list"]
 slug: "keto-grocery-list"
@@ -138,7 +138,7 @@ Good storage containers make a real difference if you're meal prepping. [Glass m
 
 The real secret to a good keto grocery list is that it becomes automatic fast. After four or five consistent weekly shops, you'll stop second-guessing yourself in the dairy aisle and start moving through the store with a pattern you trust. The first few trips are the hardest. Build your list before you leave the house, stick to the perimeter of the store as a general rule (that's where the meat, fish, eggs, and produce live), and don't shop hungry. Your future self, standing at the checkout with a cart that actually makes sense, will thank you. As always, working with a dietitian or your doctor when making significant dietary changes is a smart move, especially if you're managing a health condition.
 
-*Photo: [Rasul Yarichev](https://www.pexels.com/@rasul70) via Pexels*
+*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 
 ---
 

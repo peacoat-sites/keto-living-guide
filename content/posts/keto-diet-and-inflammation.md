@@ -3,7 +3,7 @@ title: "Keto Diet And Inflammation"
 date: 2026-06-12T15:49:39.261647+00:00
 draft: false
 description: "Discover how the keto diet may reduce chronic inflammation, the science behind ketones and inflammatory markers, and tips to optimize your results for better he"
-image: "https://images.pexels.com/photos/6544260/pexels-photo-6544260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9486816/pexels-photo-9486816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "inflammation"]
 slug: "keto-diet-and-inflammation"
@@ -86,7 +86,7 @@ If inflammation is your goal and you're not seeing results, look at your fat sou
 
 The most anti-inflammatory version of keto looks a lot like a Mediterranean diet that happens to be very low in carbohydrates. If you're building it around olive oil, fatty fish, and real vegetables, you're probably on solid ground. If you're building it around deli counters and cheese wax, don't be surprised when your hs-CRP doesn't budge.
 
-*Photo: [Alesia  Kozik](https://www.pexels.com/@alesiakozik) via Pexels*
+*Photo: [ROCKETMANN TEAM](https://www.pexels.com/@rocketmann-prod) via Pexels*
 
 ---
 

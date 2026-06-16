@@ -3,7 +3,7 @@ title: "Keto Diet Constipation"
 date: 2026-06-06T14:20:51.842458+00:00
 draft: false
 description: "Struggling with keto diet constipation? Discover the common causes, simple dietary fixes, and expert tips to relieve constipation and stay on track with keto."
-image: "https://images.pexels.com/photos/36936952/pexels-photo-36936952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7227647/pexels-photo-7227647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "constipation"]
 slug: "keto-diet-constipation"
@@ -77,7 +77,7 @@ If you haven't had a bowel movement in more than a week, that warrants a convers
 ---
 
 
-*Photo: [Joerg Mangelsen](https://www.pexels.com/@joerg-mangelsen-337913024) via Pexels*
+*Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*
 
 ---
 

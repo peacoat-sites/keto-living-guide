@@ -3,7 +3,7 @@ title: "Keto 7 Day Meal Plan"
 date: 2026-05-28T09:49:49.166909+00:00
 draft: false
 description: "Discover our complete keto 7 day meal plan with easy recipes, shopping lists, and macros to help you start ketosis and lose weight fast. Get started today!"
-image: "https://images.pexels.com/photos/1412010/pexels-photo-1412010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
 slug: "keto-7-day-meal-plan"
@@ -174,4 +174,4 @@ Weight loss and maintenance look slightly different on keto, and so does this me
 
 Seven days is enough time to know whether this way of eating works for you. By the end of the week, your hunger patterns will have changed, your energy will likely feel more stable, and you'll have enough meal ideas to build your second week without needing a detailed script. The goal was never to hand you a rigid plan you follow forever. It was to get you through the hard part so the rest becomes habit.
 
-*Photo: [freestocks.org](https://www.pexels.com/@freestocks) via Pexels*
+*Photo: [Ella Olsson](https://www.pexels.com/@ella-olsson-572949) via Pexels*

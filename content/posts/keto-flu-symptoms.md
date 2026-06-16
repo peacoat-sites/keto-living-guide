@@ -3,7 +3,7 @@ title: "Keto Flu Symptoms"
 date: 2026-05-26T06:18:33.492742+00:00
 draft: false
 description: "Discover the most common keto flu symptoms, why they happen, and how to ease discomfort when starting a ketogenic diet. Feel better faster with these tips."
-image: "https://images.pexels.com/photos/7615571/pexels-photo-7615571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6285326/pexels-photo-6285326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "symptoms"]
 slug: "keto-flu-symptoms"
@@ -136,4 +136,4 @@ If you have a fever, that's not keto flu. Go see a doctor.
 
 The first ten days of keto are genuinely the hardest part. Not because the diet is difficult to follow, but because your body is performing a real biochemical overhaul, and that process has costs. Get your electrolytes dialed in, eat enough fat, rest more than feels necessary, and give it the full two weeks before you decide whether this way of eating is right for you. Most of the people I've coached who pushed through that early rough patch were glad they did.
 
-*Photo: [Rasul Yarichev](https://www.pexels.com/@rasul70) via Pexels*
+*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*

@@ -3,7 +3,7 @@ title: "Foods To Avoid On Keto"
 date: 2026-05-23T12:08:19.495491+00:00
 draft: false
 description: "Discover which foods to avoid on keto to stay in ketosis. Cut out sugar, grains, fruit, and starchy carbs to maximize fat burning and reach your health goals."
-image: "https://images.pexels.com/photos/20106930/pexels-photo-20106930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8791797/pexels-photo-8791797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["foods", "avoid", "keto"]
 slug: "foods-to-avoid-on-keto"
@@ -120,4 +120,4 @@ Non-alcoholic beverages aren't innocent either. Fruit juices, sweetened iced tea
 
 Keto works when you're honest with yourself about what's going in your mouth. Not punishing yourself, not obsessing, just paying attention. The foods on this list aren't forbidden in a moral sense, they just don't fit the metabolic goal you're working toward right now. Once you know where the hidden carbs live, grocery shopping gets easier, eating out gets less stressful, and those two-week plateaus start making a lot more sense. The information is the shortcut.
 
-*Photo: [Elle Hughes](https://www.pexels.com/@elletakesphotos) via Pexels*
+*Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*

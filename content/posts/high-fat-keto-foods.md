@@ -3,7 +3,7 @@ title: "High Fat Keto Foods"
 date: 2026-06-15T17:34:16.340248+00:00
 draft: false
 description: "Discover the best high fat keto foods to fuel your low carb lifestyle. From avocados to fatty meats, boost ketosis with these delicious nutrient-rich options."
-image: "https://images.pexels.com/photos/4552980/pexels-photo-4552980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5092568/pexels-photo-5092568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["high", "keto", "foods"]
 author: "Jake Torres"
@@ -76,7 +76,7 @@ Electrolytes deserve mention here because fat-heavy eating and electrolyte balan
 
 The best high-fat keto foods are also usually the least processed and the most recognizable: eggs, fatty meat, olive oil, avocado, full-fat dairy, oily fish. Not a complicated list. The work is in making them consistently appealing, which is really just a cooking skills problem, and a very solvable one.
 
-*Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*
+*Photo: [Mithul Varshan](https://www.pexels.com/@mithulvarshan) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Keto Mental Clarity"
 date: 2026-06-08T16:38:38.743251+00:00
 draft: false
 description: "Discover how the keto diet can boost mental clarity, sharpen focus, and enhance brain function by fueling your mind with ketones instead of glucose."
-image: "https://images.pexels.com/photos/31233885/pexels-photo-31233885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19825318/pexels-photo-19825318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "mental", "clarity"]
 slug: "keto-mental-clarity"
@@ -87,7 +87,7 @@ If you've been keto for six or more weeks, you're sleeping adequately, your elec
 
 If you're early in your keto experiment and still waiting for the fog to clear, give it a few more weeks, get your electrolytes seriously dialed in, and don't skip sleep in the name of optimizing anything else. For most people, the clarity does come. And for many of them, it's what keeps them eating this way long after the weight loss goals have been met.
 
-*Photo: [Mahmoud Salem](https://www.pexels.com/@peno33) via Pexels*
+*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
 
 ---
 

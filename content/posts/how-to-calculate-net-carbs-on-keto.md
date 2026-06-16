@@ -3,7 +3,7 @@ title: "How To Calculate Net Carbs On Keto"
 date: 2026-06-01T20:30:46.678070+00:00
 draft: false
 description: "Learn how to calculate net carbs on keto by subtracting fiber and sugar alcohols from total carbs. Stay in ketosis with our simple step-by-step guide."
-image: "https://images.pexels.com/photos/5463882/pexels-photo-5463882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6694533/pexels-photo-6694533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Macros"]
 tags: ["calculate", "carbs", "keto"]
 slug: "how-to-calculate-net-carbs-on-keto"

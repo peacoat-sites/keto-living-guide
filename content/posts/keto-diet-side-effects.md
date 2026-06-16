@@ -3,7 +3,7 @@ title: "Keto Diet Side Effects"
 date: 2026-05-27T18:57:10.683717+00:00
 draft: false
 description: "Discover the most common keto diet side effects, from keto flu to nutrient deficiencies, and learn how to manage them safely for a healthier low-carb journey."
-image: "https://images.pexels.com/photos/4173251/pexels-photo-4173251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3808819/pexels-photo-3808819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["health"]
 tags: ["keto", "diet", "side", "effects"]
 slug: "keto-diet-side-effects"
@@ -110,4 +110,4 @@ People with Type 2 diabetes on medications that lower blood sugar, particularly 
 
 The first two weeks of keto are the roughest part for most people, and the good news is they're also the most predictable. Fix your electrolytes early, be patient with your digestion, don't expect peak cognitive performance while your brain is still building the machinery to burn ketones, and keep an eye on the longer-term metrics if you plan to stick with this way of eating for months or years. Keto has real benefits for a lot of people. It also has real side effects that deserve honest conversation rather than being dismissed or, equally, used to scare people away from trying. Know what's coming, have a plan, and you're already ahead of most beginners.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*

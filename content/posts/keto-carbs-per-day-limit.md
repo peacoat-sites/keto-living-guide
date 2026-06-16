@@ -3,7 +3,7 @@ title: "Keto Carbs Per Day Limit"
 date: 2026-05-22T05:59:50.136971+00:00
 draft: false
 description: "Discover the ideal keto carbs per day limit to stay in ketosis. Learn how many grams of carbs you need to cut to burn fat and boost your results fast."
-image: "https://images.pexels.com/photos/106877/pexels-photo-106877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7299855/pexels-photo-7299855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "carbs", "limit"]
 slug: "keto-carbs-per-day-limit"

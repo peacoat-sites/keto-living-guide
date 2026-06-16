@@ -3,7 +3,7 @@ title: "Keto Supplements List"
 date: 2026-05-28T15:10:50.874738+00:00
 draft: false
 description: "Discover the best keto supplements to boost your results. Our complete list covers electrolytes, MCT oil, exogenous ketones, and more for optimal ketosis."
-image: "https://images.pexels.com/photos/6805770/pexels-photo-6805770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12955610/pexels-photo-12955610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["supplements"]
 tags: ["keto", "supplements", "list"]
 slug: "keto-supplements-list"
@@ -128,7 +128,7 @@ A lot of keto beginners experience digestive issues in the first few weeks. Cons
 
 Supplements are genuinely useful, but they work in service of the diet, not instead of it. Get your food right first: quality protein, plenty of fat, green vegetables, and real salt. Then use this list as a targeted toolkit to address specific gaps and smooth out the transition. You don't need to buy everything at once. Start with a good electrolyte blend and some magnesium glycinate, pay attention to how you feel, and add from there. Most keto journeys that end in frustration end because the basics weren't in place, not because someone forgot to buy exogenous ketones.
 
-*Photo: [Ella Olsson](https://www.pexels.com/@ella-olsson-572949) via Pexels*
+*Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
 
 ---
 

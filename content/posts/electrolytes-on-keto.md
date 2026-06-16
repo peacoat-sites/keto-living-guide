@@ -3,7 +3,7 @@ title: "Electrolytes On Keto"
 date: 2026-05-28T22:23:13.894029+00:00
 draft: false
 description: "Discover why electrolytes on keto matter, which minerals you need most, and how to prevent fatigue, cramps, and keto flu with simple daily strategies."
-image: "https://images.pexels.com/photos/30296727/pexels-photo-30296727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4720515/pexels-photo-4720515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["electrolytes", "keto"]
 slug: "electrolytes-on-keto"
@@ -116,4 +116,4 @@ The strength training crowd on keto often hits a wall around week two that they 
 
 Electrolytes are unglamorous. Nobody sells a course on drinking broth or salting your eggs. But in my experience, solving this one issue is the difference between someone saying keto changed their life and someone saying it was miserable and they quit after a week. Get the sodium, potassium, and magnesium right, and the rest of the adaptation becomes genuinely manageable. Your future keto-adapted self will be grateful you paid attention to the boring stuff first.
 
-*Photo: [Biel  Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
+*Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*

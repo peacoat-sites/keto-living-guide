@@ -3,7 +3,7 @@ title: "Keto Diet Vegetarian"
 date: 2026-06-02T15:50:38.963965+00:00
 draft: false
 description: "Discover how to combine the keto diet with a vegetarian lifestyle. Explore delicious low-carb plant-based meals, tips, and food lists to start your journey toda"
-image: "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33323285/pexels-photo-33323285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "vegetarian"]
 slug: "keto-diet-vegetarian"
@@ -102,7 +102,7 @@ Glass meal prep containers make a difference if you're going to batch-cook. The 
 
 If you've tried standard keto and found it meat-heavy and uninspiring, or you've been vegetarian for years and want to try cutting carbs without blowing up your whole food identity, this combination is genuinely doable. It's more work in the planning phase than either diet alone. But the people I've seen stick with it past the first month tend to feel pretty strongly that it was worth the effort.
 
-*Photo: [Daniela Elena Tentis](https://www.pexels.com/@daniela-elena-tentis-118658) via Pexels*
+*Photo: [Aleson Padilha](https://www.pexels.com/@aleson-padilha-945919991) via Pexels*
 
 ---
 

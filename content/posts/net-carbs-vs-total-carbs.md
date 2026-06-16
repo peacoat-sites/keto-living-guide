@@ -3,7 +3,7 @@ title: "Net Carbs Vs Total Carbs"
 date: 2026-05-28T16:43:24.901281+00:00
 draft: false
 description: "Learn the difference between net carbs and total carbs, how to calculate them, and which method best supports your health and low-carb diet goals."
-image: "https://images.pexels.com/photos/15167396/pexels-photo-15167396.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17236199/pexels-photo-17236199.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["carbs", "total", "carbs"]
 slug: "net-carbs-vs-total-carbs"
@@ -119,4 +119,4 @@ The most common mistake I see isn't choosing the wrong method. It's choosing net
 
 Carb counting on keto doesn't have to be this complicated, and for most people eating mostly real food, it isn't. Meat, fish, eggs, cheese, leafy greens, cruciferous vegetables, nuts, seeds, avocado: none of these require a spreadsheet or a debate about fiber subtraction. The math gets messy specifically when packaged products enter the picture, which is worth remembering the next time a shiny keto bar claims to have 2 grams of net carbs. The method that keeps you in ketosis consistently, whether it's total or net, is always the right one.
 
-*Photo: [Mateusz Feliksik](https://www.pexels.com/@mateusz-feliksik-1896604) via Pexels*
+*Photo: [Silviu Din](https://www.pexels.com/@silviu-din-1620549) via Pexels*

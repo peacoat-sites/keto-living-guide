@@ -3,7 +3,7 @@ title: "Keto Coffee Drinks"
 date: 2026-06-14T14:56:59.038013+00:00
 draft: false
 description: "Discover the best keto coffee drinks to boost energy and support fat burning. From bulletproof to iced lattes, find delicious low-carb recipes you'll love."
-image: "https://images.pexels.com/photos/11121826/pexels-photo-11121826.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11348524/pexels-photo-11348524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "coffee", "drinks"]
 slug: "keto-coffee-drinks"
@@ -85,7 +85,7 @@ Honest opinion: most RTD keto coffees are expensive for what they are. Making a 
 ---
 
 
-*Photo: [Daka](https://www.pexels.com/@daka) via Pexels*
+*Photo: [Picas Joe](https://www.pexels.com/@picasjoe) via Pexels*
 
 ---
 

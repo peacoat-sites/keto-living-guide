@@ -3,7 +3,7 @@ title: "Keto 30 Day Meal Plan"
 date: 2026-05-23T22:00:22.082371+00:00
 draft: false
 description: "Discover our complete keto 30 day meal plan with easy recipes, shopping lists, and expert tips to help you burn fat, lose weight, and stay on track effortlessly"
-image: "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13689977/pexels-photo-13689977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
 slug: "keto-30-day-meal-plan"
@@ -137,7 +137,7 @@ The supplement market around keto is bloated with products you don't need. Here'
 
 Thirty days on keto won't transform your health if you approach it like a temporary challenge with a finish line. The people who get the most out of it treat the first month as a learning period: figuring out what they like, what their body responds to, and what a sustainable version of low-carb eating looks like for their actual life. The plan matters a lot less than the framework you build around it.
 
-*Photo: [Ronit HaNegby](https://www.pexels.com/@ronit-hanegby-3651216) via Pexels*
+*Photo: [Daniel Torobekov](https://www.pexels.com/@alohaphotostudio) via Pexels*
 
 ---
 

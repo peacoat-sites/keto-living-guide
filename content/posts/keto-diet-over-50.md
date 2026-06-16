@@ -3,7 +3,7 @@ title: "Keto Diet Over 50"
 date: 2026-06-04T12:21:09.533397+00:00
 draft: false
 description: "Discover how the keto diet can transform your health after 50. Learn key tips, benefits, and potential risks to help you lose weight and boost energy safely."
-image: "https://images.pexels.com/photos/37416570/pexels-photo-37416570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9667874/pexels-photo-9667874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["weight loss"]
 tags: ["keto", "diet", "over"]
 slug: "keto-diet-over-50"
@@ -83,7 +83,7 @@ A kitchen scale ([this OXO one runs about $50 on Amazon](https://www.amazon.com/
 
 If you're 50-plus and thinking seriously about keto, the version that works for you will probably look a little different from what you read about in general keto spaces. More protein, more patience with adaptation, closer attention to electrolytes, and honest partnership with your doctor if you're on any medications. It's not a harder version of keto. It's just a more realistic one.
 
-*Photo: [Ronit HaNegby](https://www.pexels.com/@ronit-hanegby-3651216) via Pexels*
+*Photo: [Вениамин Курочкин](https://www.pexels.com/@vunyakurochkin) via Pexels*
 
 ---
 

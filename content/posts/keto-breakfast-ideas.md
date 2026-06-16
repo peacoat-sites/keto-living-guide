@@ -3,7 +3,7 @@ title: "Keto Breakfast Ideas"
 date: 2026-05-21T03:01:46.557656+00:00
 draft: false
 description: "Start your day right with our best keto breakfast ideas. Quick, delicious, and low-carb recipes to keep you in ketosis and energized all morning long."
-image: "https://images.pexels.com/photos/6123031/pexels-photo-6123031.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4869425/pexels-photo-4869425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "breakfast", "ideas"]
 slug: "keto-breakfast-ideas"
@@ -105,4 +105,4 @@ The biggest predictor of keto success at breakfast isn't which specific foods yo
 These numbers are approximate and will vary based on exact portions and specific brands. A kitchen scale helps you stay accurate, especially in the first few weeks. A good digital kitchen scale is inexpensive on Amazon and genuinely changes the guesswork of tracking macros.
 
 
-*Photo: [Jenna Hamra](https://www.pexels.com/@jenna-hamra-248942) via Pexels*
+*Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*

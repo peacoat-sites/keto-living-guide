@@ -3,7 +3,7 @@ title: "Keto Diet Vegan"
 date: 2026-06-05T12:22:54.912165+00:00
 draft: false
 description: "Discover how to combine keto and vegan diets successfully. Learn top plant-based fat sources, low-carb foods, and easy meal ideas to fuel your healthy lifestyle"
-image: "https://images.pexels.com/photos/6025677/pexels-photo-6025677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/142520/pexels-photo-142520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "vegan"]
 slug: "keto-diet-vegan"
@@ -111,7 +111,7 @@ Cashews are the classic trap: about 7g net carbs per ounce, which adds up fast a
 
 The people who succeed at vegan keto long-term aren't eating sad tofu scrambles out of obligation. They've built a small rotation of genuinely good meals, they supplement smartly, and they don't pretend it's simple when it isn't. That honesty is actually the most useful starting point.
 
-*Photo: [Jose Stauffenberg](https://www.pexels.com/@jostauffen) via Pexels*
+*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
 
 ---
 

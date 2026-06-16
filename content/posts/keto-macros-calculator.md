@@ -3,7 +3,7 @@ title: "Keto Macros Calculator"
 date: 2026-05-23T12:26:17.838654+00:00
 draft: false
 description: "Calculate your perfect keto macros with our free calculator. Get personalized fat, protein, and carb targets based on your goals, weight, and activity level."
-image: "https://images.pexels.com/photos/32112379/pexels-photo-32112379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4378645/pexels-photo-4378645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "macros", "calculator"]
 slug: "keto-macros-calculator"
@@ -127,4 +127,4 @@ If you want more structured guidance on building meals around your targets, [The
 
 Your macros are a starting estimate, not a verdict. The body is adaptive and individual variation is real. Use the calculator to get a solid, evidence-based starting point, track honestly for 3-4 weeks, and then let your actual results (energy, body composition, hunger levels) guide your adjustments. That feedback loop, calculator plus real-world data plus small calibrations, is how sustainable results actually happen.
 
-*Photo: [Nadin Sh](https://www.pexels.com/@nadin-sh-78971847) via Pexels*
+*Photo: [Markus Spiske](https://www.pexels.com/@markusspiske) via Pexels*

@@ -3,7 +3,7 @@ title: "Keto Diet Food List"
 date: 2026-05-24T12:34:41.637194+00:00
 draft: false
 description: "Discover the ultimate keto diet food list. Learn which high-fat, low-carb foods to eat and avoid to stay in ketosis and reach your weight loss goals faster."
-image: "https://images.pexels.com/photos/37128330/pexels-photo-37128330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30688912/pexels-photo-30688912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "food", "list"]
 slug: "keto-diet-food-list"
@@ -179,4 +179,4 @@ For tracking portions accurately, a [digital kitchen scale](https://www.amazon.c
 
 Getting your food list right is the foundational work that makes everything else about keto easier, including the energy levels, the fat loss, and the mental clarity that keeps people coming back to this way of eating. You don't have to eat the same five meals on repeat. You just need to understand which ingredients work and build from there. Most of this comes with a few weeks of practice and honest attention to labels. The learning curve is real, but it's short, and what's on the other side of it tends to be worth the effort.
 
-*Photo: [Biel  Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
+*Photo: [Ninthgrid](https://www.pexels.com/@ninthgrid-2149521550) via Pexels*

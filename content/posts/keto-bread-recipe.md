@@ -3,7 +3,7 @@ title: "Keto Bread Recipe"
 date: 2026-05-25T15:20:09.147337+00:00
 draft: false
 description: "Try this keto bread recipe for low-carb baking at home. Easy steps, simple ingredients, and delicious results. Perfect for your ketogenic diet goals."
-image: "https://images.pexels.com/photos/7936658/pexels-photo-7936658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7118921/pexels-photo-7118921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "bread", "recipe"]
 slug: "keto-bread-recipe"
@@ -138,4 +138,4 @@ Basic keto bread is a platform. Once you have the base recipe working, the varia
 
 Keto bread isn't a compromise. Done right, it's genuinely satisfying, endlessly customizable, and it solves the number one reason people abandon this way of eating. Start with the almond flour recipe, get comfortable with the technique, and then experiment with flavors. Your sandwich days aren't over, they just look a little different now.
 
-*Photo: [Nicola Barts](https://www.pexels.com/@nicola-barts) via Pexels*
+*Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*

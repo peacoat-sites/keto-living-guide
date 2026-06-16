@@ -3,7 +3,7 @@ title: "Keto Snacks List"
 date: 2026-05-23T15:54:04.320980+00:00
 draft: false
 description: "Discover the best keto-friendly snacks to keep you satisfied while staying in ketosis. Low-carb, high-fat snack ideas for weight loss success."
-image: "https://images.pexels.com/photos/5202285/pexels-photo-5202285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8793939/pexels-photo-8793939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "snacks", "list"]
 slug: "keto-snacks-list"
@@ -128,4 +128,4 @@ Having the list is half the battle. Using it well is the other half.
 **Stay on top of electrolytes.** When you're eating more fat and protein and fewer carbs, you're likely flushing more sodium, potassium, and magnesium. Snacking on salty foods like olives, cheese, or jerky can actually help with this. But if you're getting muscle cramps, fatigue, or headaches, check out our detailed breakdown of [electrolytes on keto](/electrolytes-on-keto/) to make sure you're not running low.
 
 
-*Photo: [Jess Loiterton](https://www.pexels.com/@jess-vide) via Pexels*
+*Photo: [Tamanna Rumee](https://www.pexels.com/@tamanna-rumee-52377920) via Pexels*

@@ -3,7 +3,7 @@ title: "Foods Allowed On Keto"
 date: 2026-05-23T18:30:00.129580+00:00
 draft: false
 description: "Discover which foods are allowed on keto. From healthy fats and proteins to low-carb veggies, learn what to eat to stay in ketosis and reach your goals."
-image: "https://images.pexels.com/photos/37321079/pexels-photo-37321079.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19808822/pexels-photo-19808822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["foods", "allowed", "keto"]
 slug: "foods-allowed-on-keto"
@@ -156,4 +156,4 @@ One area I always flag with new clients: salad dressings. "Low-fat" dressings ar
 
 The foods allowed on keto aren't a restricted, joyless list. They're a framework that, once you internalize it, makes grocery shopping and cooking feel intuitive rather than stressful. Start with the staples: eggs, fatty meat, leafy greens, avocado, butter, cheese, and olive oil. Build meals from those building blocks. Check labels on anything processed. Give yourself two to three weeks to adapt before judging how you feel. The learning curve is real but short, and what's on the other side of it, steady energy, reduced hunger, and a pantry full of genuinely satisfying food, is worth the effort of getting there.
 
-*Photo: [Jana Ohajdova](https://www.pexels.com/@jankao) via Pexels*
+*Photo: [Ivan Vi](https://www.pexels.com/@juanvidas) via Pexels*

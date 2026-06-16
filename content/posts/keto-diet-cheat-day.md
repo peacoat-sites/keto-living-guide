@@ -3,7 +3,7 @@ title: "Keto Diet Cheat Day"
 date: 2026-06-06T14:18:55.702373+00:00
 draft: false
 description: "Wondering if a keto diet cheat day will ruin your progress? Learn what really happens to your body, how to recover fast, and tips to stay on track."
-image: "https://images.pexels.com/photos/33009977/pexels-photo-33009977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4628466/pexels-photo-4628466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "diet", "cheat"]
 slug: "keto-diet-cheat-day"
@@ -93,7 +93,7 @@ Make the plan. Eat the cake if you want the cake. Then come right back.
 
 *(This article is for general informational purposes. If you're using a ketogenic diet to manage a medical condition, please work with your healthcare provider before making changes to your approach. This site may earn a commission on qualifying Amazon purchases.)*
 
-*Photo: [Vero Lova](https://www.pexels.com/@verolova) via Pexels*
+*Photo: [taha balta](https://www.pexels.com/@taha-balta-3031128) via Pexels*
 
 ---
 

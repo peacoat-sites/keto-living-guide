@@ -3,7 +3,7 @@ title: "Keto Fruit List"
 date: 2026-05-26T04:59:13.887947+00:00
 draft: false
 description: "Discover the best low-carb fruits for your keto diet. Our keto fruit list helps you enjoy sweet flavors while staying in ketosis and reaching your health goals."
-image: "https://images.pexels.com/photos/3850610/pexels-photo-3850610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32096101/pexels-photo-32096101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "fruit", "list"]
 slug: "keto-fruit-list"
@@ -127,7 +127,7 @@ If you're finding that fruit cravings are persistent and feel intense, it's ofte
 
 The honest version of keto fruit guidance isn't "eat no fruit ever" or "fruit is natural so eat as much as you want." It's "know your numbers, pick your battles, and spend your carb budget where it earns you the most." For most people, a half-cup of raspberries over full-fat yogurt fits keto comfortably and doesn't require any sacrifice worth grieving. That's not deprivation. That's just eating with intention. As always, if you have specific health conditions or are working with a clinician on your diet, loop them in before making significant changes.
 
-*Photo: [Daniela Elena Tentis](https://www.pexels.com/@daniela-elena-tentis-118658) via Pexels*
+*Photo: [Ar kay](https://www.pexels.com/@ar-kay-768552413) via Pexels*
 
 ---
 

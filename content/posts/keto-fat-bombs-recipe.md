@@ -3,7 +3,7 @@ title: "Keto Fat Bombs Recipe"
 date: 2026-06-02T12:55:50.928476+00:00
 draft: false
 description: "Discover easy keto fat bombs recipes packed with healthy fats to keep you full, boost energy, and stay in ketosis. Perfect for low-carb snacking on the go!"
-image: "https://images.pexels.com/photos/5149348/pexels-photo-5149348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5846193/pexels-photo-5846193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["recipes"]
 tags: ["keto", "bombs", "recipe"]
 slug: "keto-fat-bombs-recipe"
@@ -133,7 +133,7 @@ Overeating them because they're "keto approved." This is the most expensive mist
 Using cheap sweeteners and then wondering why you have digestive discomfort. Maltitol in particular, which sneaks into a lot of store-bought keto products, is notorious for GI upset. Read labels. Make your own and you control what goes in.
 
 
-*Photo: [Jane  T D.](https://www.pexels.com/@janetrangdoan) via Pexels*
+*Photo: [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov) via Pexels*
 
 ---
 

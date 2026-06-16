@@ -3,7 +3,7 @@ title: "Ketosis Symptoms"
 date: 2026-05-22T08:42:31.546423+00:00
 draft: false
 description: "Discover the most common ketosis symptoms, from increased energy and mental clarity to bad breath and frequent urination, and learn what they mean for your heal"
-image: "https://images.pexels.com/photos/9927899/pexels-photo-9927899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7776348/pexels-photo-7776348.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["ketosis", "symptoms"]
 slug: "ketosis-symptoms"
@@ -110,4 +110,4 @@ Heart palpitations are another symptom that deserves mention. Mild flutters or s
 
 The transition into ketosis is genuinely weird for your body, and it's okay to find the first week uncomfortable. Most of what you feel is your physiology reorganizing itself around a completely different fuel system, not a signal to quit. Track your electrolytes obsessively in those first two weeks, eat enough fat to feel satisfied, give yourself at least four to six weeks before judging the results, and treat the temporary symptoms as data rather than emergencies. The clients I've worked with who do best on keto are the ones who understand what's happening under the hood and respond accordingly, not the ones who white-knuckle through confusion or bail at the first headache. You've got the information now. Use it.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Khôi Châu](https://www.pexels.com/@nkblu) via Pexels*

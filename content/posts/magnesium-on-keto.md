@@ -3,7 +3,7 @@ title: "Magnesium On Keto"
 date: 2026-06-02T12:54:03.218573+00:00
 draft: false
 description: "Discover how magnesium on keto can prevent deficiency, reduce cramps, and boost energy. Learn the best food sources and supplement tips for keto dieters."
-image: "https://images.pexels.com/photos/8524288/pexels-photo-8524288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7526048/pexels-photo-7526048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["supplements"]
 tags: ["magnesium", "keto"]
 slug: "magnesium-on-keto"
@@ -109,7 +109,7 @@ A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutritio
 
 Magnesium isn't the most exciting topic in the keto space, and it doesn't get the attention that macros and ketone tracking do. But in my experience, it's the single nutrient most likely to explain why someone feels noticeably better or noticeably worse on a well-formulated low-carb diet. Getting it right won't guarantee results, but getting it wrong creates a drag on everything else you're trying to do. Worth the attention.
 
-*Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
+*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 
 ---
 

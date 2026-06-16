@@ -3,7 +3,7 @@ title: "Keto Alcohol Guide"
 date: 2026-06-13T14:40:42.030465+00:00
 draft: false
 description: "Discover which alcoholic drinks fit your keto lifestyle. Learn low-carb alcohol options, what to avoid, and how drinking affects ketosis in our complete guide."
-image: "https://images.pexels.com/photos/5639496/pexels-photo-5639496.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6366/alcohol-bottles-drinks-party.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["keto", "alcohol", "guide"]
 slug: "keto-alcohol-guide"
@@ -77,7 +77,7 @@ The thing I always remind clients is that occasional, intentional drinking is ve
 ---
 
 
-*Photo: [Shameel mukkath](https://www.pexels.com/@shameel-mukkath-3421394) via Pexels*
+*Photo: [Karolina Grabowska www.kaboompics.com](https://www.pexels.com/@karola-g2) via Pexels*
 
 ---
 
