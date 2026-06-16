@@ -98,29 +98,6 @@ You don't have to overhaul everything at once. Here's a realistic progression:
 
 6. **Track your vegetables, not just your carbs.** Most dirty keto practitioners track net carbs obsessively and never think about whether they've eaten a single vegetable. Set a minimum of three servings of non-starchy vegetables daily and see what happens to your energy.
 
-## Frequently Asked Questions
-
-### Does dirty keto still produce weight loss?
-
-It can, yes. Ketosis is ketosis from a metabolic standpoint, and the appetite-suppressing effects of a low-carb diet can lead to weight loss regardless of food quality. The problem is that ultra-processed foods tend to undermine appetite regulation over time, and the micronutrient deficiencies can slow metabolism and increase fatigue. Weight loss may happen, but results are typically less consistent and less sustainable than with a whole-food approach.
-
-### Can you be in ketosis eating fast food every day?
-
-Technically, yes, if you're keeping net carbs below your personal threshold. A bunless burger and a side salad with full-fat dressing can fit. The ketosis itself is real. What you're missing is the broader nutritional context that makes ketosis feel as good as it can. You might be in ketosis and still feel tired, inflamed, and hungry because of everything else you're not getting.
-
-### Is "clean keto" just another name for paleo?
-
-There's significant overlap, but they're not the same. Paleo doesn't restrict carbs to ketogenic levels. You could eat sweet potatoes and fruit all day on paleo and never approach ketosis. Clean keto maintains the strict carb ceiling while applying food-quality principles. Someone doing clean keto might eat full-fat dairy, which strict paleo excludes. The Venn diagram overlaps but doesn't match.
-
-### What about people who can't afford organic and grass-fed everything?
-
-Clean keto does not require premium-label foods to be effective. Conventional eggs are still nutrient-dense. Frozen spinach and broccoli are just as nutritious as fresh. Canned sardines are among the best omega-3 sources available anywhere and cost almost nothing. The clean vs. dirty distinction is about processed vs. whole food, not budget vs. premium. You can eat genuinely well on this approach without spending more than you would on convenience food.
-
-### Should I consult a doctor or dietitian before starting keto?
-
-Yes, and I'd say this even without the YMYL disclaimer prompting me to. If you're managing diabetes, cardiovascular disease, kidney issues, or are on medications, keto can affect how your body responds to those conditions in ways that need monitoring. A registered dietitian who works with low-carb diets can also help you navigate the food quality side of things in a way that's personalized to your labs, your lifestyle, and your history. Generic advice, including this article, has limits.
-
-The real question was never "which one gets you into ketosis faster." Both do. The question is what you're building toward. If keto is just a weight-loss sprint, food quality might feel less urgent. But if you're eating this way because you want to feel better, have more energy, reduce inflammation, and actually sustain it for years, the gap between dirty and clean keto matters quite a lot. Start where you are. Move toward whole foods when you can. That's not perfectionism. That's just paying attention to what the evidence actually shows.
 
 ---
 

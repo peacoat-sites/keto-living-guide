@@ -101,27 +101,6 @@ When you're not starving, you make better decisions at the drive-through window.
 
 ---
 
-## FAQ
-
-### Can I eat fast food every day on keto?
-
-Technically, staying low-carb is possible with daily fast food if you're disciplined about what you order. But I'd push back on making it a habit. Fast food is typically high in inflammatory seed oils, low in fiber and micronutrients, and has high sodium. Occasional fast food on keto? Completely fine. Daily reliance on it? That's worth discussing with a dietitian who can look at your full picture.
-
-### Will eating fast food knock me out of ketosis?
-
-A single low-carb fast food meal won't knock you out of ketosis if you're keeping net carbs under your threshold, typically around 20-50g per day depending on your metabolism and activity level. The risk comes from sauce carbs, breaded coatings, and drink choices that add up without you realizing it.
-
-### What's the best fast food breakfast for keto?
-
-Egg-based options are your friend at breakfast. McDonald's folded eggs, Chick-fil-A's Egg White Grill without the English muffin, and Starbucks's egg bites (the Bacon and Gruyere version has about 9g net carbs) all work reasonably well. Avoid pancakes, hash browns, flavored oatmeal, and anything labeled "maple" or "sweet."
-
-### Is bunless the only strategy, or are there other modifications?
-
-Bunless is the most common swap, but there are others. Lettuce wraps at chains that offer them (Five Guys, In-N-Out "Protein Style") work well. Ordering bowls instead of wraps or tacos at places like Chipotle, Qdoba, or Taco Bell is often cleaner than trying to pick the filling out of a tortilla. Swapping fries for a side salad, where available, is another easy one that most chains accommodate.
-
-### Are diet sodas safe on keto?
-
-Diet sodas have zero carbs, so they won't technically raise your carb count. The research on whether artificial sweeteners affect ketosis directly is genuinely mixed, with some small studies suggesting they may affect insulin response and some showing no meaningful impact. If diet soda helps you stay off regular soda, it's probably a net positive. If you're aiming for optimal metabolic health, unsweetened sparkling water or plain iced tea is the cleaner choice.
 
 ---
 

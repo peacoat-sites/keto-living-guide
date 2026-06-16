@@ -114,27 +114,6 @@ The most common mistake I see isn't choosing the wrong method. It's choosing net
 
 ---
 
-## Frequently Asked Questions
-
-### Does fiber ever raise blood sugar at all?
-
-Soluble fiber, the kind found in oats, beans, and some keto-approved foods like flaxseed and psyllium husk, is fermented by gut bacteria and can produce small amounts of short-chain fatty acids. These are actually beneficial metabolically. For most people, even soluble fiber has a negligible blood sugar impact. The exception: very high doses of certain soluble fibers consumed rapidly can cause a modest glucose response in people with significant insulin resistance. For practical purposes, standard amounts of fiber from whole foods are safe to subtract.
-
-### Why do some keto trackers show different net carb numbers than I calculate manually?
-
-App databases aren't always accurate, and they use different formulas. Cronometer and Carb Manager both handle sugar alcohols differently from Lose It or MyFitnessPal. Some apps automatically subtract all sugar alcohols; others don't subtract any. I recommend checking the app's settings or calculating manually from the label when you're eating products that have significant fiber or sugar alcohol content.
-
-### Can I eat more vegetables if I count net carbs instead of total?
-
-Yes, and this is one of the strongest arguments for counting net carbs once you're past the initial adaptation phase. A cup of raw spinach has about 1.1g total carbs and 0.7g fiber, leaving 0.4g net carbs. Counting it as a full gram makes almost no practical difference. But if you're eating 3 cups of leafy greens, 1 cup of broccoli, half an avocado, and some zucchini in a day, the difference between total and net carbs could be 8 to 10 grams. That's meaningful when your total budget is 20 to 50 grams.
-
-### What about fiber supplements like psyllium husk? Can I subtract those too?
-
-Yes. Psyllium husk is one of the most studied fibers and has a genuinely minimal glycemic impact. It's also useful for digestive regularity on keto, which can be a real issue when you're cutting grains. A tablespoon of psyllium husk powder has about 7 grams of total carbs, almost entirely fiber, with effectively zero net carbs. Subtract confidently.
-
-### If I go over on net carbs but not total carbs, will I get kicked out of ketosis?
-
-It depends on the source of those extra net carbs. If you went over because you ate an extra cup of broccoli, almost certainly not. If you went over because you had a maltitol-heavy candy bar and you underestimated the impact, possibly yes. Ketosis is driven by actual blood glucose and insulin response, not the number in your app. The only reliable way to know is to test ketones directly. If you're getting kicked out of ketosis at carb levels that should theoretically keep you in, the usual culprits are hidden sugars, underestimated portions, or sugar alcohols that aren't as inert as advertised.
 
 ---
 

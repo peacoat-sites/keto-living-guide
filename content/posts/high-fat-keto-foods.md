@@ -71,27 +71,6 @@ Electrolytes deserve mention here because fat-heavy eating and electrolyte balan
 
 ---
 
-## FAQ
-
-### How much fat should I actually eat on keto?
-
-There's no single number, but most people doing keto aim for 60 to 75 percent of calories from fat. For a 1,800-calorie intake, that's roughly 120 to 150 grams of fat per day. If you're tracking, apps like Cronometer make this easier than manual math.
-
-### Can I eat too much fat on keto and stall weight loss?
-
-Yes. This is something the "eat unlimited fat" version of keto advice glosses over. Fat has 9 calories per gram, and a caloric surplus is a caloric surplus regardless of macronutrient source. If fat loss has stalled, calories are usually worth looking at before blaming carb creep.
-
-### Are seed oils okay on keto?
-
-The research here is genuinely mixed and contested. Seed oils like canola and soybean oil are technically keto-compliant by carb count, but their high omega-6 content and instability at heat is a real concern many researchers take seriously. I'd default to olive oil, butter, coconut oil, and animal fats as your primary cooking fats and minimize the seed oils where you can.
-
-### What's the best high-fat keto food for someone who doesn't like cooking?
-
-Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical.
-
-### Do I need to track fat grams or can I just eat to satiety?
-
-For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is.
 
 ---
 

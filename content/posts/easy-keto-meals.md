@@ -145,27 +145,6 @@ Batch cooking also works hand-in-hand with understanding [what to expect in term
 
 ---
 
-## Frequently Asked Questions
-
-### Can I eat keto without cooking a lot?
-
-Absolutely. Some of the best keto options require zero cooking or almost none. Rotisserie chicken from the grocery store with sliced avocado and a handful of nuts is a complete meal. Canned tuna mixed with mayo and eaten with cucumber slices works. Deli meat roll-ups with cream cheese, hard-boiled eggs, string cheese, olives, and beef jerky are all grab-and-eat keto foods that require nothing from your stove.
-
-### What are good keto meals for people who hate vegetables?
-
-You don't have to eat vegetables to do keto, though most people feel better when they include some fiber. If you're a reluctant vegetable eater, try hiding them rather than featuring them. Cauliflower blended into a cheese sauce is almost undetectable. Spinach wilted into scrambled eggs disappears into the texture. Zucchini roasted until slightly caramelized tastes nothing like steamed zucchini. Preparation matters enormously when vegetables are concerned.
-
-### How do I make keto meals more interesting long-term?
-
-Variety in fat sources and seasoning profiles is the key. The same chicken thigh tastes completely different marinated in coconut milk and curry paste versus rubbed with smoked paprika and lemon. Explore cuisines naturally lower in carbs, like Thai, Greek, Mexican (minus the tortillas and rice), and Middle Eastern food. I've seen people stay excited about keto for years just by rotating through different global spice profiles.
-
-### Are there keto meals that work for the whole family, not just me?
-
-Yes, and this is one of keto's underrated strengths. Most keto meals are built around proteins and flavors that everyone enjoys. Make taco bowls, burger patties, or sheet pan chicken for the family. Serve theirs with rice, tortillas, or bread. Keep yours grain-free. The main protein is identical, which means you're not cooking two separate dinners.
-
-### What's the best way to handle keto when eating out?
-
-Most restaurants are easier to navigate keto-friendly than people expect. At a burger spot, order the burger without the bun and add avocado. At a steakhouse, replace the potato with extra vegetables or a side salad. At a Mexican restaurant, a fajita bowl minus the rice and beans works well. At an Italian restaurant, skip pasta dishes and go for grilled proteins with olive oil. The main traps to avoid are breaded proteins, sweet sauces, and anything "glazed" or "teriyaki."
 
 ---
 

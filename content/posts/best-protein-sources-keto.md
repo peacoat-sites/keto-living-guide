@@ -105,27 +105,6 @@ Here's a simple framework that works in real life:
 
 ---
 
-## FAQ
-
-### How much protein is too much on keto?
-
-The honest answer is that the threshold varies significantly between individuals. For most people, staying under 1.2 grams per pound of lean body mass keeps ketone production relatively unaffected. That said, if you're very active or building muscle, higher intakes often work fine. The only way to know your personal threshold is to test with ketone strips or a blood ketone meter while adjusting intake. Don't let fear of "too much protein" push you into the deficiency zone, which causes real, measurable muscle loss.
-
-### Is chicken breast or chicken thigh better on keto?
-
-Thighs win for most keto dieters. The higher fat content improves satiety, the cooking margin for error is wider (thighs don't dry out as fast), and they're often cheaper. That said, chicken breast is fine, especially if you're pairing it with added fats like olive oil, butter, or avocado. It's not a wrong choice, just a less convenient one on a high-fat diet.
-
-### Can you eat too many eggs on keto?
-
-This gets asked constantly. The research on dietary cholesterol has shifted substantially in the last decade, and the older fear of eggs raising cardiovascular risk isn't well-supported for most people. I've had clients eat four to five eggs daily for months without adverse lipid outcomes. If you have a specific genetic condition like familial hypercholesterolemia, that's a conversation to have with your doctor, not something to self-manage based on general keto advice.
-
-### Are plant-based proteins viable on keto?
-
-They can work but require careful planning. Most high-protein plant foods (legumes, lentils, quinoa) are also high-carb, which makes them impractical for strict keto. Exceptions include tofu, tempeh, and edamame, which have more workable carb-to-protein ratios. Pea protein powder and hemp protein are reasonably low-carb options for those who prefer plant sources. Expect to track more carefully and accept that hitting protein targets on plant-based keto is genuinely harder.
-
-### Should I use MCT oil to boost fat when eating leaner proteins?
-
-MCT oil is a useful tool when you're eating leaner proteins like chicken breast or fish and need to bring your fat ratio up without adding bulk. It's also one of the few fat sources that directly boosts ketone production regardless of overall diet composition. Start with one teaspoon per day and increase gradually to avoid digestive distress, which is a real and unpleasant consequence of jumping in too fast. [Quality MCT oil](https://www.amazon.com/s?k=mct+oil+keto+unflavored&tag=yourtag-20) is widely available and easy to add to coffee, smoothies, or sauces. *(This site may earn a commission on purchases made through affiliate links.)*
 
 ---
 

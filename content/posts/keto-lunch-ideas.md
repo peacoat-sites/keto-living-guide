@@ -121,27 +121,6 @@ One thing worth keeping on your radar: if you're going from a high-carb lunch ha
 
 ---
 
-## Frequently Asked Questions
-
-### How many net carbs should a keto lunch have?
-
-Most people doing standard keto aim for 20 to 50g of net carbs per day total. Giving lunch a budget of around 5 to 10g net carbs leaves room for your other meals and any incidental carbs from seasonings or sauces. If you're stricter (under 20g/day), target 3 to 7g at lunch.
-
-### Can I eat the same keto lunch every day?
-
-You can, and plenty of people do. Eating the same meal repeatedly is actually one of the most reliable habits for dietary consistency. The risk is flavor fatigue leading to impulsive off-plan choices. Having two or three rotating options you genuinely enjoy is a practical middle ground.
-
-### What's the easiest keto lunch to bring to work?
-
-Deli roll-ups and egg salad in a container are probably the most portable, requiring no heating and no assembly at the office. A pre-made keto Cobb salad with dressing packed separately also travels well. Keep a small cooler bag with an ice pack and you're set.
-
-### Are there keto lunch options that don't require much protein prep?
-
-Yes. Canned tuna, canned salmon, and hard-boiled eggs require minimal or zero cooking. Cheese-based plates, avocado with canned sardines, or a simple caprese salad (fresh mozzarella, tomato, olive oil, basil) are all low-effort, high-quality fat sources that don't require you to cook a protein from scratch.
-
-### Can keto lunches help with afternoon energy crashes?
-
-Often, yes. The typical post-lunch energy slump is largely driven by a spike and drop in blood sugar, which carbohydrate-heavy meals trigger. A fat and protein-forward keto lunch produces a much flatter blood glucose response, which tends to mean steadier energy through the afternoon. Many people find this is one of the most noticeable early benefits of the diet.
 
 ---
 

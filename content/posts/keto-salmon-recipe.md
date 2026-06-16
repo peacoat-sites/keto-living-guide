@@ -102,27 +102,6 @@ One thing most people don't realize: reheating salmon in an air fryer at 350°F 
 
 ---
 
-## FAQ
-
-### Is salmon good for keto?
-
-Yes, it's one of the best proteins for keto. Salmon is naturally high in fat (especially omega-3 fatty acids), has zero carbs, and doesn't require much added fat to fit keto macros. Wild-caught varieties tend to have a better fat profile.
-
-### How many net carbs are in a salmon fillet?
-
-Plain salmon has 0g net carbs. The carbs in a salmon dish come from sauces, marinades, or sides. A basic pan-seared salmon with butter and capers stays under 2g net carbs per serving.
-
-### Can I use frozen salmon for this recipe?
-
-Absolutely. Thaw overnight in the fridge, then pat completely dry before cooking. Frozen salmon often releases more water during cooking, so thorough drying is even more important than with fresh fish.
-
-### What's the best way to know when salmon is done?
-
-The most reliable visual cue is color change: the flesh should be opaque about two-thirds of the way up from the bottom when cooking skin-side down. For a more precise check, a food thermometer reading 125°F to 130°F at the thickest part gives you a medium, silky texture. 145°F (the FDA-recommended safe temperature) is technically safe but will be noticeably drier.
-
-### Can I make keto salmon in the oven instead of a pan?
-
-Yes. Bake at 400°F for 12 to 15 minutes depending on thickness. You won't get the crispy skin, but it's more hands-off and the texture holds up better if you're planning to refrigerate leftovers. Finishing with browned butter or cream sauce still works after oven cooking.
 
 ---
 

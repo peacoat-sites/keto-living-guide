@@ -123,27 +123,6 @@ A lot of keto beginners experience digestive issues in the first few weeks. Cons
 
 ---
 
-## Frequently Asked Questions
-
-### Do I need to take supplements forever on keto?
-
-Not necessarily. Electrolytes are the one category you'll likely supplement indefinitely, simply because the kidney-sodium-magnesium dynamic persists as long as insulin is low. But other supplements, like digestive enzymes and extra B vitamins, are often transitional. Once you're fat-adapted, your digestion normalizes, your diet variety usually improves, and many people taper off most supplements. I have clients who've been keto for three-plus years and take only magnesium and a little extra sodium.
-
-### Can I get enough magnesium from food alone on keto?
-
-In theory, yes. Pumpkin seeds, dark chocolate (85 percent or higher), spinach, and almonds are all high in magnesium and keto-friendly. In practice, most people don't eat enough of these regularly to hit 350 to 400 mg daily, especially early on when food choices are still limited. I generally recommend supplementing at least through the first three months and reassessing.
-
-### Will exogenous ketones break my fast?
-
-BHB salts and esters contain calories (typically 60 to 120 per serving), so strictly speaking, yes, they break a caloric fast. Whether that matters depends on your goal. If you're fasting for autophagy, most researchers would say any caloric intake interrupts the process to some degree. If you're fasting for blood sugar control or to stay in ketosis, the effect of exogenous ketones on insulin is minimal, so the practical impact is small.
-
-### Is it safe to take all these supplements at once?
-
-For most healthy adults, yes. The main interaction worth knowing: very high magnesium intake can have a mild effect on calcium absorption, and high-dose potassium supplementation (far above 99 mg per dose) carries cardiac risk, which is why standalone potassium supplements are dose-limited. If you have kidney disease, heart disease, or are on medications that affect electrolytes (like ACE inhibitors or diuretics), talk to your doctor before adjusting supplementation significantly.
-
-### What's the single most impactful supplement for keto beginners?
-
-Magnesium, without much competition. Sodium is technically the biggest driver of keto flu, but most people can get adequate sodium from salting their food and drinking broth. Magnesium is harder to replace through diet alone, deficiency is already widespread before keto, and the symptoms of low magnesium (muscle cramps, poor sleep, anxiety, headaches) are exactly the symptoms that make people quit keto in week one. A $15 bottle of magnesium glycinate has kept more people on track than any expensive ketone supplement ever has.
 
 ---
 

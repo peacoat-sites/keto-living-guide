@@ -84,27 +84,6 @@ The research on low-carb diets and blood sugar management is solid. The part abo
 
 ---
 
-## FAQ
-
-### Can I make keto chocolate cake without almond flour?
-
-Yes. Coconut flour works, but you'll need to adjust significantly: use about ¼ the amount called for in an almond flour recipe and increase your eggs and liquid. Some people also use a combination of sunflower seed flour and a small amount of coconut flour, which is worth trying if you have a nut allergy.
-
-### Why did my keto chocolate cake turn out eggy?
-
-Too many eggs relative to the other ingredients, or eggs that weren't at room temperature when mixed. Room temperature eggs incorporate more evenly. Also, letting the cake cool completely before cutting is important since the egg proteins need time to set properly.
-
-### Can I use monk fruit sweetener instead of erythritol or allulose?
-
-Most commercial monk fruit sweeteners (like Lakanto) are actually a monk fruit and erythritol blend, so you'll get similar results to erythritol alone. Pure monk fruit extract is intensely sweet and can be tricky to measure accurately in baked goods, so I'd stick with a blend.
-
-### How do I store keto chocolate cake and how long does it last?
-
-Refrigerated and covered, it keeps well for 4-5 days. The texture is best on day one or two. If your cake dries out faster than that, add a tablespoon of avocado oil to your next batch or swap sour cream in for any non-fat dairy.
-
-### Does keto chocolate cake actually kick you out of ketosis?
-
-Depends entirely on your portion and your individual response. A well-made slice using allulose or erythritol shouldn't cause a significant blood sugar spike for most people, but everyone responds differently. If you're tracking strictly, measure your specific ingredients and use a macro calculator. And if you have any underlying health conditions, talking to a dietitian or your doctor before making significant dietary changes is always a good call.
 
 *Photo: [Đậu Photograph](https://www.pexels.com/@dauphotographer) via Pexels*
 

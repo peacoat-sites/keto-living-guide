@@ -80,27 +80,6 @@ A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=yourtag-20) chang
 
 ---
 
-## FAQ
-
-### Does protein powder knock you out of ketosis?
-
-It depends on what's in it and how much total carbohydrate you're consuming. A clean whey isolate with under 2g of carbs per serving is very unlikely to disrupt ketosis for most people. Products with hidden sugars, maltitol, or high-carb thickeners are more likely to cause problems.
-
-### How much protein powder is too much on keto?
-
-There's no universal limit, but most people do well treating shakes as one of several protein sources rather than the primary one. If you're consistently getting more than 40-50% of your daily protein from powder, it's worth rotating in more whole food sources for satiety, micronutrient variety, and long-term diet sustainability.
-
-### Is whey protein or collagen better for keto?
-
-Whey isolate wins if muscle retention, recovery, or hitting protein targets is the goal. Collagen has real benefits (joint support, skin, potentially gut lining) but it won't replace whey's muscle protein synthesis effect. Many people use both for different purposes, which is reasonable.
-
-### Can I use protein powder during the keto adaptation phase?
-
-Yes, but be more careful about total carbs from all sources during the first 2-4 weeks. Your body is adjusting its metabolic machinery and any consistent carb creep, even from small amounts in shakes, can slow the transition. Stick to a very clean isolate during this period.
-
-### Why do I feel bloated after protein shakes on keto?
-
-Usually it's a dairy sensitivity (whey is dairy-derived), the specific sweetener used, or consuming the shake too fast. Try egg white protein or a pea/rice blend to see if the issue follows. If bloating goes away, you've found your culprit.
 
 ---
 

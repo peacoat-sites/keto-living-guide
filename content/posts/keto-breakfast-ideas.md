@@ -104,28 +104,5 @@ The biggest predictor of keto success at breakfast isn't which specific foods yo
 
 These numbers are approximate and will vary based on exact portions and specific brands. A kitchen scale helps you stay accurate, especially in the first few weeks. A good digital kitchen scale is inexpensive on Amazon and genuinely changes the guesswork of tracking macros.
 
-## FAQ
-
-### Can I eat breakfast on keto if I'm also doing intermittent fasting?
-
-Absolutely, you just shift when "breakfast" happens. Many keto practitioners skip their first meal until noon or 1 p.m., effectively combining keto with a 16:8 fasting window. When you do break your fast, the same foods apply. The bulletproof coffee option works well during the fasted period if you find yourself genuinely hungry before your eating window opens, though strictly speaking it does contain calories.
-
-### How do I stop feeling hungry an hour after a keto breakfast?
-
-This usually comes down to insufficient fat and protein. If you're eating two eggs plain with nothing else, that's roughly 12 grams of protein and 10 grams of fat. It's not enough to keep most people full. Add cheese, avocado, or smoked salmon to meaningfully increase satiety. Also, make sure you're not confusing thirst with hunger. Keto increases fluid loss, particularly in the first few weeks, so drinking 16 ounces of water first thing in the morning helps a lot. Understanding your [electrolytes on keto](/electrolytes-on-keto/) matters too, since low sodium can create fatigue and false hunger signals.
-
-### Are overnight oats possible on keto?
-
-Standard oats are off the table. A half cup of dry oats contains about 27 grams of net carbs. You can make a convincing imitation using hemp seeds, chia seeds, and flax meal combined with unsweetened almond milk and cinnamon. The texture is similar enough to satisfy the craving, and the net carbs come in under 5 grams per serving.
-
-### What about fruit? Can I have any at breakfast?
-
-Yes, but you need to be selective about which fruits and how much. Berries are your best bet. Raspberries, blackberries, and strawberries are all relatively low in net carbs compared to other fruits. A half cup of raspberries has about 3 grams of net carbs. A half cup of blueberries is higher at around 9 grams. Bananas, mangoes, pineapple, and grapes are basically sugar delivery systems and will push you out of ketosis quickly. Check the [foods to avoid on keto](/foods-to-avoid-on-keto/) guide for a comprehensive breakdown.
-
-### How long before I stop craving toast and cereal in the morning?
-
-Most people notice carb cravings fading significantly between days 10 and 21. The first week is often the hardest, particularly if you're experiencing keto flu symptoms like fatigue, headaches, or brain fog. Those symptoms are real and usually related to electrolyte shifts, not starvation. Once your body adapts to running on fat, the idea of a bowl of sugary cereal genuinely starts to lose its appeal. That transition is different for everyone, but it almost always comes.
-
-Mornings don't have to be a negotiation between what you want to eat and what your diet allows. The breakfasts above aren't compromise meals. They're genuinely good food that happens to work within a low-carb framework. Start with two or three that appeal to you, get comfortable making them quickly, and build from there. The variety takes care of itself once you stop thinking of eggs as the only option. For more inspiration beyond the morning hours, the [easy keto meals](/easy-keto-meals/) section has ideas that translate well across the whole day.
 
 *Photo: [Jenna Hamra](https://www.pexels.com/@jenna-hamra-248942) via Pexels*

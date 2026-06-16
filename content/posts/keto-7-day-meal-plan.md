@@ -169,27 +169,6 @@ Weight loss and maintenance look slightly different on keto, and so does this me
 
 ---
 
-## FAQ
-
-### How many carbs per day does this meal plan stick to?
-
-Every day in this plan is designed to stay under 25 grams of net carbs. Most days come in closer to 15-20 grams. Net carbs are calculated by subtracting fiber from total carbs, which is the number that actually matters for ketosis.
-
-### Can I swap meals around between days?
-
-Absolutely. The days aren't interdependent except where one meal uses leftovers from the previous night's dinner (Days 2 and 7 do this). Swapping a Day 3 breakfast with a Day 6 breakfast, for example, has no effect on your results.
-
-### What if I'm not hungry for a snack?
-
-Skip it. Keto tends to reduce hunger naturally once you're fat-adapted because fat and protein are more satiating than carbs. If you're genuinely not hungry, there's no rule that says you need to eat. Forcing food when you're not hungry just adds unnecessary calories.
-
-### Is this plan suitable for someone who's never done keto before?
-
-Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our [keto diet for beginners](/keto-diet-for-beginners/) guide to understand the full framework. Knowing the "why" behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate.
-
-### Will I actually lose weight in the first week?
-
-Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal.
 
 ---
 

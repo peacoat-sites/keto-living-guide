@@ -97,27 +97,6 @@ Glass meal prep containers make a difference if you're going to batch-cook. The 
 
 ---
 
-## FAQ
-
-### Can you really get enough protein on vegetarian keto?
-
-Yes, though it takes more planning than omnivore keto. Eggs, full-fat dairy, tofu, tempeh (in moderate portions), hemp seeds, and cottage cheese can collectively hit protein targets for most people. Tracking for the first few weeks helps you see where the gaps are.
-
-### Are beans and lentils ever allowed on vegetarian keto?
-
-Rarely, and in very small portions. Most legumes have too many net carbs to fit a standard keto budget of 20-50g per day. Some people in maintenance phases with a higher carb allowance can fit a small amount of black soybeans (around 1g net carb per half-cup), but they're the exception.
-
-### Will vegetarian keto raise my cholesterol from all the eggs and dairy?
-
-This is a legitimate question and the research is genuinely mixed. Many people see LDL rise on high-fat diets, though the particle size question matters, and HDL often improves. If you have existing cardiovascular concerns, this is exactly the conversation to have with your doctor before starting, not after.
-
-### How long does it take to get into ketosis on a vegetarian keto diet?
-
-The timeline is the same as any keto diet: typically 2-4 days of strict carb restriction, though it can take up to a week. Exercise, fasting, and keeping carbs genuinely low (not "low-ish") speeds the process. MCT oil can also help accelerate ketone production during this phase.
-
-### Is it safe long-term?
-
-Honest answer: we don't have great long-term data specifically on vegetarian keto as a combined pattern. There are solid individual studies on ketogenic diets generally, and a long literature on vegetarian diets. Combined, the data is thinner. Most registered dietitians recommend working with someone who can monitor your labs (B12, iron, lipids, kidney function) annually at minimum. It's not a diet to do in total isolation from medical oversight, especially if you have any underlying conditions.
 
 ---
 

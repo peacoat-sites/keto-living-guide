@@ -116,27 +116,6 @@ A few practical habits that make hitting protein targets easier without feeling 
 
 ---
 
-## Frequently Asked Questions
-
-### Will eating too much protein on keto cause insulin spikes that stop fat burning?
-
-Protein does stimulate some insulin release, but it also triggers glucagon, which has opposing effects. The net impact on fat oxidation in a low-carb context is minimal for the amounts most people are actually eating. You'd need a remarkable and sustained protein overconsumption to meaningfully affect ketosis through this pathway. Eating 120g instead of 80g won't do it.
-
-### How do I know if I'm eating the right amount of protein?
-
-A few indicators: you're maintaining or building muscle while losing fat, your hunger is manageable between meals, you're recovering reasonably from exercise, and you don't feel like you're running on empty. Ketone meters can give you a data point, but chasing high ketone numbers isn't the goal. Body composition changes and energy levels are more meaningful feedback.
-
-### Should I count protein from both food and supplements the same way?
-
-Yes. Protein is protein from a macronutrient standpoint. Where it comes from matters for amino acid quality and digestion, but your daily gram target doesn't change based on whether those grams come from a chicken breast or a protein shake. Track total daily protein regardless of source.
-
-### Does protein need change if I'm doing intermittent fasting alongside keto?
-
-Your total daily target stays the same. What changes is the window you have to hit it. If you're eating in a 6-8 hour window, you'll need to be more intentional about including substantial protein in each meal rather than spreading it across 12 hours. This is actually a common reason people under-eat protein on combined keto-IF protocols without realizing it.
-
-### What about electrolytes? Do higher protein intakes affect them?
-
-Indirectly, yes. Higher protein intakes can increase urinary calcium excretion slightly, though the clinical significance of this in healthy individuals eating adequate calcium is debated. On keto specifically, electrolyte management matters regardless of protein level, since carb restriction reduces insulin and increases renal excretion of sodium, magnesium, and potassium. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=youraffiliatetag) is worth using especially in the first few months.
 
 ---
 

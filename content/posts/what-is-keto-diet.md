@@ -133,27 +133,6 @@ And finally: vegetables still matter on keto. I've seen people interpret "eat fa
 
 ---
 
-## FAQ
-
-### How long does it take to get into ketosis?
-
-Most people enter ketosis within 2-4 days of dropping below 20-50 grams of net carbs daily, provided they're not eating at a caloric surplus. Exercise can speed this up by depleting glycogen stores faster. You can verify ketosis with urine test strips (cheap and easy, though less precise), a blood ketone meter (most accurate), or a breath ketone analyzer. Blood meters like the [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+ketone+meter&tag=yourtag-20) are the gold standard if you want reliable numbers. *(This site may earn a commission on qualifying purchases.)*
-
-### Can you build muscle on keto?
-
-Yes, though it requires attention to protein intake. Aim for at least 0.7-1g of protein per pound of lean body mass. Some research suggests muscle protein synthesis is slightly less efficient in a ketogenic state, but athletes who fully fat-adapt (a process that can take 6-12 weeks) often report equal or better performance over time. Resistance training on keto is absolutely viable.
-
-### What is the "keto flu" and how do you avoid it?
-
-Keto flu refers to the fatigue, headaches, brain fog, irritability, and sometimes nausea that many people experience in the first 3-7 days on a ketogenic diet. It's primarily caused by electrolyte loss as insulin drops. Aggressive sodium intake (broth, salted food, electrolyte supplements), good hydration, and adequate fat intake prevent or minimize it for most people. It's not inevitable, it's a transition symptom.
-
-### Do you have to count calories on keto?
-
-Not necessarily, and this is one of the diet's practical advantages. Many people eat to satiety and lose weight without explicit calorie counting, because ketones and fat are highly satiating. That said, if you've been on keto for a month without progress, tracking calories for a week or two is a useful diagnostic. Some people underestimate portion sizes of calorie-dense foods like nuts, cheese, and olive oil.
-
-### Is keto safe long-term?
-
-The honest answer is: we have strong evidence it's safe and beneficial for at least 1-2 years, and longer in specific therapeutic populations like those using it for epilepsy management. Beyond that, large-scale long-term data is sparse. The concerns most often raised (kidney stress, bone density, lipid changes) don't have strong supporting evidence in otherwise healthy people following a well-formulated ketogenic diet that includes vegetables. Annual check-ins with your doctor, including a lipid panel and kidney function tests, are a sensible precaution.
 
 ---
 

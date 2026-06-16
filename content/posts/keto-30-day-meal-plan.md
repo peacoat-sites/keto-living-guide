@@ -132,27 +132,6 @@ The supplement market around keto is bloated with products you don't need. Here'
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it actually take to get into ketosis?
-
-Most people reach measurable ketosis within 2 to 4 days of keeping net carbs under 20g. If you're also in a calorie deficit and adding some light exercise (a 30-minute walk depletes glycogen faster), you can get there in 24 to 48 hours. Ketone urine strips will show you, though blood meters are more accurate. Don't stress the number. How you feel at the end of week one is a better signal than a strip color.
-
-### Can I do keto if I don't eat red meat?
-
-Yes, without major difficulty. Eggs, fatty fish like salmon and mackerel, full-fat dairy, and non-meat protein sources like tofu and tempeh (watch carbs on tempeh) can anchor the diet. Sardines and anchovies are some of the most nutrient-dense, keto-compatible proteins available and they're often overlooked. The [*The Ketogenic Bible*](https://www.amazon.com/s?k=the+ketogenic+bible&tag=yourtag-20) covers dietary variations including pescatarian and vegetarian approaches with reasonable depth. *(Commission disclosure applies.)*
-
-### Why am I stalling in week two when I barely started?
-
-A true fat loss plateau at day 10 is almost always water weight math, not actual stalling. The dramatic loss in the first week is mostly glycogen and the water it holds. Week two looks slower because the math changed. If you're in ketosis and eating at a reasonable deficit, the process is working. Week 3 and 4 typically show more consistent fat loss if the protocol is right.
-
-### Do I have to track every macro every day?
-
-Not forever, but for the first two weeks: yes. Most people who skip tracking underestimate carbs by 10 to 15g per day and eat less fat than they think. Two weeks of honest tracking builds the mental model you need to eventually eyeball it accurately. After that, periodic check-ins, maybe once a week, are enough for most people. The [Cronometer app](https://cronometer.com/) is more accurate than MyFitnessPal for micronutrients, which matters on keto.
-
-### What's a realistic outcome to expect from 30 days?
-
-Honestly? It varies substantially based on starting point, adherence, and individual metabolism. People with more body fat to lose, higher starting insulin levels, or those switching from a high-sugar diet tend to see more dramatic early results. What most people can realistically expect after 30 solid days: reduced appetite, less reliance on snacking, improved energy stability, and some degree of fat loss. Specific numbers depend on too many individual variables to quote honestly, and anyone promising a specific outcome for everyone is selling something. Consult with a registered dietitian or your physician, especially if you have metabolic conditions, are on medications, or have a history of disordered eating.
 
 ---
 

@@ -134,27 +134,6 @@ For meal prep, having the right containers makes a real difference in whether yo
 
 ---
 
-## FAQ
-
-### Is keto actually cheaper than a standard American diet?
-
-It can be, but it depends heavily on what you were spending before and what choices you make now. If you were eating a lot of processed food, fast food, and packaged snacks, keto built around whole foods may actually cost less per week. If your baseline diet was very simple and carb-heavy, rice and beans and pasta, transitioning to keto will likely cost more. The key is to avoid the trap of replacing everything with specialty keto products, which consistently drives the cost up.
-
-### Can I do keto without eating meat?
-
-You can, though it adds complexity on a budget. Eggs, full-fat dairy, and high-fat plant foods like avocado and nuts become your main proteins and fats. Tofu and tempeh are lower-carb protein options that are generally affordable. The challenge is that many plant-based proteins come bundled with more carbohydrates than animal proteins do, so you need to track more carefully. It's workable, but it takes more planning than a meat-inclusive approach.
-
-### How do I handle eating out without blowing my budget or my macros?
-
-Eating out on keto is genuinely manageable at most restaurants: burger without the bun, grilled proteins, salads with oil and vinegar. The budget concern is separate. Eating out frequently will push your weekly food cost up no matter what you order. If budget is the priority, cooking at home most of the week and treating restaurant meals as occasional is the realistic answer.
-
-### Do I need MCT oil to do keto on a budget?
-
-No. MCT oil is a supplement, not a requirement. It can help some people feel more satiated and may support mental clarity during the adaptation phase, but it's entirely optional. If you're curious, [MCT oil is available in various sizes](https://www.amazon.com/s?k=MCT+oil) and a small bottle isn't a huge investment if you want to try it. But plenty of people do keto very effectively without it, and it's definitely one of the first things to cut if you're watching costs.
-
-### How do I know if I'm in ketosis without buying expensive test strips?
-
-The most reliable low-cost signal is how you feel after about two to three weeks of consistent eating below 20 to 30 grams of net carbs per day. Reduced hunger, steadier energy, and the absence of blood sugar swings are practical markers. Urine ketone strips are inexpensive and available at most pharmacies, and while they're not perfectly accurate for established keto dieters (your body becomes more efficient at using ketones over time, so excretion drops), they're useful early on as a rough confirmation. Blood ketone meters are more accurate but cost more. For most people, consistent eating and symptom tracking is enough.
 
 ---
 

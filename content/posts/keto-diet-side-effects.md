@@ -105,27 +105,6 @@ People with Type 2 diabetes on medications that lower blood sugar, particularly 
 
 ---
 
-## Frequently Asked Questions
-
-### How long does keto flu last?
-
-For most people, the worst symptoms peak around days two through four and improve significantly by day seven. Full keto-adaptation, where fatigue resolves and mental clarity improves, takes two to six weeks. If you're still feeling genuinely awful after two full weeks and your electrolytes are dialed in, that's worth discussing with a doctor.
-
-### Can I do keto if I've never dieted before?
-
-Yes. In some ways it's easier because you don't have years of calorie-restriction habits working against you. The side effects are the same. Start with the electrolyte protocol above, don't slash calories dramatically in the first week, and give yourself time to adjust. A good beginner resource like [The Ketogenic Bible](https://www.amazon.com/s?k=the+ketogenic+bible&tag=yourtag-20) by Jacob Wilson and Ryan Lowery provides solid scientific context without dogma. *(This site may earn a commission on qualifying purchases.)*
-
-### Will keto make my breath smell bad?
-
-Yes, possibly. Acetone is one of the three ketone bodies produced, and it exits through your lungs. The "keto breath" smell is often described as fruity or slightly metallic. It tends to be most pronounced during the first two to four weeks and often fades as your body learns to use ketones more efficiently. Staying well hydrated helps. Chewing xylitol gum is another practical option that won't spike insulin.
-
-### Is it normal to feel cold on keto?
-
-Some people report feeling colder than usual, especially in the first month. A few things may be happening: lower caloric intake reduces thermogenesis, and mild thyroid T3 downregulation (the conversion of T4 to active T3 can dip temporarily with very low carbohydrate intake) affects body temperature regulation. If persistent coldness is accompanied by hair loss, constipation not explained by low fiber, and fatigue beyond the keto flu window, get your thyroid panel checked.
-
-### Do these side effects mean keto isn't working?
-
-No. The keto flu specifically is almost a sign that you've cut carbs enough to trigger the metabolic shift. Think of it as your body complaining about change, not about harm. Manage your electrolytes, don't restrict calories aggressively in week one, and give yourself the two-week grace period before making a verdict.
 
 ---
 

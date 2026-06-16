@@ -70,27 +70,6 @@ If you're working with a doctor or registered dietitian who has reviewed your la
 
 ---
 
-## Frequently Asked Questions
-
-### Will I actually lose weight on 1,200 calories of keto?
-
-Most likely yes, assuming 1,200 represents a real calorie deficit for your body (which depends on your size, age, and activity level). Keto tends to reduce appetite, which makes a 1,200-calorie intake more comfortable than it would be on a higher-carb diet for many people. Individual results vary, and the rate of loss slows over time as your body adapts.
-
-### Can I drink coffee or do intermittent fasting with this plan?
-
-Coffee with nothing or just a splash of unsweetened almond milk fits easily. If you're adding butter or MCT oil (bulletproof-style), you need to count those calories carefully since they can represent a significant chunk of your daily intake. Intermittent fasting and 1,200-calorie keto can be combined, but approach it carefully. The two together can put some people under their energy floor, especially women.
-
-### What if I'm not hungry enough to eat 1,200 calories?
-
-This happens on keto, and it's not always a good sign. Consistently eating 900-1,000 calories because you genuinely can't fit more in is a pattern that leads to muscle loss and metabolic slowdown. Try increasing the volume of low-calorie vegetables and adding a protein shake if needed to get closer to the target. Don't treat "not hungry" as permission to undereat at this level.
-
-### How much protein should I prioritize at this calorie level?
-
-More than you might think. On very low calorie diets, getting at least 70-80g of protein per day helps preserve muscle mass. Some research, including work by Donald Layman at the University of Illinois, suggests protein needs are actually higher during weight loss than they are at maintenance. Prioritize protein over fat at 1,200 calories; fat will take care of itself.
-
-### Do I need MCT oil on a 1,200-calorie keto plan?
-
-No. [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=ketosite-20) can help with ketone production and some people find it useful for mental clarity, but at 100 calories per tablespoon, it's a luxury you may not have room for at this intake level. If you find it genuinely helpful, use it in small amounts (half a tablespoon) and count every drop.
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 

@@ -121,27 +121,6 @@ Long-term, sustainable nutrition looks different for everyone. The best diet is 
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to see results on keto?
-
-Most people see measurable changes within 1-2 weeks, though the first week's weight loss is largely water. Meaningful fat loss typically becomes visible by weeks 3-4. Energy improvements often appear around week 2, sometimes sooner. Blood sugar improvements can show up within days for people with insulin resistance.
-
-### Do I need to count calories on keto?
-
-Not necessarily, especially at first. The appetite-suppressing effects of ketosis and high protein intake naturally reduce calorie intake for most people. That said, if your weight loss stalls after the first month or two, taking a closer look at total calories is usually the right move. Keto foods are calorie-dense and it's easy to overeat cheese, nuts, and fat bombs without realizing it.
-
-### Can I do keto if I don't eat meat?
-
-Yes, though it takes more planning. Eggs, cheese, full-fat dairy, tofu, tempeh, nuts, seeds, avocado, and olive oil can form the backbone of a vegetarian keto diet. Getting adequate protein without meat while staying under 25g carbs requires some creativity, but it's doable. A pescatarian approach that includes fish and seafood is even more flexible.
-
-### Will keto hurt my athletic performance?
-
-Short-term, possibly. The first 2-4 weeks can see a drop in high-intensity performance as your muscles adapt to burning fat instead of glycogen. After that adaptation period, most endurance athletes report returning to baseline or improving. High-intensity power sports (sprinting, heavy lifting at max effort) rely heavily on glycogen and tend to see more persistent performance effects. Many strength athletes use a targeted ketogenic approach, adding 20-30g fast carbs right before training to address this.
-
-### What's the difference between keto and just "low carb"?
-
-It's a matter of degree. A general low-carb diet might cap carbs at 100-150g per day, which reduces blood sugar swings and improves insulin sensitivity but doesn't reliably produce ketosis. Keto requires staying under 50g net carbs per day (often under 20-25g to be reliable), which is specific enough to trigger significant ketone production. Some people do better with standard low carb and never feel the need to go all the way to ketosis, and that's a completely valid approach.
 
 ---
 

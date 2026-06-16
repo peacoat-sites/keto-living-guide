@@ -110,27 +110,6 @@ A few patterns I see repeatedly:
 
 ---
 
-## FAQ
-
-### Does the net carb formula change for diabetics or people with insulin resistance?
-
-Yes, and this is important. Some practitioners who work with type 2 diabetes and insulin resistance recommend tracking total carbs rather than net carbs, because individual responses to fiber and sugar alcohols can vary significantly, particularly in people with impaired glucose regulation. If you have diabetes or insulin resistance, work with your doctor or a registered dietitian before assuming net carb math applies to your situation in the standard way. Testing blood glucose after specific foods is genuinely useful if you have a meter.
-
-### Are the net carbs listed on keto products accurate?
-
-Sometimes, but not always. The accuracy depends heavily on which sugar alcohols were used and whether the manufacturer subtracted them all equally. Products using erythritol as the primary sweetener tend to give you the most accurate net carb counts. Products relying heavily on maltitol or mixed sugar alcohol blends are more likely to understate the real glycemic impact.
-
-### How do I calculate net carbs in restaurant food or homemade meals?
-
-For restaurants, apps like Carb Manager or MyFitnessPal have large databases, but accuracy varies. For chains, the official nutrition page is usually more reliable. For homemade meals, weigh each ingredient separately and look up each one in Cronometer or USDA FoodData Central, then add up the totals. It takes more time initially, but you build pattern recognition quickly and stop needing to look things up as often.
-
-### Is 20g net carbs the right target for everyone?
-
-No. Twenty grams is a commonly used starting point because it puts most people into ketosis reliably, but some people need to go lower (closer to 15g) and others can sustain ketosis at 30-40g, especially with regular exercise. The only way to know where you land is to test, either with blood ketone strips (most accurate), urine strips (rough but cheap), or a breath meter. Don't assume you're in ketosis based on carb counts alone, especially early on.
-
-### What about net carbs in nuts? They seem inconsistent across apps.
-
-They can be, for a few reasons. Different databases use different fiber values. Some nuts have significant phytic acid content that may reduce digestibility further, though this isn't well-reflected in standard nutrition data. Almonds are the example I use most: an ounce contains about 6g total carbs and 3.5g fiber, landing at roughly 2.5g net carbs. That's manageable for most keto eaters. Where nuts become a problem isn't the math, it's portion size. It's extremely easy to eat three or four ounces of almonds without noticing, which quadruples your carb intake from what you logged.
 
 ---
 

@@ -102,27 +102,6 @@ Adding [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=yourtag-20) during the a
 
 ---
 
-## FAQ
-
-### How long does fat adaptation actually take?
-
-Most people land somewhere between six and twelve weeks of consistent low-carb eating. Metabolic history matters: someone who has eaten high-carb their whole life may take longer than someone who has done keto before or who already has good insulin sensitivity. I wouldn't call it complete before eight weeks for most people.
-
-### Can I test for fat adaptation with a ketone meter?
-
-Sort of. Blood ketone levels don't directly confirm adaptation since you can have high ketones early on when you're not yet efficient. What some practitioners track is the GKI (Glucose Ketone Index), which gives a more nuanced picture. But honestly, the experiential signs, especially stable energy and reduced hunger, are more practically meaningful than a number on a meter.
-
-### Is it normal for ketone levels to drop once you're fat adapted?
-
-Yes, and this surprises a lot of people. As your tissues get better at using ketones, your blood levels often drop because you're actually consuming them more efficiently rather than circulating them. Lower ketone readings in a well-adapted person are not a sign that something has gone wrong.
-
-### Do I need to stay in ketosis forever to stay fat adapted?
-
-No. Once adapted, most people can tolerate occasional higher-carb meals without fully losing the adaptation, especially if they return to their normal eating pattern afterward. That said, frequent large carb refeeds will erode it over time. Consistency matters more than perfection.
-
-### I'm six weeks in and still feel tired. Did I do something wrong?
-
-Not necessarily. Check your electrolyte intake first: this resolves more "still tired" cases than anything else. Also look at total calorie intake, sleep quality, and stress load. If you're genuinely eating under 20-25 grams of net carbs daily, getting enough fat and calories, and managing electrolytes, consider consulting with a dietitian or your doctor to rule out thyroid issues or other factors. Keto isn't a cure-all, and some fatigue has nothing to do with macros.
 
 ---
 

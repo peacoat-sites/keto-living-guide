@@ -104,27 +104,6 @@ And finally: not sleeping. Sleep deprivation raises cortisol, which raises blood
 
 ---
 
-## FAQ
-
-### How long does it take for keto to improve insulin resistance?
-
-Most people see measurable changes in fasting insulin within 2 to 4 weeks. A study in *Annals of Internal Medicine* showed significant fasting glucose and insulin improvements in as little as two weeks on a ketogenic diet. Full restoration of insulin sensitivity takes longer and depends on how severe the resistance was to begin with, how much weight is lost, and whether other lifestyle factors like exercise and sleep are addressed.
-
-### Do I need to be in deep ketosis to benefit?
-
-Not necessarily. Even a moderate low-carb diet (50 to 100 grams of carbs per day) reduces insulin meaningfully compared to a standard diet. Full ketosis (blood BHB above 0.5 mmol/L) does accelerate the process, particularly early on, but some people do very well at the lower end of the low-carb spectrum and don't need to be strict keto long-term.
-
-### Can I reverse insulin resistance permanently with keto?
-
-"Reverse" is a word to use carefully. Keto can restore normal insulin sensitivity, and if you maintain a lifestyle that doesn't chronically overdrive insulin, that sensitivity can persist. But if you return to a high-carb diet without other supportive habits like regular exercise and healthy body weight, insulin resistance tends to return. Think of it as remission rather than cure, similar to how doctors now talk about type 2 diabetes.
-
-### Should I test my blood glucose or ketones at home?
-
-Testing is useful, especially early on. A continuous glucose monitor (CGM) or a basic glucometer gives you real-time feedback on how specific foods affect your blood sugar. Ketone testing via blood (more accurate) or urine strips helps confirm you're in ketosis. The [Keto-Mojo meter](https://www.amazon.com/s?k=keto+mojo+blood+ketone+meter&tag=youraffiliateID-20) tests both blood glucose and ketones from one device and is well-regarded in the keto community. *(This site may earn a commission.)*
-
-### Is keto safe if I'm currently on diabetes medication?
-
-This is a non-negotiable one to discuss with your doctor before starting. Keto lowers blood glucose significantly and quickly. If you're taking sulfonylureas or insulin, your dose may need to be reduced almost immediately to avoid hypoglycemia. The diet can be powerful precisely because it works, and that effectiveness can interact with medication in ways that need medical supervision.
 
 ---
 

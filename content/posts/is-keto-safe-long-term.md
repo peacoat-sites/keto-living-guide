@@ -84,27 +84,6 @@ Fiber. This is the biggest nutritional gap I see in long-term keto eaters. Most 
 
 ---
 
-## FAQ
-
-### Is keto safe for your kidneys long-term?
-
-For people with healthy kidneys, current evidence suggests keto doesn't cause kidney damage. The protein intake on a well-formulated keto diet is moderate, not extreme. However, if you have chronic kidney disease or a history of kidney stones, you should absolutely get medical clearance first and monitor regularly.
-
-### Can you do keto forever, or do you need to cycle off?
-
-There's no evidence that you *must* cycle off, but there's also no evidence that staying in ketosis indefinitely is necessary for the metabolic benefits. Some people do it for life and thrive. Others do better cycling between strict keto and a broader low-carb approach. This really comes down to individual response, goals, and honestly, whether it's working psychologically as much as physiologically.
-
-### Does keto damage your heart long-term?
-
-The answer is genuinely complicated. Most standard markers (triglycerides, HDL, blood pressure, fasting glucose) tend to improve. The concern is around LDL, particularly in lean hyper-responders. If your LDL is elevated on keto, don't dismiss it because "keto LDL is different." Get an ApoB test and talk to a cardiologist who understands low-carb diets.
-
-### Will keto cause nutrient deficiencies over time?
-
-It can, if you're not paying attention. The most common deficiencies I see are magnesium, potassium, vitamin D, and B vitamins (especially if you're not eating much organ meat or fortified foods). Eating a wide variety of non-starchy vegetables, fatty fish, and whole-food sources covers most of this. A magnesium glycinate supplement, around $15-20 a month, is something I recommend to nearly all my long-term keto clients.
-
-### Is keto safe long-term for women specifically?
-
-The research is thinner here, which is frustrating. Some women report menstrual irregularities, particularly at very low calorie intakes combined with keto. Thyroid function is another area worth monitoring, since some women see T3 shift downward in extended ketosis. These aren't universal effects, but they're worth watching for, especially if you notice changes in energy, hair loss, or cycle disruption.
 
 ---
 

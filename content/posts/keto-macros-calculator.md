@@ -122,27 +122,6 @@ If you want more structured guidance on building meals around your targets, [The
 
 ---
 
-## Frequently Asked Questions
-
-### How often should I recalculate my keto macros?
-
-Recalculate every 10-15 pounds of body weight change, or every 8-12 weeks. Your TDEE shifts as your body composition changes, and outdated numbers are one of the most common reasons people plateau even when they're being consistent with their diet.
-
-### Should I count net carbs or total carbs on keto?
-
-Most keto practitioners use net carbs, which is total carbs minus fiber (and sometimes minus erythritol or allulose). Fiber isn't digested the same way as other carbohydrates and has minimal impact on blood glucose or insulin. The key is consistency: pick one method and track it the same way across your calculator, your food labels, and your tracking app.
-
-### What if my calculated macros feel impossible to eat?
-
-Adjust the protein target first before cutting fat dramatically. If 1,600 calories feels unsustainably low, consider reducing your deficit to 15% instead of 20%, especially if you're already relatively lean. A smaller, sustainable deficit beats a larger deficit you'll abandon after three weeks. I've had clients lose more total fat at a 15% deficit over 6 months than they ever did with aggressive cuts.
-
-### Can I use a keto macros calculator if I do intermittent fasting?
-
-Yes. Intermittent fasting and keto are separate tools that many people combine. The calculator gives you daily macro targets, and intermittent fasting affects the window in which you eat them. Your gram targets don't change based on your eating window, you just fit them into fewer meals.
-
-### My protein target seems really high. Won't that kick me out of ketosis?
-
-Probably not. The gluconeogenesis concern is largely overstated in the research for most people at typical protein intakes. Eating 0.7 to 1.0 grams of protein per pound of lean mass won't flood your system with glucose. What it will do is preserve your muscle mass, keep you fuller between meals, and support better body composition long-term. Blood ketone levels may sit slightly lower on higher-protein keto compared to a strict therapeutic protocol, but for most people pursuing fat loss or general health, that's a worthwhile trade.
 
 ---
 

@@ -82,27 +82,6 @@ If you've been keto for six or more weeks, you're sleeping adequately, your elec
 
 ---
 
-## FAQ
-
-### How long does it take to get mental clarity on keto?
-
-For most people, the cognitive improvement becomes noticeable somewhere between weeks two and four, after the initial transition period passes. Some people feel it sooner; for others, full adaptation takes six weeks or more. Electrolyte intake and sleep quality are the two factors that most reliably speed this up.
-
-### Can keto help with brain fog from conditions like ADHD or chronic fatigue?
-
-The research here is limited and mostly preliminary. There are some small studies and a lot of compelling case reports suggesting keto may be helpful for ADHD and certain fatigue conditions, particularly where blood sugar dysregulation is a factor. It's worth trying under medical supervision, but I wouldn't recommend it as a replacement for established treatments without talking to a specialist first.
-
-### Does being in deeper ketosis mean better mental clarity?
-
-Not necessarily. Blood ketone levels don't correlate cleanly with cognitive performance. Some people feel sharpest at 0.5 to 1.0 mmol/L (the lower end of nutritional ketosis); others report feeling best at 2.0 to 3.0 mmol/L. Chasing higher numbers using things like fasting or MCT overloading isn't a reliable path to better thinking and can backfire by causing energy deficits.
-
-### Why do I feel mentally worse when I eat more fat on keto?
-
-Large amounts of fat in a single meal can cause a temporary dip in alertness in some people, particularly saturated fat from things like heavy cream or fatty meat. This isn't universal, but it's real. If you notice this pattern, try distributing fat more evenly across the day rather than front-loading it, and pay attention to whether specific sources are the culprit.
-
-### Is the mental clarity just placebo effect?
-
-Some of it probably is, and I don't think that's a reason to dismiss it. Placebo effects on cognitive symptoms are real and meaningful. But the mechanisms I described above, ketone metabolism, glucose stability, electrolyte balance, and sleep improvement, are physiologically sound. The honest answer is: it's likely some of both, and for most people, it doesn't much matter why it works if it works.
 
 ---
 

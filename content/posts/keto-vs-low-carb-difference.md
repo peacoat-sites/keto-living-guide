@@ -95,27 +95,6 @@ Step 4: Assess your electrolyte intake. Both approaches cause kidneys to excrete
 
 ---
 
-## Frequently Asked Questions
-
-### Can you get the benefits of keto without going full ketogenic?
-
-Yes. Many of the benefits attributed to "keto" in popular culture, improved blood sugar control, less processed food intake, reduced hunger, come from low-carb eating broadly, not from ketosis specifically. If you're not chasing ketones for a specific reason, a sustainable low-carb approach often delivers comparable outcomes with fewer restrictions.
-
-### How long does it take to get into ketosis after lowering carbs?
-
-For most people, initial ketosis occurs within two to four days of keeping net carbs under 30 to 50 grams. Full fat adaptation, where your body efficiently runs on fat and ketones, takes longer. Four to six weeks is a realistic estimate. During that adaptation window, performance and energy can dip.
-
-### Does eating more fat automatically put you in ketosis?
-
-No. Fat intake alone doesn't trigger ketosis. Carbohydrate restriction does. Fat makes up the fuel base once carbs are cleared, but you have to clear the carbs first. Pouring MCT oil into your coffee while eating 100 grams of carbs daily isn't doing what you think it's doing.
-
-### Is "lazy keto" the same as low-carb?
-
-Lazy keto typically means tracking only carbs, not calories or fat ratios, while staying under roughly 20 to 50 grams of net carbs. In practice, it lands somewhere between true ketogenic eating and general low-carb. Some people maintain ketosis this way. Others don't. If you're not measuring, you're not really knowing.
-
-### Can you switch between keto and low-carb?
-
-Absolutely, and some people do this deliberately. Strict keto for a defined period, then a maintenance phase at 75 to 100 grams of net carbs. The transition out of ketosis is faster than the transition in: add 50 grams of carbs and most people exit ketosis within a day. Going back in takes the usual two to four days minimum.
 
 ---
 

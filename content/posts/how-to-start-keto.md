@@ -107,27 +107,6 @@ Set your macro targets based on your goals. For weight loss, a common starting p
 
 ---
 
-## FAQ
-
-### How long does it take to get into ketosis?
-
-Most people enter nutritional ketosis within two to four days of eating under 20g net carbs per day. Adding light fasting, like skipping breakfast, can accelerate this. You can verify ketosis with urine test strips in the first few weeks, though blood ketone meters like the Keto-Mojo give more accurate readings as you become fat-adapted (urine strips become less reliable after the first month).
-
-### Do I have to count calories on keto?
-
-Not necessarily, especially at first. Many people lose weight on keto without counting calories because fat and protein are highly satiating and hunger naturally decreases. That said, if you hit a plateau after the first month or two, calories absolutely matter. Dietary fat is 9 calories per gram. It's easy to overshoot your energy needs while eating clean keto foods.
-
-### What breaks ketosis?
-
-Anything that significantly spikes blood sugar or raises insulin. Obvious offenders: bread, pasta, rice, fruit juice, most fruit, sugar in any form. Less obvious: too much protein in a single meal can trigger gluconeogenesis, where your body converts excess amino acids to glucose. Hidden carbs in sauces, dressings, and processed foods catch a lot of beginners. A single off-plan meal can knock you out of ketosis, but you'll typically get back within 24-48 hours of returning to strict keto.
-
-### Is keto safe long-term?
-
-The honest answer is: we have strong data out to about two years, and safety profiles look good for most healthy adults. Some studies show improvements in cardiovascular risk markers, particularly triglycerides and HDL. Others note that LDL cholesterol rises in some people. If you have a history of heart disease, kidney disease, liver conditions, or you're pregnant, talk to your doctor before starting. Keto can interact with diabetes medications, sometimes dramatically, so medication adjustments under medical supervision may be necessary.
-
-### What do I do when weight loss stalls?
-
-Plateaus on keto usually come down to a few culprits. Calories crept up without you noticing. Carbs crept up without you noticing (this is the most common cause). Or you've simply lost enough that your maintenance calories have dropped and your current intake matches them. Start by accurately tracking everything for a week. Look for hidden carbs. If macros and calories look right, try adding a 16:8 intermittent fasting window. If the plateau persists beyond three to four weeks despite accurate tracking, it may be worth taking a one-week "diet break" at maintenance calories before returning to a deficit.
 
 ---
 

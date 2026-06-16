@@ -84,27 +84,6 @@ Honest opinion: most RTD keto coffees are expensive for what they are. Making a 
 
 ---
 
-## FAQ
-
-### Does keto coffee break a fast?
-
-Technically yes, if you're practicing strict water fasting. If you're doing intermittent fasting primarily for metabolic benefits like ketosis and blood sugar regulation, the fat in keto coffee likely doesn't restart the clock in any meaningful way. Protein breaks a fast more definitively than fat does. This is one of those areas where the research is still genuinely incomplete.
-
-### How much MCT oil should I add to keto coffee?
-
-Start with one teaspoon per cup and work up slowly over 1-2 weeks. Most people settle between one and two tablespoons. More than that and you're usually adding calories without proportional benefit, and you're risking the GI consequences if your gut hasn't adapted.
-
-### Can I use coconut oil instead of MCT oil?
-
-Yes, but they're not the same thing. Coconut oil is about 55% MCTs by composition, but most of that is C12 lauric acid, which behaves differently than the C8/C10 fractions in quality MCT oils. It's cheaper and more widely available, and it does add a pleasant subtle coconut flavor. Just don't expect the same cognitive kick.
-
-### Is keto coffee a meal replacement?
-
-It can be for some people, particularly if you're adapted to fat-fueling and genuinely not hungry in the morning. For others, 300-500 calories of mostly fat is not enough and leads to overeating later. Neither outcome is more correct. Pay attention to how you feel three hours later, not how the drink looks on paper.
-
-### What's the easiest keto coffee for someone just starting out?
-
-Heavy cream in black coffee. Not a blended butter bomb, not an MCT oil protocol. Two to four tablespoons of heavy cream, whatever coffee you'd normally make. Get used to no sugar first. Once that's comfortable, you can layer in more complexity if you want to.
 
 *Photo: [Daka](https://www.pexels.com/@daka) via Pexels*
 

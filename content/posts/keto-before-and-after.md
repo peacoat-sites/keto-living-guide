@@ -74,27 +74,6 @@ The most durable transformations I've witnessed weren't built on perfection. The
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to see results on keto?
-
-Most people see significant water weight loss in the first week, but meaningful fat loss typically becomes visible around weeks 3 to 6. Metabolic improvements like lower triglycerides and better fasting glucose can show up in bloodwork within 8 to 12 weeks.
-
-### Why did I lose weight fast at first and then stall?
-
-The initial rapid loss is mostly glycogen and water, not fat. Once that's gone, your rate of loss reflects actual fat burning, which is slower. Stalls at weeks 3 to 5 are extremely common and usually resolve on their own, though rechecking your protein and total calorie intake is worth doing if it persists.
-
-### Will keto work if I've tried it before and regained the weight?
-
-Yes, regain doesn't mean keto doesn't work for you. It usually means the transition back to regular eating wasn't managed well. Going back to keto can restart the metabolic benefits, and you'll often adapt faster the second time.
-
-### Is the before-and-after weight loss on keto mostly water?
-
-In the first week, yes, a meaningful chunk of it is. After that, genuine fat loss takes over if you're in a caloric deficit. The two effects layer on top of each other, which is part of why early results look so striking.
-
-### Do you need to be in ketosis to see results?
-
-Strict ketosis (blood ketones above 0.5 mmol/L) isn't required for every benefit. Many of the metabolic improvements associated with keto come from carbohydrate restriction itself, even if you're in a moderate-low range rather than deep ketosis. For some goals, like therapeutic use for epilepsy, precise ketosis matters more. For general fat loss, the line is less rigid.
 
 ---
 

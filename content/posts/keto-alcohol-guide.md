@@ -76,27 +76,6 @@ The thing I always remind clients is that occasional, intentional drinking is ve
 
 ---
 
-## FAQ
-
-### Does alcohol kick you out of ketosis?
-
-Not necessarily, at least not by itself. Alcohol pauses ketone production while your liver processes it, but if you're drinking something with no carbs and not overindulging, most people return to ketosis within hours. The bigger threat is sugary mixers and the snacking that often comes along with drinking.
-
-### Can I drink wine on keto?
-
-Yes, if you stick to dry varieties. Dry red and white wines run about 3-4g net carbs per 5oz pour, which fits into most keto budgets. Avoid sweet wines, dessert wines, and anything labeled "semi-sweet."
-
-### Why do I get drunk faster on keto?
-
-Your liver isn't competing with stored glycogen to process alcohol, and you likely have less food in your stomach. Both factors speed absorption. It happens to most people in ketosis and is worth accounting for before you go out.
-
-### Are hard seltzers keto-friendly?
-
-Plain hard seltzers like White Claw Natural Lime or Truly Hard Seltzer run about 2g of carbs per can and are generally fine in moderation. The "lemonade" and "tea" varieties and anything with added juice can be significantly higher, so check the label rather than assuming.
-
-### Will alcohol stop my weight loss on keto?
-
-It can slow it, yes. Alcohol is metabolized before fat, so fat burning takes a back seat while you're drinking. Regular, heavy drinking on keto will likely stall your progress. Occasional moderate drinking, combined with smart choices about what you're drinking and what you're eating afterward, typically has a small and temporary effect for most people.
 
 *Photo: [Shameel mukkath](https://www.pexels.com/@shameel-mukkath-3421394) via Pexels*
 

@@ -74,27 +74,6 @@ MCT oil is worth mentioning here. [MCT oil](https://www.amazon.com/s?k=MCT+oil+p
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to become fat-adapted as a runner?
-
-Longer than most sources say. For recreational runners, 8-12 weeks is a more realistic expectation than the commonly cited 2-4 weeks. Training volume, intensity, and how strictly you maintain ketosis all affect the timeline.
-
-### Will keto make me slower?
-
-Probably at first, and possibly permanently for high-intensity efforts. At conversational paces and ultra distances, fully adapted runners often maintain or improve performance. For threshold and interval work, the research consistently points to some trade-off, even after full adaptation.
-
-### Can I use gels or sports drinks during a race on keto?
-
-Yes, though this raises a practical question about why you're strict keto if you're taking in 60g of carbs during a race. Many competitive low-carb runners use a "race day carbs" strategy without guilt. Your fat oxidation capacity doesn't disappear overnight because you drank a Maurten gel.
-
-### Do I need to eat before morning runs?
-
-Not necessarily. One of the benefits of fat adaptation is that fasted morning runs become much more manageable. Many adapted runners do well training fasted for runs up to an hour. For longer or harder sessions, some calories beforehand (even just MCT oil or a small protein source) may help.
-
-### Should I track ketones as a runner?
-
-It's useful early on to confirm you're actually in ketosis, but I wouldn't obsess over it long-term. Blood ketone meters like the [Keto-Mojo](https://www.amazon.com/s?k=Keto-Mojo+ketone+meter&tag=keto-lowcarb-20) are more accurate than urine strips, which become unreliable once you're adapted. After a few months, how your training feels and recovers tells you more than a number on a meter.
 
 ---
 

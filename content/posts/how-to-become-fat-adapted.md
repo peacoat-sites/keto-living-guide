@@ -82,27 +82,6 @@ But honestly, the subjective signs are reliable too. Stable energy without eatin
 
 ---
 
-## FAQ
-
-### How long does fat adaptation take?
-
-For most people, the foundational shift happens between four and eight weeks of consistent low-carb eating. Deeper metabolic adaptations, particularly for athletic performance, can take three to six months. There's no universal timeline because individual metabolic health, consistency, sleep, and stress all affect the pace.
-
-### Can you speed up fat adaptation with fasting?
-
-Intermittent fasting can help by extending the window where insulin is low and fat oxidation is high. A 16:8 fasting window is a reasonable place to start. It won't compress a three-month process into two weeks, but it does seem to support the process rather than just adding extra restriction for its own sake.
-
-### Will exercise hurt fat adaptation if I'm not adapted yet?
-
-Moderate exercise helps. High-intensity training in the first few weeks can leave you feeling completely depleted because your aerobic fat-burning machinery is still catching up. Walking, hiking, and easy cardio are great choices early on. Save the heavy lifts and sprints for after week four or five.
-
-### Is it possible to be in ketosis without being fat adapted?
-
-Yes, and this distinction matters. Ketosis just means your liver is producing ketones above a baseline threshold. Fat adaptation means your whole body has reorganized its fuel-use priorities. You can measure ketones on day three and still be months away from true fat adaptation.
-
-### What breaks fat adaptation once you have it?
-
-Going back to high-carb eating for an extended period will undo it, though people who've been fat-adapted before tend to re-adapt faster the second time. An occasional high-carb meal is unlikely to derail months of adaptation, but making it a regular habit will. The body is efficient: it uses whatever fuel is consistently available.
 
 *Photo: [Zifeng Xia](https://www.pexels.com/@zifeng-xia-707303) via Pexels*
 

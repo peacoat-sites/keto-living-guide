@@ -127,27 +127,6 @@ Pairing your vegetables with a quality electrolyte supplement is also smart, esp
 
 ---
 
-## Frequently Asked Questions
-
-### Can I eat as many vegetables as I want on keto?
-
-Not quite. Even low-carb vegetables contain some carbohydrates, and eating very large quantities of them can add up. In practice, most people find that eating generous portions of leafy greens and moderate portions of the other approved vegetables keeps them well within their carb limits. The freedom is real, just not unlimited.
-
-### Are frozen vegetables okay on keto?
-
-Yes, and they're often a practical choice. Plain frozen vegetables without added sauces or seasonings have the same carb content as fresh. Frozen spinach, broccoli, cauliflower, and green beans are all fine. Just read the label if the package contains a sauce, because those can hide surprising amounts of sugar.
-
-### Do vegetables count toward net carbs or total carbs on keto?
-
-Most people following a standard ketogenic diet track net carbs, which is total carbs minus fiber. Vegetables are high in fiber compared to other carbohydrate sources, which is why many of them are so keto-friendly once you run the numbers. That said, some strict therapeutic ketogenic protocols use total carbs. If you're working with a medical professional on a specific protocol, follow their guidance.
-
-### Is it possible to do keto without eating many vegetables?
-
-Technically, yes, but I don't recommend it long-term. People who go very low on vegetables often struggle with constipation, micronutrient deficiencies, and the kind of fatigue that's blamed on "keto" when it's actually a nutrition gap. Vegetables make keto sustainable and healthier over time. If you're not a fan of vegetables, start with ones that are easy to hide in eggs, soups, or smoothies and work from there.
-
-### Why does my keto app show different carb counts than what you've listed?
-
-Carb counts vary based on the specific variety of a vegetable, whether it's raw or cooked (cooking concentrates sugars slightly and shrinks volume), and the database your app is pulling from. The numbers in this article are reasonable averages, not laboratory-precise figures. Use them as a guide, and when in doubt, default to the database entry that shows the preparation method closest to how you're actually eating the food.
 
 ---
 

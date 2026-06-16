@@ -68,27 +68,6 @@ If you're taking exogenous ketone supplements (like HVMN or Perfect Keto's keton
 
 ---
 
-## FAQ
-
-### How long does it take to get into ketosis?
-
-Most people reach measurable ketosis (0.5+ mmol/L on a blood meter) within 2-4 days of strictly limiting carbs to under 20-25g net per day. If you've been eating keto for a while and take a break, you may return to ketosis faster than a first-timer because your body is already adapted to the process. Exercise can speed the transition up a bit by depleting glycogen stores faster.
-
-### Can I test for ketosis without buying anything?
-
-Not reliably. You can look for signs like reduced appetite, a slightly metallic or fruity taste in your mouth, or increased energy after the initial adaptation period, but those are soft signals that plenty of people never notice even when they're solidly in ketosis. If you want actual data, you'll need a testing method.
-
-### Why do my urine strips keep showing negative even though I'm eating keto?
-
-After a few weeks of consistent keto, your body gets more efficient at using ketones and excretes less acetoacetate in urine. A negative or faint strip doesn't mean you're not in ketosis. It might just mean your body is running the system more efficiently. If you want to confirm, switch to a blood meter for a week.
-
-### Does dehydration affect ketone test results?
-
-Yes. Dehydration concentrates urine, which can make urine strips read artificially high. It can also affect blood testing to a lesser degree. Make sure you're adequately hydrated before testing, and if you're using urine strips, testing first morning urine (which is naturally more concentrated) versus midday urine can produce noticeably different readings.
-
-### Is there a "best" time of day to test blood ketones?
-
-Fasted morning testing gives you the most consistent baseline for tracking over time. That said, your ketones will be at their natural daily low in the morning, so don't panic if the number seems modest. Late afternoon tends to show higher readings for most people. The key is picking one consistent time rather than comparing a 7am reading to a 4pm reading and drawing conclusions.
 
 ---
 

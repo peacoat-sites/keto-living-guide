@@ -76,27 +76,6 @@ If you haven't had a bowel movement in more than a week, that warrants a convers
 
 ---
 
-## FAQ
-
-### How long does keto constipation usually last?
-
-For most people, one to three weeks. The first week is usually the worst because of the rapid fluid loss and fiber drop. Once your body adjusts to the new eating pattern and you've dialed in your vegetable intake and hydration, things typically normalize. If it's still a problem after a month, something else is going on.
-
-### Can I take a laxative while doing keto?
-
-Yes, but be strategic about it. An osmotic laxative like MiraLax (polyethylene glycol) is a reasonable short-term option and won't interfere with ketosis. Stimulant laxatives like senna work but aren't meant for regular use. Avoid glycerin-based products if you're testing ketones with blood strips since some can skew results.
-
-### Does the high fat on keto make constipation worse?
-
-No, and often the opposite is true. Fat stimulates bile release, which lubricates the intestines. People who are constipated on keto frequently aren't eating enough fat, not too much.
-
-### Is keto constipation the same as keto flu?
-
-They overlap in timing but they're different things. Keto flu refers to fatigue, headaches, brain fog, and muscle aches in the first week. Constipation is its own issue driven by dehydration, fiber loss, and microbiome shifts. You can have one without the other.
-
-### Should I quit keto if the constipation doesn't resolve?
-
-I'd adjust before quitting. The most common reasons it doesn't resolve are too little vegetable fiber, insufficient magnesium, and inadequate hydration. Try a targeted fix for two to three weeks before concluding that keto itself is the problem. That said, if your digestion is chronically unhappy on this diet despite doing everything right, it's worth having a frank conversation with a registered dietitian or your doctor about whether this eating pattern is genuinely a fit for you.
 
 *Photo: [Joerg Mangelsen](https://www.pexels.com/@joerg-mangelsen-337913024) via Pexels*
 

@@ -133,27 +133,6 @@ Good storage containers make a real difference if you're meal prepping. [Glass m
 
 ---
 
-## Frequently Asked Questions
-
-### Is fruit completely off the table on keto?
-
-Not completely, but most fruit is high enough in sugar that it limits your options significantly. Berries are the exception. Raspberries, blackberries, and strawberries all come in under 6-7g of net carbs per half cup, making them workable in small amounts. Watermelon, mangoes, bananas, and grapes are essentially off the list for most people trying to stay in ketosis. I've seen clients blow their entire carb budget on a bowl of fruit salad thinking fruit is "healthy" and therefore fine. On keto, healthy and low-carb aren't always the same thing.
-
-### Can I buy keto snack bars and packaged products?
-
-Yes, but read labels closely and don't rely on them heavily. Many keto bars use sugar alcohols that still affect some people's blood sugar, or they're high enough in calories that they make a weight-loss approach harder. They're useful for travel, convenience, or emergencies. For everyday eating, whole foods are more filling per dollar. If you want a reliable keto snack, a hardboiled egg, a slice of cheese, or a handful of macadamia nuts will beat most packaged options nutritionally.
-
-### How do I shop for keto on a tight budget?
-
-Focus on eggs, canned fish, ground beef, and frozen vegetables. These are the most affordable keto staples by a significant margin. Skip the specialty flours, the keto-branded snacks, and the grass-fed everything until your budget allows. A dozen eggs and a pound of ground beef can feed one person for multiple meals at very low cost. Chicken thighs are dramatically cheaper than chicken breasts and more keto-appropriate because of their fat content.
-
-### Should I buy organic or grass-fed meat?
-
-If your budget allows, grass-fed beef does have a better omega-3 to omega-6 ratio and some differences in micronutrient content. But conventional meat is not going to derail your keto results. I'd rather see someone eating conventional chicken thighs consistently than buying grass-fed beef twice a month and filling the gaps with processed keto snacks. Don't let perfect be the enemy of good here.
-
-### How do I handle shopping for the rest of the family who isn't doing keto?
-
-This is genuinely one of the harder practical challenges, and I won't minimize it. The most useful approach is building meals around a keto-friendly protein and vegetable base, then adding a carb side (rice, bread, pasta) separately for the non-keto members. That way you're cooking one meal, not two. Keep your keto staples clearly identified so they don't disappear into family snacking. When everyone's eating from the same pot of protein and vegetables, the friction goes down considerably.
 
 ---
 

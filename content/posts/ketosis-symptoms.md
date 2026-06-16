@@ -105,27 +105,6 @@ If you have Type 1 diabetes or take insulin, keto can still be appropriate for y
 
 Heart palpitations are another symptom that deserves mention. Mild flutters or skipped beats early in keto are usually electrolyte-related and resolve with sodium, potassium, and magnesium repletion. Persistent palpitations or anything accompanied by chest pain or shortness of breath needs medical evaluation.
 
-## FAQ
-
-### How long does keto flu last?
-
-For most people, the worst of it is over by days 3 to 5. A smaller percentage experiences symptoms for up to two weeks. The duration depends heavily on how depleted your electrolytes become and how dramatically you cut carbs. Going cold turkey from 300 grams of carbs daily is a harder physiological shock than tapering from 150 grams over a week. If you're still feeling rough after two weeks with good electrolyte intake and adequate calories, it's worth checking thyroid function and cortisol with your doctor.
-
-### Can you be in ketosis without any symptoms?
-
-Absolutely. Some people transition with minimal or no symptoms, especially if they were already eating low-carb, regularly exercising, or had good metabolic flexibility to start with. Athletes or people who've done intermittent fasting before often report barely noticing the switch. Don't assume something is wrong if you feel fine.
-
-### Does keto breath go away on its own?
-
-Yes, for most people it fades significantly after the first month as the body becomes more efficient at utilizing ketones rather than exhaling them. Good hydration speeds this up. Chewing parsley, staying hydrated, and brushing your tongue help in the meantime. If you're several months in and the smell persists strongly, check whether you're producing too many ketones relative to what you're using, which might mean your fat intake is too high relative to your activity level.
-
-### I feel great in week one but terrible in week three. What's happening?
-
-This is less common but real. A second-wave slump around weeks two to four sometimes hits when your body has burned through glycogen stores but hasn't yet fully upregulated the fat-oxidation enzymes needed to run efficiently on ketones. True fat adaptation takes four to twelve weeks for most people. Keep your electrolytes up, eat enough, and stay patient. Adding in some light-to-moderate exercise can actually speed up fat adaptation by increasing demand for alternative fuel.
-
-### Will I lose more weight if I have more ketosis symptoms?
-
-No, and this is an important misconception to clear up. Symptom intensity doesn't correlate with fat loss or ketone levels. Someone who feels miserable during the transition isn't losing more weight than someone who sails through it. What actually drives fat loss on keto is a sustained caloric deficit, maintained over time, with adequate protein to protect muscle mass. Darker urine strips don't mean faster results either. Focus on food quality, consistency, and total intake tracked with a [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale) for accuracy, not on how bad you feel.
 
 ---
 

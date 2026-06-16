@@ -86,27 +86,6 @@ MCT oil is worth mentioning here. It converts to ketones quickly, even outside o
 
 ---
 
-## FAQ
-
-### How long does keto brain fog usually last?
-
-For most people, the worst of it clears within 5 to 10 days. Full cognitive adaptation, where mental energy feels genuinely stable and good, can take 4 to 6 weeks. If significant fog persists past three weeks with proper electrolyte intake and adequate calories, it's worth checking whether you're actually in ketosis and ruling out sleep issues.
-
-### Can keto brain fog be dangerous?
-
-Typically no, not in healthy adults. It's unpleasant but not harmful. That said, if you're doing anything that requires sharp mental performance (driving long distances, operating machinery, certain jobs), the adaptation period deserves some respect. Time your transition thoughtfully if that's your situation.
-
-### Does everyone get brain fog on keto?
-
-No. Some people transition with barely any symptoms, particularly those who are already metabolically flexible, meaning they exercise regularly and weren't eating a very high-carb diet. People coming off a high-sugar, high-processed-carb diet tend to have a harder time.
-
-### Will more fat or more protein help with brain fog?
-
-More fat helps if total calories are too low. Protein is interesting: some evidence suggests adequate protein (around 1.2 to 1.7 grams per kilogram of body weight) supports cognitive function, and many keto dieters undereat it. I'd look at whether protein intake is sufficient before adding more fat.
-
-### Is MCT oil actually worth buying for brain fog?
-
-Probably, as a short-term tool during adaptation. The effect is real for many people, and the mechanism (rapid conversion to ketones) makes sense. It won't fix electrolyte deficiencies or sleep problems, so treat it as a supplement to the basics, not a replacement. Budget brands are fine; you don't need the premium versions.
 
 ---
 

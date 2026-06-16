@@ -116,27 +116,6 @@ Once you've thought through your goals, here's how to actually move forward with
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch between low carb and keto depending on the week?
-
-Technically yes, but you should go in with realistic expectations. Every time you drop back into strict keto after a higher-carb period, you'll go through a shorter version of the adaptation process again. That said, some people use a cyclical approach intentionally, eating stricter keto on sedentary days and allowing more carbs around intense training. There's some evidence this supports performance without fully losing metabolic adaptation, but it's more complex to manage than a consistent approach. If you're just getting started, consistency will teach you more.
-
-### Do I need to count net carbs or total carbs?
-
-It depends on which approach you're taking and your individual response. Net carbs subtract fiber (and sometimes sugar alcohols) from total carbs, based on the idea that fiber isn't digested and absorbed the same way. Most people doing keto count net carbs and land under 20g. Some people, particularly those with type 2 diabetes or strong glucose responses, do better counting total carbs since fiber still affects some individuals' blood sugar. If you're not seeing expected results on net carbs, try tracking total carbs for two weeks.
-
-### Is low carb or keto better for weight loss?
-
-Both produce weight loss, and in most head-to-head studies the difference at 12 months is smaller than early results suggest. Keto often shows faster weight loss in the first three to six months, partly due to water loss as glycogen stores deplete, and partly due to the appetite-suppressing effect of ketosis. Long-term, adherence matters more than which specific approach you're on. The diet you can actually stick to is the one that works.
-
-### What foods are allowed on keto that aren't on low carb?
-
-That's actually the wrong direction. Keto is the more restrictive of the two. Low carb allows foods that keto generally excludes: moderate amounts of fruit, legumes like lentils or chickpeas, some root vegetables, small servings of whole grains, and more flexibility with dairy. Keto typically limits you to non-starchy vegetables, meat, fish, eggs, full-fat dairy, nuts, seeds, and healthy fats, with very limited exceptions.
-
-### Will I lose muscle on keto?
-
-Not necessarily, but it requires attention. Very low carb diets can be muscle-sparing when protein intake is adequate, typically 1.2 to 1.6 grams per kilogram of body weight daily, and when you're resistance training. The concern about muscle loss on keto often comes from early studies where protein was too low, or from individuals who weren't strength training. If you're eating enough protein and lifting weights, you can preserve lean mass on keto. Some studies actually show favorable outcomes for body composition, with fat loss exceeding muscle retention at a higher ratio than calorie restriction alone.
 
 ---
 

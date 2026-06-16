@@ -105,27 +105,6 @@ If you choose to drink on keto, be aware that alcohol tends to hit harder when y
 
 ---
 
-## FAQ
-
-### Can I eat fruit at all on keto?
-
-Yes, in small amounts and with careful tracking. Berries are the most practical option. A half-cup of raspberries or blackberries fits comfortably into most people's daily carb budget. A small handful of strawberries works too. What you can't do is treat fruit like a free food or eat it in the quantities most nutrition guidelines recommend. One large piece of most fruit will put you at or near your daily limit.
-
-### What's the deal with "net carbs" versus total carbs?
-
-Net carbs are calculated by subtracting fiber (and sometimes sugar alcohols) from total carbohydrates, based on the reasoning that fiber isn't digested and doesn't impact blood sugar the way other carbs do. Most keto practitioners use net carbs as their tracking metric. However, some people find better results tracking total carbs, particularly those who are more insulin-sensitive or who find that high-fiber foods still affect them. If you're stalling and can't figure out why, switching to total carbs for a couple of weeks is a reasonable experiment.
-
-### Are sweet potatoes really off limits? They seem so nutritious.
-
-They are nutritious. That's not in question. But one medium sweet potato delivers 20 to 23 grams of net carbs, which for most people on strict keto is nearly a full day's budget in one side dish. If you're following a more moderate low-carb approach (50 to 100 grams per day) rather than strict ketogenic eating, a small portion of sweet potato might work. On strict keto aimed at ketosis, they're genuinely difficult to include.
-
-### I've heard some people say they can eat more carbs and stay in ketosis. Is that true?
-
-To a degree. Ketosis thresholds vary between individuals. Some people stay in ketosis at 30 to 50 grams of net carbs per day. Others, particularly those who are very physically active or have excellent insulin sensitivity, may maintain some level of ketosis at higher intakes. But the 20 to 25 gram starting point is where the research shows most people reliably achieve ketosis. If you've been doing keto for a while and are metabolically adapted, you may have more flexibility. Testing with a blood ketone meter is the only way to know for sure where your personal threshold actually sits.
-
-### Do I need to avoid all grains forever?
-
-On a strict ketogenic diet, yes, grains present a significant carb challenge. Even "ancient grains" like quinoa, farro, and amaranth carry 30 to 40 grams of net carbs per cooked cup. If your goal is ketosis specifically, grains are effectively off the table in any meaningful quantity. That said, keto isn't the only valid form of low-carb eating. If your goals shift, or if you're maintaining rather than losing, some people do incorporate very small amounts of certain grains. What I'd caution against is the common pattern of reintroducing grains "just a little" without tracking, which tends to spiral into being no longer low-carb at all.
 
 ---
 

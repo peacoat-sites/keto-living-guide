@@ -151,27 +151,6 @@ One area I always flag with new clients: salad dressings. "Low-fat" dressings ar
 
 ---
 
-## FAQ
-
-### Can I eat fruit on keto?
-
-Most whole fruits are too high in sugar to eat freely on keto. Berries are the exception. Raspberries, blackberries, and strawberries are relatively low in net carbs (around 5 to 7 grams per half cup) and rich in fiber and antioxidants. Blueberries are higher and worth limiting. Avocado is technically a fruit with about 2 grams of net carbs per half, which is why it's a staple. Stick to small portions of berries and skip bananas, mangoes, grapes, and pineapple entirely.
-
-### Is oatmeal allowed on keto?
-
-No. A half-cup of dry rolled oats has around 27 grams of net carbs, which is over an entire day's budget for strict keto. Even overnight oats marketed as "healthy" don't fit. If you miss the texture of a warm breakfast bowl, try a "noatmeal" made from hemp hearts, flaxseed, chia seeds, and almond flour cooked in almond milk with butter and cinnamon. It's genuinely satisfying.
-
-### What about nuts and seeds?
-
-Most nuts and seeds are good keto foods, but portion size matters because the carbs add up. Macadamia nuts and pecans are the lowest in carbs. Almonds, walnuts, and pumpkin seeds are moderate and fine in a reasonable handful (about 1 ounce). Cashews are the highest-carb nut at around 8 to 9 grams per ounce, so treat them more like a special occasion food. [Keto-friendly nut snack packs](https://www.amazon.com/s?k=keto+mixed+nuts&tag=ketolivingsite-20) are convenient for travel days. *(This site may earn a commission on qualifying purchases.)*
-
-### Do I need to track every gram of carbs?
-
-When you're starting out, yes. Tracking for at least the first two to four weeks builds an accurate mental map of where carbs actually hide. Most people are shocked to discover how quickly small amounts add up. After you've built that intuition, many people transition to more casual tracking. Apps like Cronometer or Carb Manager make this easy. A decent [set of meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=ketolivingsite-20) paired with a food scale turns tracking into a 5-minute daily habit rather than a burden. *(This site may earn a commission on qualifying purchases.)*
-
-### What are electrolytes, and why do people keep mentioning them?
-
-When you cut carbs, your kidneys excrete more sodium, which triggers losses of potassium and magnesium as well. This electrolyte depletion is the main cause of "keto flu," the fatigue, headaches, and muscle cramps some people experience in the first one to two weeks. Salting your food generously, eating magnesium-rich foods like spinach and pumpkin seeds, and considering a dedicated [keto electrolyte supplement](https://www.amazon.com/s?k=keto+electrolytes&tag=ketolivingsite-20) can make the transition dramatically more comfortable. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

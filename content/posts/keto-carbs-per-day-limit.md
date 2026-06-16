@@ -103,27 +103,6 @@ If you're tracking for weight loss or metabolic health (not clinical reasons), s
 
 ---
 
-## FAQ
-
-### Does exercise change how many carbs I can eat on keto?
-
-Yes, meaningfully. Muscle tissue is the primary storage site for glycogen, and when you exercise regularly, especially with resistance training or high-intensity cardio, you use through glycogen faster. Your muscles also become more insulin sensitive over time, which means they process glucose more efficiently. Many consistent exercisers find they can eat 10 to 20 grams more net carbs daily without losing ketosis. Some athletes use a "targeted keto" approach, eating a small amount of fast-digesting carbs around workouts specifically, while staying very low-carb the rest of the day.
-
-### Can I have a high-carb day and then go back to keto?
-
-You can, but it's not seamless. A significant carb refeed will replenish glycogen stores and take you out of ketosis. Getting back in typically takes one to three days of strict low-carb eating. For some people, this cycling is intentional and works well. For others, particularly those using keto to manage blood sugar or insulin resistance, the disruption is counterproductive. How well you handle carb cycling depends on your metabolic health and why you're doing keto in the first place.
-
-### Are there carbs I can eat freely on keto?
-
-Not freely, but some foods are very low in net carbs and high in volume, meaning you can eat a reasonable amount without blowing your daily budget. Leafy greens like spinach, arugula, and romaine are in this category. Zucchini, cucumbers, and celery are similar. These foods have fiber and water content that makes them filling relative to their carb contribution. That said, "tracking lightly" on keto is where most people run into trouble. Even low-carb vegetables add up if you're not paying attention.
-
-### What happens if I go slightly over my carb limit?
-
-It depends on how far over and what your current metabolic state is. If you're well-adapted and eat 5 to 10 grams over your usual intake, you may not notice any difference. If you're a beginner and eat 60 grams in one day when you've been targeting 20, you'll likely drop out of ketosis temporarily. The longer you've been keto-adapted, the more buffer you have. Don't treat a single over-budget day as a reason to abandon the approach. Get back to baseline the next day and move on.
-
-### Should I count carbs in coffee additives or cooking oils?
-
-Cooking oils and plain fats have zero carbs, so no. Black coffee has trace carbs (under 1 gram per cup) that you can reasonably ignore. Where it gets important is with cream, flavored creamers, and any sweeteners. Heavy cream has about 0.4 grams of carbs per tablespoon, which is minimal but adds up if you're using several tablespoons daily. Flavored coffee creamers, even "sugar-free" versions, can have 1 to 2 grams per tablespoon from thickeners and fillers. If you're drinking three or four cups of coffee a day with seasoned cream, it's worth logging.
 
 ---
 

@@ -106,27 +106,6 @@ For storage, invest in a set of glass meal prep containers. They go from fridge 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I eat chicken skin on keto?
-
-Yes, and you should. Chicken skin is mostly fat with trace protein and zero carbohydrates. On a ketogenic diet where fat is the primary fuel source, leaving the skin on actually improves your macro ratios. The only reason to remove it would be personal preference. From a nutritional standpoint for keto, it's a feature not a flaw.
-
-### How much chicken should I eat per day on keto?
-
-Most people on keto target somewhere between 0.7 to 1 gram of protein per pound of lean body mass. For a 150-pound person with average body composition, that's roughly 90 to 110 grams of protein daily. A 6-ounce cooked chicken thigh delivers about 32 grams of protein, so 2 to 3 servings of chicken gets most people close to their daily target without overshooting.
-
-### Does marinating chicken in sugary sauces kick you out of ketosis?
-
-It depends heavily on how much sugar is in the marinade and how much actually absorbs into the meat. Most commercially bottled BBQ sauces and teriyaki marinades are loaded with sugar and should be avoided. Swap in coconut aminos instead of soy sauce, use Dijon mustard instead of honey-mustard, and make your own spice rubs. If you're uncertain about which condiments and sauces are safe, check the detailed breakdown in our [foods to avoid on keto](/foods-to-avoid-on-keto/) guide.
-
-### Is rotisserie chicken okay for keto?
-
-Mostly yes, with one caveat. Plain rotisserie chicken is perfectly fine. Some store-bought rotisserie birds are injected with a brine that includes dextrose or modified starch, and the seasoning blends occasionally contain sugar. Check the ingredients list at the store. Costco's rotisserie chicken, for example, contains less than 1 gram of carbs per serving and is a legitimate keto staple for millions of people.
-
-### What's the best fat to cook keto chicken in?
-
-For high-heat cooking like searing or roasting, avocado oil is excellent because its smoke point sits around 500°F. Butter adds rich flavor and pairs naturally with the savory notes of chicken but burns more easily, so it's better for finishing or medium-heat cooking. Ghee combines the best of both worlds with a higher smoke point than butter and the same rich flavor. Olive oil works well for lower-heat methods or as a finishing drizzle. What you want to avoid is cooking spray with additives or low-fat options that strip out the dietary fat you actually need.
 
 ---
 

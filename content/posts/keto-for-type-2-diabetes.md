@@ -126,27 +126,6 @@ Finally, the long-term research on keto for type 2 diabetes, while promising, is
 
 ---
 
-## Frequently Asked Questions
-
-### Can keto actually reverse type 2 diabetes?
-
-"Reversal" is a loaded word, but it's being used increasingly in the clinical literature. What it means is sustained remission: A1C below 6.5% without diabetes medications. Studies like the Virta Health trial have shown this outcome in 53% of participants after one year on a very low-carb diet. Whether this constitutes a cure depends on how you define the disease. The underlying genetic tendency toward insulin resistance doesn't disappear. But the metabolic dysfunction can be pushed into remission, sometimes for years. That's clinically meaningful.
-
-### Will keto cause dangerous ketoacidosis if I have diabetes?
-
-Diabetic ketoacidosis (DKA) is a serious complication of type 1 diabetes or late-stage type 2 where insulin production is severely deficient. Nutritional ketosis, the state induced by a ketogenic diet, produces ketone levels of 0.5 to 3.0 mmol/L. DKA involves ketone levels of 10 to 30 mmol/L, often combined with very high blood sugar. They're biologically different states. Most people with type 2 diabetes who still have some insulin function can safely enter nutritional ketosis. That said, anyone using insulin or SGLT-2 inhibitors should do this under medical supervision.
-
-### How long before I see blood sugar improvements?
-
-Many people see fasting blood glucose drop noticeably within three to seven days of reducing carbs below 50 grams. A1C, which reflects a three-month average, takes longer to reflect the change. Give yourself a full 90 days before getting a new A1C test to see the real impact. In my experience coaching clients, the most dramatic early changes are in post-meal glucose readings and energy levels, often in the first two weeks.
-
-### Do I need to count calories on keto if I have diabetes?
-
-Not necessarily. Protein and fat are naturally satiating, and ketones themselves appear to suppress appetite. Most people eat fewer calories without tracking them, which is one reason keto tends to produce weight loss even without calorie counting. That said, if you're not seeing blood sugar improvements or weight loss after four to six weeks, logging food in an app like Cronometer for a week or two can reveal hidden carbs or calorie surplus. It's a useful diagnostic tool, not a permanent chore.
-
-### What's the best way to handle eating out on keto with diabetes?
-
-Stick to protein and fat, ask for substitutions without shame, and watch for hidden carbs in sauces, marinades, and breading. At most restaurants, a bunless burger with a side salad, grilled fish with vegetables, or a steak with no potato swap is achievable. Tex-Mex spots are tricky because beans and rice are everywhere, but a fajita bowl with meat, guacamole, cheese, and sour cream minus the tortillas and rice works perfectly well. Your glucose meter will quickly teach you which restaurants and which dishes are actually safe for you.
 
 ---
 

@@ -72,27 +72,6 @@ One thing I tell every new client: log before you eat, not after. Not because th
 
 ---
 
-## FAQ
-
-### Is the free version of a keto tracker good enough, or do I need to pay?
-
-For most people starting out, the free tier of Carb Manager or Cronometer covers the basics well. The paid features (meal planning, advanced coaching, deeper analytics) are useful if you're troubleshooting a stall or managing something like PCOS or insulin resistance, but they're not necessary to get started.
-
-### How do I know if the carb counts in a tracker are accurate?
-
-Cross-reference anything unfamiliar against the nutrition label in your hand. Crowdsourced databases have real errors, especially for branded products. Cronometer's USDA-sourced entries tend to be more reliable than user-submitted ones in any app.
-
-### Do keto tracker apps work for total carbs or net carbs?
-
-It depends on the app and its default settings. Carb Manager defaults to net carbs, which is what most keto protocols use. MyFitnessPal defaults to total carbs. Check your settings before you trust any numbers, because the difference can be significant, especially if you're eating a lot of fibrous vegetables or using sugar alcohols.
-
-### Can I use a keto tracker if I'm doing lazy keto and don't want to track everything?
-
-Yes, though you'll get less from it. Even lazy keto benefits from occasionally spot-checking your carb intake, since carb counts in condiments, sauces, and packaged foods sneak up fast. Logging one day every week or two as a "calibration" check is a reasonable middle ground.
-
-### Should I track calories on keto, or just carbs and macros?
-
-The research here is genuinely mixed. Many people lose weight on keto without explicit calorie counting because protein and fat are more satiating. But if you've been eating keto for more than 6-8 weeks without results, tracking calories for two weeks is worth doing. It's a diagnostic tool, not a lifelong requirement, and you might be surprised where your calories are actually coming from.
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
