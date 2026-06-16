@@ -1,0 +1,42 @@
+{{/* Keto macro calculator. Usage: {{< keto-calculator >}} */}}
+<div style="margin:28px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
+  <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">Keto Macro Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:14px">
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Sex<select id="k-sex" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b);background:#fff"><option value="m">Male</option><option value="f">Female</option></select></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Age<input id="k-age" type="number" value="35" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Height (in)<input id="k-ht" type="number" value="68" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Weight (lbs)<input id="k-wt" type="number" value="180" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b)"></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Activity<select id="k-act" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b);background:#fff"><option value="1.2">Sedentary</option><option value="1.375">Lightly active</option><option value="1.55" selected>Moderately active</option><option value="1.725">Very active</option></select></label>
+      <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280);display:flex;flex-direction:column;gap:5px">Goal<select id="k-goal" style="padding:9px 11px;border:1px solid var(--border,#e7e5e4);border-radius:8px;font-size:15px;color:var(--text,#1e293b);background:#fff"><option value="0.8">Lose fat</option><option value="1" selected>Maintain</option><option value="1.1">Gain muscle</option></select></label>
+    </div>
+    <div style="margin-top:20px;background:var(--surface2,#f5f2ec);border-radius:12px;padding:18px 20px;text-align:center">
+      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280)">Your daily target</div>
+      <div id="k-cal" style="font-size:2.3rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.1;margin:4px 0 12px">0 cal</div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+        <div style="flex:1;min-width:90px;background:#fff;border-radius:10px;padding:10px"><div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase">Fat (70%)</div><div id="k-fat" style="font-size:1.3rem;font-weight:700">0g</div></div>
+        <div style="flex:1;min-width:90px;background:#fff;border-radius:10px;padding:10px"><div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase">Protein (25%)</div><div id="k-pro" style="font-size:1.3rem;font-weight:700">0g</div></div>
+        <div style="flex:1;min-width:90px;background:#fff;border-radius:10px;padding:10px"><div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase">Net carbs</div><div id="k-carb" style="font-size:1.3rem;font-weight:700">0g</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>(function(){
+  var ids=['k-sex','k-age','k-ht','k-wt','k-act','k-goal'];
+  function val(id){var e=document.getElementById(id);return e?e.value:'';}
+  function num(id){return parseFloat(val(id))||0;}
+  function calc(){
+    var sex=val('k-sex'),age=num('k-age'),ht=num('k-ht'),wt=num('k-wt'),act=num('k-act'),goal=num('k-goal');
+    var kg=wt/2.2046,cm=ht*2.54;
+    var bmr=10*kg+6.25*cm-5*age+(sex==='m'?5:-161);
+    var cal=Math.max(1000,Math.round(bmr*act*goal/10)*10);
+    var carb=25,pro=Math.round(wt*0.8);
+    var fat=Math.max(0,Math.round((cal-pro*4-carb*4)/9));
+    var c=document.getElementById('k-cal');if(c)c.textContent=cal.toLocaleString()+' cal';
+    var f=document.getElementById('k-fat');if(f)f.textContent=fat+'g';
+    var p=document.getElementById('k-pro');if(p)p.textContent=pro+'g';
+    var cb=document.getElementById('k-carb');if(cb)cb.textContent=carb+'g';
+  }
+  ids.forEach(function(id){var e=document.getElementById(id);if(e){e.addEventListener('input',calc);e.addEventListener('change',calc);}});
+  calc();
+})();</script>
