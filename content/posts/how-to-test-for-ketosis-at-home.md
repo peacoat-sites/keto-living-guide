@@ -30,6 +30,16 @@ Most people try to test for ketosis at home and wind up more confused than when 
 
 Let's sort that out.
 
+
+<div class="value-module">
+  <div class="vm-head">Ketosis Testing Method Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this decision matrix to match your testing method to your actual goal, experience level, and practical constraints.</p>
+    <table><thead><tr><th>Factor</th><th>Urine Strips</th><th>Breath Meter</th><th>Blood Meter</th></tr></thead><tbody><tr><td><strong>Best for</strong></td><td>First 2-4 weeks only; confirming initial ketosis entry</td><td>Daily habit tracking; trend monitoring over months</td><td>Precise BHB levels; troubleshooting stalls; therapeutic ketosis</td></tr></thead><tbody><tr><td><strong>Avoid if</strong></td><td>Keto-adapted (6+ weeks); need precision; tracking therapeutic levels</td><td>Need clinical-grade accuracy; budget under $150</td><td>Needle-averse; testing more than 1-2x daily long-term</td></tr><tr><td><strong>Reliability timeline</strong></td><td>Degrades after 3-6 weeks as body adapts</td><td>Consistent over time</td><td>Consistent over time</td></tr><tr><td><strong>Upfront cost</strong></td><td>$10-12 (100 strips)</td><td>$150-250</td><td>$40-60 (meter + 10-20 strips)</td></tr><tr><td><strong>Ongoing cost</strong></td><td>~$0.10/test</td><td>$0 (no consumables)</td><td>$0.80-1.50/strip</td></tr><tr><td><strong>Break-even vs. blood</strong></td><td>N/A</td><td>~150-200 tests (~5-7 months daily)</td><td>N/A (baseline)</td></tr><tr><td><strong>Ketone measured</strong></td><td>Acetoacetate (excreted, not used)</td><td>Acetone (metabolic byproduct)</td><td>BHB (primary fuel ketone)</td></tr><tr><td><strong>Result interpretation</strong></td><td>Color match to chart; subjective</td><td>Numeric ppm or proprietary score</td><td>Precise mmol/L reading</td></tr><tr><td><strong>Optimal ketosis threshold</strong></td><td>Moderate-dark color (illustrative only)</td><td>Device-specific; typically 10-40 ACEs or 5-20 ppm</td><td>0.5-3.0 mmol/L (nutritional ketosis)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Three Methods, and What They're Actually Telling You
 
 There are three ways to test for ketosis at home: urine strips, breath meters, and blood ketone meters. They measure different things. They have different accuracy levels. And the one most beginners default to, the urine strips, is also the one that becomes unreliable the fastest.

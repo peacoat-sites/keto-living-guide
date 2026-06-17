@@ -34,6 +34,16 @@ So let me give you the real breakdown on keto brain fog: what's causing it, what
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Keto Brain Fog: Symptom-to-Cause Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to identify which underlying cause is driving your symptoms, with specific thresholds and corresponding fixes.</p>
+    <ul><li><strong>Symptom timing: Days 1–7 of keto</strong><ul><li>Primary suspect: <em>Electrolyte depletion</em></li><li>Check: Sodium intake below 4–5 g/day (typical keto target is higher than standard diet due to increased excretion)</li><li>Check: Potassium below 3–4 g/day from food sources</li><li>Check: Magnesium below 300–400 mg/day</li><li>Quick test: If symptoms improve within 2–4 hours of salted broth + magnesium, electrolytes were the cause</li></ul></li><li><strong>Symptom timing: Days 7–21 of keto</strong><ul><li>Primary suspect: <em>Incomplete metabolic adaptation</em></li><li>Check: Blood ketones below 0.5 mmol/L (suggests you're not yet in consistent ketosis)</li><li>Check: Hidden carbs keeping you above 30–50 g/day net carbs</li><li>Check: Sleep quality declined (adaptation stress can disrupt sleep, worsening fog)</li></ul></li><li><strong>Symptom timing: Beyond 3–4 weeks</strong><ul><li>Primary suspect: <em>Caloric or nutrient deficit</em></li><li>Check: Total calorie intake dropped more than 30% from pre-keto baseline</li><li>Check: Protein below 0.7 g per pound of body weight</li><li>Check: B-vitamins or iron inadequate (common when eliminating fortified grains)</li></ul></li><li><strong>Red flags requiring medical evaluation</strong><ul><li>Fog accompanied by heart palpitations, muscle cramps, or weakness</li><li>Symptoms persist unchanged despite 2 weeks of adequate electrolytes and calories</li><li>Pre-existing thyroid, adrenal, or blood sugar conditions</li></ul></li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What's Actually Happening in Your Brain
 
 The first few days on keto, your brain is in a genuinely weird transitional state. It's been running on glucose for your entire life, and you've just cut off the supply. Ketones are a perfectly good fuel (some research suggests they're actually a more efficient fuel per unit of oxygen), but your brain can't flip that switch overnight. There's a lag, sometimes 3 to 7 days, sometimes longer depending on your metabolic health and how insulin resistant you were going in.

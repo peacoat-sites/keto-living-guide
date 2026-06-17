@@ -32,6 +32,16 @@ The cyclical ketogenic diet, often called CKD, is one of the most misunderstood 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">CKD Candidate Assessment Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these specific criteria to determine whether cyclical keto is appropriate for your situation versus staying with standard keto.</p>
+    <table><thead><tr><th>Criterion</th><th>Standard Keto Likely Better</th><th>CKD Worth Considering</th></tr></thead><tbody><tr><td>Weekly training intensity</td><td>Light cardio, yoga, walking, or under 3 sessions/week</td><td>4+ sessions/week including resistance training or HIIT</td></tr><tr><td>Time on strict keto</td><td>Less than 6-8 weeks (still fat-adapting)</td><td>8+ weeks with confirmed ketone production</td></tr><tr><td>Performance pattern</td><td>Energy stable across workout types</td><td>Noticeable drop in strength/power after first 20-30 minutes of intense work</td></tr><tr><td>Glycogen-dependent activities</td><td>None or minimal</td><td>Regular sprinting, heavy lifting (5-rep range), or sport competition</td></tr><tr><td>Weight loss as primary goal</td><td>Yes, significant fat loss still needed</td><td>Within 10-15 lbs of goal weight, shifting toward body composition</td></tr><tr><td>Relationship with carbs</td><td>History of binge eating or difficulty with moderation</td><td>Can eat structured carb meals without triggering multi-day overeating</td></tr><tr><td>Thyroid/hormone concerns</td><td>No symptoms of metabolic slowdown</td><td>Persistent low body temperature, stalled fat loss despite deficit, or disrupted menstrual cycle after 3+ months</td></tr><tr><td>Tracking willingness</td><td>Prefer simple eat/don't-eat rules</td><td>Willing to plan refeed macros and time carbs around training</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Cyclical Ketogenic Diet Actually Is
 
 The core idea is simple: you follow strict ketogenic eating (typically under 50g net carbs daily, often closer to 20-30g) for most of the week, then cycle in one or two higher-carbohydrate days. Those carb-loading days usually range from 150g to 400g of carbohydrates, depending on your body size, training volume, and goals.

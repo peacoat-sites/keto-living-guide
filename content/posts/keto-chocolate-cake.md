@@ -30,6 +30,16 @@ Most keto chocolate cake recipes will lie to you. Not maliciously, just optimist
 
 So let's talk about what keto chocolate cake can actually be, and what it can't.
 
+
+<div class="value-module">
+  <div class="vm-head">Keto Flour & Sweetener Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table summarizes the key behavioral differences between common keto baking ingredients to help you choose based on your cake style.</p>
+    <table><thead><tr><th>Ingredient</th><th>Best For</th><th>Key Behavior</th><th>Watch Out For</th><th>Typical Ratio</th></tr></thead><tbody><tr><td>Almond flour (super-fine)</td><td>Layer cakes, moist crumb</td><td>Holds fat well, creates tender texture</td><td>Crumbles without enough eggs (use 4 for 9-inch round)</td><td>1½–2 cups per 9-inch layer</td></tr><tr><td>Coconut flour</td><td>Dense snacking cakes, brownies</td><td>Absorbs 4× liquid of almond flour</td><td>Fibrous texture; faint coconut note</td><td>¼ cup replaces 1 cup almond flour</td></tr><tr><td>Erythritol (e.g., Swerve)</td><td>Budget-friendly baking</td><td>Measures 1:1 with sugar</td><td>Cooling aftertaste; crystallizes as cake cools</td><td>¾–1 cup per cake</td></tr><tr><td>Allulose</td><td>Smooth texture, no recrystallization</td><td>70% sweetness of sugar; browns like sugar</td><td>Can cause digestive upset in large amounts</td><td>Increase by 30% vs. sugar</td></tr><tr><td>Monk fruit blend</td><td>Intense sweetness, small quantities</td><td>Often blended with erythritol for bulk</td><td>Check blend ratio; some are 2:1 vs. sugar</td><td>Follow package conversion</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Ingredient Decisions That Actually Matter
 
 Almond flour versus coconut flour. This comes up constantly, and people treat it like a coin toss. It isn't. These two flours behave completely differently in a chocolate cake, and conflating them will ruin your bake.

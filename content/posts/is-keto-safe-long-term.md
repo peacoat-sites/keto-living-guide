@@ -36,6 +36,16 @@ What I can tell you is what the research does show, what I've seen working with 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Keto Monitoring: When to Test What</div>
+  <div class="vm-body">
+    <p class="vm-intro">Since supervised programs show better outcomes than unsupervised keto, here's a practical lab monitoring schedule based on clinical protocols from published long-term studies.</p>
+    <table><caption>Recommended Lab Tests for Long-Term Keto (Illustrative Schedule)</caption><thead><tr><th>Test</th><th>Baseline</th><th>3 Months</th><th>6 Months</th><th>Annually</th><th>Why It Matters on Keto</th></tr></thead><tbody><tr><td>Lipid panel (LDL, HDL, triglycerides)</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>~25% of people see LDL rise significantly; triglycerides typically improve</td></tr><tr><td>Fasting glucose + HbA1c</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Tracks insulin sensitivity improvements or rebounds</td></tr><tr><td>Basic metabolic panel (kidney function)</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>Higher protein intake warrants monitoring in at-risk individuals</td></tr><tr><td>Uric acid</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Can spike early (gout/kidney stone risk); usually normalizes by 6 months</td></tr><tr><td>Electrolytes (sodium, potassium, magnesium)</td><td>✓</td><td>✓</td><td></td><td>As needed</td><td>Keto increases excretion; deficiencies cause fatigue, cramps, arrhythmia risk</td></tr><tr><td>Thyroid panel (TSH, free T3)</td><td>✓</td><td></td><td></td><td>✓</td><td>Some evidence T3 decreases on very low carb; clinical significance debated</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Research Actually Shows
 
 The data we do have is mostly encouraging. Two-year clinical trials, including some funded by the NIH, have shown that well-formulated ketogenic diets don't wreck lipids for most people, improve insulin sensitivity, and don't appear to damage kidney function in people without pre-existing kidney disease. A 2020 study in *Frontiers in Endocrinology* followed 349 patients through a medically supervised ketogenic program for two years and found sustained improvements in weight, HbA1c, and triglycerides, with no significant adverse events.

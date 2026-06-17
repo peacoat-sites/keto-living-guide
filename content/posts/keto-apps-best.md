@@ -19,6 +19,16 @@ Most people pick a keto app the same way they pick a Netflix show: scroll for tw
 
 Here's what I've learned after years of recommending tracking tools to clients: the "best keto app" question has no single answer, and most roundups won't tell you that. The app that keeps a busy nurse on track looks nothing like what works for a retired teacher with time to cook elaborate meals. What I can do is tell you what I actually found when I went deep on this, what the apps get right, where they quietly fail, and which ones are genuinely worth your money.
 
+
+<div class="value-module">
+  <div class="vm-head">Keto App Feature Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This decision matrix compares the core features that actually matter for sustained keto tracking, based on what differentiates casual dieters from those who maintain ketosis long-term.</p>
+    <table><thead><tr><th>Feature</th><th>Carb Manager</th><th>Cronometer</th><th>MyFitnessPal</th><th>Senza</th><th>KetoDiet</th></tr></thead><tbody><tr><td>Net carbs as default display</td><td>Yes</td><td>Yes (toggle)</td><td>No (manual setup)</td><td>Yes</td><td>Yes</td></tr><tr><td>Macro rings prioritize fat/protein/carbs over calories</td><td>Yes</td><td>Configurable</td><td>No</td><td>Yes</td><td>Yes</td></tr><tr><td>Barcode scanner accuracy for keto products</td><td>High</td><td>Moderate</td><td>High but error-prone</td><td>Moderate</td><td>Low</td></tr><tr><td>Verified food database (vs user-submitted)</td><td>Partial</td><td>Yes (NCCDB sourced)</td><td>No</td><td>Curated keto only</td><td>Curated keto only</td></tr><tr><td>Fasting timer integrated</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td><td>No</td></tr><tr><td>Micronutrient tracking (electrolytes)</td><td>Premium only</td><td>Yes (free)</td><td>Limited</td><td>No</td><td>No</td></tr><tr><td>Recipe import from URL</td><td>Yes</td><td>Yes</td><td>Premium only</td><td>No</td><td>Yes</td></tr><tr><td>Offline logging</td><td>Yes</td><td>Yes</td><td>Limited</td><td>Yes</td><td>Yes</td></tr><tr><td>Free tier usefulness (1-10)</td><td>8</td><td>9</td><td>5</td><td>7</td><td>4</td></tr><tr><td>Annual premium cost (USD)</td><td>$40</td><td>$50</td><td>$80</td><td>$60</td><td>$25</td></tr><tr><td>Best for</td><td>Beginners, general keto</td><td>Data-focused, micronutrient trackers</td><td>Already using it, calorie-primary</td><td>Meal planning, community</td><td>Budget, simple tracking</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Most Keto Apps Get Wrong From the Start
 
 Carb tracking sounds simple. Net carbs, total carbs, fiber math. But most general nutrition apps (MyFitnessPal being the obvious example) were built around calorie-deficit models, not metabolic ones. The database is massive, which is useful, but the default macro targets will push you toward 50% carbohydrates unless you manually override everything. That's not a keto app. That's a calorie counter wearing a keto costume.

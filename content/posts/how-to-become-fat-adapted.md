@@ -34,6 +34,16 @@ Fat adaptation is real, it's measurable, and it takes longer than most keto cont
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Fat Adaptation Timeline: Weekly Milestones</div>
+  <div class="vm-body">
+    <p class="vm-intro">Understanding what to expect each week helps you distinguish normal adaptation signals from genuine problems worth addressing.</p>
+    <table><thead><tr><th>Week</th><th>What's Happening Metabolically</th><th>Common Symptoms</th><th>Performance Capacity</th><th>Action Focus</th></tr></thead><tbody><tr><td>1</td><td>Liver glycogen depleting; ketone production beginning</td><td>Headaches, fatigue, irritability, muscle cramps, brain fog</td><td>50-60% of baseline</td><td>Sodium 3-5g/day; hydration; reduce exercise intensity by 40%</td></tr><tr><td>2-3</td><td>Blood ketones rising (typically 0.5-3.0 mmol/L); muscles still inefficient at fat oxidation</td><td>Symptoms easing but energy inconsistent; afternoon slumps common</td><td>60-75% of baseline</td><td>Add magnesium 300-400mg; maintain carb limit strictly</td></tr><tr><td>4-6</td><td>Mitochondrial density increasing; muscle fat oxidation improving</td><td>Mental clarity improving; physical energy still lagging</td><td>75-85% of baseline</td><td>Gradually reintroduce exercise intensity; ensure adequate protein (1.2-1.6g/kg)</td></tr><tr><td>7-12</td><td>Enzyme upregulation continuing; brain ketone utilization optimizing</td><td>Stable energy; reduced hunger between meals; improved fasting tolerance</td><td>85-95% of baseline</td><td>Fine-tune electrolytes based on activity; can test carb tolerance for targeted workouts</td></tr><tr><td>12-24</td><td>Full fat adaptation; peak fat oxidation rates achieved in trained individuals</td><td>Consistent energy; exercise feels normal; metabolic flexibility established</td><td>95-100%+ (some report improved endurance)</td><td>Maintenance phase; some add strategic carb cycling if desired</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Fat Adaptation Actually Means
 
 Your body runs on two main fuels: glucose and fat. For most people eating a standard Western diet, glucose is always available and always preferred. Fat oxidation gets deprioritized because why bother burning the backup generator when the main power is on?

@@ -30,6 +30,16 @@ Most people arrive at keto carrying some combination of hope and skepticism. You
 
 So let's talk about what actually changes, and when, and why it doesn't always look like the transformation photo you saved to your phone.
 
+
+<div class="value-module">
+  <div class="vm-head">Keto Timeline: What to Expect by Week</div>
+  <div class="vm-body">
+    <p class="vm-intro">This evidence-based timeline helps you distinguish normal adaptation from stalls, with realistic ranges based on typical outcomes.</p>
+    <table><caption>Keto Adaptation Timeline and Realistic Expectations</caption><thead><tr><th>Timeframe</th><th>Primary Change</th><th>Typical Scale Movement</th><th>What You'll Feel</th><th>Red Flag to Watch</th></tr></thead><tbody><tr><td>Days 1–7</td><td>Glycogen depletion, water loss</td><td>3–8 lbs lost (mostly water)</td><td>Rapid deflation, reduced bloating</td><td>Severe dizziness (increase sodium to 3,000–5,000mg)</td></tr><tr><td>Days 8–14</td><td>Early ketosis, electrolyte shifts</td><td>1–3 lbs lost</td><td>Possible keto flu: fatigue, headache, brain fog</td><td>Heart palpitations (potassium/magnesium deficit)</td></tr><tr><td>Weeks 3–4</td><td>Fat adaptation begins</td><td>0.5–2 lbs/week</td><td>Energy stabilizing, appetite decreasing</td><td>No weight change AND no measurement change</td></tr><tr><td>Weeks 5–8</td><td>Metabolic flexibility improving</td><td>0.5–1.5 lbs/week</td><td>Steady energy, reduced cravings</td><td>Persistent fatigue (may need more calories)</td></tr><tr><td>Months 3–6</td><td>Body recomposition phase</td><td>Scale may stall while body reshapes</td><td>Clothes fitting differently, face thinning</td><td>Hair shedding (protein intake may be too low)</td></tr><tr><td>Month 6+</td><td>New baseline established</td><td>Highly individual</td><td>Diet feels sustainable or doesn't</td><td>Obsessive food focus (reassess approach)</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The First Two Weeks: What's Actually Happening
 
 Here's what I tell people before they start: the first week is almost always misleading, in both directions.

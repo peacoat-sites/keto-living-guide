@@ -28,6 +28,16 @@ author_bio: "Jake Torres spent a decade as a line cook before going keto himself
 
 Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're already a little hungry and a little cranky, and you have zero interest in spending 45 minutes in the kitchen. Sound familiar? A lot of people abandon keto right at this exact moment. Not because the diet stopped working, but because they ran out of fast, satisfying ideas. The good news is that keto is actually one of the most meal-prep-friendly dietary approaches out there, and once you get a feel for the core building blocks, you can throw together a genuinely great dinner in 15 to 20 minutes flat.
 
+
+<div class="value-module">
+  <div class="vm-head">Quick Keto Plate Builder Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these thresholds to assemble a balanced keto meal in minutes without counting every macro.</p>
+    <ul><li><strong>Protein (palm-sized portion, ~4-6 oz):</strong> Chicken thigh, salmon, ground beef, eggs (2-3), or pork chop — aim for roughly 25-40 g protein per meal</li><li><strong>Fat source (1-2 thumb-sized portions):</strong> Avocado (½), olive oil (1-2 tbsp), butter (1 tbsp), cheese (1 oz), or mayo (1 tbsp) — adds ~15-25 g fat</li><li><strong>Low-carb vegetable (fist-sized or larger):</strong> Spinach, broccoli, zucchini, asparagus, or cauliflower — keep under 5 g net carbs per serving</li><li><strong>Seasoning boost (no-carb flavor):</strong> Salt, pepper, garlic powder, paprika, Italian herbs, or lemon juice — skip sugar-based rubs</li><li><strong>Quick carb check:</strong> If your vegetable is onion, tomato, or bell pepper, halve your usual portion (they run 3-6 g net carbs per ½ cup)</li><li><strong>Meal total target:</strong> Plate should land around 5-10 g net carbs, 25-40 g protein, 30-50 g fat for a standard keto dinner</li></ul>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Keto Meals Are Easier Than You Think
 
 There's a common misconception that keto cooking is complicated or requires specialty ingredients. It doesn't. The foundation of nearly every easy keto meal is the same short list: a quality protein, a fat source, and a low-carb vegetable. That's it.
