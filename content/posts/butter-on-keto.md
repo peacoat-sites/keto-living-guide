@@ -47,11 +47,11 @@ Butter is roughly 100 calories per tablespoon. Two tablespoons in your morning c
 
 The approach that works better for most of my clients: use butter as a cooking fat and a finishing fat, not as a nutrition strategy. A tablespoon or two per meal is plenty. The keto bulletproof-coffee trend (butter plus MCT oil blended into coffee, popularized around 2014-2015) works well as a genuine meal replacement for people who aren't hungry in the morning. It doesn't work as a supplement on top of a full breakfast.
 
-If you want the MCT benefits specifically, adding a quality [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=your-tag) to your cooking or coffee gets you there more efficiently than butter alone, since butter's MCT content is modest.
+If you want the MCT benefits specifically, adding a quality [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) to your cooking or coffee gets you there more efficiently than butter alone, since butter's MCT content is modest.
 
 ## The dairy sensitivity question
 
-A real subset of people stall on keto despite doing everything else right, and dairy is frequently the culprit. Butter is lower risk than cream or cheese because the milk solids are minimal, but it's not zero risk. If you've plateaued for 3-4 weeks, you have low-grade bloating, or your digestion just feels off, pulling dairy entirely for two weeks (butter included) and replacing it with ghee, olive oil, or [avocado oil](https://www.amazon.com/s?k=avocado+oil+spray&tag=your-tag) is worth the experiment.
+A real subset of people stall on keto despite doing everything else right, and dairy is frequently the culprit. Butter is lower risk than cream or cheese because the milk solids are minimal, but it's not zero risk. If you've plateaued for 3-4 weeks, you have low-grade bloating, or your digestion just feels off, pulling dairy entirely for two weeks (butter included) and replacing it with ghee, olive oil, or [avocado oil](https://www.amazon.com/s?k=avocado+oil+spray&tag=contentportfo-20) is worth the experiment.
 
 I've had clients who swore butter was fine for them, tried this, and lost 6-8 pounds in the following month. I've also had clients who tried it, noticed zero difference, and went back to butter without regret. The research on dairy and weight loss specifically is genuinely mixed. You'll have to test it yourself.
 
@@ -63,7 +63,7 @@ One technique worth knowing: beurre monté, which is just butter emulsified with
 
 Compound butters are underused in keto cooking. Mash softened butter with garlic and herbs (or blue cheese, or anchovy paste, or smoked paprika and lemon zest), roll it in parchment, freeze it, slice off a coin when you need it. Drop it on a steak, roasted cauliflower, or grilled fish. It takes 5 minutes to make and turns ordinary proteins into something you'd pay $30 for at a restaurant.
 
-A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=your-tag) is worth having if you're tracking closely. "A tablespoon" of butter can range from 10 to 18 grams depending on how you measure it, and that variance adds up.
+A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=contentportfo-20) is worth having if you're tracking closely. "A tablespoon" of butter can range from 10 to 18 grams depending on how you measure it, and that variance adds up.
 
 ---
 

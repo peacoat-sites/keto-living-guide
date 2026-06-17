@@ -50,7 +50,7 @@ Use lean body mass or goal body weight as your anchor instead.
 
 A concrete example: a 160-pound woman with roughly 30% body fat has about 112 pounds of lean mass. At 1.0g per pound of lean mass, she'd target 112g of protein daily. If she's mostly sedentary, she might do fine at 95-100g. If she's lifting three times a week, 110-130g is likely better.
 
-One tool that makes this dramatically easier is a [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=youraffiliatetag) combined with a food tracking app for the first few weeks. Most people significantly overestimate how much protein is actually in their meals until they measure. A 3-ounce chicken breast has about 26g of protein. A single egg has 6g. These numbers matter when you're trying to hit a specific daily target.
+One tool that makes this dramatically easier is a [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20) combined with a food tracking app for the first few weeks. Most people significantly overestimate how much protein is actually in their meals until they measure. A 3-ounce chicken breast has about 26g of protein. A single egg has 6g. These numbers matter when you're trying to hit a specific daily target.
 
 ## Step-by-Step: Setting Your Protein Target Without Overthinking It
 
@@ -102,7 +102,7 @@ A quick ranking of protein sources by practical value on keto:
 
 Plant proteins are harder to use well on keto. Legumes carry too many carbs to be a primary source. Hemp seeds and pumpkin seeds are reasonable additions but can't anchor your intake. If you're plant-based on keto, you'll need to plan more carefully and may benefit from a BCAA supplement or plant protein powder to fill gaps.
 
-For supplemental protein, a [quality whey protein isolate](https://www.amazon.com/s?k=whey+protein+isolate+low+carb&tag=youraffiliatetag) is the most straightforward option. Isolate rather than concentrate has fewer carbs and is better tolerated by people with dairy sensitivity.
+For supplemental protein, a [quality whey protein isolate](https://www.amazon.com/s?k=whey+protein+isolate+low+carb&tag=contentportfo-20) is the most straightforward option. Isolate rather than concentrate has fewer carbs and is better tolerated by people with dairy sensitivity.
 
 ## Protein and the Bigger Picture: Muscle, Satiety, and Long-Term Results
 
@@ -112,7 +112,7 @@ When you cut carbs and calories, your body will pull energy from anywhere availa
 
 Satiety is the other big one. Protein is the most satiating macronutrient, more so than fat, despite what some keto advocates claim. Studies on subjective hunger ratings consistently show high-protein meals suppress appetite more effectively. If you're constantly hungry on keto, the first variable to examine isn't fat intake. It's protein.
 
-A few practical habits that make hitting protein targets easier without feeling like a chore: keep [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=youraffiliatetag) stocked with pre-cooked protein, batch-cook ground beef or chicken thighs on Sundays, and keep quick options like hard-boiled eggs or canned fish available for the gaps. Protein is the macro that's easiest to under-eat when life gets busy, and the one where under-eating has the most consequence.
+A few practical habits that make hitting protein targets easier without feeling like a chore: keep [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20) stocked with pre-cooked protein, batch-cook ground beef or chicken thighs on Sundays, and keep quick options like hard-boiled eggs or canned fish available for the gaps. Protein is the macro that's easiest to under-eat when life gets busy, and the one where under-eating has the most consequence.
 
 ---
 

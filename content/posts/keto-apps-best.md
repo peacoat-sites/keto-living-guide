@@ -57,7 +57,7 @@ Net carb vs. total carb calculation matters enormously. Some apps calculate net 
 
 Recipe builders are underrated. If you cook at home, you need an app that lets you enter ingredients and servings and spits out per-serving macros. Carb Manager and Cronometer both do this well. This feature alone can save you from systematically underestimating what you're eating, which is the most common reason people stall on keto.
 
-Blood glucose and ketone logging: only Cronometer and Carb Manager handle this in any meaningful way. If you're using a continuous glucose monitor or testing ketones with a [Keto-Mojo meter](https://www.amazon.com/s?k=keto+mojo+meter&tag=placeholder), logging those readings alongside food data is genuinely useful. Most apps just ignore this.
+Blood glucose and ketone logging: only Cronometer and Carb Manager handle this in any meaningful way. If you're using a continuous glucose monitor or testing ketones with a [Keto-Mojo meter](https://www.amazon.com/s?k=keto+mojo+meter&tag=contentportfo-20), logging those readings alongside food data is genuinely useful. Most apps just ignore this.
 
 What doesn't matter as much as the marketing suggests: social features, step counting integrations, and "AI meal suggestions." These look impressive in screenshots and rarely change how consistently someone tracks.
 
@@ -67,7 +67,7 @@ I get asked this constantly. My honest answer: start free, pay only when you hit
 
 The free tier of Carb Manager handles basic macro tracking, recipe logging, and barcode scanning. That's 80% of what most people need in the first few months. Upgrade if you want detailed nutrient reporting, unlimited meal plans, or ketone/glucose logging. Don't pay $8-10/month because an app has nicer animations.
 
-If you're going to spend money, pair your app with things that actually improve your results: a decent [kitchen scale](https://www.amazon.com/s?k=food+scale+kitchen&tag=placeholder) (the OXO Good Grips 11-pound scale is around $50 and worth every cent), some quality [electrolyte supplements](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=placeholder) for the first few weeks, and possibly [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=placeholder) if you're using it therapeutically. The app is a tracking tool, not the intervention itself. *(This site may earn a commission on purchases made through these links.)*
+If you're going to spend money, pair your app with things that actually improve your results: a decent [kitchen scale](https://www.amazon.com/s?k=food+scale+kitchen&tag=contentportfo-20) (the OXO Good Grips 11-pound scale is around $50 and worth every cent), some quality [electrolyte supplements](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20) for the first few weeks, and possibly [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) if you're using it therapeutically. The app is a tracking tool, not the intervention itself. *(This site may earn a commission on purchases made through these links.)*
 
 ## When No App Is the Right App
 

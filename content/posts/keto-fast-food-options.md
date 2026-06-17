@@ -70,7 +70,7 @@ What surprised me was how many keto eaters have the right instincts but make one
 
 6. **Check your total before you eat.** If you're tracking, log it before you start. Logging after the fact when you're already full tends to produce generous estimates.
 
-A kitchen scale is useful at home, but in the field, familiarity with standard portion sizes is what saves you. After a few months of careful tracking with a tool like a [food scale](https://www.amazon.com/s?k=food+scale+for+keto&tag=yoursitetag-20), you'll develop a decent intuitive sense that travels with you.
+A kitchen scale is useful at home, but in the field, familiarity with standard portion sizes is what saves you. After a few months of careful tracking with a tool like a [food scale](https://www.amazon.com/s?k=food+scale+for+keto&tag=contentportfo-20), you'll develop a decent intuitive sense that travels with you.
 
 ## The Hidden Carb Sources Nobody Talks About
 
@@ -89,13 +89,13 @@ Here's a comparison table of some commonly overlooked carb sources at fast food 
 
 The seasoned beef at Taco Bell trips people up constantly. The seasoning mix contains oats and other fillers. It's not catastrophic in small amounts, but if you're eating a large Power Menu Bowl, those grams stack up. This is the kind of thing you don't find out until you actually read the nutrition panel.
 
-Electrolytes also matter when you're eating fast food on keto. The sodium content is usually high, which can actually help with the electrolyte losses keto is known for. But if you're sweating, active, or deep in ketosis, a quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=yoursitetag-20) is worth having in your bag regardless of what you're eating. (This site may earn a commission on purchases made through these links.)
+Electrolytes also matter when you're eating fast food on keto. The sodium content is usually high, which can actually help with the electrolyte losses keto is known for. But if you're sweating, active, or deep in ketosis, a quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20) is worth having in your bag regardless of what you're eating. (This site may earn a commission on purchases made through these links.)
 
 ## What to Carry With You So Fast Food Is Never Your Only Option
 
 The smartest keto fast food strategy is having enough backup with you that fast food becomes a choice rather than an emergency. I've had clients dramatically reduce their drive-through stress by keeping a few things in their car or bag:
 
-[MCT oil packets](https://www.amazon.com/s?k=mct+oil+packets+keto&tag=yoursitetag-20) are portable fat that stifles hunger fast. A single packet can bridge a 3-4 hour window easily. [Keto-friendly snack bars](https://www.amazon.com/s?k=keto+snack+bars&tag=yoursitetag-20) like those from Perfect Keto or RXBAR (the plain flavors have reasonable carb counts) take zero prep. Hard-boiled eggs, string cheese, and pepperoni slices travel well for a few hours in a small cooler bag.
+[MCT oil packets](https://www.amazon.com/s?k=mct+oil+packets+keto&tag=contentportfo-20) are portable fat that stifles hunger fast. A single packet can bridge a 3-4 hour window easily. [Keto-friendly snack bars](https://www.amazon.com/s?k=keto+snack+bars&tag=contentportfo-20) like those from Perfect Keto or RXBAR (the plain flavors have reasonable carb counts) take zero prep. Hard-boiled eggs, string cheese, and pepperoni slices travel well for a few hours in a small cooler bag.
 
 When you're not starving, you make better decisions at the drive-through window. That sounds obvious, but hunger is the single biggest reason people make impulsive food choices they regret.
 

@@ -48,7 +48,7 @@ A few mechanisms explain the initial advantage. Insulin is your primary fat-stor
 
 I've seen clients lose 8-12 pounds in the first two weeks, though I always explain that a significant chunk of that is water weight from glycogen depletion (every gram of glycogen stores about 3 grams of water). What matters is what happens after week three, and for most people who stick with it, fat loss continues at a steady 1-2 pounds per week.
 
-Practical note: if you're trying to track fat intake accurately, a kitchen scale makes a real difference. Eyeballing 2 tablespoons of olive oil versus actually weighing it can mean a 100+ calorie discrepancy that adds up fast. [A simple digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=ketosite-20) is one of the most useful tools you can own on keto.
+Practical note: if you're trying to track fat intake accurately, a kitchen scale makes a real difference. Eyeballing 2 tablespoons of olive oil versus actually weighing it can mean a 100+ calorie discrepancy that adds up fast. [A simple digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20) is one of the most useful tools you can own on keto.
 
 *Disclosure: This site may earn a commission on qualifying Amazon purchases.*
 
@@ -74,7 +74,7 @@ On a standard carbohydrate-heavy diet, your blood glucose rises and falls with e
 
 There's also a growing body of research suggesting ketones may be neuroprotective. BHB crosses the blood-brain barrier easily and provides an alternative fuel source in situations where glucose metabolism is impaired, which is why ketogenic diets have been studied in Alzheimer's research and traumatic brain injury recovery. This doesn't mean keto cures neurological disease, but it does suggest the brain runs well on ketones.
 
-In my experience, the mental clarity improvement typically kicks in around week 2-3, after the initial "keto flu" period passes. The keto flu (fatigue, brain fog, headaches, muscle cramps) is caused primarily by electrolyte losses and usually resolves within a week with adequate sodium (3,000-5,000mg/day), potassium, and magnesium supplementation. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=ketosite-20) without sugar can make that transition significantly more comfortable.
+In my experience, the mental clarity improvement typically kicks in around week 2-3, after the initial "keto flu" period passes. The keto flu (fatigue, brain fog, headaches, muscle cramps) is caused primarily by electrolyte losses and usually resolves within a week with adequate sodium (3,000-5,000mg/day), potassium, and magnesium supplementation. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without sugar can make that transition significantly more comfortable.
 
 ---
 

@@ -81,7 +81,7 @@ If you're an athlete, especially one doing high-intensity or strength training, 
 
 If you find the tracking burden of keto unsustainable, a less rigid low-carb approach done consistently for years beats a "perfect" keto protocol abandoned after two months. Adherence wins.
 
-If your goals are modest, dropping 15 to 20 pounds, reducing afternoon energy crashes, cleaning up your diet generally, standard low-carb delivers real results without requiring a gram scale at every meal. A kitchen scale like the [Escali Primo Digital Food Scale](https://www.amazon.com/dp/B0007GAWRS?tag=yourtag-20) is useful either way, but it becomes essential on strict keto.
+If your goals are modest, dropping 15 to 20 pounds, reducing afternoon energy crashes, cleaning up your diet generally, standard low-carb delivers real results without requiring a gram scale at every meal. A kitchen scale like the [Escali Primo Digital Food Scale](https://www.amazon.com/dp/B0007GAWRS?tag=contentportfo-20) is useful either way, but it becomes essential on strict keto.
 
 ## How to Actually Figure Out Which One You're Doing
 
@@ -89,9 +89,9 @@ Step 1: Track your carbs for three days without changing your eating. Use a free
 
 Step 2: Look at where you land. Above 100 grams? You're low-carb light, or possibly just "lower carb than before." Between 50 and 100 grams? Solid low-carb range. Under 50 grams? You might be approaching ketosis. Under 30 grams with adequate fat intake? You're likely there.
 
-Step 3: If you want to confirm ketosis rather than guess, test it. Urine strips are cheap but imprecise, especially after you're fat-adapted. Blood ketone meters are the gold standard. A reading above 0.5 mmol/L indicates nutritional ketosis. A [Keto-Mojo GKI Blood Glucose & Ketone Meter](https://www.amazon.com/dp/B07B94MHSB?tag=yourtag-20) is the tool I'd recommend if you're serious about tracking this accurately.
+Step 3: If you want to confirm ketosis rather than guess, test it. Urine strips are cheap but imprecise, especially after you're fat-adapted. Blood ketone meters are the gold standard. A reading above 0.5 mmol/L indicates nutritional ketosis. A [Keto-Mojo GKI Blood Glucose & Ketone Meter](https://www.amazon.com/dp/B07B94MHSB?tag=contentportfo-20) is the tool I'd recommend if you're serious about tracking this accurately.
 
-Step 4: Assess your electrolyte intake. Both approaches cause kidneys to excrete more sodium, but keto is more pronounced. If you're getting headaches or fatigue, electrolytes are often the fix before anything else. [LMNT Electrolyte Drink Mix](https://www.amazon.com/dp/B07NKBYH9N?tag=yourtag-20) has a solid sodium-to-potassium ratio and no sugar.
+Step 4: Assess your electrolyte intake. Both approaches cause kidneys to excrete more sodium, but keto is more pronounced. If you're getting headaches or fatigue, electrolytes are often the fix before anything else. [LMNT Electrolyte Drink Mix](https://www.amazon.com/dp/B07NKBYH9N?tag=contentportfo-20) has a solid sodium-to-potassium ratio and no sugar.
 
 ---
 

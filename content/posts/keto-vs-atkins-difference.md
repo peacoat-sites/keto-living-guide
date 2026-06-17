@@ -67,7 +67,7 @@ The other group who should care: people who are stalled. I've seen this pattern 
 
 Here's something that muddies the water commercially: Atkins-branded products are everywhere, they're labeled as "keto-friendly" on the packaging, and they're marketed to both audiences. An Atkins Chocolate Peanut Butter Bar has 3g net carbs according to the label. But it also has sugar alcohols (specifically maltitol in most varieties), which affect blood sugar more than other sugar alcohols and can suppress ketosis in sensitive individuals. If you're buying these and assuming they're neutral to your ketone levels, that's worth questioning.
 
-This isn't an Atkins-specific problem. Plenty of products marketed to the keto crowd have the same issue. But the Atkins brand specifically occupies this dual-audience space in a way that blurs the lines. Worth checking a ketone meter after eating them if you're serious about staying in ketosis. (The [Keto-Mojo GK+ meter](https://www.amazon.com/dp/B07VQCMBQV?tag=site-20) runs around $59 and tests both glucose and ketones; in my experience it's the best value at that price point. *As an Amazon Associate, the site may earn a commission on purchases.*)
+This isn't an Atkins-specific problem. Plenty of products marketed to the keto crowd have the same issue. But the Atkins brand specifically occupies this dual-audience space in a way that blurs the lines. Worth checking a ketone meter after eating them if you're serious about staying in ketosis. (The [Keto-Mojo GK+ meter](https://www.amazon.com/dp/B07VQCMBQV?tag=contentportfo-20) runs around $59 and tests both glucose and ketones; in my experience it's the best value at that price point. *As an Amazon Associate, the site may earn a commission on purchases.*)
 
 ---
 

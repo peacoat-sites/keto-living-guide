@@ -146,7 +146,7 @@ You don't need to cook every meal fresh. In fact, trying to do that is one of th
 4. Make a big batch of cauliflower mash and cauliflower rice in the same session.
 5. Pre-portion your nuts and cheese into small containers so you're not eating straight from the bag and losing track of portions.
 
-A good kitchen scale is genuinely useful here, especially for things like nuts and cheese where it's easy to eat twice what you meant to. [This one on Amazon](https://www.amazon.com/s?k=kitchen+food+scale&tag=yourtag-20) is accurate, inexpensive, and fits in a drawer easily. (Disclosure: we may earn a small commission on purchases.)
+A good kitchen scale is genuinely useful here, especially for things like nuts and cheese where it's easy to eat twice what you meant to. [This one on Amazon](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20) is accurate, inexpensive, and fits in a drawer easily. (Disclosure: we may earn a small commission on purchases.)
 
 ---
 
@@ -161,7 +161,7 @@ The fix is electrolytes. Specifically:
 
 We've covered this topic in depth in our article on [electrolytes on keto](/electrolytes-on-keto/), which is worth reading before you start the plan. Handling this early makes the difference between a miserable first week and a surprisingly smooth one.
 
-MCT oil is another useful addition during the first week. Adding a tablespoon to coffee or a smoothie gives your body a fast source of ketones before your metabolism has fully adapted. [MCT oil from brands like Bulletproof or Sports Research](https://www.amazon.com/s?k=mct+oil+keto&tag=yourtag-20) are widely available and well-reviewed. Start with half a tablespoon to avoid digestive upset.
+MCT oil is another useful addition during the first week. Adding a tablespoon to coffee or a smoothie gives your body a fast source of ketones before your metabolism has fully adapted. [MCT oil from brands like Bulletproof or Sports Research](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) are widely available and well-reviewed. Start with half a tablespoon to avoid digestive upset.
 
 ---
 

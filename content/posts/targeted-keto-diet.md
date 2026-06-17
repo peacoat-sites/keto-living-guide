@@ -69,7 +69,7 @@ This is the one most people miss. A high-fat meal right before training slows ga
 Your post-workout meal should be keto-standard: protein and fat, no additional carbs. The goal is to use those pre-workout carbs as fuel, not to extend a "carb window" indefinitely.
 
 **Step 6: Track ketones if you want data.**
-Some people lose ketosis with their TKD carbs and return to it within a few hours. Others maintain low-level ketosis throughout. A blood ketone meter gives you actual information rather than guesswork. It's not required, but it's useful when you're dialing in. A reliable [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=yourtag-20) takes the speculation out of it. *(This site may earn a commission on qualifying purchases.)*
+Some people lose ketosis with their TKD carbs and return to it within a few hours. Others maintain low-level ketosis throughout. A blood ketone meter gives you actual information rather than guesswork. It's not required, but it's useful when you're dialing in. A reliable [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20) takes the speculation out of it. *(This site may earn a commission on qualifying purchases.)*
 
 ## TKD vs. Standard Keto vs. Cyclical Keto: A Quick Comparison
 
@@ -87,7 +87,7 @@ CKD gets a lot of attention but it's genuinely advanced and most recreational at
 
 Carbohydrates cause your kidneys to retain sodium. When you reintroduce even a small carb bolus, you may notice some water retention or puffiness around training days. On the flip side, going back to strict keto after the workout means your kidneys will flush that sodium out again. This cycling can leave you depleted.
 
-I've seen clients troubleshoot their TKD performance for weeks before we realized the issue was electrolytes, not the carb timing. Sodium, potassium, and magnesium all matter. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=yourtag-20) without added sugar is worth having on hand if you're training consistently on TKD. *(This site may earn a commission on qualifying purchases.)*
+I've seen clients troubleshoot their TKD performance for weeks before we realized the issue was electrolytes, not the carb timing. Sodium, potassium, and magnesium all matter. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without added sugar is worth having on hand if you're training consistently on TKD. *(This site may earn a commission on qualifying purchases.)*
 
 Keep sodium intake deliberate, especially on training days. Don't rely on feeling thirsty as your guide.
 

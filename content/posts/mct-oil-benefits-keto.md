@@ -79,7 +79,7 @@ MCT oil is easy to add into a keto routine once you know the rules. The biggest 
 
 5. Avoid cooking with liquid MCT oil at high heat. Its smoke point is around 320°F (160°C), which is lower than avocado oil or refined coconut oil. Use it as a finishing oil or a cold addition.
 
-A quality MCT oil makes a difference. [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=yourtag-20) and [Sports Research MCT Oil](https://www.amazon.com/s?k=Sports+Research+MCT+oil&tag=yourtag-20) are consistently well-reviewed options. (This site may earn a small commission on purchases made through these links, at no cost to you.)
+A quality MCT oil makes a difference. [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20) and [Sports Research MCT Oil](https://www.amazon.com/s?k=Sports+Research+MCT+oil&tag=contentportfo-20) are consistently well-reviewed options. (This site may earn a small commission on purchases made through these links, at no cost to you.)
 
 ## MCT Oil vs. Coconut Oil: Which One Should You Use?
 

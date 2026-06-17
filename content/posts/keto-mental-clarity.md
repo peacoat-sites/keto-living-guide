@@ -52,7 +52,7 @@ This is sometimes called keto flu, but the cognitive piece of it often gets unde
 
 When insulin drops, your kidneys excrete sodium at a higher rate. Sodium and potassium work together to maintain the electrical gradients your neurons depend on. When those levels fall, cognitive performance follows. Magnesium matters here too: it's involved in over 300 enzymatic processes, including several that affect neurological function, and most people in the US are already insufficient before they start keto.
 
-What I tell people: don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=placeholder) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
+What I tell people: don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
 
 ## Once You're Adapted: What Mental Clarity Actually Looks Like
 
@@ -62,7 +62,7 @@ For most clients, it's not that they suddenly become brilliant. It's more like t
 
 Sleep quality often improves too, which has a direct and underrated effect on cognitive performance. You can't separate "keto brain" from "sleeping better because you're not waking up at 3 a.m. with blood sugar swings."
 
-MCT oil is worth mentioning here. Medium-chain triglycerides, found in coconut oil but in much higher concentrations in MCT oil specifically, are converted to ketones faster than other fats and can produce a noticeable short-term boost in focus. I'm not suggesting it's a miracle. But a tablespoon of [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=bulletproof+brain+octane+C8+MCT+oil&tag=placeholder) in your coffee in the morning is genuinely useful for some people, particularly in the early adaptation phase. Start with a teaspoon, not a tablespoon, unless you enjoy spending your morning in the bathroom.
+MCT oil is worth mentioning here. Medium-chain triglycerides, found in coconut oil but in much higher concentrations in MCT oil specifically, are converted to ketones faster than other fats and can produce a noticeable short-term boost in focus. I'm not suggesting it's a miracle. But a tablespoon of [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=bulletproof+brain+octane+C8+MCT+oil&tag=contentportfo-20) in your coffee in the morning is genuinely useful for some people, particularly in the early adaptation phase. Start with a teaspoon, not a tablespoon, unless you enjoy spending your morning in the bathroom.
 
 ## Why Some People Never Get the Clarity Boost
 

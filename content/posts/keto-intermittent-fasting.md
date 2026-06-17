@@ -64,15 +64,15 @@ This is genuinely a "talk to your healthcare provider" situation if any of those
 
 Here's the approach I'd actually give a client sitting across from me.
 
-**Step 1: Establish your keto baseline first.** Spend at least three to four weeks eating consistently under your carb threshold before adding fasting. Track with something simple. A [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=your-tag) removes a lot of guesswork, especially with dense foods like nuts and cheese where portions are easy to underestimate.
+**Step 1: Establish your keto baseline first.** Spend at least three to four weeks eating consistently under your carb threshold before adding fasting. Track with something simple. A [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20) removes a lot of guesswork, especially with dense foods like nuts and cheese where portions are easy to underestimate.
 
 **Step 2: Find your natural eating window.** For one week, don't change anything. Just write down the time you have your first bite of food and the time you have your last. Most people eating keto are already within a 10-12 hour window. That's your starting point, not something you need to blast through.
 
 **Step 3: Compress by 30-60 minutes per week.** If you're naturally eating 8am to 8pm, shift to 9am to 8pm, then 10am to 8pm. You're working toward something like a 16:8 or even a 14:10. Don't start at 16:8 on day one. It doesn't need to be dramatic.
 
-**Step 4: Manage your electrolytes.** This is the step people skip and then they wonder why they feel terrible. Fasting drops insulin, and low insulin means your kidneys excrete more sodium, which pulls magnesium and potassium with it. If you're already depleted from keto adaptation, adding fasting makes this worse. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=your-tag) without sugar or artificial junk is worth having on hand. Salt your food liberally. Bone broth during fasting windows is one of the most practical tools I know.
+**Step 4: Manage your electrolytes.** This is the step people skip and then they wonder why they feel terrible. Fasting drops insulin, and low insulin means your kidneys excrete more sodium, which pulls magnesium and potassium with it. If you're already depleted from keto adaptation, adding fasting makes this worse. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without sugar or artificial junk is worth having on hand. Salt your food liberally. Bone broth during fasting windows is one of the most practical tools I know.
 
-**Step 5: Use MCT oil strategically if you need it.** If mornings are genuinely difficult, a small amount of [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=your-tag) in coffee or tea can blunt hunger without a significant insulin response. Some people use it to extend their fasting window comfortably. It does contain calories, so it's technically breaking a strict fast, but for most people's goals it's a workable bridge tool.
+**Step 5: Use MCT oil strategically if you need it.** If mornings are genuinely difficult, a small amount of [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) in coffee or tea can blunt hunger without a significant insulin response. Some people use it to extend their fasting window comfortably. It does contain calories, so it's technically breaking a strict fast, but for most people's goals it's a workable bridge tool.
 
 **Step 6: Track how you feel, not just the scale.** Keep a simple log: energy levels, hunger intensity (1-10), sleep quality, workout performance. The scale is one data point. If you're sleeping badly, crashing on workouts, and irritable, that data matters too.
 
@@ -91,7 +91,7 @@ A practical eating window structure for keto IF (16:8, eating noon to 8pm) might
 | Final meal | 7:00-7:30pm | Complete, satisfying: fatty fish or red meat, non-starchy vegetables, avocado |
 | Fasting window | 8:00pm to noon | Water, black coffee, plain tea, electrolytes, bone broth if needed |
 
-Prep matters here. When you're only eating in a defined window, having food ready removes a lot of friction. Batch-cooked proteins, [quality meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=your-tag), and a stocked fridge make the difference between a clean eating window and a scramble that ends in questionable choices. A resource like *The Ketogenic Bible* by Jacob Wilson and Ryan Lowery is useful if you want to go deeper on the science behind meal timing and fat adaptation.
+Prep matters here. When you're only eating in a defined window, having food ready removes a lot of friction. Batch-cooked proteins, [quality meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20), and a stocked fridge make the difference between a clean eating window and a scramble that ends in questionable choices. A resource like *The Ketogenic Bible* by Jacob Wilson and Ryan Lowery is useful if you want to go deeper on the science behind meal timing and fat adaptation.
 
 ## The Plateau Problem: Why the Combination Helps (But Isn't Magic)
 
@@ -101,7 +101,7 @@ The combination helps the plateau problem for two main reasons. First, it create
 
 What it isn't: a metabolic loophole. You still need a caloric deficit to lose body fat over time. You still need adequate protein to avoid losing muscle. If you're cramming two meals worth of fat bombs and keto treats into your eating window, the fasting window won't compensate. I've had clients frustrated that "keto IF isn't working" and when we looked closely, they were eating 2,800 calories in eight hours without realizing it, partly because the foods were dense and partly because they felt like the fasting window gave them permission to eat freely when the window opened.
 
-Keep things like [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=your-tag) around for genuine hunger, not recreational eating. There's a difference.
+Keep things like [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20) around for genuine hunger, not recreational eating. There's a difference.
 
 ---
 

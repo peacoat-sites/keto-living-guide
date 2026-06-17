@@ -45,9 +45,9 @@ There are a few distinct reasons people go dairy-free on keto, and the right app
 
 Dairy fat is convenient, calorie-dense, and works in almost everything. Replacing it requires knowing which alternatives are genuinely versatile versus which ones are niche.
 
-Coconut oil is the workhorse. Solid at room temperature, high smoke point (for refined versions), neutral or mild flavor depending on whether you go refined or unrefined. Use it for sautéing, baking, and anywhere you'd use butter. I keep [Nutiva Organic Coconut Oil](https://www.amazon.com/s?k=nutiva+organic+coconut+oil&tag=ketosite-20) in a 54-oz jar because you'll go through it faster than you expect. *(Heads up: this is an affiliate link, so the site may earn a small commission.)*
+Coconut oil is the workhorse. Solid at room temperature, high smoke point (for refined versions), neutral or mild flavor depending on whether you go refined or unrefined. Use it for sautéing, baking, and anywhere you'd use butter. I keep [Nutiva Organic Coconut Oil](https://www.amazon.com/s?k=nutiva+organic+coconut+oil&tag=contentportfo-20) in a 54-oz jar because you'll go through it faster than you expect. *(Heads up: this is an affiliate link, so the site may earn a small commission.)*
 
-Avocado oil is your other daily driver. Higher smoke point than olive oil, near-neutral flavor. Great for cooking proteins, roasting vegetables, making mayo. [Chosen Foods avocado oil](https://www.amazon.com/s?k=chosen+foods+avocado+oil&tag=ketosite-20) is widely available and mid-priced.
+Avocado oil is your other daily driver. Higher smoke point than olive oil, near-neutral flavor. Great for cooking proteins, roasting vegetables, making mayo. [Chosen Foods avocado oil](https://www.amazon.com/s?k=chosen+foods+avocado+oil&tag=contentportfo-20) is widely available and mid-priced.
 
 MCT oil deserves a separate mention because it does something the others don't: it converts to ketones rapidly, which is useful if you're using keto therapeutically or just want to stay in ketosis without much dietary fat. Add it to coffee, smoothies, or dressings. Start with one teaspoon and work up. The digestive adjustment is real if you go straight to a tablespoon.
 
@@ -59,7 +59,7 @@ The dairy-free keto coffee situation used to be rough. It's not anymore.
 
 Full-fat coconut cream (not coconut milk, the thin stuff) froths reasonably well and gives you something close to a creamy cup. Aroy-D and Thrive Market's own brand both have BPA-free cans and no added sugar. Blend it with coffee and a teaspoon of MCT oil and you get something legitimately satisfying.
 
-Oat milk and most commercial nut milks are off the table because of the carbs. Almond milk (unsweetened) is borderline at 1g net carb per cup. Macadamia milk is the better pick: creamier, lower carb, and [Milkadamia unsweetened](https://www.amazon.com/s?k=milkadamia+unsweetened&tag=ketosite-20) is around $6 for a half-gallon.
+Oat milk and most commercial nut milks are off the table because of the carbs. Almond milk (unsweetened) is borderline at 1g net carb per cup. Macadamia milk is the better pick: creamier, lower carb, and [Milkadamia unsweetened](https://www.amazon.com/s?k=milkadamia+unsweetened&tag=contentportfo-20) is around $6 for a half-gallon.
 
 If you're doing any kind of intermittent fasting protocol alongside keto, be aware that coconut cream in coffee does break a fast. That's not an argument against it, just context.
 
@@ -71,13 +71,13 @@ For high-heat cooking, coconut oil or avocado oil replaces butter directly, one-
 
 For baking, it gets more specific. Butter contributes fat, moisture, and flavor to keto baked goods. Coconut oil replaces the fat well but makes baked goods slightly drier and crumblier. Adding an extra egg yolk or a tablespoon of almond butter to your recipe often compensates for this. Refined coconut oil is better for baking than unrefined because the coconut flavor doesn't overpower everything else.
 
-For something closer to butter's spreadability, [Miyoko's Organic Vegan Butter](https://www.amazon.com/s?k=miyokos+vegan+butter&tag=ketosite-20) is cashew-based and works well on keto breads. It's pricier than regular butter, around $8 for 8 oz, so I'd recommend it as a condiment rather than a cooking fat.
+For something closer to butter's spreadability, [Miyoko's Organic Vegan Butter](https://www.amazon.com/s?k=miyokos+vegan+butter&tag=contentportfo-20) is cashew-based and works well on keto breads. It's pricier than regular butter, around $8 for 8 oz, so I'd recommend it as a condiment rather than a cooking fat.
 
 ## Protein Sources and the Whey Problem
 
 Most keto protein powders are whey-based, which is a dairy product. If you're fully eliminating dairy, you need a plant-based or egg white protein alternative.
 
-Egg white protein powder is the cleanest switch: neutral flavor, excellent amino acid profile, mixes reasonably well. [Anthony's Egg White Protein](https://www.amazon.com/s?k=anthony%27s+egg+white+protein&tag=ketosite-20) is solid and budget-friendly. Collagen peptides are another option, though they're incomplete protein on their own (no tryptophan), so don't use them as your sole protein supplement.
+Egg white protein powder is the cleanest switch: neutral flavor, excellent amino acid profile, mixes reasonably well. [Anthony's Egg White Protein](https://www.amazon.com/s?k=anthony%27s+egg+white+protein&tag=contentportfo-20) is solid and budget-friendly. Collagen peptides are another option, though they're incomplete protein on their own (no tryptophan), so don't use them as your sole protein supplement.
 
 Pea protein and hemp protein work, but they have a stronger flavor profile that not everyone likes. If you're making savory protein shakes or blending with strong flavors, it doesn't matter much. For plain shakes, egg white protein holds up better.
 
@@ -87,7 +87,7 @@ Dairy contributes some calcium and potassium to a standard keto diet. Without it
 
 Calcium from leafy greens (collards, bok choy, kale) is well-absorbed. Canned salmon and sardines with bones are excellent calcium sources. Most people doing keto are more concerned about sodium, potassium, and magnesium anyway, but calcium is worth tracking if you're dairy-free and not eating many vegetables.
 
-For electrolyte supplements, [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=ketosite-20) and [Redmond Re-Lyte](https://www.amazon.com/s?k=redmond+relyte+electrolytes&tag=ketosite-20) are both dairy-free and well-formulated. Neither has added sugar. Both run around $1.50 per serving, which adds up, but if you're getting cramps or headaches, they're worth the cost.
+For electrolyte supplements, [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) and [Redmond Re-Lyte](https://www.amazon.com/s?k=redmond+relyte+electrolytes&tag=contentportfo-20) are both dairy-free and well-formulated. Neither has added sugar. Both run around $1.50 per serving, which adds up, but if you're getting cramps or headaches, they're worth the cost.
 
 ---
 

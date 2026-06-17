@@ -82,7 +82,7 @@ Here's a practical framework. This isn't the only way to do it, but it's a solid
 
 The refeed timing works best around your hardest training days. If you lift heaviest on Saturday, that's your primary refeed day. The carbohydrates replenish muscle glycogen most effectively when muscles have been depleted through exercise.
 
-After the refeed, expect it to take 24-48 hours to return to full ketosis. Some people take longer. A [blood or breath ketone meter](https://www.amazon.com/s?k=ketone+meter&tag=YOURTAG-20) can help you track this transition accurately rather than guessing. Urine strips are cheap but unreliable at this stage of keto experience.
+After the refeed, expect it to take 24-48 hours to return to full ketosis. Some people take longer. A [blood or breath ketone meter](https://www.amazon.com/s?k=ketone+meter&tag=contentportfo-20) can help you track this transition accurately rather than guessing. Urine strips are cheap but unreliable at this stage of keto experience.
 
 ---
 
@@ -90,13 +90,13 @@ After the refeed, expect it to take 24-48 hours to return to full ketosis. Some 
 
 Cyclical keto involves more precision than standard keto, especially around the refeeds. A few things make the week genuinely easier.
 
-A [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=YOURTAG-20) is non-negotiable. Eyeballing 200g of carbohydrates from rice is harder than it sounds. Getting accurate is worth the two minutes it takes.
+A [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20) is non-negotiable. Eyeballing 200g of carbohydrates from rice is harder than it sounds. Getting accurate is worth the two minutes it takes.
 
-On keto days, many people find [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=YOURTAG-20) useful for maintaining energy and ketone levels, particularly in the morning. It's not mandatory, but it's a practical tool I recommend for people transitioning between phases.
+On keto days, many people find [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=contentportfo-20) useful for maintaining energy and ketone levels, particularly in the morning. It's not mandatory, but it's a practical tool I recommend for people transitioning between phases.
 
-Electrolytes matter most during the strict keto days. When carbs are low, kidneys excrete sodium more readily, which pulls potassium and magnesium with it. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=YOURTAG-20) without sugar fills that gap better than most food sources alone.
+Electrolytes matter most during the strict keto days. When carbs are low, kidneys excrete sodium more readily, which pulls potassium and magnesium with it. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without sugar fills that gap better than most food sources alone.
 
-For meal prep across both phases, having dedicated [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=YOURTAG-20) for your keto meals versus refeed meals helps with planning. It sounds trivial until you're standing in the kitchen at 7pm trying to figure out which phase you're in.
+For meal prep across both phases, having dedicated [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20) for your keto meals versus refeed meals helps with planning. It sounds trivial until you're standing in the kitchen at 7pm trying to figure out which phase you're in.
 
 *(This site may earn a commission on qualifying Amazon purchases.)*
 

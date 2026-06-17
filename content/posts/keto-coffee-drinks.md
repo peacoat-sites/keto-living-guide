@@ -42,7 +42,7 @@ The version that works for most people isn't Bulletproof's official recipe (1-2 
 
 There are really only a few base recipes, and most "keto coffee" content is just variations on these with different names and marketing.
 
-**Classic blended keto coffee (the "Bulletproof"):** 12 oz freshly brewed coffee, 1 tbsp grass-fed unsalted butter (Kerrygold is the standard and it's fine, costs about $4 for 8 oz), 1 tsp to 1 tbsp MCT oil, blended 20-30 seconds. The blending is non-negotiable. Without it, you get oil sitting on top of coffee. With it, you get something that genuinely resembles a latte. A stick blender in a tall cup works. So does a [personal blender like the NutriBullet](https://www.amazon.com/s?k=NutriBullet+personal+blender&tag=your-tag-here).
+**Classic blended keto coffee (the "Bulletproof"):** 12 oz freshly brewed coffee, 1 tbsp grass-fed unsalted butter (Kerrygold is the standard and it's fine, costs about $4 for 8 oz), 1 tsp to 1 tbsp MCT oil, blended 20-30 seconds. The blending is non-negotiable. Without it, you get oil sitting on top of coffee. With it, you get something that genuinely resembles a latte. A stick blender in a tall cup works. So does a [personal blender like the NutriBullet](https://www.amazon.com/s?k=NutriBullet+personal+blender&tag=contentportfo-20).
 
 **Heavy cream latte:** This is what I'd recommend to most beginners. 2-4 tbsp heavy whipping cream in coffee, hot or iced. That's it. No blending required. Keeps carbs under 1g, adds 100-200 calories of fat, tastes recognizably like coffee. You can add a half teaspoon of vanilla extract, a sugar-free syrup (Torani makes solid ones), or a pinch of cinnamon. The simplicity is the point.
 
@@ -54,7 +54,7 @@ There are really only a few base recipes, and most "keto coffee" content is just
 
 ## MCT Oil: Worth It, But Dose Carefully
 
-[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=your-tag-here) is where keto coffee goes from a fat-heavy drink to something with actual metabolic relevance. Medium-chain triglycerides skip the normal digestion process and get converted to ketones in the liver faster than other fats. In practical terms, most people report a noticeable mental clarity and energy within 30-60 minutes.
+[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20) is where keto coffee goes from a fat-heavy drink to something with actual metabolic relevance. Medium-chain triglycerides skip the normal digestion process and get converted to ketones in the liver faster than other fats. In practical terms, most people report a noticeable mental clarity and energy within 30-60 minutes.
 
 C8 (caprylic acid) is the most ketogenic fraction. Products that advertise C8/C10 blends are a step up from straight coconut oil, which contains mostly C12 (lauric acid) and behaves more like a long-chain fat. Bulletproof's Brain Octane is 100% C8 and costs about $40 for 16 oz. Perfect Keto's MCT oil powder is a good format if liquid oil causes GI upset, which it absolutely will if you start with a tablespoon.
 

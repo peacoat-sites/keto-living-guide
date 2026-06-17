@@ -46,7 +46,7 @@ Here's why. When you cut carbohydrates, insulin levels drop. Lower insulin signa
 
 **Magnesium:** This one is almost universally underdone, even outside of keto. Roughly 45 to 50 percent of Americans don't meet daily magnesium needs from food, and keto dieters lose even more through urine. Supplementing 300 to 400 mg daily is reasonable for most adults. The form matters a lot here. Magnesium glycinate and magnesium malate absorb well and are gentle on digestion. Magnesium oxide (the cheap stuff in most drugstore multivitamins) absorbs poorly and can cause diarrhea. Magnesium citrate absorbs decently but has a mild laxative effect, which some people find useful and others find annoying.
 
-A good electrolyte supplement that combines sodium, potassium, and magnesium can simplify all of this. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=your-affiliate-tag) is popular in the keto community for a reason: it's unsweetened, has solid sodium ratios, and doesn't contain the sugars or artificial dyes you'll find in most sports drinks. *(This site may earn a commission on purchases.)*
+A good electrolyte supplement that combines sodium, potassium, and magnesium can simplify all of this. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is popular in the keto community for a reason: it's unsweetened, has solid sodium ratios, and doesn't contain the sugars or artificial dyes you'll find in most sports drinks. *(This site may earn a commission on purchases.)*
 
 ---
 
@@ -62,7 +62,7 @@ In practice, I use MCT oil as a tool for specific situations rather than a daily
 
 The honest caveats: MCT oil does nothing to replace real dietary fat, it won't get you into ketosis if you're eating 150 grams of carbs a day, and starting with a tablespoon when you've never used it before is a reliable way to spend an unpleasant hour near a bathroom. Start with a teaspoon and work up over two weeks.
 
-[MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=your-affiliate-tag) comes in liquid form (easy to blend into coffee or smoothies) and as MCT oil powder, which mixes more easily and tends to be gentler on digestion for beginners. *(This site may earn a commission on purchases.)*
+[MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) comes in liquid form (easy to blend into coffee or smoothies) and as MCT oil powder, which mixes more easily and tends to be gentler on digestion for beginners. *(This site may earn a commission on purchases.)*
 
 ---
 

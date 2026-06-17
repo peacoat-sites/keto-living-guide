@@ -48,7 +48,7 @@ Your body stores carbohydrates as glycogen in muscle tissue and the liver, and g
 
 That's not a knock on keto. It still represents real metabolic change. Your insulin levels are dropping, you're starting the process of shifting to fat oxidation, and for people who were bloated from excess carb intake or food sensitivities, that physical relief is immediate and genuine. But I always want clients to know what they're seeing so they don't feel cheated later when week three brings a slower number.
 
-The other thing that happens in weeks one and two: keto flu. Not everyone gets it, but enough people do that you should expect it. Fatigue, headaches, brain fog, sometimes muscle cramps. This is largely an electrolyte issue. Dropping insulin causes your kidneys to excrete sodium more aggressively, and sodium drags potassium and magnesium with it. I've recommended [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=yoursite-20) to probably a hundred clients at this point. Not because they're magic, but because people who use them consistently in the adaptation phase report feeling noticeably better than those who don't. (Disclosure: this site may earn a commission on purchases made through links here.)
+The other thing that happens in weeks one and two: keto flu. Not everyone gets it, but enough people do that you should expect it. Fatigue, headaches, brain fog, sometimes muscle cramps. This is largely an electrolyte issue. Dropping insulin causes your kidneys to excrete sodium more aggressively, and sodium drags potassium and magnesium with it. I've recommended [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) to probably a hundred clients at this point. Not because they're magic, but because people who use them consistently in the adaptation phase report feeling noticeably better than those who don't. (Disclosure: this site may earn a commission on purchases made through links here.)
 
 ## Months One Through Three: Where the Real Before-and-After Happens
 
@@ -56,7 +56,7 @@ If you stay consistent, months two and three are often when people look at thems
 
 What you'll likely notice:
 
-Clothes fit differently before the scale moves dramatically. This catches people off guard. Visceral fat, the fat stored around your organs, tends to respond earlier than subcutaneous fat. Your waist measurement can drop meaningfully while the scale looks unimpressive. A good [body tape measure](https://www.amazon.com/s?k=body+measuring+tape&tag=yoursite-20) is more useful than most people realize at this stage.
+Clothes fit differently before the scale moves dramatically. This catches people off guard. Visceral fat, the fat stored around your organs, tends to respond earlier than subcutaneous fat. Your waist measurement can drop meaningfully while the scale looks unimpressive. A good [body tape measure](https://www.amazon.com/s?k=body+measuring+tape&tag=contentportfo-20) is more useful than most people realize at this stage.
 
 Blood markers often improve significantly in this window. Triglycerides drop. HDL typically rises. Fasting glucose and insulin come down for most people, often sharply. A 2022 paper in *Frontiers in Nutrition* found that people on well-formulated ketogenic diets saw average triglyceride reductions of around 20% after 12 weeks. That kind of metabolic shift doesn't make for a dramatic photo, but it's arguably the more meaningful transformation.
 
@@ -78,7 +78,7 @@ The photos always show a before and a specific after moment. They don't show wha
 
 Long-term keto maintenance is genuinely possible for some people. I have clients who've been eating this way for four or five years and feel better than they have in decades. But I also have clients who cycled off after a year, regained some weight, and are still trying to find their footing. Regain on keto isn't inevitable, but it's common if you go back to old eating patterns without a transition strategy.
 
-What tends to work for longevity: keeping protein high (at least 1.2-1.6g per kg of body weight), not being too rigid about hitting a specific ketone number on a [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=yoursite-20), and having a few non-keto meals in your life without treating it as failure. Some people do well with what's called cyclical keto, higher-carb eating on weekends or around intense training. The research on that specific approach is thin, but anecdotally I've seen it help people stay on track longer.
+What tends to work for longevity: keeping protein high (at least 1.2-1.6g per kg of body weight), not being too rigid about hitting a specific ketone number on a [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20), and having a few non-keto meals in your life without treating it as failure. Some people do well with what's called cyclical keto, higher-carb eating on weekends or around intense training. The research on that specific approach is thin, but anecdotally I've seen it help people stay on track longer.
 
 The most durable transformations I've witnessed weren't built on perfection. They were built on people who understood what they were eating and why, and who kept showing up even when the scale stalled.
 

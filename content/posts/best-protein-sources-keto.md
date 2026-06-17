@@ -97,11 +97,11 @@ Here's a simple framework that works in real life:
 
 **Step 2: Build your meals around one anchor protein.** Breakfast: 2 to 3 whole eggs plus a side of smoked salmon or sausage. Lunch: a can of sardines or 6 ounces of tuna with olive oil and vegetables. Dinner: 6 to 8 ounces of beef, chicken thighs, or fatty fish. This rough structure puts most people in the 100 to 140 gram daily range without careful tracking.
 
-**Step 3: Use a kitchen scale for the first two to three weeks.** You don't have to weigh food forever, but the calibration period is genuinely useful. Most people dramatically overestimate or underestimate protein portions before they have a reference point. A quality kitchen scale doesn't have to be expensive. [A reliable digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+digital&tag=yourtag-20) runs around $15 to $25 and makes this much less guesswork. *(This site may earn a commission on purchases made through affiliate links.)*
+**Step 3: Use a kitchen scale for the first two to three weeks.** You don't have to weigh food forever, but the calibration period is genuinely useful. Most people dramatically overestimate or underestimate protein portions before they have a reference point. A quality kitchen scale doesn't have to be expensive. [A reliable digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+digital&tag=contentportfo-20) runs around $15 to $25 and makes this much less guesswork. *(This site may earn a commission on purchases made through affiliate links.)*
 
 **Step 4: Prioritize variety across the week.** Eating beef every day is legal on keto but not optimal. Cycling in fatty fish two to three times per week, eggs most mornings, and varying your red and white meat sources gives you a better overall nutrient profile.
 
-**Step 5: Address electrolytes if high-protein eating increases muscle soreness.** More protein means more nitrogen excretion, which can accelerate electrolyte losses, especially early in keto. An [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement+no+sugar&tag=yourtag-20) that includes sodium, potassium, and magnesium is worth having in your toolkit. *(This site may earn a commission on purchases made through affiliate links.)*
+**Step 5: Address electrolytes if high-protein eating increases muscle soreness.** More protein means more nitrogen excretion, which can accelerate electrolyte losses, especially early in keto. An [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement+no+sugar&tag=contentportfo-20) that includes sodium, potassium, and magnesium is worth having in your toolkit. *(This site may earn a commission on purchases made through affiliate links.)*
 
 ---
 

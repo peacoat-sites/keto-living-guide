@@ -58,7 +58,7 @@ I want to spend a minute on this because it catches people off guard.
 
 Alcohol is a diuretic on its own. Keto is already a state where you're holding less water and excreting more electrolytes. Combine them and you can get a hangover that feels dramatically worse than what you're used to, even from a modest amount of alcohol. I've had clients describe feeling genuinely ill after two glasses of wine they would have barely noticed a year earlier.
 
-The practical fix is boring but it works: drink water aggressively while you're drinking, not just after. Replenish electrolytes. A product like [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=your-tag-here) (the unflavored or citrus versions, zero sugar) before bed after drinking has made a real difference for a lot of people I work with. The site may earn a commission on purchases made through links like that one, just so you know.
+The practical fix is boring but it works: drink water aggressively while you're drinking, not just after. Replenish electrolytes. A product like [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) (the unflavored or citrus versions, zero sugar) before bed after drinking has made a real difference for a lot of people I work with. The site may earn a commission on purchases made through links like that one, just so you know.
 
 Salt, potassium, magnesium. These matter even on a normal keto day. After drinking, they matter more.
 

@@ -96,7 +96,7 @@ Yes, you can have something sweet on keto. You just have to choose carefully.
 - **Berries with heavy whipping cream**: A quarter cup of raspberries or blackberries is about 2 to 3g net carbs. Whip some heavy cream (0 carbs) and you've got a proper dessert-style snack.
 - **Coconut butter or coconut flakes**: Unsweetened coconut flakes are about 2g net carbs per two tablespoons. Rich and slightly sweet on their own.
 
-Adding [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=yourtag-20) to a small shake or coffee can also function as a snack in itself by boosting ketone production and giving you a clean energy lift.
+Adding [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) to a small shake or coffee can also function as a snack in itself by boosting ketone production and giving you a clean energy lift.
 
 ## A Quick Comparison: Best Keto Snacks by Carb Count
 

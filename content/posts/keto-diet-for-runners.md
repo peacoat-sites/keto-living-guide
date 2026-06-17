@@ -56,13 +56,13 @@ This is where most runners fail. The adaptation period, the time it takes your b
 
 During that window, a few things will help.
 
-Electrolytes are non-negotiable, and most people undershoot them badly. On keto, your kidneys excrete more sodium because insulin is low and your body isn't holding glycogen (which holds water). You need 3,000-5,000mg of sodium per day as a runner on keto, sometimes more in heat. Potassium and magnesium matter too. I've seen runners stop keto because of leg cramps and fatigue that were basically just electrolyte deficiency. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=keto-lowcarb-20) is the brand I recommend most often to clients because the sodium content is actually high enough to matter, unlike most sports drinks. (This site may earn a commission on qualifying purchases.)
+Electrolytes are non-negotiable, and most people undershoot them badly. On keto, your kidneys excrete more sodium because insulin is low and your body isn't holding glycogen (which holds water). You need 3,000-5,000mg of sodium per day as a runner on keto, sometimes more in heat. Potassium and magnesium matter too. I've seen runners stop keto because of leg cramps and fatigue that were basically just electrolyte deficiency. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is the brand I recommend most often to clients because the sodium content is actually high enough to matter, unlike most sports drinks. (This site may earn a commission on qualifying purchases.)
 
 Slow down. This is hard for runners. You may need to drop your easy pace by 60 to 90 seconds per mile for a while and actually keep it easy. Your aerobic base will build. Trying to maintain pre-keto paces during adaptation is like trying to drive your car hard while the fuel system is being reconfigured.
 
 Prioritize sleep and protein. Your recovery capacity takes a hit during adaptation. 1.6 to 2.2g of protein per kilogram of bodyweight is the range the research supports for endurance athletes, and I'd lean toward the top of that range during your adaptation block.
 
-A kitchen scale is quietly one of the most useful investments you'll make. Eyeballing macros doesn't work on keto, especially with protein, which converts to glucose through gluconeogenesis and can kick some people out of ketosis. Something like the [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=keto-lowcarb-20) runs about $25 and will save you weeks of wondering why your ketones are low.
+A kitchen scale is quietly one of the most useful investments you'll make. Eyeballing macros doesn't work on keto, especially with protein, which converts to glucose through gluconeogenesis and can kick some people out of ketosis. Something like the [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=contentportfo-20) runs about $25 and will save you weeks of wondering why your ketones are low.
 
 ## What to Do About Long Runs and Fueling
 
@@ -70,7 +70,7 @@ Once you're fully adapted, many low-carb runners find they need little to no exo
 
 For longer efforts, the options get more complicated. Some adapted runners go completely fat-fueled and do well. Others use targeted keto, meaning they'll take 20-30g of fast carbs immediately before a long effort or a hard workout, then return to strict keto. This doesn't fully knock you out of ketosis and it blunts the performance hit at higher intensities. It's a reasonable middle ground that a lot of endurance athletes find practical.
 
-MCT oil is worth mentioning here. [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=keto-lowcarb-20) converts quickly to ketones and some runners use it as a pre-run fuel source. The evidence that it improves performance is modest at best, but as a source of fast-burning fat calories before a run, it has practical utility. Start with small amounts. Your gut will let you know if you've gone too fast.
+MCT oil is worth mentioning here. [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=contentportfo-20) converts quickly to ketones and some runners use it as a pre-run fuel source. The evidence that it improves performance is modest at best, but as a source of fast-burning fat calories before a run, it has practical utility. Start with small amounts. Your gut will let you know if you've gone too fast.
 
 ---
 

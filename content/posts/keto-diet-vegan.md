@@ -33,7 +33,7 @@ What you're left with for protein sources:
 - **Seitan.** High protein, low carb. The catch: it's pure wheat gluten, so it's out for anyone with celiac or gluten sensitivity. For everyone else, it's actually one of the best options on this diet.
 - **Hemp seeds.** 10g protein per 3 tablespoons, along with useful omega-3s and very low net carbs. Throw them on everything.
 - **Edamame (in moderation).** About 8g protein per half cup with 5g net carbs. Counts, just track it.
-- **Protein powder.** Pea protein, hemp protein, or blended plant proteins with no added sugar. I'd recommend [Naked Pea](https://www.amazon.com/s?k=naked+pea+protein&tag=ketosite-20) or OWYN over most flavored options that sneak in maltodextrin. (Disclosure: this site may earn a commission on purchases.)
+- **Protein powder.** Pea protein, hemp protein, or blended plant proteins with no added sugar. I'd recommend [Naked Pea](https://www.amazon.com/s?k=naked+pea+protein&tag=contentportfo-20) or OWYN over most flavored options that sneak in maltodextrin. (Disclosure: this site may earn a commission on purchases.)
 
 You'll probably need to combine sources across most meals to hit protein targets. That's not a flaw in the diet, just the reality of it.
 
@@ -41,9 +41,9 @@ You'll probably need to combine sources across most meals to hit protein targets
 
 This is the one area where plant-based and keto overlap comfortably. Avocados, full-fat coconut milk, olive oil, nuts, nut butters, MCT oil. These work.
 
-A tablespoon of [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=ketosite-20) adds 14g of fat and essentially zero carbs, and it converts to ketones faster than most dietary fats. It's not magic, but it genuinely helps hit fat targets without volume. Start with a teaspoon if you haven't used it before. Too much too fast causes GI misery.
+A tablespoon of [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) adds 14g of fat and essentially zero carbs, and it converts to ketones faster than most dietary fats. It's not magic, but it genuinely helps hit fat targets without volume. Start with a teaspoon if you haven't used it before. Too much too fast causes GI misery.
 
-Coconut products deserve more than a passing mention. Full-fat coconut milk (the canned kind, not the carton) is around 45g of fat per cup with only 6g net carbs. It makes everything from curries to smoothies work. [Thai Kitchen full-fat coconut milk](https://www.amazon.com/s?k=thai+kitchen+coconut+milk&tag=ketosite-20) is reliable and available almost everywhere.
+Coconut products deserve more than a passing mention. Full-fat coconut milk (the canned kind, not the carton) is around 45g of fat per cup with only 6g net carbs. It makes everything from curries to smoothies work. [Thai Kitchen full-fat coconut milk](https://www.amazon.com/s?k=thai+kitchen+coconut+milk&tag=contentportfo-20) is reliable and available almost everywhere.
 
 One thing I'd push back on: a lot of vegan keto content leans too hard on processed nut-based cheeses and coconut yogurts. They're fine occasionally. Built into every meal, they push your omega-6 intake uncomfortably high and add up cost-wise fast. Whole food fats first.
 
@@ -73,7 +73,7 @@ Abstract advice about "eating enough fat and protein" doesn't help anyone. Here'
 
 Not perfectly hitting the protein target, but in range. On days where you're short, a hemp or pea protein shake closes the gap without drama.
 
-A kitchen scale matters more on this diet than on most. Eyeballing hemp seeds or nut butter is how you accidentally eat 600 calories more than planned, or 10g over your carb ceiling. A simple [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=ketosite-20) is worth the $12-15.
+A kitchen scale matters more on this diet than on most. Eyeballing hemp seeds or nut butter is how you accidentally eat 600 calories more than planned, or 10g over your carb ceiling. A simple [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20) is worth the $12-15.
 
 ## Electrolytes and the Keto Flu, Plant-Based Version
 
@@ -81,7 +81,7 @@ When you drop carbs, your kidneys excrete more sodium, which drags potassium and
 
 The vegan version of this is slightly more complex because you can't fix sodium the way most keto people do (salting butter, drinking bone broth). Miso, natto, kimchi, and salted nuts all help. Supplementing magnesium glycinate before bed (200-400mg) helps with sleep and muscle cramps. Potassium is mostly a food issue: avocados and dark leafy greens pull a lot of weight here.
 
-[LMNT electrolytes](https://www.amazon.com/s?k=lmnt+electrolytes&tag=ketosite-20) are popular in keto circles and the unflavored version is vegan. Just check labels on anything flavored, since some use natural flavors with undisclosed sources.
+[LMNT electrolytes](https://www.amazon.com/s?k=lmnt+electrolytes&tag=contentportfo-20) are popular in keto circles and the unflavored version is vegan. Just check labels on anything flavored, since some use natural flavors with undisclosed sources.
 
 ---
 

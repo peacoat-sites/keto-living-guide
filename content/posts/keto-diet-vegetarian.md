@@ -59,7 +59,7 @@ The reliable protein sources for vegetarian keto:
 - **Hemp seeds**: 10g protein per 3 tablespoons, with healthy fats included
 - **Seitan**: high protein but made from wheat gluten, so worth mentioning and then mentioning that it's almost entirely off the table for keto due to carb content. Skip it.
 
-I use a kitchen scale daily when tracking, especially for nuts and seeds. The [Ozeri Pronto digital scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=example-20) (around $12-15 on Amazon) is perfectly adequate. Eyeballing nuts will wreck your carb count faster than almost anything. A "handful" of cashews can be 15g net carbs. Macadamias are lower (around 1.5g per ounce) and worth keeping on hand.
+I use a kitchen scale daily when tracking, especially for nuts and seeds. The [Ozeri Pronto digital scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20) (around $12-15 on Amazon) is perfectly adequate. Eyeballing nuts will wreck your carb count faster than almost anything. A "handful" of cashews can be 15g net carbs. Macadamias are lower (around 1.5g per ounce) and worth keeping on hand.
 
 *(This site may earn a commission on Amazon purchases.)*
 
@@ -71,7 +71,7 @@ Vegetarian keto is a high-fat diet and the fat has to come from somewhere good. 
 
 Olive oil on everything is the right instinct. Avocados daily if you can manage it. Coconut oil for cooking at higher heat. And MCT oil if you want a practical tool for boosting ketone production and managing hunger. The research on MCT oil is actually decent here: a 2018 review in the *Journal of Nutrition and Metabolism* found medium-chain triglycerides promoted greater satiety compared to long-chain fats in several trials. It's not magic, but it's useful.
 
-I add a tablespoon of [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=mct+oil+brain+octane&tag=example-20) to coffee or a smoothie most mornings. The C8 version (pure caprylic acid) converts to ketones faster than blended MCT oils. Pricier than the blends, about $30 for 16 oz, but if you use it strategically rather than pouring it on everything it lasts a while. Honestly, the cheaper blended MCT oils work fine for most people. Start with small doses either way, because MCT oil on an empty stomach will send you running to the bathroom if you overdo it.
+I add a tablespoon of [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=mct+oil+brain+octane&tag=contentportfo-20) to coffee or a smoothie most mornings. The C8 version (pure caprylic acid) converts to ketones faster than blended MCT oils. Pricier than the blends, about $30 for 16 oz, but if you use it strategically rather than pouring it on everything it lasts a while. Honestly, the cheaper blended MCT oils work fine for most people. Start with small doses either way, because MCT oil on an empty stomach will send you running to the bathroom if you overdo it.
 
 ---
 
@@ -81,7 +81,7 @@ Keto drops insulin, insulin drops, kidneys excrete more sodium, sodium drops, an
 
 Salt your food aggressively. I mean genuinely aggressively, more than feels right. Add potassium through avocado, spinach, and pumpkin seeds. Magnesium tends to run low on keto and low-carb vegetarian diets both; a nightly dose of magnesium glycinate (200-400mg) helps many people sleep better and reduces leg cramps. A reader emailed me last month specifically to say this single addition fixed the cramps she'd had for her first two weeks. I've been recommending it for years.
 
-[LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=example-20) are popular in keto communities and they're genuinely useful: no sugar, high sodium, with potassium and magnesium included. About $45 for a 30-pack. If that's too steep, a pinch of salt in your water plus a magnesium supplement covers most of the bases.
+[LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) are popular in keto communities and they're genuinely useful: no sugar, high sodium, with potassium and magnesium included. About $45 for a 30-pack. If that's too steep, a pinch of salt in your water plus a magnesium supplement covers most of the bases.
 
 ---
 
@@ -91,9 +91,9 @@ The first week of vegetarian keto is the hardest, not because of the biology but
 
 A workable day looks like: scrambled eggs with spinach and feta in the morning, a big salad with avocado, hemp seeds, and olive oil dressing at lunch, and dinner that's either a tofu stir-fry with low-carb vegetables in sesame oil, a crustless quiche, or zucchini noodles with a creamy pesto and cottage cheese protein boost. None of these require advanced cooking skills.
 
-[The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=example-20) has solid foundational information on the metabolic side, though it's more science-heavy than recipe-focused. For vegetarian-specific keto recipes I've found the cookbook [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=example-20) by Liz MacDowell genuinely helpful. Real recipes, not just "eat more cheese."
+[The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=contentportfo-20) has solid foundational information on the metabolic side, though it's more science-heavy than recipe-focused. For vegetarian-specific keto recipes I've found the cookbook [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=contentportfo-20) by Liz MacDowell genuinely helpful. Real recipes, not just "eat more cheese."
 
-Glass meal prep containers make a difference if you're going to batch-cook. The [Pyrex Simply Store set](https://www.amazon.com/s?k=pyrex+meal+prep+containers&tag=example-20) holds up better than cheap plastic and doesn't absorb smell from eggy dishes the way plastic does.
+Glass meal prep containers make a difference if you're going to batch-cook. The [Pyrex Simply Store set](https://www.amazon.com/s?k=pyrex+meal+prep+containers&tag=contentportfo-20) holds up better than cheap plastic and doesn't absorb smell from eggy dishes the way plastic does.
 
 ---
 

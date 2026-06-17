@@ -66,7 +66,7 @@ Also: sugar alcohols. Many "keto" protein powders use erythritol, maltitol, or x
 
 Watch for "proprietary blends." If the label says "protein matrix" without listing individual amounts, you have no idea what ratio you're actually getting. This is mostly a quality control issue rather than a keto-specific one, but it matters.
 
-The MCT oil powder addition is worth a word: some keto protein powders include it specifically to increase fat content and ketone production. Bulletproof's protein powder does this; so does Perfect Keto's Whey. The MCT addition is real, not just marketing. Whether you need it depends on whether you're already getting MCTs elsewhere. [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=yourtag-20) added separately gives you more control over dose.
+The MCT oil powder addition is worth a word: some keto protein powders include it specifically to increase fat content and ketone production. Bulletproof's protein powder does this; so does Perfect Keto's Whey. The MCT addition is real, not just marketing. Whether you need it depends on whether you're already getting MCTs elsewhere. [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=contentportfo-20) added separately gives you more control over dose.
 
 ---
 
@@ -76,7 +76,7 @@ Post-workout is the obvious window, and for good reason. Muscle protein synthesi
 
 Where I've seen keto dieters really misuse protein powder is as a meal replacement when they're already in a low-calorie deficit. A 130-calorie protein shake is not a meal. If you're eating twice a day and one of those "meals" is a shake, you're probably under-eating fat and calories overall, which catches up with people as fatigue and cravings by week three. Use shakes to supplement whole food meals, not replace them.
 
-A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=yourtag-20) changes how you use protein powder, by the way. Scoops are notoriously inconsistent. Weighing your protein keeps your macros actually accurate.
+A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20) changes how you use protein powder, by the way. Scoops are notoriously inconsistent. Weighing your protein keeps your macros actually accurate.
 
 ---
 

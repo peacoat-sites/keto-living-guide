@@ -42,7 +42,7 @@ So before we get into what to eat, let's establish what actually makes a 30-day 
 
 **Structured variety without complexity.** You need enough rotation to prevent food boredom, but not so many new recipes per week that cooking becomes a second job. The sweet spot for most people is 3 to 4 staple dinners, 2 rotating options, and nearly automatic breakfasts and lunches.
 
-**Macro anchoring, not obsession.** Most people doing standard keto aim for roughly 70% calories from fat, 20-25% from protein, and 5-10% from carbs, which typically means keeping net carbs under 20-25g per day to achieve ketosis. You don't need to log every gram forever, but for the first two weeks, tracking matters. It reveals where you're actually going wrong. [A kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+keto&tag=yourtag-20) removes the guesswork faster than any app. *(This site may earn a commission on qualifying purchases.)*
+**Macro anchoring, not obsession.** Most people doing standard keto aim for roughly 70% calories from fat, 20-25% from protein, and 5-10% from carbs, which typically means keeping net carbs under 20-25g per day to achieve ketosis. You don't need to log every gram forever, but for the first two weeks, tracking matters. It reveals where you're actually going wrong. [A kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+keto&tag=contentportfo-20) removes the guesswork faster than any app. *(This site may earn a commission on qualifying purchases.)*
 
 **An electrolyte protocol.** Non-negotiable. When you cut carbs, insulin drops, kidneys excrete more sodium, and magnesium and potassium follow. The fatigue, headaches, and brain fog that people blame on "keto flu" are mostly electrolyte depletion. Fix it early and it mostly disappears.
 
@@ -70,7 +70,7 @@ Net carbs: roughly 12-15g. Effort level: low. That's intentional.
 
 Energy is returning. Now you start paying attention to whether you're actually hitting your fat targets, or whether you've slipped into inadvertent lean protein territory, which is a common mistake. Too much protein, not enough fat, and you'll feel hungry and stalled.
 
-This is also when people start adding back variety. Introduce one or two new recipes. A sheet-pan salmon with asparagus. A slow-cooker pork shoulder you can eat three different ways. [Meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=yourtag-20) become your best tool here: cook once, eat twice, don't think about Tuesday lunch.
+This is also when people start adding back variety. Introduce one or two new recipes. A sheet-pan salmon with asparagus. A slow-cooker pork shoulder you can eat three different ways. [Meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20) become your best tool here: cook once, eat twice, don't think about Tuesday lunch.
 
 ### Week 3: Momentum
 
@@ -98,7 +98,7 @@ Forget the 30-day shopping list that requires you to buy 47 ingredients at once.
 
 The rotating options prevent the monotony that kills most plans around day 12. You don't change the whole structure, you just swap one item.
 
-For fat intake specifically: if you're consistently hungry or tired, you're probably under-eating fat. Adding a tablespoon of [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=yourtag-20) to morning coffee or a post-workout shake is one of the faster ways to close that gap. It converts to ketones more readily than other fats, which can help in the first two weeks especially. *(Commission disclosure applies.)*
+For fat intake specifically: if you're consistently hungry or tired, you're probably under-eating fat. Adding a tablespoon of [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) to morning coffee or a post-workout shake is one of the faster ways to close that gap. It converts to ketones more readily than other fats, which can help in the first two weeks especially. *(Commission disclosure applies.)*
 
 ---
 
@@ -110,7 +110,7 @@ Keto at a restaurant is genuinely not hard if you know the two rules: protein an
 
 **2. The 3pm snack trap**
 
-If you're hungry mid-afternoon, the most common cause is not eating enough fat at lunch, not a need for a snack. Solve the root cause first. If hunger is genuinely there and lunch was adequate, keep [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=yourtag-20) on hand: pork rinds, macadamia nuts, cheese crisps, or a small piece of high-fat cheese. Almonds are fine but easy to overeat because they're moderate in carbs. Macadamias are the better keto nut. *(Commission disclosure applies.)*
+If you're hungry mid-afternoon, the most common cause is not eating enough fat at lunch, not a need for a snack. Solve the root cause first. If hunger is genuinely there and lunch was adequate, keep [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20) on hand: pork rinds, macadamia nuts, cheese crisps, or a small piece of high-fat cheese. Almonds are fine but easy to overeat because they're moderate in carbs. Macadamias are the better keto nut. *(Commission disclosure applies.)*
 
 **3. Cooking fatigue**
 
@@ -122,7 +122,7 @@ It happens around day 14 for most people. Everything tastes like eggs and sadnes
 
 The supplement market around keto is bloated with products you don't need. Here's the short version.
 
-**Electrolytes: essential.** Aim for 2,000 to 4,000mg sodium per day (more if you're active and sweating), 3,000 to 4,700mg potassium, and 300 to 500mg magnesium. Most people get sodium easily through food and liberal salt use. Potassium comes from avocado, leafy greens, and salmon. Magnesium is hardest to hit from food alone. A magnesium glycinate or malate supplement (glycinate is gentler on digestion than oxide) taken before bed is one of the better uses of $15 in supplement money. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=yourtag-20) that covers all three can also simplify things considerably. *(Commission disclosure applies.)*
+**Electrolytes: essential.** Aim for 2,000 to 4,000mg sodium per day (more if you're active and sweating), 3,000 to 4,700mg potassium, and 300 to 500mg magnesium. Most people get sodium easily through food and liberal salt use. Potassium comes from avocado, leafy greens, and salmon. Magnesium is hardest to hit from food alone. A magnesium glycinate or malate supplement (glycinate is gentler on digestion than oxide) taken before bed is one of the better uses of $15 in supplement money. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) that covers all three can also simplify things considerably. *(Commission disclosure applies.)*
 
 **Exogenous ketones: optional and often oversold.** They temporarily raise blood ketone levels but don't necessarily deepen fat adaptation. If you're mid-adaptation and want an energy boost, they're not harmful. They're also not necessary.
 

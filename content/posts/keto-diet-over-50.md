@@ -58,7 +58,7 @@ Blood pressure medications (common in this age group) often affect potassium lev
 
 I've had clients who were ready to quit keto entirely because of heart palpitations, and in most cases it turned out to be magnesium. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
 
-For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=ketosite-20) are what I recommend most consistently. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=ketosite-20)) also helps with sleep, which brings me to the next thing.
+For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) are what I recommend most consistently. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)) also helps with sleep, which brings me to the next thing.
 
 ## Sleep, hormones, and the adaptation window
 
@@ -74,7 +74,7 @@ You can't out-diet muscle loss after 50. Keto will reduce fat, but without resis
 
 You don't need to become a powerlifter. Two to three sessions a week of resistance training, even bodyweight exercises at home, makes a real difference in how keto affects your body composition. The combination of adequate protein, carb restriction, and resistance training is about as well-supported as anything in applied nutrition for this age group.
 
-A kitchen scale ([this OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=ketosite-20)) is one of the most useful tools I recommend, not to obsess over every gram, but because most people dramatically underestimate protein portions when they're eyeballing. Weigh your food for two weeks until you have a calibrated intuition, then relax.
+A kitchen scale ([this OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=contentportfo-20)) is one of the most useful tools I recommend, not to obsess over every gram, but because most people dramatically underestimate protein portions when they're eyeballing. Weigh your food for two weeks until you have a calibrated intuition, then relax.
 
 ---
 

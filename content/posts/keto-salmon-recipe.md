@@ -66,7 +66,7 @@ The question I get most often is: do I need to add a lot of extra fat to make th
 
 Honestly, no. Salmon is already a high-fat fish, especially sockeye and king salmon. Where people go wrong is trying to compensate for bland, overcooked fish by drowning it in cream sauces. That can work, and I'll get to it, but it's worth knowing that a well-cooked piece of salmon with two tablespoons of brown butter is already sitting at 45+ grams of fat per serving. You're not undernourished on fat here.
 
-If you want to build out a full keto plate, the easier move is pairing the salmon with a fat-forward side: roasted asparagus finished with [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=your-tag-here) or olive oil, a simple cucumber avocado salad, or creamed spinach made with full-fat cream cheese. Those combinations keep the net carbs well under 10g for the whole meal.
+If you want to build out a full keto plate, the easier move is pairing the salmon with a fat-forward side: roasted asparagus finished with [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) or olive oil, a simple cucumber avocado salad, or creamed spinach made with full-fat cream cheese. Those combinations keep the net carbs well under 10g for the whole meal.
 
 ---
 
@@ -86,7 +86,7 @@ Wild-caught vs. farmed is a real distinction here, not just a marketing move. Wi
 
 The one thing I'd actually skip: pre-marinated or pre-seasoned salmon fillets. They almost always contain sugar or honey, the carb count is hidden in the marinade, and you're paying a markup for convenience that takes you three minutes to replicate at home.
 
-A kitchen scale matters more than most people expect. Salmon fillets vary wildly in size, and if you're tracking macros carefully, eyeballing "6 ounces" can be off by 2 to 3 ounces in either direction. [A basic digital scale](https://www.amazon.com/s?k=kitchen+scale&tag=your-tag-here) runs about $12 and pays for itself in accurate tracking within a week.
+A kitchen scale matters more than most people expect. Salmon fillets vary wildly in size, and if you're tracking macros carefully, eyeballing "6 ounces" can be off by 2 to 3 ounces in either direction. [A basic digital scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20) runs about $12 and pays for itself in accurate tracking within a week.
 
 ---
 
@@ -96,7 +96,7 @@ Sort of. Cooked salmon keeps in the fridge for up to 3 days, and it's genuinely 
 
 What I do instead: prep everything but the fish. Make the cream sauce, chop the herbs, have the sides ready. The actual sear takes 7 minutes. That's fast enough to do on a Tuesday night even when you're tired.
 
-If you're batch cooking for the week, baked salmon holds texture better than pan-seared after refrigeration. 400°F for 12 to 14 minutes, olive oil, salt, whatever spices. It's less exciting but it reheats more gracefully in a [glass meal prep container](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=your-tag-here) with a side dish.
+If you're batch cooking for the week, baked salmon holds texture better than pan-seared after refrigeration. 400°F for 12 to 14 minutes, olive oil, salt, whatever spices. It's less exciting but it reheats more gracefully in a [glass meal prep container](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20) with a side dish.
 
 One thing most people don't realize: reheating salmon in an air fryer at 350°F for 3 to 4 minutes is noticeably better than the microwave. The skin can even re-crisp a little.
 

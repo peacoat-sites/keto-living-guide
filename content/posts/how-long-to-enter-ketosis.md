@@ -78,11 +78,11 @@ If you want to get into ketosis as fast as safely possible, here's a practical s
 
 **Step 3: Add moderate-intensity exercise before breaking the fast.** A 30 to 45 minute brisk walk or light resistance workout in the morning burns through remaining glycogen while insulin is already low. Don't go to exhaustion. You want glycogen burning, not muscle breakdown.
 
-**Step 4: Salt your food aggressively and supplement electrolytes.** As glycogen depletes, each gram of it releases about 3 grams of water along with sodium. That sodium loss pulls potassium and magnesium with it. Replacing electrolytes reduces keto flu symptoms dramatically and keeps you from quitting early. I recommend a dedicated electrolyte supplement without added sugar rather than sports drinks. [LMNT and similar no-sugar electrolyte packets](https://www.amazon.com/s?k=keto+electrolytes&tag=ketolowcarb-20) are popular for exactly this reason. *(This site may earn a small commission on qualifying purchases.)*
+**Step 4: Salt your food aggressively and supplement electrolytes.** As glycogen depletes, each gram of it releases about 3 grams of water along with sodium. That sodium loss pulls potassium and magnesium with it. Replacing electrolytes reduces keto flu symptoms dramatically and keeps you from quitting early. I recommend a dedicated electrolyte supplement without added sugar rather than sports drinks. [LMNT and similar no-sugar electrolyte packets](https://www.amazon.com/s?k=keto+electrolytes&tag=contentportfo-20) are popular for exactly this reason. *(This site may earn a small commission on qualifying purchases.)*
 
-**Step 5: Add a tablespoon of MCT oil to your morning coffee or a meal.** MCT oil (medium-chain triglycerides) is converted to ketones in the liver faster than long-chain fats from food. It won't force your body into ketosis if glycogen is still high, but it raises circulating ketone levels and can make the transition feel smoother. [C8 MCT oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=ketolowcarb-20) is the most ketogenic fraction. Start with a teaspoon and work up to avoid digestive upset.
+**Step 5: Add a tablespoon of MCT oil to your morning coffee or a meal.** MCT oil (medium-chain triglycerides) is converted to ketones in the liver faster than long-chain fats from food. It won't force your body into ketosis if glycogen is still high, but it raises circulating ketone levels and can make the transition feel smoother. [C8 MCT oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20) is the most ketogenic fraction. Start with a teaspoon and work up to avoid digestive upset.
 
-**Step 6: Test, don't guess.** Urine strips are cheap and accessible. [Blood ketone meters](https://www.amazon.com/s?k=blood+ketone+meter&tag=ketolowcarb-20) are more accurate and measure beta-hydroxybutyrate directly. Breath meters are a middle-ground option. Without testing, you're flying blind, and a lot of people stall because they assume they're in ketosis when hidden carbs have knocked them out.
+**Step 6: Test, don't guess.** Urine strips are cheap and accessible. [Blood ketone meters](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20) are more accurate and measure beta-hydroxybutyrate directly. Breath meters are a middle-ground option. Without testing, you're flying blind, and a lot of people stall because they assume they're in ketosis when hidden carbs have knocked them out.
 
 ## How to Know You're Actually in Ketosis
 
@@ -98,7 +98,7 @@ The problem is that these signs aren't specific. Fatigue could be keto flu or ju
 | Blood meter | Beta-hydroxybutyrate | High | Moderate (meter ~$30, strips ~$1 each) |
 | Breath meter | Acetone | Moderate | High upfront (~$150 to $200) |
 
-For a beginner, urine strips are fine to confirm you've entered ketosis initially. For anyone optimizing performance or troubleshooting a plateau, a blood meter like the [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=ketolowcarb-20) is worth the investment.
+For a beginner, urine strips are fine to confirm you've entered ketosis initially. For anyone optimizing performance or troubleshooting a plateau, a blood meter like the [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=contentportfo-20) is worth the investment.
 
 ---
 

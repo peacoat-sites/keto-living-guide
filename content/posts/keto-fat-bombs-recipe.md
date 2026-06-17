@@ -44,7 +44,7 @@ Use them as a bridge, not a foundation.
 
 The difference between a mediocre fat bomb and one that genuinely keeps you full comes down to ingredient selection, not just ratios.
 
-**Your fat base:** Coconut oil and butter are the most common. Coconut oil firms up in the fridge and creates that satisfying snap, but it can go rancid quickly and has a strong flavor some people dislike. Butter is more neutral and adds richness. Cream cheese is underrated as a base because it adds protein and creates a denser, more filling texture. MCT oil is excellent for a quick ketone boost, but it stays liquid at room temperature, so it works best blended into a softer recipe or combined with a solid fat. A high-quality [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=yourtag-20) makes a noticeable difference in texture and digestibility compared to the cheap stuff.
+**Your fat base:** Coconut oil and butter are the most common. Coconut oil firms up in the fridge and creates that satisfying snap, but it can go rancid quickly and has a strong flavor some people dislike. Butter is more neutral and adds richness. Cream cheese is underrated as a base because it adds protein and creates a denser, more filling texture. MCT oil is excellent for a quick ketone boost, but it stays liquid at room temperature, so it works best blended into a softer recipe or combined with a solid fat. A high-quality [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) makes a noticeable difference in texture and digestibility compared to the cheap stuff.
 
 **Your flavor and fiber add-ins:** This is where most recipes go wrong by ignoring satiety signals. Adding a tablespoon of chia seeds, ground flax, or hemp hearts to a fat bomb changes the texture slightly but significantly improves how long it keeps you full. Cacao powder, unsweetened coconut flakes, and nut butters add flavor without sugar. Almond butter works better than peanut butter for most people because it has a more neutral flavor profile and a slightly better carb count.
 
@@ -97,10 +97,10 @@ This is the sweet version that doesn't taste like a Halloween candy knockoff.
 **Steps:**
 
 1. Whisk all ingredients together in a medium bowl until completely smooth.
-2. Pour into a silicone mold or mini muffin tin lined with paper cups. A [silicone mold](https://www.amazon.com/s?k=silicone+candy+mold+keto&tag=yourtag-20) makes unmolding much easier.
+2. Pour into a silicone mold or mini muffin tin lined with paper cups. A [silicone mold](https://www.amazon.com/s?k=silicone+candy+mold+keto&tag=contentportfo-20) makes unmolding much easier.
 3. Tap the mold against the counter to release air bubbles.
 4. Freeze for at least 45 minutes.
-5. Remove and transfer to a zip-lock bag or [airtight container](https://www.amazon.com/s?k=meal+prep+containers+airtight&tag=yourtag-20) and store in the freezer.
+5. Remove and transfer to a zip-lock bag or [airtight container](https://www.amazon.com/s?k=meal+prep+containers+airtight&tag=contentportfo-20) and store in the freezer.
 
 Eat straight from the freezer. They melt fast at room temperature because of the coconut oil base.
 
@@ -108,7 +108,7 @@ Approximate macros per piece: 8g fat, 1.5g protein, 1g net carbs.
 
 ## Getting the Macros Right Without Guessing
 
-A [kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=yourtag-20) is not optional if you care about accuracy. Volume measurements for fat sources like coconut oil and almond butter can vary by 20 percent depending on how you scoop. That adds up across a batch.
+A [kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20) is not optional if you care about accuracy. Volume measurements for fat sources like coconut oil and almond butter can vary by 20 percent depending on how you scoop. That adds up across a batch.
 
 For tracking, use Cronometer rather than MyFitnessPal if you're serious about precision. Its food database is more accurate for micronutrients, which matters if you're also trying to avoid the electrolyte crashes that derail early keto adaptation.
 

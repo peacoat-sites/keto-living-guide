@@ -68,9 +68,9 @@ The goal is reducing friction without removing structure. Here's how to actually
 
 **Step 2: Build your default meals.** Three to four breakfasts, three to four lunches, three to four dinners you can rotate without thinking. These should already be keto-compliant, so you're not recalculating each time. Eggs with cheese and avocado. Salmon with roasted broccoli. Ground beef with cauliflower rice. Repetition isn't boring. It's efficient.
 
-**Step 3: Learn your carb landmines by sight.** You don't need to weigh vegetables forever, but you do need to know that a medium apple is about 21 grams of net carbs and effectively your whole day's budget. Onions add up faster than people expect. Nuts are easy to overeat. A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=yoursite-20) is worth keeping on the counter for calorie-dense foods even on lazy keto.
+**Step 3: Learn your carb landmines by sight.** You don't need to weigh vegetables forever, but you do need to know that a medium apple is about 21 grams of net carbs and effectively your whole day's budget. Onions add up faster than people expect. Nuts are easy to overeat. A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20) is worth keeping on the counter for calorie-dense foods even on lazy keto.
 
-**Step 4: Don't skip electrolytes.** This applies to every version of keto and lazy keto doesn't get an exemption. Low-carb diets cause your kidneys to excrete more sodium, which pulls magnesium and potassium with it. Headaches, muscle cramps, and fatigue are almost always electrolyte issues, not adaptation problems. A decent [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=yoursite-20) without added sugar is worth adding from day one.
+**Step 4: Don't skip electrolytes.** This applies to every version of keto and lazy keto doesn't get an exemption. Low-carb diets cause your kidneys to excrete more sodium, which pulls magnesium and potassium with it. Headaches, muscle cramps, and fatigue are almost always electrolyte issues, not adaptation problems. A decent [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without added sugar is worth adding from day one.
 
 **Step 5: Check in quarterly, not daily.** Without constant tracking, you need periodic reality checks. Every few months, log your food accurately for three to five days. Not to punish yourself, but to see if your estimates have drifted. They usually have, and usually in the wrong direction.
 
@@ -94,7 +94,7 @@ Lazy keto will likely produce slower fat loss results than strict keto for most 
 
 What lazy keto does reliably: reduces decision fatigue. Keeps carbs low enough for many people to reach and maintain ketosis. Makes long-term adherence more realistic. And long-term adherence is almost always more valuable than short-term perfection.
 
-[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=yoursite-20) can be a useful tool here, especially during the transition. Adding it to coffee or a smoothie shifts your fat intake up without requiring a big meal restructure, which helps if your lazy keto meals are running protein-heavy. Start with a teaspoon and work up. Jumping straight to a tablespoon is a reliable way to spend an unpleasant afternoon.
+[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20) can be a useful tool here, especially during the transition. Adding it to coffee or a smoothie shifts your fat intake up without requiring a big meal restructure, which helps if your lazy keto meals are running protein-heavy. Start with a teaspoon and work up. Jumping straight to a tablespoon is a reliable way to spend an unpleasant afternoon.
 
 ---
 

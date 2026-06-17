@@ -48,7 +48,7 @@ When you cut carbs, your kidneys excrete more sodium, which pulls potassium and 
 
 You need roughly 2,000-3,000mg sodium, 1,000mg potassium, and 300mg magnesium daily on keto. On a full-calorie keto diet, that's achievable with bone broth, leafy greens, nuts, and fish. At 1,200 calories, the math gets really tight.
 
-I genuinely recommend supplementing here. A product like [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=ketosite-20) (each packet has 1,000mg sodium, 200mg potassium, 60mg magnesium) dissolved in water once or twice a day makes a real difference. They're not cheap (around $45 for 30 packets), but the alternative is feeling terrible and quitting. There's also [magnesium glycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=ketosite-20) at night, which has the bonus of improving sleep for a lot of people. Worth doing regardless.
+I genuinely recommend supplementing here. A product like [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) (each packet has 1,000mg sodium, 200mg potassium, 60mg magnesium) dissolved in water once or twice a day makes a real difference. They're not cheap (around $45 for 30 packets), but the alternative is feeling terrible and quitting. There's also [magnesium glycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=contentportfo-20) at night, which has the bonus of improving sleep for a lot of people. Worth doing regardless.
 
 Salt your food aggressively. This is the one area where keto eating is counterintuitive compared to mainstream diet advice.
 
@@ -56,9 +56,9 @@ Salt your food aggressively. This is the one area where keto eating is counterin
 
 Meal prep is what separates people who sustain this from people who last three days before ordering pizza. At 1,200 calories with tight macros, there's not enough buffer to improvise. One unplanned handful of nuts, a splash of cream in your coffee you didn't count, and you're over.
 
-A kitchen scale is non-negotiable at this calorie level. I know people resist this, and I understand why. It feels obsessive. But eyeballing portions is how a 4-oz chicken thigh becomes a 6-oz chicken thigh, and at 1,200 calories that 50-calorie difference matters more than it would at 1,800. The [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=ketosite-20) runs around $50 and is accurate enough for this purpose.
+A kitchen scale is non-negotiable at this calorie level. I know people resist this, and I understand why. It feels obsessive. But eyeballing portions is how a 4-oz chicken thigh becomes a 6-oz chicken thigh, and at 1,200 calories that 50-calorie difference matters more than it would at 1,800. The [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) runs around $50 and is accurate enough for this purpose.
 
-For weekly prep, focus on two or three protein sources cooked in bulk: a batch of ground turkey, some baked chicken thighs, hard-boiled eggs. Keep pre-washed leafy greens in glass containers. Have one or two fat sources portioned out (avocado you measure as you use it, olive oil you measure before you pour). This is where [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=ketosite-20) actually earn their counter space.
+For weekly prep, focus on two or three protein sources cooked in bulk: a batch of ground turkey, some baked chicken thighs, hard-boiled eggs. Keep pre-washed leafy greens in glass containers. Have one or two fat sources portioned out (avocado you measure as you use it, olive oil you measure before you pour). This is where [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20) actually earn their counter space.
 
 The vegetables that work best at this calorie level are the ones with the highest volume-to-calorie ratio: spinach, arugula, zucchini, cucumber, cauliflower, broccoli. You can eat a genuinely large bowl of sautéed spinach for under 60 calories. That matters when you're trying to feel satisfied on a tight budget.
 

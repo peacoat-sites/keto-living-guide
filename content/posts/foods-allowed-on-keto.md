@@ -48,7 +48,7 @@ Fat isn't a condiment on keto. It's the main event. Your goal is to make fat the
 
 - **Butter and ghee:** Real, full-fat butter is one of the most versatile keto staples. Ghee (clarified butter) has a higher smoke point and is great for searing.
 - **Extra-virgin olive oil:** Rich in oleic acid and polyphenols, ideal for dressings and low-heat cooking.
-- **Coconut oil:** Contains medium-chain triglycerides (MCTs), which are converted to ketones more efficiently than long-chain fats. If you want a concentrated version, [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=ketolivingsite-20) can be added to coffee or shakes. *(This site may earn a commission on qualifying purchases.)*
+- **Coconut oil:** Contains medium-chain triglycerides (MCTs), which are converted to ketones more efficiently than long-chain fats. If you want a concentrated version, [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) can be added to coffee or shakes. *(This site may earn a commission on qualifying purchases.)*
 - **Avocado oil:** High smoke point, neutral flavor, excellent for roasting at 400°F and above.
 - **Lard and tallow:** Rendered animal fats that were unfairly demonized for decades. They're stable at high heat and delicious.
 - **Heavy whipping cream:** About 0.4 grams of net carbs per tablespoon. Goes in coffee, soups, and sauces without a second thought.
@@ -127,7 +127,7 @@ Here's what a real, balanced keto day looks like, not a magazine fantasy, but so
 
 That's well within the 20 to 50 gram range, satisfying, and genuinely delicious. None of it requires specialty keto products or expensive supplements.
 
-For meal prep, portioning and organizing ahead of time is the biggest lever you can pull. A good [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=ketolivingsite-20) takes the guesswork out of tracking fat and protein. Prepping proteins and chopping vegetables on Sunday means you're not standing in front of an open fridge at 7 p.m. making bad decisions. *(This site may earn a commission on qualifying purchases.)*
+For meal prep, portioning and organizing ahead of time is the biggest lever you can pull. A good [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20) takes the guesswork out of tracking fat and protein. Prepping proteins and chopping vegetables on Sunday means you're not standing in front of an open fridge at 7 p.m. making bad decisions. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

@@ -67,7 +67,7 @@ Here's a quick comparison of the main forms you'll encounter:
 
 For most people on keto, I recommend starting with magnesium glycinate or magnesium citrate. Glycinate is gentler on digestion and works well for the sleep and cramping issues. Citrate is effective and affordable. The dose that tends to matter is 200 to 400mg of elemental magnesium per day, taken in divided doses if possible, and often best at night since it tends to support sleep.
 
-A product like [Thorne Magnesium Bisglycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=ketolowcarbsite-20) is a solid, third-party tested option. (Disclosure: this site may earn a commission on qualifying purchases.)
+A product like [Thorne Magnesium Bisglycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=contentportfo-20) is a solid, third-party tested option. (Disclosure: this site may earn a commission on qualifying purchases.)
 
 ## How to Get More Magnesium From Food First
 
@@ -100,7 +100,7 @@ If you're dealing with symptoms right now, here's what I'd actually walk through
 
 6. **Track a few key symptoms.** Rate your sleep quality, cramp frequency, and constipation on a simple 1-10 scale before you start. It makes it much easier to know whether what you're doing is actually working.
 
-A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutrition&tag=ketolowcarbsite-20) can help you accurately portion magnesium-rich foods like seeds and nuts when you're tracking intake. And if you want to keep electrolytes balanced more broadly, an [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=ketolowcarbsite-20) rather than just sodium and potassium can simplify the whole process. (Disclosure: this site may earn a commission on qualifying purchases.)
+A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutrition&tag=contentportfo-20) can help you accurately portion magnesium-rich foods like seeds and nuts when you're tracking intake. And if you want to keep electrolytes balanced more broadly, an [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=contentportfo-20) rather than just sodium and potassium can simplify the whole process. (Disclosure: this site may earn a commission on qualifying purchases.)
 
 ---
 

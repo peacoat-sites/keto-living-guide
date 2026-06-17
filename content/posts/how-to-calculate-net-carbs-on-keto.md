@@ -80,7 +80,7 @@ The second is allulose, which is increasingly common in keto products and deserv
 Let me walk through how I actually approach this for a client who's just starting out. It's a 5-step process that handles most situations.
 
 **Step 1: Find the serving size and stick to it.**
-Everything else is meaningless if you're eyeballing. A kitchen scale is worth every penny here. Serving sizes on labels are often odd (28g, 43g) and notoriously easy to misjudge. A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=yoursite-20) is one of the first things I recommend to any new keto client. *(Disclosure: this site may earn a commission on purchases through these links.)*
+Everything else is meaningless if you're eyeballing. A kitchen scale is worth every penny here. Serving sizes on labels are often odd (28g, 43g) and notoriously easy to misjudge. A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20) is one of the first things I recommend to any new keto client. *(Disclosure: this site may earn a commission on purchases through these links.)*
 
 **Step 2: Note the total carbohydrate grams.**
 This is the starting number.

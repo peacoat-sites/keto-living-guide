@@ -85,13 +85,13 @@ This is the single most impactful thing you can do. Don't wait until you feel ba
 - **Potassium:** Target 3,000 to 4,000 mg daily. Avocados (about 700 mg each), leafy greens, and salmon are excellent keto-compatible sources. Don't supplement potassium in high doses without medical supervision since too much can cause its own cardiac issues.
 - **Magnesium:** 300 to 500 mg daily, ideally as magnesium glycinate or magnesium malate. These forms absorb better and are less likely to cause the digestive distress that magnesium oxide is notorious for. If you're waking up with leg cramps, magnesium is usually the missing piece.
 
-A dedicated electrolyte supplement can help here. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=yourtag-20) is a popular option in the keto community because it's high in sodium and free of sugar, though any electrolyte product without added sugar or maltodextrin will work. *(This site may earn a commission on qualifying purchases.)*
+A dedicated electrolyte supplement can help here. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is a popular option in the keto community because it's high in sodium and free of sugar, though any electrolyte product without added sugar or maltodextrin will work. *(This site may earn a commission on qualifying purchases.)*
 
 **Step 2: Eat enough fat.**
 
 Keto flu is worse when people under-eat fat while cutting carbs. Your body needs a fuel source. If it's not getting glucose and it's not getting dietary fat, it's just starving. Aim for fat to make up 65 to 75 percent of your calories. That means butter on your vegetables, full-fat dairy if you tolerate it, olive oil on everything, and fatty cuts of meat over lean ones.
 
-[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=yourtag-20) is useful during the transition because it converts to ketones more rapidly than long-chain fats, giving your brain fast access to its new fuel. Start with a teaspoon and work up slowly since too much too soon causes digestive distress. *(This site may earn a commission on qualifying purchases.)*
+[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20) is useful during the transition because it converts to ketones more rapidly than long-chain fats, giving your brain fast access to its new fuel. Start with a teaspoon and work up slowly since too much too soon causes digestive distress. *(This site may earn a commission on qualifying purchases.)*
 
 **Step 3: Stay hydrated, but don't just drink plain water.**
 

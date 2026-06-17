@@ -74,11 +74,11 @@ A 6-ounce salmon fillet with roasted broccoli in olive oil and a side of caulifl
 
 **Step 4: Handle electrolytes deliberately.**
 
-Lower insulin causes your kidneys to excrete sodium more readily. Most people experience headaches, fatigue, and muscle cramps in the first 1 to 2 weeks of keto not because of ketosis itself, but because of electrolyte loss. Aim for 2,000 to 3,000 mg of sodium, 1,000 mg of potassium, and 300 to 400 mg of magnesium daily. An electrolyte supplement without sugar or maltodextrin can make this much easier. [Lmnt and Nuun Sport](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=youraffiliateID-20) are solid options. *(This site may earn a commission on purchases.)*
+Lower insulin causes your kidneys to excrete sodium more readily. Most people experience headaches, fatigue, and muscle cramps in the first 1 to 2 weeks of keto not because of ketosis itself, but because of electrolyte loss. Aim for 2,000 to 3,000 mg of sodium, 1,000 mg of potassium, and 300 to 400 mg of magnesium daily. An electrolyte supplement without sugar or maltodextrin can make this much easier. [Lmnt and Nuun Sport](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) are solid options. *(This site may earn a commission on purchases.)*
 
 **Step 5: Track at least for the first 4 weeks.**
 
-You don't have to track forever, but insulin resistance is often caused partly by portion distortion and hidden carbs. A kitchen scale (something like a [basic digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=youraffiliateID-20)) takes the guesswork out of whether those "two tablespoons" of almond butter were actually four. *(This site may earn a commission.)*
+You don't have to track forever, but insulin resistance is often caused partly by portion distortion and hidden carbs. A kitchen scale (something like a [basic digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)) takes the guesswork out of whether those "two tablespoons" of almond butter were actually four. *(This site may earn a commission.)*
 
 ## Keto vs. Other Dietary Approaches for Insulin Resistance
 

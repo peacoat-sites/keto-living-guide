@@ -80,7 +80,7 @@ Here's a practical protocol I walk new keto clients through for the first two we
 
 **Step 4: Take magnesium glycinate at night.** Start with 200mg and work up to 400mg if needed. Taking it at night is practical because magnesium has a mild relaxing effect and it's simply easier to remember before bed than mid-afternoon.
 
-**Step 5: Consider a targeted electrolyte product for the first 30 days.** Whole-food sources are always preferable long-term, but during active adaptation, having something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=yourtag-20) or [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=yourtag-20) makes hitting targets nearly effortless. Look for products with no sugar or minimal sweeteners, and check that they include sodium in meaningful amounts (500mg or more per serving). *(Affiliate link: this site may earn a commission on purchases.)*
+**Step 5: Consider a targeted electrolyte product for the first 30 days.** Whole-food sources are always preferable long-term, but during active adaptation, having something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) or [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=contentportfo-20) makes hitting targets nearly effortless. Look for products with no sugar or minimal sweeteners, and check that they include sodium in meaningful amounts (500mg or more per serving). *(Affiliate link: this site may earn a commission on purchases.)*
 
 **Step 6: Weigh yourself the morning after a hard workout.** A drop of more than 2 lbs overnight means you sweated out significant electrolytes. Drink 16-24oz of electrolyte water and eat a salty meal before your next session.
 
@@ -94,7 +94,7 @@ Endurance athletes in ketosis sometimes need upward of 5,000-7,000mg of sodium o
 
 Pre-workout, try a small cup of broth or a pinch of salt in your water. During workouts longer than 60-75 minutes, an electrolyte drink with sodium and potassium is more useful than plain water. Post-workout, prioritize a salty meal with protein and fat within 60 minutes.
 
-The strength training crowd on keto often hits a wall around week two that they attribute to "not having carbs for energy." Sometimes that's true. But frequently it's sodium-driven dehydration reducing muscle cell volume, which cuts strength noticeably. One practical fix is keeping a quality [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=yourtag-20) to accurately track your food intake so you can see where electrolyte sources are lacking. *(Affiliate link.)*
+The strength training crowd on keto often hits a wall around week two that they attribute to "not having carbs for energy." Sometimes that's true. But frequently it's sodium-driven dehydration reducing muscle cell volume, which cuts strength noticeably. One practical fix is keeping a quality [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) to accurately track your food intake so you can see where electrolyte sources are lacking. *(Affiliate link.)*
 
 ## Electrolyte Comparison: Food Sources vs. Supplements
 

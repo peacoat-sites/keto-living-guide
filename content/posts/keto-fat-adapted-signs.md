@@ -66,7 +66,7 @@ I want to be honest here because the internet overclaims this constantly. Fat ad
 
 You'll still have off days. You'll still feel tired when you're sleep deprived, stressed, or getting sick. Fat adaptation doesn't override life. What it does is remove the energy instability that comes from glucose dependency. The baseline improves. The crashes go away. But you're not suddenly biohacked into a different species.
 
-Also: adaptation doesn't mean you can ignore electrolytes. Sodium, magnesium, and potassium remain important because keto diets cause increased renal excretion of these minerals. I've seen fully adapted people feel terrible simply because they stopped supplementing electrolytes, assuming they were past that phase. You're not. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=yourtag-20) remains useful long-term. *(Disclosure: this site may earn a commission on purchases made through affiliate links.)*
+Also: adaptation doesn't mean you can ignore electrolytes. Sodium, magnesium, and potassium remain important because keto diets cause increased renal excretion of these minerals. I've seen fully adapted people feel terrible simply because they stopped supplementing electrolytes, assuming they were past that phase. You're not. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) remains useful long-term. *(Disclosure: this site may earn a commission on purchases made through affiliate links.)*
 
 ---
 
@@ -82,7 +82,7 @@ This isn't a guarantee, but it's a reasonable framework based on what I've obser
 | Weeks 4-6 | Enzymatic upregulation accelerating | Clearer thinking, fewer cravings, more consistent energy |
 | Weeks 8-12 | Full fat adaptation for most people | Stable hunger, improved endurance, reduced keto symptoms |
 
-Getting a [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=yourtag-20) to track your actual carb intake during this period is genuinely useful. Many people think they're staying under 20 grams and aren't. Small measurement errors add up, especially with vegetables, nuts, and dairy, and they can stall adaptation. *(Affiliate disclosure applies.)*
+Getting a [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20) to track your actual carb intake during this period is genuinely useful. Many people think they're staying under 20 grams and aren't. Small measurement errors add up, especially with vegetables, nuts, and dairy, and they can stall adaptation. *(Affiliate disclosure applies.)*
 
 ---
 
@@ -98,7 +98,7 @@ Several things can keep you hovering in a frustrated middle zone where you're pa
 
 **High stress and poor sleep.** Cortisol raises blood glucose. Chronic stress can keep you from ever settling into efficient fat burning regardless of what you eat. This is one of those areas where no supplement or diet fix helps until the underlying issue is addressed.
 
-Adding [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=yourtag-20) during the adaptation phase can help maintain ketone levels and support the transition, particularly if you're active. Start small (1 teaspoon) and work up, or you'll learn a very fast lesson in digestive consequences. *(Affiliate disclosure applies.)*
+Adding [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) during the adaptation phase can help maintain ketone levels and support the transition, particularly if you're active. Start small (1 teaspoon) and work up, or you'll learn a very fast lesson in digestive consequences. *(Affiliate disclosure applies.)*
 
 ---
 
