@@ -1,0 +1,225 @@
+<style>
+.if-calc { margin:30px 0; border:1px solid var(--border); border-radius:14px; overflow:hidden; font-variant-numeric:tabular-nums }
+.if-calc-head { padding:15px 20px; background:var(--surface2); font-weight:800; font-size:1.1rem }
+.if-calc-body { padding:20px }
+.if-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(165px,1fr)); gap:14px; margin-bottom:20px }
+.if-label { display:flex; flex-direction:column; gap:6px; font-size:13px; font-weight:600; color:var(--muted) }
+.if-label select, .if-label input {
+  width:100%; padding:12px 13px; border:1.5px solid var(--border-strong); border-radius:10px;
+  font-size:16px; color:var(--text); background:var(--surface); box-sizing:border-box;
+  font-family:inherit; transition:border-color .15s,box-shadow .15s
+}
+.if-label select:focus, .if-label input:focus {
+  outline:none; border-color:var(--accent); box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)
+}
+.if-results { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px; margin-top:4px }
+.if-rc { background:var(--surface2); border-radius:12px; padding:14px 16px; text-align:center }
+.if-rl { display:block; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-bottom:4px }
+.if-rv { display:block; font-size:1.7rem; font-weight:800; color:var(--accent); line-height:1.15; margin:2px 0 }
+.if-rs { display:block; font-size:11.5px; color:var(--muted) }
+
+.if-timeline { margin-top:20px }
+.if-tl-label { font-size:12px; font-weight:600; color:var(--muted); margin-bottom:6px; display:flex; justify-content:space-between }
+.if-tl-bar { width:100%; height:28px; border-radius:10px; overflow:hidden; display:flex; position:relative }
+.if-tl-fast { background:color-mix(in srgb,var(--accent) 25%,#f0ebe3); }
+.if-tl-eat  { background:var(--accent); }
+.if-tl-legend { display:flex; gap:16px; margin-top:8px; font-size:12px; color:var(--muted) }
+.if-tl-legend span { display:flex; align-items:center; gap:5px }
+.if-tl-dot { width:12px; height:12px; border-radius:3px; display:inline-block }
+
+.if-callout {
+  margin-top:16px; padding:14px 18px; border-radius:12px;
+  background:color-mix(in srgb,var(--accent) 10%,#fff); border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);
+  font-size:.95rem; line-height:1.5
+}
+.if-callout b { color:var(--accent) }
+.if-countdown {
+  margin-top:14px; padding:12px 16px; border-radius:10px;
+  background:var(--surface2); font-size:1rem; font-weight:700; text-align:center; color:var(--text)
+}
+.if-52 { background:var(--surface2); border-radius:12px; padding:16px 18px; margin-top:16px }
+.if-52 h4 { margin:0 0 10px; font-size:.95rem; color:var(--accent) }
+.if-52 .days { display:flex; gap:8px; flex-wrap:wrap }
+.if-52 .day { padding:6px 12px; border-radius:8px; font-size:13px; font-weight:600 }
+.if-52 .eat-day  { background:var(--accent); color:#fff }
+.if-52 .fast-day { background:color-mix(in srgb,var(--accent) 20%,#f0ebe3); color:var(--text) }
+
+.if-note { margin:16px 0 0; font-size:12px; color:var(--stone); line-height:1.5 }
+@media(max-width:560px){ .if-rv{font-size:1.4rem} }
+</style>
+
+<div class="if-calc">
+  <div class="if-calc-head">⏱ Intermittent Fasting Window Calculator</div>
+  <div class="if-calc-body">
+    <div class="if-grid">
+      <label class="if-label">IF Protocol
+        <select id="if-protocol" onchange="ifCalc()">
+          <option value="16:8">16:8 (16h fast / 8h eating)</option>
+          <option value="18:6">18:6 (18h fast / 6h eating)</option>
+          <option value="20:4">20:4 (20h fast / 4h eating)</option>
+          <option value="OMAD">OMAD (23h fast / 1h eating)</option>
+          <option value="5:2">5:2 (2 low-calorie days/week)</option>
+        </select>
+      </label>
+      <label class="if-label" id="if-start-label">Eating window starts
+        <input type="time" id="if-start" value="12:00" oninput="ifCalc()">
+      </label>
+    </div>
+
+    <div id="if-regular-output">
+      <div class="if-results" id="if-results"></div>
+
+      <div class="if-timeline" id="if-timeline">
+        <div class="if-tl-label">
+          <span id="tl-start-lbl">12:00 AM</span>
+          <span id="tl-mid-lbl">12:00 PM</span>
+          <span id="tl-end-lbl">12:00 AM</span>
+        </div>
+        <div class="if-tl-bar" id="if-tl-bar"></div>
+        <div class="if-tl-legend">
+          <span><span class="if-tl-dot" style="background:var(--accent)"></span>Eating window</span>
+          <span><span class="if-tl-dot" style="background:color-mix(in srgb,var(--accent) 25%,#f0ebe3)"></span>Fasting window</span>
+        </div>
+      </div>
+
+      <div class="if-countdown" id="if-countdown">Loading...</div>
+      <div class="if-callout" id="if-callout"></div>
+    </div>
+
+    <div id="if-52-output" style="display:none">
+      <div class="if-52">
+        <h4>Your 5:2 weekly schedule</h4>
+        <div class="days">
+          <span class="day eat-day">Mon — Normal</span>
+          <span class="day fast-day">Tue — 500 cal</span>
+          <span class="day eat-day">Wed — Normal</span>
+          <span class="day fast-day">Thu — 500 cal</span>
+          <span class="day eat-day">Fri — Normal</span>
+          <span class="day eat-day">Sat — Normal</span>
+          <span class="day eat-day">Sun — Normal</span>
+        </div>
+      </div>
+      <div class="if-callout" style="margin-top:16px">
+        <b>5:2 Protocol:</b> Eat normally 5 days a week. On 2 non-consecutive days, restrict calories to <b>500–600 kcal</b> (women/men respectively). No specific eating window required on fast days — spread calories however works best for you. Many people find it easier to have one small meal rather than two.
+      </div>
+    </div>
+
+    <p class="if-note">Black coffee, plain tea, and water are generally allowed during the fasting window without breaking a fast. Electrolytes (sodium, potassium, magnesium) can help with keto + IF combined. This calculator is for informational purposes only — consult your healthcare provider before starting an extended fasting protocol.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  function fmt12(h, m) {
+    var ampm = h < 12 ? 'AM' : 'PM';
+    var h12 = h % 12 || 12;
+    return h12 + ':' + (m < 10 ? '0' : '') + m + ' ' + ampm;
+  }
+
+  function parseProtocol(proto) {
+    var map = { '16:8':[16,8], '18:6':[18,6], '20:4':[20,4], 'OMAD':[23,1], '5:2':null };
+    return map[proto];
+  }
+
+  function addMinutes(baseMin, add) {
+    return (baseMin + add) % (24*60);
+  }
+
+  var countdownInterval = null;
+
+  window.ifCalc = function() {
+    var proto = document.getElementById('if-protocol').value;
+    var startVal = document.getElementById('if-start').value; // "HH:MM"
+    var parts = startVal.split(':');
+    var startH = parseInt(parts[0],10);
+    var startM = parseInt(parts[1],10);
+    var startMin = startH * 60 + startM;
+
+    // Toggle 5:2 view
+    if (proto === '5:2') {
+      document.getElementById('if-regular-output').style.display = 'none';
+      document.getElementById('if-52-output').style.display = 'block';
+      document.getElementById('if-start-label').style.opacity = '0.4';
+      if (countdownInterval) { clearInterval(countdownInterval); countdownInterval = null; }
+      return;
+    }
+    document.getElementById('if-regular-output').style.display = 'block';
+    document.getElementById('if-52-output').style.display = 'none';
+    document.getElementById('if-start-label').style.opacity = '1';
+
+    var windows = parseProtocol(proto);
+    var fastHours = windows[0];
+    var eatHours  = windows[1];
+
+    var endMin = addMinutes(startMin, eatHours * 60);
+    var endH   = Math.floor(endMin / 60) % 24;
+    var endMm  = endMin % 60;
+
+    // Result cards
+    var eatStart = fmt12(startH, startM);
+    var eatEnd   = fmt12(endH, endMm);
+    // Fasting: from eatEnd to eatStart next day
+    document.getElementById('if-results').innerHTML =
+      '<div class="if-rc"><span class="if-rl">Eating Window</span><span class="if-rv">' + eatHours + 'h</span><span class="if-rs">' + eatStart + ' – ' + eatEnd + '</span></div>' +
+      '<div class="if-rc"><span class="if-rl">Fasting Window</span><span class="if-rv">' + fastHours + 'h</span><span class="if-rs">' + eatEnd + ' – ' + eatStart + ' next day</span></div>' +
+      '<div class="if-rc"><span class="if-rl">Daily Schedule</span><span class="if-rv">' + proto + '</span><span class="if-rs">' + fastHours + 'h fast / ' + eatHours + 'h eating</span></div>';
+
+    // Timeline bar: 24h day starting at midnight
+    // eatStart and eatEnd in % of day
+    var pctStart = startMin / (24*60);
+    var pctEat   = (eatHours * 60) / (24*60);
+    // Build 3-segment bar: fast before eat, eat, fast after eat
+    var seg1 = pctStart * 100;
+    var seg2 = pctEat   * 100;
+    var seg3 = (1 - pctStart - pctEat) * 100;
+    var barHTML = '';
+    if (seg1 > 0) barHTML += '<div class="if-tl-fast" style="width:' + seg1.toFixed(1) + '%"></div>';
+    barHTML += '<div class="if-tl-eat" style="width:' + seg2.toFixed(1) + '%"></div>';
+    if (seg3 > 0) barHTML += '<div class="if-tl-fast" style="width:' + seg3.toFixed(1) + '%"></div>';
+    document.getElementById('if-tl-bar').innerHTML = barHTML;
+    document.getElementById('tl-start-lbl').textContent = '12:00 AM';
+    document.getElementById('tl-mid-lbl').textContent   = '12:00 PM';
+    document.getElementById('tl-end-lbl').textContent   = '11:59 PM';
+
+    // Callout
+    document.getElementById('if-callout').innerHTML =
+      '<b>' + proto + ' plan:</b> Your eating window runs from <b>' + eatStart + '</b> to <b>' + eatEnd + '</b> (' + eatHours + ' hours). Outside that window, fast for <b>' + fastHours + ' hours</b>. On a keto diet, your fat-adapted body can efficiently burn stored fat during the fasting window — combining keto and IF can accelerate ketone production.';
+
+    // Countdown — update every minute
+    if (countdownInterval) clearInterval(countdownInterval);
+
+    function updateCountdown() {
+      var now = new Date();
+      var nowMin = now.getHours() * 60 + now.getMinutes();
+      var cd = document.getElementById('if-countdown');
+      // Is now inside eating window?
+      var inEat = false;
+      if (endMin > startMin) {
+        inEat = nowMin >= startMin && nowMin < endMin;
+      } else {
+        // Wraps midnight
+        inEat = nowMin >= startMin || nowMin < endMin;
+      }
+
+      var minUntil;
+      if (inEat) {
+        // Time until eating window ends
+        if (endMin > nowMin) minUntil = endMin - nowMin;
+        else minUntil = (24*60) - nowMin + endMin;
+        var h = Math.floor(minUntil/60), m = minUntil%60;
+        cd.innerHTML = '🟢 Eating window is <b style="color:var(--accent)">open</b> — closes in <b>' + h + 'h ' + m + 'm</b> at ' + eatEnd;
+      } else {
+        // Time until eating window opens
+        if (startMin > nowMin) minUntil = startMin - nowMin;
+        else minUntil = (24*60) - nowMin + startMin;
+        var hh = Math.floor(minUntil/60), mm = minUntil%60;
+        cd.innerHTML = '⏳ Fasting — eating window opens in <b style="color:var(--accent)">' + hh + 'h ' + mm + 'm</b> at ' + eatStart;
+      }
+    }
+    updateCountdown();
+    countdownInterval = setInterval(updateCountdown, 60000);
+  };
+
+  window.ifCalc();
+})();
+</script>

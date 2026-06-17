@@ -1,0 +1,192 @@
+<style>
+.sw-calc { margin:30px 0; border:1px solid var(--border); border-radius:14px; overflow:hidden; font-variant-numeric:tabular-nums }
+.sw-calc-head { padding:15px 20px; background:var(--surface2); font-weight:800; font-size:1.1rem }
+.sw-calc-body { padding:20px }
+.sw-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(165px,1fr)); gap:14px; margin-bottom:16px }
+.sw-label { display:flex; flex-direction:column; gap:6px; font-size:13px; font-weight:600; color:var(--muted) }
+.sw-label select, .sw-label input {
+  width:100%; padding:12px 13px; border:1.5px solid var(--border-strong); border-radius:10px;
+  font-size:16px; color:var(--text); background:var(--surface); box-sizing:border-box;
+  font-family:inherit; transition:border-color .15s,box-shadow .15s
+}
+.sw-label select:focus, .sw-label input:focus {
+  outline:none; border-color:var(--accent); box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)
+}
+.sw-results { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-top:20px }
+.sw-rc { background:var(--surface2); border-radius:12px; padding:14px 16px; text-align:center }
+.sw-rl { display:block; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-bottom:4px }
+.sw-rv { display:block; font-size:1.5rem; font-weight:800; color:var(--accent); line-height:1.15; margin:2px 0 }
+.sw-rs { display:block; font-size:11.5px; color:var(--muted) }
+.sw-callout {
+  margin-top:16px; padding:14px 18px; border-radius:12px;
+  background:color-mix(in srgb,var(--accent) 10%,#fff); border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);
+  font-size:.95rem; line-height:1.5
+}
+.sw-callout b { color:var(--accent) }
+.sw-note { margin:16px 0 0; font-size:12px; color:var(--stone); line-height:1.5 }
+@media(max-width:560px){ .sw-rv{font-size:1.2rem} }
+</style>
+
+<div class="sw-calc">
+  <div class="sw-calc-head">🍯 Keto Sweetener Conversion Calculator</div>
+  <div class="sw-calc-body">
+    <div class="sw-grid">
+      <label class="sw-label">I have
+        <select id="sw-from" onchange="swCalc()">
+          <option value="sugar">Sugar</option>
+          <option value="erythritol">Erythritol</option>
+          <option value="monk">Monk Fruit (concentrate)</option>
+          <option value="allulose">Allulose</option>
+          <option value="stevia">Stevia Powder</option>
+          <option value="xylitol">Xylitol</option>
+          <option value="swerve">Swerve</option>
+          <option value="lakanto">Lakanto</option>
+          <option value="truvia">Truvia</option>
+        </select>
+      </label>
+      <label class="sw-label">Amount
+        <input type="number" id="sw-amt" value="1" min="0" step="0.25" oninput="swCalc()">
+      </label>
+      <label class="sw-label">Unit
+        <select id="sw-unit" onchange="swCalc()">
+          <option value="cup">Cups</option>
+          <option value="tbsp">Tablespoons</option>
+          <option value="tsp">Teaspoons</option>
+          <option value="g">Grams</option>
+        </select>
+      </label>
+    </div>
+
+    <div id="sw-results" class="sw-results"></div>
+    <div id="sw-carbs-callout" class="sw-callout" style="display:none"></div>
+    <p class="sw-note">Monk fruit and stevia are highly concentrated — a little goes a long way. Some people find them bitter in large amounts. Start with less and taste-test. Net carb counts are approximate; individual products vary. Always check your product label.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  // Sweetness ratios relative to sugar (how sweet vs sugar per same volume)
+  var SW = {
+    sugar:      { name:'Sugar',               ratio:1.0,   netCarbs:{cup:192, tbsp:12,  tsp:4,   g:1.0} },
+    erythritol: { name:'Erythritol',          ratio:0.7,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    monk:       { name:'Monk Fruit (conc.)',   ratio:200,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    allulose:   { name:'Allulose',            ratio:0.7,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    stevia:     { name:'Stevia Powder',        ratio:300,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    xylitol:    { name:'Xylitol',             ratio:1.0,   netCarbs:{cup:192, tbsp:12,  tsp:4,   g:0.6} },
+    swerve:     { name:'Swerve',              ratio:1.0,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    lakanto:    { name:'Lakanto',             ratio:1.0,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   },
+    truvia:     { name:'Truvia',              ratio:2.0,   netCarbs:{cup:0,   tbsp:0,   tsp:0,   g:0}   }
+  };
+
+  // Volume conversions to teaspoons
+  var TO_TSP = { cup:48, tbsp:3, tsp:1, g:null };
+  // Grams-per-cup equivalents for volume→gram conversion (sugar-like density)
+  var G_PER_CUP = { sugar:200, erythritol:192, monk:160, allulose:192, stevia:160, xylitol:190, swerve:192, lakanto:192, truvia:150 };
+
+  function fmtAmt(n) {
+    if (n < 0.001) return '< 1/8 tsp';
+    // Round to nearest 0.125
+    var r = Math.round(n * 8) / 8;
+    var whole = Math.floor(r);
+    var frac = r - whole;
+    var fracStr = '';
+    if (Math.abs(frac - 0.125) < 0.01) fracStr = '⅛';
+    else if (Math.abs(frac - 0.25) < 0.01) fracStr = '¼';
+    else if (Math.abs(frac - 0.375) < 0.01) fracStr = '⅜';
+    else if (Math.abs(frac - 0.5) < 0.01) fracStr = '½';
+    else if (Math.abs(frac - 0.625) < 0.01) fracStr = '⅝';
+    else if (Math.abs(frac - 0.75) < 0.01) fracStr = '¾';
+    else if (Math.abs(frac - 0.875) < 0.01) fracStr = '⅞';
+    if (whole === 0) return fracStr || '0';
+    return fracStr ? whole + ' ' + fracStr : String(whole);
+  }
+
+  function fmtUnit(val, unit) {
+    // Auto-convert large tsp to tbsp/cups
+    if (unit === 'tsp') {
+      if (val >= 48) return fmtAmt(val/48) + ' cup' + (val/48 >= 2 ? 's' : '');
+      if (val >= 3)  return fmtAmt(val/3)  + ' tbsp';
+      return fmtAmt(val) + ' tsp';
+    }
+    if (unit === 'tbsp') {
+      if (val >= 16) return fmtAmt(val/16) + ' cup' + (val/16 >= 2 ? 's' : '');
+      return fmtAmt(val) + ' tbsp';
+    }
+    if (unit === 'cup') return fmtAmt(val) + ' cup' + (val >= 2 ? 's' : '');
+    return fmtAmt(val) + 'g';
+  }
+
+  // Convert any amount/unit to teaspoons (for sweetness calculation)
+  function toTsp(amt, fromKey, unit) {
+    if (unit === 'g') {
+      // g → cups → tsp
+      var gpc = G_PER_CUP[fromKey] || 200;
+      return (amt / gpc) * 48;
+    }
+    return amt * TO_TSP[unit];
+  }
+
+  // Convert teaspoons back to a target sweetener's display unit
+  function fromTsp(tsp, toKey, preferUnit) {
+    if (preferUnit === 'g') {
+      var gpc = G_PER_CUP[toKey] || 200;
+      return { val: (tsp / 48) * gpc, unit: 'g' };
+    }
+    // Return same unit as input but pick best display
+    var cups = tsp / 48;
+    var tbsps = tsp / 3;
+    if (cups >= 0.25) return { val: cups, unit: 'cup' };
+    if (tbsps >= 1)   return { val: tbsps, unit: 'tbsp' };
+    return { val: tsp, unit: 'tsp' };
+  }
+
+  window.swCalc = function() {
+    var fromKey = document.getElementById('sw-from').value;
+    var amt = parseFloat(document.getElementById('sw-amt').value) || 0;
+    var unit = document.getElementById('sw-unit').value;
+
+    if (amt <= 0) {
+      document.getElementById('sw-results').innerHTML = '';
+      document.getElementById('sw-carbs-callout').style.display = 'none';
+      return;
+    }
+
+    var fromSw = SW[fromKey];
+    // Sweetness in "sugar tsp equivalents"
+    var inputTsp = toTsp(amt, fromKey, unit);
+    var sweetnessTsp = inputTsp * fromSw.ratio; // total sugar-tsp sweetness
+
+    var html = '';
+    Object.keys(SW).forEach(function(key) {
+      if (key === fromKey) return;
+      var sw = SW[key];
+      // How many tsp of this sweetener provides same sweetness?
+      var neededTsp = sweetnessTsp / sw.ratio;
+      // Convert to display
+      var disp = fromTsp(neededTsp, key, unit);
+      var display = fmtUnit(disp.val, disp.unit);
+      var carbNote = sw.netCarbs[unit] !== undefined
+        ? (sw.netCarbs[unit] === 0 ? '0g net carbs' : Math.round(sw.netCarbs[unit] * amt) + 'g net carbs')
+        : '0g net carbs';
+      // For concentrated sweeteners, warn if result is tiny
+      var tinyNote = neededTsp < 0.1 ? '<br><small style="color:var(--stone)">Very small — use a pinch</small>' : '';
+      html += '<div class="sw-rc"><span class="sw-rl">' + sw.name + '</span><span class="sw-rv">' + display + '</span><span class="sw-rs">' + carbNote + '</span>' + tinyNote + '</div>';
+    });
+
+    document.getElementById('sw-results').innerHTML = html;
+
+    // Carbs callout for input sweetener
+    var inputCarbPer = fromSw.netCarbs[unit] !== undefined ? fromSw.netCarbs[unit] : 0;
+    var inputCarbs = Math.round(inputCarbPer * amt);
+    var callout = document.getElementById('sw-carbs-callout');
+    callout.style.display = 'block';
+    var carbMsg = inputCarbs > 0
+      ? '<b>' + amt + ' ' + unit + ' of ' + fromSw.name + '</b> contains approximately <b>' + inputCarbs + 'g net carbs</b>. Swapping to erythritol, allulose, monk fruit, stevia, swerve, or lakanto brings net carbs to <b>0g</b> — a significant keto win.'
+      : '<b>' + amt + ' ' + unit + ' of ' + fromSw.name + '</b> contains <b>0g net carbs</b> — already keto-friendly! The amounts shown below provide the same sweetness.';
+    callout.innerHTML = carbMsg;
+  };
+
+  // Init
+  window.swCalc();
+})();
+</script>
