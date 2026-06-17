@@ -1,0 +1,220 @@
+{{- /* Keto Daily Macro Tracker — localStorage per-day, progress bars */ -}}
+<div class="kmt-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px">
+    <span style="font-weight:800;font-size:1.1rem;color:var(--text)">Daily Keto Macro Tracker</span>
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+      <label style="font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:6px">
+        Date:
+        <input type="date" id="kmt-date" style="padding:5px 9px;border:1.5px solid var(--border-strong);border-radius:8px;font-size:.85rem;color:var(--text);background:var(--surface);font-family:inherit" />
+      </label>
+    </div>
+  </div>
+  <div style="padding:20px">
+    <!-- Targets -->
+    <details id="kmt-targets-details" style="margin-bottom:18px">
+      <summary style="font-weight:700;font-size:.95rem;cursor:pointer;color:var(--text);padding:8px 0">Set Daily Targets</summary>
+      <div style="margin-top:12px;display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Net Carbs (g)
+          <input type="number" id="kmt-t-carbs" min="0" value="20" style="padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit" oninput="kmtSaveTargets()" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Protein (g)
+          <input type="number" id="kmt-t-protein" min="0" value="100" style="padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit" oninput="kmtSaveTargets()" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Fat (g)
+          <input type="number" id="kmt-t-fat" min="0" value="150" style="padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit" oninput="kmtSaveTargets()" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Calories (kcal)
+          <input type="number" id="kmt-t-cal" min="0" value="1800" style="padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit" oninput="kmtSaveTargets()" />
+        </label>
+      </div>
+    </details>
+    <!-- Add food form -->
+    <div style="background:var(--surface2);border-radius:12px;padding:16px 18px;margin-bottom:18px">
+      <div style="font-weight:700;font-size:.9rem;color:var(--text);margin-bottom:10px">Add Food</div>
+      <div style="display:grid;grid-template-columns:2fr 1fr 1fr 1fr 1fr auto;gap:10px;align-items:end">
+        <label style="display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:var(--muted)">
+          Food name
+          <input type="text" id="kmt-f-name" placeholder="e.g. Scrambled eggs" style="padding:9px 11px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:var(--muted)">
+          Net Carbs (g)
+          <input type="number" id="kmt-f-carbs" min="0" step="0.1" placeholder="0" style="padding:9px 11px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:var(--muted)">
+          Protein (g)
+          <input type="number" id="kmt-f-protein" min="0" step="0.1" placeholder="0" style="padding:9px 11px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:var(--muted)">
+          Fat (g)
+          <input type="number" id="kmt-f-fat" min="0" step="0.1" placeholder="0" style="padding:9px 11px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+        </label>
+        <label style="display:flex;flex-direction:column;gap:5px;font-size:12px;font-weight:600;color:var(--muted)">
+          Calories
+          <input type="number" id="kmt-f-cal" min="0" step="1" placeholder="0" style="padding:9px 11px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+        </label>
+        <button onclick="kmtAddFood()" style="padding:9px 16px;border-radius:9px;border:none;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.9rem;height:36px;margin-bottom:1px">Add</button>
+      </div>
+    </div>
+    <!-- Progress bars -->
+    <div id="kmt-progress" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-bottom:18px"></div>
+    <!-- Log table -->
+    <div id="kmt-log-wrap">
+      <div style="font-weight:700;font-size:.9rem;color:var(--text);margin-bottom:8px">Today's Log</div>
+      <div id="kmt-log"></div>
+    </div>
+    <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">For detailed macro tracking with a full food database, consider <strong>Cronometer</strong> or <strong>Carb Manager</strong>.</p>
+  </div>
+</div>
+<style>
+.kmt-bar-wrap{background:var(--surface2);border-radius:12px;padding:14px 16px}
+.kmt-bar-label{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700}
+.kmt-bar-nums{font-size:.85rem;color:var(--text);margin:4px 0 6px;font-weight:600}
+.kmt-bar-track{height:10px;border-radius:99px;background:var(--border);overflow:hidden}
+.kmt-bar-fill{height:100%;border-radius:99px;background:var(--accent);transition:width .3s,background .3s}
+.kmt-bar-fill.over{background:#dc2626}
+.kmt-log-table{width:100%;border-collapse:collapse;font-size:.88rem}
+.kmt-log-table th{text-align:left;padding:7px 10px;background:var(--surface2);font-size:.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;font-weight:700}
+.kmt-log-table td{padding:8px 10px;border-top:1px solid var(--border);color:var(--text);vertical-align:middle}
+.kmt-log-table tr:hover td{background:color-mix(in srgb,var(--accent) 5%,transparent)}
+.kmt-del-btn{padding:3px 10px;border-radius:6px;border:1px solid var(--border-strong);background:var(--surface);color:var(--muted);cursor:pointer;font-size:.8rem;font-family:inherit}
+.kmt-del-btn:hover{background:#fef2f2;color:#dc2626;border-color:#fca5a5}
+.kmt-empty{color:var(--stone);font-size:.9rem;padding:12px 0}
+@media(max-width:600px){
+  #kmt-log-wrap{overflow-x:auto}
+}
+</style>
+<script>
+(function(){
+  var KEY_TARGETS = 'keto-macro-targets-v1';
+  var LOG_PREFIX  = 'keto-log-';
+
+  function todayStr(){
+    var d = new Date();
+    return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+  }
+
+  function loadTargets(){
+    try { return JSON.parse(localStorage.getItem(KEY_TARGETS)||'null') || {carbs:20,protein:100,fat:150,cal:1800}; } catch(e){ return {carbs:20,protein:100,fat:150,cal:1800}; }
+  }
+
+  function loadLog(dateStr){
+    try { return JSON.parse(localStorage.getItem(LOG_PREFIX+dateStr)||'[]'); } catch(e){ return []; }
+  }
+
+  function saveLog(dateStr, log){
+    try { localStorage.setItem(LOG_PREFIX+dateStr, JSON.stringify(log)); } catch(e){}
+  }
+
+  function getDate(){
+    var el = document.getElementById('kmt-date');
+    return el ? el.value : todayStr();
+  }
+
+  function renderProgress(log, targets){
+    var totals = {carbs:0,protein:0,fat:0,cal:0};
+    log.forEach(function(e){ totals.carbs+=e.carbs||0; totals.protein+=e.protein||0; totals.fat+=e.fat||0; totals.cal+=e.cal||0; });
+    var el = document.getElementById('kmt-progress');
+    if(!el) return;
+    var bars = [
+      {key:'carbs', label:'Net Carbs', unit:'g', t:targets.carbs, v:totals.carbs},
+      {key:'protein', label:'Protein', unit:'g', t:targets.protein, v:totals.protein},
+      {key:'fat', label:'Fat', unit:'g', t:targets.fat, v:totals.fat},
+      {key:'cal', label:'Calories', unit:'kcal', t:targets.cal, v:totals.cal}
+    ];
+    el.innerHTML = bars.map(function(b){
+      var pct = b.t > 0 ? Math.min((b.v/b.t)*100,100) : 0;
+      var over = b.v > b.t;
+      return '<div class="kmt-bar-wrap">'
+        +'<div class="kmt-bar-label">'+b.label+'</div>'
+        +'<div class="kmt-bar-nums">'+b.v.toFixed(1)+' / '+b.t+' '+b.unit+(over?' <span style="color:#dc2626;font-size:.75rem">(over)</span>':'')+'</div>'
+        +'<div class="kmt-bar-track"><div class="kmt-bar-fill'+(over?' over':'')+'" style="width:'+pct+'%"></div></div>'
+        +'</div>';
+    }).join('');
+  }
+
+  function renderLog(log){
+    var el = document.getElementById('kmt-log');
+    if(!el) return;
+    if(log.length === 0){ el.innerHTML = '<div class="kmt-empty">No foods logged yet.</div>'; return; }
+    el.innerHTML = '<table class="kmt-log-table"><thead><tr>'
+      +'<th>Food</th><th>Net Carbs (g)</th><th>Protein (g)</th><th>Fat (g)</th><th>Cal</th><th></th>'
+      +'</tr></thead><tbody>'
+      +log.map(function(e,i){
+        return '<tr><td>'+escH(e.name)+'</td><td>'+e.carbs.toFixed(1)+'</td><td>'+e.protein.toFixed(1)+'</td><td>'+e.fat.toFixed(1)+'</td><td>'+e.cal+'</td>'
+          +'<td><button class="kmt-del-btn" onclick="kmtDelete('+i+')">Remove</button></td></tr>';
+      }).join('')
+      +'</tbody></table>';
+  }
+
+  function escH(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  function refresh(){
+    var d = getDate();
+    var log = loadLog(d);
+    var targets = loadTargets();
+    renderProgress(log, targets);
+    renderLog(log);
+  }
+
+  window.kmtSaveTargets = function(){
+    var t = {
+      carbs:  parseFloat(document.getElementById('kmt-t-carbs').value)||20,
+      protein:parseFloat(document.getElementById('kmt-t-protein').value)||100,
+      fat:    parseFloat(document.getElementById('kmt-t-fat').value)||150,
+      cal:    parseFloat(document.getElementById('kmt-t-cal').value)||1800
+    };
+    try { localStorage.setItem(KEY_TARGETS, JSON.stringify(t)); } catch(e){}
+    refresh();
+  };
+
+  window.kmtAddFood = function(){
+    var name = (document.getElementById('kmt-f-name').value||'').trim();
+    if(!name){ alert('Please enter a food name.'); return; }
+    var entry = {
+      name: name,
+      carbs:   parseFloat(document.getElementById('kmt-f-carbs').value)||0,
+      protein: parseFloat(document.getElementById('kmt-f-protein').value)||0,
+      fat:     parseFloat(document.getElementById('kmt-f-fat').value)||0,
+      cal:     parseInt(document.getElementById('kmt-f-cal').value)||0
+    };
+    var d = getDate();
+    var log = loadLog(d);
+    log.push(entry);
+    saveLog(d, log);
+    ['kmt-f-name','kmt-f-carbs','kmt-f-protein','kmt-f-fat','kmt-f-cal'].forEach(function(id){
+      var el = document.getElementById(id); if(el) el.value='';
+    });
+    refresh();
+  };
+
+  window.kmtDelete = function(idx){
+    var d = getDate();
+    var log = loadLog(d);
+    log.splice(idx,1);
+    saveLog(d,log);
+    refresh();
+  };
+
+  function init(){
+    var dateEl = document.getElementById('kmt-date');
+    if(dateEl){
+      dateEl.value = todayStr();
+      dateEl.addEventListener('change', refresh);
+    }
+    var targets = loadTargets();
+    var fields = {carbs:'kmt-t-carbs', protein:'kmt-t-protein', fat:'kmt-t-fat', cal:'kmt-t-cal'};
+    Object.keys(fields).forEach(function(k){
+      var el = document.getElementById(fields[k]);
+      if(el) el.value = targets[k];
+    });
+    refresh();
+  }
+
+  if(document.readyState === 'loading'){ document.addEventListener('DOMContentLoaded', init); }
+  else { init(); }
+})();
+</script>

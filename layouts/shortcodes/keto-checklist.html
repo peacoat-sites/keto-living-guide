@@ -1,0 +1,202 @@
+{{- /* Keto Grocery Shopping Checklist — localStorage, print-ready */ -}}
+<div class="keto-checklist-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px">
+    <span style="font-weight:800;font-size:1.1rem;color:var(--text)">Keto Grocery Shopping List</span>
+    <span id="kc-count" style="font-size:.9rem;color:var(--muted)"></span>
+  </div>
+  <div id="kc-body" style="padding:20px"></div>
+  <div class="kc-actions" style="padding:14px 20px;background:var(--surface2);display:flex;flex-wrap:wrap;gap:10px;border-top:1px solid var(--border)">
+    <button onclick="kcPrint()" style="padding:9px 18px;border-radius:9px;border:none;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.9rem">Print List</button>
+    <button onclick="kcClearAll()" style="padding:9px 18px;border-radius:9px;border:1.5px solid var(--border-strong);background:var(--surface);color:var(--text);font-weight:700;cursor:pointer;font-size:.9rem">Clear All</button>
+    <div style="display:flex;gap:8px;flex:1;min-width:200px">
+      <input id="kc-custom-input" type="text" placeholder="Add custom item…" style="flex:1;padding:9px 13px;border:1.5px solid var(--border-strong);border-radius:9px;font-size:.9rem;color:var(--text);background:var(--surface);font-family:inherit" />
+      <button onclick="kcAddCustom()" style="padding:9px 16px;border-radius:9px;border:none;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.9rem">Add</button>
+    </div>
+  </div>
+</div>
+<style>
+.kc-cat-header{display:flex;align-items:center;gap:10px;margin:18px 0 8px;padding-bottom:6px;border-bottom:2px solid var(--border-strong)}
+.kc-cat-header label{font-weight:800;font-size:.85rem;text-transform:uppercase;letter-spacing:.07em;color:var(--accent);cursor:pointer;display:flex;align-items:center;gap:6px}
+.kc-item{display:flex;align-items:center;gap:10px;padding:7px 4px;border-radius:8px;cursor:pointer;transition:background .12s}
+.kc-item:hover{background:var(--surface2)}
+.kc-item input[type=checkbox]{width:18px;height:18px;accent-color:var(--accent);cursor:pointer;flex-shrink:0}
+.kc-item label{font-size:.95rem;color:var(--text);cursor:pointer;flex:1}
+.kc-item.checked label{text-decoration:line-through;color:var(--stone)}
+@media print{
+  .kc-actions{display:none!important}
+  .keto-checklist-wrap{border:none;border-radius:0}
+  body *:not(.keto-checklist-wrap):not(.keto-checklist-wrap *){visibility:hidden}
+  .keto-checklist-wrap{visibility:visible;position:fixed;top:0;left:0;width:100%;columns:2;column-gap:30px}
+  .kc-cat-header{break-inside:avoid}
+  .kc-item{break-inside:avoid}
+}
+</style>
+<script>
+(function(){
+  var KEY = 'keto-shopping-v1';
+  var CATS = [
+    {id:'proteins', label:'Proteins', items:[
+      'Eggs (dozen)',
+      'Ground beef (80/20)',
+      'Chicken thighs (bone-in)',
+      'Salmon (wild-caught)',
+      'Bacon (sugar-free)',
+      'Sardines in olive oil',
+      'Tuna (canned in water)',
+      'Shrimp',
+      'Pork rinds',
+      'Deli turkey/ham (check labels — no sugar)'
+    ]},
+    {id:'dairy', label:'Dairy & Fats', items:[
+      'Heavy whipping cream',
+      'Butter or ghee',
+      'Cream cheese',
+      'Cheddar cheese (block, not shredded — shredded has starch)',
+      'Parmesan (grated)',
+      'Sour cream (full-fat)',
+      'Avocados (6)',
+      'Olive oil (extra virgin)',
+      'Coconut oil',
+      'MCT oil'
+    ]},
+    {id:'veggies', label:'Low-Carb Vegetables', items:[
+      'Leafy greens (spinach/arugula/romaine)',
+      'Broccoli',
+      'Cauliflower',
+      'Zucchini',
+      'Asparagus',
+      'Green beans',
+      'Bell peppers (limit to 1/2 cup serving)',
+      'Cucumber',
+      'Celery',
+      'Mushrooms',
+      'Cabbage'
+    ]},
+    {id:'nuts', label:'Nuts & Seeds', items:[
+      'Macadamia nuts',
+      'Almonds (raw)',
+      'Walnuts',
+      'Pumpkin seeds',
+      'Chia seeds',
+      'Hemp seeds'
+    ]},
+    {id:'pantry', label:'Keto Pantry Staples', items:[
+      'Almond flour',
+      'Coconut flour',
+      'Erythritol or monk fruit sweetener',
+      "Sugar-free chocolate chips (Lily's)",
+      'Apple cider vinegar',
+      'Bone broth (low-sodium)',
+      'Psyllium husk powder',
+      'Baking powder (aluminum-free)',
+      'Canned coconut milk (full-fat)'
+    ]},
+    {id:'condiments', label:'Condiments & Sauces', items:[
+      'Mustard (yellow/dijon — check labels)',
+      'Mayo (avocado oil based)',
+      'Hot sauce (check carbs)',
+      'Soy sauce or coconut aminos',
+      'Ranch dressing (check carbs)',
+      'Pesto (check labels)'
+    ]},
+    {id:'beverages', label:'Beverages', items:[
+      'Sparkling water (unsweetened)',
+      'Coffee beans / grounds',
+      'Unsweetened almond milk',
+      'Green tea',
+      'Electrolyte packets (no sugar)'
+    ]},
+    {id:'other', label:'Other / Custom', items:[]}
+  ];
+
+  var state = {};
+  var custom = [];
+  try { var s = JSON.parse(localStorage.getItem(KEY)||'{}'); state = s.checked||{}; custom = s.custom||[]; } catch(e){}
+
+  function save(){
+    try { localStorage.setItem(KEY, JSON.stringify({checked:state, custom:custom})); } catch(e){}
+    renderCount();
+  }
+
+  function allItems(){
+    var all = [];
+    CATS.forEach(function(c){ c.items.forEach(function(it){ all.push(c.id+'::'+it); }); });
+    custom.forEach(function(it){ all.push('other::'+it); });
+    return all;
+  }
+
+  function renderCount(){
+    var all = allItems();
+    var checked = all.filter(function(k){ return state[k]; }).length;
+    var el = document.getElementById('kc-count');
+    if(el) el.textContent = checked + ' / ' + all.length + ' items checked';
+  }
+
+  function render(){
+    var body = document.getElementById('kc-body');
+    if(!body) return;
+    var html = '';
+    CATS.forEach(function(cat){
+      var items = cat.id === 'other' ? cat.items.concat(custom) : cat.items;
+      if(cat.id === 'other' && items.length === 0) return;
+      var allChecked = items.length > 0 && items.every(function(it){ return state[cat.id+'::'+it]; });
+      html += '<div class="kc-cat-header">';
+      html += '<label><input type="checkbox" '+(allChecked?'checked':'')
+        +' onchange="kcToggleCat(\''+cat.id+'\',this.checked)" /> '+cat.label+'</label>';
+      html += '</div>';
+      items.forEach(function(item){
+        var k = cat.id+'::'+item;
+        var chk = state[k] ? ' checked' : '';
+        var cls = state[k] ? ' checked' : '';
+        html += '<div class="kc-item'+cls+'" id="kci-'+esc(k)+'">';
+        html += '<input type="checkbox"'+chk+' id="cb-'+esc(k)+'" onchange="kcToggle(\''+escQ(k)+'\',this.checked)" />';
+        html += '<label for="cb-'+esc(k)+'">'+escH(item)+'</label>';
+        html += '</div>';
+      });
+    });
+    body.innerHTML = html;
+    renderCount();
+  }
+
+  function esc(s){ return s.replace(/[^a-zA-Z0-9]/g,'_'); }
+  function escQ(s){ return s.replace(/\\/g,'\\\\').replace(/'/g,"\\'"); }
+  function escH(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+  window.kcToggle = function(k, val){
+    state[k] = val;
+    var row = document.getElementById('kci-'+esc(k));
+    if(row){ if(val) row.classList.add('checked'); else row.classList.remove('checked'); }
+    save();
+    render(); // refresh cat checkboxes
+  };
+
+  window.kcToggleCat = function(catId, val){
+    var cat = CATS.find(function(c){ return c.id===catId; });
+    if(!cat) return;
+    var items = catId === 'other' ? cat.items.concat(custom) : cat.items;
+    items.forEach(function(it){ state[catId+'::'+it] = val; });
+    save();
+    render();
+  };
+
+  window.kcClearAll = function(){
+    if(!confirm('Clear all checkmarks?')) return;
+    state = {}; save(); render();
+  };
+
+  window.kcPrint = function(){ window.print(); };
+
+  window.kcAddCustom = function(){
+    var inp = document.getElementById('kc-custom-input');
+    var val = (inp.value||'').trim();
+    if(!val) return;
+    custom.push(val);
+    inp.value = '';
+    save();
+    render();
+  };
+
+  document.addEventListener('DOMContentLoaded', render);
+  if(document.readyState !== 'loading') render();
+})();
+</script>
