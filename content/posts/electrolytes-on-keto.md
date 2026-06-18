@@ -25,76 +25,75 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
-You're three days into keto, feeling proud of yourself for ditching the bread and pasta, and then it hits: a throbbing headache, shaky legs, and a fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on the phrase "keto flu." Most articles tell you to push through. Here's what they often leave out: what you're experiencing isn't really a carb-withdrawal crisis. It's an electrolyte emergency, and it's almost entirely preventable.
+You're three days into keto, feeling pretty smug about ditching bread and pasta, and then something hits you: a throbbing headache that won't quit, shaky legs, and fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on "keto flu." Most articles tell you to just push through it. Here's what they leave out: what you're experiencing isn't actually a carb-withdrawal crisis. It's an electrolyte emergency, and you could've prevented almost all of it.
 
 ## Why Keto Wrecks Your Electrolyte Balance (The Actual Science)
 
-When you cut carbohydrates below roughly 20-50 grams per day, your body burns through its glycogen stores within 24-72 hours. Each gram of glycogen is stored with about 3 grams of water. As that glycogen empties, you excrete a significant amount of fluid, and with that fluid go dissolved minerals: sodium, potassium, and magnesium, primarily.
+Cut carbs below roughly 20-50 grams per day, and your body burns through its glycogen stores in 24-72 hours. Each gram of glycogen holds about 3 grams of water. When that glycogen empties, you excrete a lot of fluid, and with that fluid go the minerals your body actually needs: sodium, potassium, and magnesium.
 
-There's a second mechanism at work too. Insulin levels drop sharply on keto. That matters for electrolytes because insulin signals the kidneys to retain sodium. Lower insulin means the kidneys shift into excretion mode. You can lose several grams of sodium in a single day through urine alone, especially in the first two weeks.
+There's a second mechanism too. Insulin levels plummet on keto. That matters because insulin tells your kidneys to hold onto sodium. Lower insulin means your kidneys switch to excretion mode. You can lose several grams of sodium in a single day through urine alone, especially in those first two weeks.
 
-The result is a cascade. Low sodium triggers more fluid loss. Low potassium affects muscle contractions and heart rhythm. Low magnesium shows up as muscle cramps, poor sleep, and anxiety. These aren't vague symptoms. They're measurable physiological events, and they explain why so many people quit keto before they ever reach ketosis.
+Low sodium triggers more fluid loss. Low potassium affects how your muscles contract and how your heart beats. Low magnesium becomes muscle cramps, terrible sleep, and anxiety. These aren't vague symptoms you can handwave. They're actual physiological events, and they're why so many people quit keto before they even reach ketosis.
 
-I've seen clients come to me convinced that keto "just doesn't work for my body," when the real issue was that they were running on 400mg of sodium a day when they needed closer to 3,000-5,000mg.
+I've had clients convinced that keto "just doesn't work for my body," when the real problem was they were running on 400mg of sodium a day when they needed 3,000-5,000mg. That's the difference between feeling terrible and feeling fine.
 
 ## The Big Three: Sodium, Potassium, and Magnesium
 
-These three minerals do the heavy lifting, and each deserves its own honest breakdown.
+These three minerals do almost all the work. Each one deserves its own breakdown.
 
-**Sodium** is the one most people underestimate, partly because we've spent decades being told to eat less of it. On a standard high-carb diet, that advice makes some sense. On keto, it flips. Most keto-adapted adults need somewhere between 3,000 and 5,000mg of sodium per day. If you're active and sweating, push toward the higher end. Good sources include table salt, sea salt, bone broth (a single cup of quality bone broth can deliver 500-1,000mg), pickles, and naturally cured olives. Don't be afraid of the salt shaker. It's practically a keto supplement.
+**Sodium** gets underestimated, partly because we spent decades being told to eat less of it. On a standard high-carb diet, that advice makes sense. On keto, it flips entirely. Most keto-adapted adults need somewhere between 3,000 and 5,000mg per day. If you're active and sweating, aim higher. Table salt, sea salt, bone broth (a single cup can deliver 500-1,000mg), pickles, and cured olives are your friends. Don't be shy with the salt shaker. It's practically a keto supplement.
 
-**Potassium** targets are typically 3,500-4,700mg daily, which is challenging because most Americans are already falling short even on a standard diet. On keto, you've removed a lot of the traditional potassium vehicles like bananas and potatoes. You'll need to lean on avocados (about 975mg per cup of cubed avocado), salmon, leafy greens like Swiss chard, and pork. Supplement forms exist, but the FDA limits over-the-counter potassium supplements to 99mg per dose because high-dose potassium taken incorrectly carries real cardiac risk. Get the majority from food.
+**Potassium** is typically 3,500-4,700mg daily, which is surprisingly hard because most Americans fall short even eating normally. On keto, you've removed a lot of the usual potassium sources like bananas and potatoes. You'll need avocados (about 975mg per cup of cubed avocado), salmon, leafy greens like Swiss chard, and pork. Supplement forms exist, but the FDA caps over-the-counter potassium at 99mg per dose because high-dose potassium taken wrong has real cardiac risk. Get most of it from food.
 
-**Magnesium** has a target of 300-420mg daily depending on sex and age. It supports over 300 enzymatic reactions, which is why deficiency feels like everything is slightly broken at once. Pumpkin seeds (156mg per ounce), spinach, almonds, and dark chocolate above 85% cacao are solid keto-friendly sources. Magnesium is also the electrolyte most worth supplementing, because getting therapeutic amounts from food alone while staying low-carb is genuinely difficult. Magnesium glycinate and magnesium malate are the best-tolerated forms. Magnesium oxide is cheap and common but absorbed poorly and may cause digestive distress.
+**Magnesium** targets run 300-420mg daily depending on age and sex. It supports over 300 enzymatic reactions, which is why deficiency makes everything feel slightly broken at once. Pumpkin seeds (156mg per ounce), spinach, almonds, and dark chocolate above 85% cacao are solid keto options. Magnesium is also the electrolyte worth actually supplementing, because getting therapeutic amounts from food while staying low-carb is genuinely hard. Magnesium glycinate and magnesium malate are the best-tolerated forms. Magnesium oxide is cheap and common but absorbed poorly and might wreck your digestion.
 
 ## Recognizing Electrolyte Depletion vs. Normal Adaptation
 
-Not every bad feeling in week one is electrolyte depletion, and being able to tell the difference saves you from either panicking or ignoring something real.
+Not every bad feeling in week one is electrolyte depletion. Being able to tell the difference keeps you from either panicking or ignoring something real.
 
 **Signs that point to electrolyte issues specifically:**
-- Headache that starts at the temples or back of the skull
-- Muscle cramps, especially in the calves and feet at night
-- Heart palpitations or a fluttery feeling in the chest
-- Brain fog that doesn't lift even after sleep
-- Dizziness when standing up quickly (orthostatic hypotension)
-- Constipation (often a magnesium issue)
+- Headache starting at the temples or back of the skull
+- Muscle cramps, especially calves and feet at night
+- Heart palpitations or a fluttery feeling in your chest
+- Brain fog that doesn't clear even after sleep
+- Dizziness when standing up (orthostatic hypotension)
+- Constipation (usually a magnesium issue)
 
 **Signs that are more likely general adaptation:**
 - Temporary fatigue that improves after day 5-7
 - Mild irritability around day 2-3
 - Changes in breath odor (acetone from ketosis)
-- Temporarily reduced exercise performance
+- Reduced exercise performance temporarily
 
-The clearest clue is responsiveness. If you drink a cup of salted bone broth and your headache lifts within 30 minutes, that was a sodium issue. If cramps disappear after taking magnesium glycinate for two or three days, that was the culprit. Electrolyte symptoms tend to respond quickly once you address them.
+The clearest clue is how fast it improves. Drink a cup of salted bone broth and your headache lifts in 30 minutes? That was sodium. Cramps disappear after taking magnesium glycinate for two or three days? That was it. Electrolyte symptoms respond quickly once you actually address them.
 
 ## How to Actually Hit Your Targets: A Day-by-Day Approach
 
-Here's a practical protocol I walk new keto clients through for the first two weeks. It's not complicated, but the specificity matters.
+Here's a protocol I walk new keto clients through for the first two weeks. It's not complicated, but specifics matter.
 
-**Step 1: Salt your food aggressively and intentionally.** Don't just shake salt over your plate. Salt your cooking water, salt your meat before cooking, add salt to your eggs. Aim to add at least one teaspoon of salt (about 2,300mg sodium) beyond whatever is in your food naturally.
+**Step 1: Salt your food aggressively and intentionally.** Don't just sprinkle salt over your plate. Salt your cooking water, salt your meat before cooking, salt your eggs. Add at least one teaspoon of salt (about 2,300mg sodium) beyond what's naturally in your food.
 
-**Step 2: Drink salted water or broth in the morning.** Before coffee, have 8-12 oz of water with a pinch of salt or a cup of bone broth. This front-loads sodium before the mild diuretic effect of caffeine compounds your losses.
+**Step 2: Drink salted water or broth in the morning.** Before coffee, have 8-12 oz of water with a pinch of salt or a cup of bone broth. This front-loads sodium before caffeine's mild diuretic effect makes things worse.
 
-**Step 3: Eat at least half an avocado daily.** This single habit delivers around 500mg of potassium with essentially zero effort and pairs beautifully with almost every keto meal.
+**Step 3: Eat at least half an avocado daily.** One habit, about 500mg of potassium, zero effort, and it goes with almost every keto meal.
 
-**Step 4: Take magnesium glycinate at night.** Start with 200mg and work up to 400mg if needed. Taking it at night is practical because magnesium has a mild relaxing effect and it's simply easier to remember before bed than mid-afternoon.
+**Step 4: Take magnesium glycinate at night.** Start with 200mg and work up to 400mg if needed. Taking it at night makes sense because magnesium has a mild relaxing effect and it's easier to remember before bed.
 
-**Step 5: Consider a targeted electrolyte product for the first 30 days.** Whole-food sources are always preferable long-term, but during active adaptation, having something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) or [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=contentportfo-20) makes hitting targets nearly effortless. Look for products with no sugar or minimal sweeteners, and check that they include sodium in meaningful amounts (500mg or more per serving). *(Affiliate link: this site may earn a commission on purchases.)*
+**Step 5: Consider a targeted electrolyte product for the first 30 days.** Whole-food sources beat supplements long-term, but during active adaptation, having something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) or [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=contentportfo-20) makes hitting targets almost effortless. Look for no sugar or minimal sweeteners, and check that sodium is meaningful (500mg or more per serving). *(Affiliate link: this site may earn a commission on purchases.)*
 
-**Step 6: Weigh yourself the morning after a hard workout.** A drop of more than 2 lbs overnight means you sweated out significant electrolytes. Drink 16-24oz of electrolyte water and eat a salty meal before your next session.
+**Step 6: Weigh yourself the morning after a hard workout.** A drop over 2 lbs overnight means you sweated out significant electrolytes. Drink 16-24oz of electrolyte water and eat a salty meal before your next session.
 
 ## Electrolytes for Active People and Athletes on Keto
 
-If you're training while going keto, your electrolyte needs climb considerably. A 60-minute moderate-intensity session can mean losing 1-2 liters of sweat, and sweat contains sodium at roughly 900mg per liter. Do the math and you'll see why athletes on keto who don't adjust their sodium intake feel terrible.
+Training while going keto changes your electrolyte needs considerably. A 60-minute moderate workout means losing 1-2 liters of sweat, and sweat contains roughly 900mg sodium per liter. Do the math and you'll see why keto athletes who don't adjust their sodium feel miserable.
 
-A few specifics worth knowing:
+A few specifics:
 
-Endurance athletes in ketosis sometimes need upward of 5,000-7,000mg of sodium on training days. That sounds alarming if you grew up being told 2,300mg was the safe ceiling, but that ceiling was set for sedentary adults on a standard diet. Your situation is different on both counts.
+Endurance athletes in ketosis sometimes need 5,000-7,000mg of sodium on training days. That sounds extreme if you grew up hearing 2,300mg was the safe ceiling, but that ceiling was set for sedentary people on a normal diet. Your situation is different.
 
-Pre-workout, try a small cup of broth or a pinch of salt in your water. During workouts longer than 60-75 minutes, an electrolyte drink with sodium and potassium is more useful than plain water. Post-workout, prioritize a salty meal with protein and fat within 60 minutes.
+Before a workout, try a small cup of broth or salt in your water. During workouts longer than 60-75 minutes, an electrolyte drink with sodium and potassium beats plain water. Post-workout, eat a salty meal with protein and fat within 60 minutes.
 
-The strength training crowd on keto often hits a wall around week two that they attribute to "not having carbs for energy." Sometimes that's true. But frequently it's sodium-driven dehydration reducing muscle cell volume, which cuts strength noticeably. One practical fix is keeping a quality [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) to accurately track your food intake so you can see where electrolyte sources are lacking. *(Affiliate link.)*
+Strength trainers on keto often hit a wall around week two they blame on "no carbs for energy." Sometimes that's real. But often it's sodium-driven dehydration cutting muscle cell volume, which tanks strength noticeably. One practical fix is keeping a quality [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) to accurately track your food so you can spot where electrolyte sources are falling short. *(Affiliate link.)*
 
 ## Electrolyte Comparison: Food Sources vs. Supplements
 
@@ -111,9 +110,6 @@ The strength training crowd on keto often hits a wall around week two that they 
 
 ---
 
-
----
-
-Electrolytes are unglamorous. Nobody sells a course on drinking broth or salting your eggs. But in my experience, solving this one issue is the difference between someone saying keto changed their life and someone saying it was miserable and they quit after a week. Get the sodium, potassium, and magnesium right, and the rest of the adaptation becomes genuinely manageable. Your future keto-adapted self will be grateful you paid attention to the boring stuff first.
+Electrolytes are unglamorous. Nobody sells a course on drinking broth or salting your eggs. But solving this one issue is genuinely the difference between someone saying keto changed their life and someone saying it was miserable and they quit after a week. Get the sodium, potassium, and magnesium right, and the rest of the adaptation becomes manageable. Your future keto-adapted self will be grateful you paid attention to the boring stuff first.
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*

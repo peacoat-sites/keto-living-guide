@@ -25,10 +25,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
 You got your lipid panel back, and the numbers scared you. Total cholesterol climbed 30 points since you started keto. Your doctor raised an eyebrow. Maybe they told you to stop the diet. Now you're sitting with a decision: trust the process everyone online swears by, or take the warning seriously. I've been in that room with clients dozens of times, and here's what I wish someone had told them before the panic set in.
-
----
 
 ## Cholesterol 101: What the Numbers Actually Mean on Keto
 
@@ -36,9 +33,7 @@ Most people treat their cholesterol panel like a report card where lower always 
 
 Your lipid panel typically reports four things: total cholesterol, LDL (low-density lipoprotein), HDL (high-density lipoprotein), and triglycerides. Total cholesterol alone is nearly useless as a risk indicator. A number of 220 mg/dL means something very different if your HDL is 75 and your triglycerides are 80 versus if your HDL is 38 and your triglycerides are 280.
 
-What most people don't realize is that keto tends to produce a specific and recognizable pattern: HDL goes up, triglycerides drop significantly, LDL sometimes rises. This pattern, taken together, often represents an improvement in cardiovascular risk profile, not a worsening. The research backing this is solid. A 2020 meta-analysis in *Nutrients* looking at very-low-carbohydrate diets found consistent reductions in triglycerides and increases in HDL across studies. The LDL picture is more complicated, and that's where honest conversation matters.
-
----
+Keto tends to produce a specific pattern: HDL goes up, triglycerides drop significantly, LDL sometimes rises. Taken together, this pattern often represents an improvement in cardiovascular risk, not a worsening. A 2020 meta-analysis in *Nutrients* looking at very-low-carbohydrate diets found consistent reductions in triglycerides and increases in HDL across studies. The LDL picture is more complicated, and that's where honest conversation matters.
 
 ## The LDL Problem: When It's Fine and When It's Not
 
@@ -46,11 +41,9 @@ LDL is where things get genuinely complicated. I'll be straight with you: LDL ri
 
 Here's the nuance. LDL isn't a single substance. It's a measurement that captures different particle types. Small, dense LDL particles are more strongly associated with cardiovascular risk than large, buoyant ones. Carbohydrate-heavy diets tend to raise small LDL. Fat-heavy diets, including keto, tend to shift the distribution toward larger particles. If your LDL number goes up but you've shifted to a more favorable particle profile, your actual risk picture may be neutral or even improved.
 
-The problem is that most standard lipid panels don't measure particle size. You get an LDL number, and that's it. If your LDL has jumped significantly on keto (say, 40 points or more), it's worth asking your doctor about advanced lipid testing, specifically LDL-P (particle number) or apolipoprotein B (ApoB). ApoB in particular is increasingly recognized by lipid specialists as a better predictor of risk than LDL-C. These tests exist, they're increasingly accessible, and they give you actual information instead of a number that requires too much guesswork.
+Most standard lipid panels don't measure particle size. You get an LDL number, and that's it. If your LDL has jumped significantly on keto (say, 40 points or more), it's worth asking your doctor about advanced lipid testing, specifically LDL-P (particle number) or apolipoprotein B (ApoB). ApoB in particular is increasingly recognized by lipid specialists as a better predictor of risk than LDL-C. These tests exist. They're increasingly accessible. They give you actual information instead of a number that requires too much guesswork.
 
-There's also a subset of people called "lean mass hyper-responders" (a term coined by researcher Dave Feldman) who experience dramatic LDL increases on keto despite otherwise excellent metabolic markers. The research on this group is ongoing. If you're lean, metabolically healthy, and watching your LDL climb past 200 or even 300 mg/dL on keto, you genuinely need an individualized conversation with a physician who understands lipidology, not a dismissal in either direction.
-
----
+There's also a subset of people called "lean mass hyper-responders" (a term coined by researcher Dave Feldman) who experience dramatic LDL increases on keto despite otherwise excellent metabolic markers. The research on this group is ongoing. If you're lean, metabolically healthy, and watching your LDL climb past 200 or even 300 mg/dL on keto, you need an individualized conversation with a physician who understands lipidology. Not a dismissal in either direction.
 
 ## What Actually Moves the Numbers: Saturated Fat, Dietary Cholesterol, and the Rest
 
@@ -62,8 +55,6 @@ Dietary cholesterol (the cholesterol in food) has a much smaller effect on blood
 
 If your numbers are moving in a direction that concerns you or your doctor, there are adjustments worth trying before abandoning the diet entirely:
 
-**Step-by-step approach to adjusting keto for better lipid outcomes:**
-
 1. **Audit your fat sources.** For two weeks, track what percentage of your fat is coming from saturated versus monounsaturated versus polyunsaturated sources. Apps like Cronometer break this down.
 2. **Shift toward monounsaturated fats.** Replace some butter and coconut oil with extra-virgin olive oil. Eat more avocado. Add macadamia nuts.
 3. **Add fatty fish twice a week.** Omega-3s from salmon, sardines, or mackerel have consistent evidence for lowering triglycerides specifically.
@@ -71,15 +62,11 @@ If your numbers are moving in a direction that concerns you or your doctor, ther
 5. **Retest after 8 to 12 weeks.** Lipids respond to dietary changes, but they need time. A retest at 4 weeks is often too early to see the full effect.
 6. **Consider adding soluble fiber.** Psyllium husk, chia seeds, and flaxseed can lower LDL modestly and are easy to incorporate without blowing your carb budget.
 
----
-
 ## The Triglyceride-HDL Ratio: Your Underrated Risk Signal
 
 If there's one number pair I'd want you to understand, it's this one. The triglyceride-to-HDL ratio (TG:HDL) is a proxy for insulin resistance and small LDL particle prevalence. A ratio under 2.0 is generally considered favorable. Above 3.5 is concerning.
 
 Keto, when it's working metabolically, tends to drive this ratio down substantially. I've seen clients come in with ratios of 4 or 5 and watch them drop to under 1.5 within three to six months. That shift, independent of what total cholesterol is doing, represents a meaningful improvement in their metabolic risk profile. If your doctor is focused on your total cholesterol or LDL while your TG:HDL improved from 4.2 to 1.4, it's worth having a fuller conversation about the whole picture.
-
----
 
 ## Comparing Common Keto Approaches by Likely Lipid Impact
 
@@ -92,9 +79,6 @@ Keto, when it's working metabolically, tends to drive this ratio down substantia
 | Plant-forward keto | Nuts, avocado, coconut, tofu | Modest or neutral | Moderate increase | Moderate decrease |
 
 This is a general pattern based on aggregate research, not a guarantee of what your individual results will look like. Genetics play a real role here.
-
----
-
 
 ---
 

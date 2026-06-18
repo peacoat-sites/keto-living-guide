@@ -12,9 +12,8 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
-Use this database to compare the **net carbs** (total carbohydrate minus fiber) of common keto-friendly foods. Values are per 100 grams, raw, sourced directly from the USDA FoodData Central database and refreshed monthly. Foods are sorted from lowest to highest net carbs, so the most keto-friendly options appear first.
+This database tracks the **net carbs** (total carbs minus fiber) in common keto foods. All numbers are per 100 grams, raw, straight from the USDA FoodData Central database and updated monthly. Everything's sorted lowest to highest net carbs, so the best keto picks sit at the top.
 
 {{< keto-carbs >}}
 
-Net carbs matter on a ketogenic diet because fiber isn't digested into glucose, so it doesn't count against your daily carb limit. A typical keto target is under 20 to 50 grams of net carbs per day. Foods shown in green are very low carb, amber are moderate, and red should be eaten in smaller portions.
+Why net carbs? Because your body doesn't convert fiber into glucose. It passes straight through, which means it doesn't count against your daily carb allowance. Most people on keto aim for 20 to 50 grams of net carbs daily. The color coding here makes scanning easy: green means very low carb, amber means moderate, and red means you should keep portions small.

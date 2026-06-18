@@ -25,7 +25,6 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
-
 You've been tracking every gram of food for three weeks. Carbs, fat, protein, fiber, net carbs, calories. Your phone is full of barcode scans and your lunch break disappears into MyFitnessPal. You're doing everything right, and you're exhausted by it. If that sounds familiar, lazy keto exists for a reason, and it works better than most strict-keto advocates want to admit.
 
 But here's what the breathless "lazy keto is amazing!" content skips over: it's not a free pass. It's a specific, deliberate simplification, not a looser version of keto where anything goes. Understanding the actual difference will save you weeks of frustration.
@@ -56,7 +55,7 @@ Here's where a lot of lazy keto content goes quiet. When you stop tracking fat a
 
 The concern is gluconeogenesis, the liver's ability to convert amino acids into glucose. The keto community often overstates this risk, framing any extra protein as an automatic ketosis-killer. The research doesn't fully support that panic. Gluconeogenesis is largely demand-driven, not supply-driven, meaning your liver doesn't just convert every available protein molecule into sugar unprompted.
 
-That said, if you're eating 250 grams of protein a day and wondering why your ketone strips are reading low, the math isn't mysterious.
+But if you're eating 250 grams of protein a day and wondering why your ketone strips are reading low, the math isn't mysterious.
 
 A practical benchmark: aim for roughly 0.7 to 1 gram of protein per pound of lean body mass. That's enough to protect muscle, especially if you're training, without sending your macros into protein-dominant territory. You don't need to track this obsessively, but it's worth a rough mental check now and then.
 
@@ -95,9 +94,6 @@ Lazy keto will likely produce slower fat loss results than strict keto for most 
 What lazy keto does reliably: reduces decision fatigue. Keeps carbs low enough for many people to reach and maintain ketosis. Makes long-term adherence more realistic. And long-term adherence is almost always more valuable than short-term perfection.
 
 [MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20) can be a useful tool here, especially during the transition. Adding it to coffee or a smoothie shifts your fat intake up without requiring a big meal restructure, which helps if your lazy keto meals are running protein-heavy. Start with a teaspoon and work up. Jumping straight to a tablespoon is a reliable way to spend an unpleasant afternoon.
-
----
-
 
 ---
 

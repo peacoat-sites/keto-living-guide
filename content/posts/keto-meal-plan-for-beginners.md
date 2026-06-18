@@ -25,7 +25,6 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 
 ---
-
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.
 
 ---
@@ -36,19 +35,19 @@ The first 14 days on keto are genuinely unlike any other phase of the diet. Your
 
 During this window, you'll likely feel some combination of fatigue, brain fog, headaches, and irritability. This is sometimes called the "keto flu," and it's mostly caused by your body flushing water and electrolytes as glycogen stores drop. It's uncomfortable but temporary. The fix isn't to eat more carbs. It's to stay hydrated, salt your food generously, and get enough potassium and magnesium. Our dedicated guide on [electrolytes on keto](/electrolytes-on-keto/) goes deep on this if you want specifics.
 
-The reason a meal plan matters so much in this phase is that decision fatigue is real. When you're tired and your head hurts and you're used to grabbing a sandwich or a bowl of pasta, having a pre-made list of what to eat removes the guesswork entirely. You don't have to think. You just follow the plan.
+The real reason a meal plan matters so much in this phase: decision fatigue is brutal. When you're tired and your head hurts and you're used to grabbing a sandwich or a bowl of pasta, having a pre-made list of what to eat removes the guesswork entirely. You don't have to think. You just follow it.
 
 ---
 
 ## The Macro Framework: What You're Actually Eating
 
-Before we get to specific meals, let's be clear about the numbers. A standard ketogenic diet looks like this:
+Before we get to specific meals, let's be clear about the numbers.
 
 - **Fat:** 70-75% of daily calories
 - **Protein:** 20-25% of daily calories
 - **Net carbs:** 5-10% of daily calories, usually capped at 20-25g per day for beginners
 
-For someone eating 1,800 calories a day, that translates to roughly 140-150g of fat, 90-110g of protein, and 20-25g of net carbs. Net carbs are calculated by subtracting fiber from total carbohydrates. That matters because fiber doesn't spike blood sugar.
+For someone eating 1,800 calories a day, that translates to roughly 140-150g of fat, 90-110g of protein, and 20-25g of net carbs. Net carbs are calculated by subtracting fiber from total carbohydrates, since fiber doesn't spike blood sugar.
 
 You don't need to obsess over these numbers from day one, but having a rough sense of them helps you evaluate whether a meal fits. A cup of full-fat Greek yogurt has about 9g of net carbs. Fine for some people's limits, not for others. Two eggs scrambled in butter? About 1g of net carbs. Basically free.
 
@@ -78,7 +77,7 @@ A kitchen scale is genuinely worth having during the first few weeks. When you'r
 
 ## How to Build Your Keto Shopping List
 
-The meal plan above uses a fairly short list of ingredients, which is intentional. Here's how to shop for it:
+The meal plan above uses a fairly short list of ingredients, which is intentional.
 
 **Proteins:**
 - Eggs (buy 2-3 dozen, you'll use them constantly)
@@ -141,13 +140,13 @@ Here's a practical prep routine for beginners:
 
 **Step 5: Pre-portion your snacks.** Put nuts into small containers or bags. Slice up a block of cheese. Having grab-and-go options stops you from reaching for something off-plan when hunger hits unexpectedly.
 
-Good meal prep containers make a real difference when you're packing lunches or storing prepped portions. [Glass containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers) (affiliate link) stack well in the fridge and don't absorb food odors over time.
+Good meal prep containers make a real difference. [Glass containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers) (affiliate link) stack well in the fridge and don't absorb food odors over time.
 
 ---
 
 ## Common Beginner Mistakes and How to Avoid Them
 
-**Eating too much protein and not enough fat.** Keto is not a high-protein diet. Excess protein can convert to glucose through a process called gluconeogenesis, potentially slowing your path into ketosis. Prioritize fatty cuts of meat, cook in butter, and add avocado.
+**Eating too much protein and not enough fat.** Keto is not a high-protein diet. Excess protein can convert to glucose through gluconeogenesis, potentially slowing your path into ketosis. Prioritize fatty cuts of meat, cook in butter, and add avocado.
 
 **Fear of salt.** When you cut carbs, your kidneys excrete sodium at a higher rate. Under-salting your food is one of the main causes of keto flu symptoms. Salt your food to taste, and consider adding a pinch of salt to your water if headaches persist.
 
@@ -156,9 +155,6 @@ Good meal prep containers make a real difference when you're packing lunches or 
 **Forgetting about hidden carbs in sauces and drinks.** A tablespoon of ketchup has 4g of net carbs. A flavored latte can have 30g. Sparkling water, black coffee, and unsweetened tea are your best options.
 
 **Not tracking at first.** You don't have to track forever, but for the first two weeks, tracking what you eat in an app like Cronometer or Carb Manager gives you a reality check. Most people are shocked to discover they were eating 40-50g of carbs thinking they were under 20g.
-
----
-
 
 ---
 

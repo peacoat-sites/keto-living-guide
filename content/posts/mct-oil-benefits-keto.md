@@ -25,7 +25,6 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
 Picture this: it's 7 a.m., day four of your keto diet, and you're dragging yourself to the kitchen wondering why you don't feel the mental clarity everyone promised. You've been eating the right foods, keeping carbs under 20 grams, but something still feels off. A lot of people in that exact spot get told to "add MCT oil." But nobody explains *why* it works, how much to use, or what it actually does inside your body. That gap is what this article closes.
 
 ## What MCT Oil Actually Is (And Why Keto Makes It Special)
@@ -77,7 +76,7 @@ MCT oil is easy to add into a keto routine once you know the rules. The biggest 
 
 4. If you're doing intermittent fasting alongside keto, take MCT oil during your fasting window. It keeps ketone levels elevated without significantly spiking insulin, which technically keeps you in a metabolically fasted state for most practical purposes.
 
-5. Avoid cooking with liquid MCT oil at high heat. Its smoke point is around 320°F (160°C), which is lower than avocado oil or refined coconut oil. Use it as a finishing oil or a cold addition.
+5. Don't cook with liquid MCT oil at high heat. Its smoke point is around 320°F (160°C), which is lower than avocado oil or refined coconut oil. Use it as a finishing oil or a cold addition.
 
 A quality MCT oil makes a difference. [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20) and [Sports Research MCT Oil](https://www.amazon.com/s?k=Sports+Research+MCT+oil&tag=contentportfo-20) are consistently well-reviewed options. (This site may earn a small commission on purchases made through these links, at no cost to you.)
 
@@ -89,7 +88,7 @@ Coconut oil is roughly 54% lauric acid, 8% caprylic acid, and 7% capric acid. Th
 
 MCT oil is a concentrated, refined product. A quality C8/C10 blend will be almost entirely medium-chain triglycerides with lauric acid removed or minimized.
 
-Practical comparison: I've seen people use 3 tablespoons of coconut oil expecting the same cognitive lift they read about from MCT oil, and they don't get it. If your goal is ketone elevation and mental clarity, dedicated MCT oil wins. If your goal is cooking fat with some MCT benefit, coconut oil is perfectly fine.
+Here's what I've observed: people use 3 tablespoons of coconut oil expecting the same cognitive lift they read about from MCT oil, and they don't get it. If your goal is ketone elevation and mental clarity, MCT oil wins. If you're cooking fat with some MCT benefit, coconut oil is perfectly fine.
 
 Use coconut oil for sautéing, roasting, and baking. Use MCT oil for cold applications, beverages, and targeted ketone boosts.
 
@@ -97,13 +96,13 @@ Use coconut oil for sautéing, roasting, and baking. Use MCT oil for cold applic
 
 Does MCT oil actually help with fat loss, or is it just adding more calories?
 
-This is a fair concern. MCT oil has about 100 calories per tablespoon. Adding 3 tablespoons daily adds 300 calories. That matters.
+Fair question. MCT oil has about 100 calories per tablespoon. Adding 3 tablespoons daily adds 300 calories. That matters.
 
-Here's the nuance: MCTs are metabolized differently than other fats. The body preferentially oxidizes them for fuel rather than storing them. A 2001 study in the *International Journal of Obesity* found that substituting MCTs for LCTs in a calorie-controlled diet led to greater fat loss and lower subcutaneous fat at the end of 12 weeks.
+Here's where it gets interesting though. MCTs are metabolized differently than other fats. Your body preferentially oxidizes them for fuel rather than storing them. A 2001 study in the *International Journal of Obesity* found that substituting MCTs for LCTs in a calorie-controlled diet led to greater fat loss and lower subcutaneous fat at the end of 12 weeks.
 
-The appetite-suppressing effect also creates a real-world calorie offset. If MCT oil at breakfast means you eat 250 fewer calories at lunch because you're genuinely less hungry, the net calorie impact is nearly zero and you've gained energy and clarity on top.
+Then there's the appetite suppression. If MCT oil at breakfast means you eat 250 fewer calories at lunch because you're genuinely less hungry, the net calorie impact is nearly zero and you've gained energy and clarity on top.
 
-That said, MCT oil isn't magic. If you're already eating at a calorie surplus, adding MCT oil won't override that math. For a clear-eyed picture of what drives results on this diet, read about [how fast keto weight loss actually works](/how-fast-keto-weight-loss/).
+That said, MCT oil isn't magic. If you're already eating at a calorie surplus, adding MCT oil won't override that math. For a clear-eyed picture of what actually drives results on this diet, read about [how fast keto weight loss actually works](/how-fast-keto-weight-loss/).
 
 ## Common Side Effects and How to Avoid Them
 
@@ -116,11 +115,6 @@ The slow-ramp protocol in the table above exists for exactly this reason. Starti
 A few other practical tips: never take MCT oil on an empty stomach in the beginning. Always have it with food until you know your tolerance. MCT powder is generally better tolerated than liquid for people with sensitive stomachs, because the powdered form is bound to a carrier (usually acacia fiber or tapioca starch) that slows absorption slightly.
 
 You can read more about managing early keto side effects, including the adjustment period that overlaps with MCT introduction, in the article on [keto flu symptoms](/keto-flu-symptoms/).
-
----
-
-
----
 
 MCT oil earns its place in a serious keto toolkit because it does specific, measurable things: it raises ketones, sharpens focus, reduces hunger, and smooths the transition into fat adaptation. Start small, build slowly, choose a quality C8-forward product, and pair it with a solid foundation of [keto-approved foods](/foods-allowed-on-keto/). That combination is where the real results come from.
 

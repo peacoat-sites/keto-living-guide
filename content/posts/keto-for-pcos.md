@@ -25,7 +25,6 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 
 ---
-
 You've probably done the research. You know your diagnosis, you've heard that diet matters, and somewhere along the way someone mentioned keto. Maybe your doctor brought it up, maybe you found it in a forum at 11pm while trying to make sense of why losing weight feels so much harder for you than it does for everyone else. If that sounds familiar, you're not imagining things, and you're not alone. PCOS affects roughly 1 in 10 women of reproductive age, and the metabolic component of this condition makes standard dietary advice genuinely less effective for many people who have it.
 
 ## Why PCOS and Insulin Resistance Are Deeply Connected
@@ -56,9 +55,7 @@ What the research doesn't yet tell us: the ideal carb threshold, whether keto is
 
 You might be wondering whether you need to go full keto (under 20-50g net carbs daily) or whether a more moderate low-carb approach would give you similar benefits with less restriction.
 
-Honest answer: for many women with PCOS, strict ketosis isn't necessary. The metabolic improvements seem to track with insulin reduction, and you can meaningfully reduce insulin without being in ketosis every day of your life.
-
-Here's a practical comparison to help you think through your options:
+Here's the practical answer: for many women with PCOS, strict ketosis isn't necessary. The metabolic improvements seem to track with insulin reduction, and you can meaningfully reduce insulin without being in ketosis every day of your life.
 
 | Approach | Daily Net Carbs | Best For | Watch Out For |
 |---|---|---|---|
@@ -72,12 +69,17 @@ In my experience, starting with a moderate low-carb approach (around 50-75g net 
 
 If you want to begin today, here's how I'd structure the first two weeks:
 
-1. **Remove the obvious drivers.** Cut out sugar, sweetened beverages, fruit juice, white bread, white rice, and pasta. Don't overthink anything else yet. This alone drops most people's carbs significantly.
-2. **Build meals around protein and fat.** Eggs, fatty fish, chicken thighs, ground beef, full-fat dairy if you tolerate it, avocados, olive oil, nuts. Aim for 25-30g of protein per meal to help with satiety and blood sugar stability.
-3. **Add non-starchy vegetables generously.** Leafy greens, broccoli, cauliflower, zucchini, cucumber, bell peppers. These are your carb budget spent well.
-4. **Track for awareness, not obsession.** Use an app like Cronometer or Carb Manager for the first two weeks just to understand where your carbs are actually coming from. Many people are surprised.
-5. **Address electrolytes early.** Lower insulin means your kidneys excrete more sodium. Headaches, fatigue, and brain fog in the first week are often electrolyte depletion, not evidence that low-carb isn't working. A quality electrolyte supplement without added sugar can make a meaningful difference. [Check electrolyte options on Amazon here.](https://www.amazon.com/s?k=keto+electrolytes) *(This site may earn a commission on qualifying purchases.)*
-6. **Get a baseline before you start.** Ask your doctor for fasting insulin, fasting glucose, free and total testosterone, and a lipid panel. You'll want something to compare against in 3-6 months.
+**Remove the obvious drivers.** Cut out sugar, sweetened beverages, fruit juice, white bread, white rice, and pasta. Don't overthink anything else yet. This alone drops most people's carbs significantly.
+
+**Build meals around protein and fat.** Eggs, fatty fish, chicken thighs, ground beef, full-fat dairy if you tolerate it, avocados, olive oil, nuts. Aim for 25-30g of protein per meal to help with satiety and blood sugar stability.
+
+**Add non-starchy vegetables generously.** Leafy greens, broccoli, cauliflower, zucchini, cucumber, bell peppers. These are your carb budget spent well.
+
+**Track for awareness, not obsession.** Use an app like Cronometer or Carb Manager for the first two weeks just to understand where your carbs are actually coming from. Most people are genuinely surprised.
+
+**Address electrolytes early.** Lower insulin means your kidneys excrete more sodium. Headaches, fatigue, and brain fog in the first week are often electrolyte depletion, not evidence that low-carb isn't working. A quality electrolyte supplement without added sugar can make a meaningful difference. [Check electrolyte options on Amazon here.](https://www.amazon.com/s?k=keto+electrolytes) *(This site may earn a commission on qualifying purchases.)*
+
+**Get a baseline before you start.** Ask your doctor for fasting insulin, fasting glucose, free and total testosterone, and a lipid panel. You'll want something to compare against in 3-6 months.
 
 A kitchen scale takes the guesswork out of portions, especially for calorie-dense foods like nuts and cheese. [A reliable digital food scale](https://www.amazon.com/s?k=digital+food+scale+kitchen) costs under $15 and is genuinely worth it. *(This site may earn a commission on qualifying purchases.)*
 
@@ -85,7 +87,7 @@ A kitchen scale takes the guesswork out of portions, especially for calorie-dens
 
 Diet is the foundation, but it's not the whole building.
 
-Sleep deprivation worsens insulin resistance directly, which means poor sleep can undermine a solid low-carb diet. If you're sleeping under 7 hours, that's worth addressing alongside your food choices.
+Sleep deprivation worsens insulin resistance directly. That means poor sleep can undermine a solid low-carb diet. If you're sleeping under 7 hours, that's worth addressing alongside your food choices.
 
 Resistance training is one of the most effective tools available for improving insulin sensitivity in PCOS, separate from and additive to dietary changes. You don't need to run yourself into the ground. Two to three sessions per week of basic strength training makes a real difference over time.
 
@@ -93,10 +95,7 @@ Some women with PCOS also benefit from inositol supplementation (specifically my
 
 ---
 
-
----
-
-If you take one thing from all of this, let it be that the frustration you've felt trying to manage PCOS with generic dietary advice is legitimate. The condition works against standard approaches in real, documented ways. Low-carb and ketogenic eating aren't magic, but they address the right underlying mechanism. Start where you are, track what matters, work with a provider who understands the metabolic side of PCOS, and give it enough time to actually see what your body does. That's not a guarantee of any particular outcome, but it's a reasonable, evidence-informed starting point.
+If you take one thing from all of this: the frustration you've felt trying to manage PCOS with generic dietary advice is legitimate. The condition works against standard approaches in real, documented ways. Low-carb and ketogenic eating aren't magic, but they address the right underlying mechanism. Start where you are, track what matters, work with a provider who understands the metabolic side of PCOS, and give it enough time to actually see what your body does. That's not a guarantee of any particular outcome, but it's a reasonable, evidence-informed starting point.
 
 ---
 

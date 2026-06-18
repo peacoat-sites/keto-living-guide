@@ -25,16 +25,15 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 
 ---
-
 Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.
 
-You might be wondering whether keto is even a good idea at your age, or whether it needs to be modified, or honestly whether the whole thing is worth the effort. Those are fair questions. Let me try to answer them like someone who has actually worked through this with real people, not just read the studies.
+You might be wondering whether keto is even a good idea at your age, or whether it needs tweaking, or honestly whether the whole thing is worth the effort. Those are fair questions. Let me try to answer them like someone who has actually worked through this with real people, not just read the studies.
 
 ## What actually changes after 50 (and why it matters for keto)
 
-The big one is metabolism, but not in the vague way people usually mean it. After 50, most people are dealing with some combination of: slower muscle protein synthesis, declining estrogen or testosterone, reduced insulin sensitivity, and a gut microbiome that responds differently to dietary changes than it did at 35. Women going through perimenopause or post-menopause often see fat redistribution toward the abdomen even without major weight gain. Men typically see a slower but steady drop in testosterone that affects body composition.
+The big one is metabolism, but not in the vague way people usually mean it. After 50, most people are dealing with some combination of slower muscle protein synthesis, declining estrogen or testosterone, reduced insulin sensitivity, and a gut microbiome that responds differently to dietary changes than it did at 35. Women going through perimenopause or post-menopause often see fat redistribution toward the abdomen even without major weight gain. Men typically see a slower but steady drop in testosterone that affects body composition.
 
-Here's what I tell people: keto can work beautifully with all of this, but only if you understand that you're not just "cutting carbs." You're working with a body that has different priorities now.
+Here's what I tell people: keto can work beautifully with all of this. But only if you understand that you're not just "cutting carbs." You're working with a body that has different priorities now.
 
 The good news is that ketogenic diets show real promise specifically for the metabolic issues that become more common after 50. A 2021 review published in *Nutrients* looked at low-carb diets in adults over 50 and found meaningful improvements in triglycerides, fasting insulin, and visceral fat. Those aren't small things. Visceral fat in particular is strongly linked to cardiovascular risk, and it responds well to carbohydrate restriction.
 
@@ -44,11 +43,11 @@ What doesn't change: you still need to eat enough food. I cannot tell you how ma
 
 Most keto guidance for general audiences recommends moderate protein, somewhere around 0.6 to 0.8 grams per pound of lean body mass. That's fine in your 30s. After 50, that number is almost certainly too low.
 
-The reason is anabolic resistance. Basically, older muscle tissue doesn't respond as efficiently to protein signals as younger tissue does. To get the same muscle-protein synthesis response, you need more protein. The current research points toward something closer to 1.0 to 1.2 grams per pound of lean body mass for adults over 50, especially if you're active.
+The reason is anabolic resistance. Older muscle tissue doesn't respond as efficiently to protein signals as younger tissue does. To get the same muscle-protein synthesis response, you need more protein. The current research points toward something closer to 1.0 to 1.2 grams per pound of lean body mass for adults over 50, especially if you're active.
 
-This trips people up because higher protein can potentially reduce ketone production at very high intakes. Honestly, I'd worry less about hitting optimal ketone numbers and more about protecting your muscle mass. Deep ketosis is not the goal. Sustainable metabolic health is the goal. Those are related but not the same thing.
+This trips people up because higher protein can potentially reduce ketone production at very high intakes. Honestly? I'd worry less about hitting optimal ketone numbers and more about protecting your muscle mass. Deep ketosis is not the goal. Sustainable metabolic health is. Those are related but not the same thing.
 
-Practical tip: if you're using a keto tracking app like Cronometer (free, and more accurate than most), make sure you've set a custom protein target rather than accepting the default. The default is usually too low for someone your age.
+Make sure you've set a custom protein target in your tracking app (Cronometer is free and more accurate than most) rather than accepting the default. The default is usually too low for someone your age.
 
 ## Electrolytes and why this group gets hit harder
 
@@ -56,32 +55,29 @@ Keto depletes sodium, potassium, and magnesium through increased urinary excreti
 
 Blood pressure medications (common in this age group) often affect potassium levels. Diuretics can compound the electrolyte losses from keto significantly. Magnesium deficiency, which is already widespread in the general population, becomes more likely and can cause muscle cramps, poor sleep, and heart palpitations that are genuinely alarming if you don't know what's causing them.
 
-I've had clients who were ready to quit keto entirely because of heart palpitations, and in most cases it turned out to be magnesium. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
+I've had clients ready to quit keto entirely because of heart palpitations, and in most cases it turned out to be magnesium. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
 
 For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) are what I recommend most consistently. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)) also helps with sleep, which brings me to the next thing.
 
 ## Sleep, hormones, and the adaptation window
 
-The keto "adaptation" phase, those first two to four weeks where you feel exhausted and foggy before your body learns to run on fat, tends to run longer after 50. I'd plan for four to six weeks rather than two. This isn't a sign something's wrong. It's just physiology.
+The keto "adaptation" phase (those first two to four weeks where you feel exhausted and foggy before your body learns to run on fat) tends to run longer after 50. Plan for four to six weeks rather than two. This isn't a sign something's wrong. It's just physiology.
 
-Sleep disruption is common in this transition and is often worse for women in menopause. Keto can actually improve sleep quality once you're adapted, but getting there can be rough. Keeping carbs slightly higher (50 to 60 grams rather than 20) during the first few weeks can ease the transition without derailing the metabolic shift entirely. You can tighten things down later once you feel stable.
+Sleep disruption is common in this transition and is often worse for women in menopause. Keto can actually improve sleep quality once you're adapted, but getting there can be rough. Keeping carbs slightly higher (50 to 60 grams rather than 20) during the first few weeks can ease the transition without derailing the metabolic shift entirely. You can tighten things down later.
 
-One thing I'm careful about: for anyone with a history of disordered eating, the rigidity of strict keto can be a trigger. I've seen this come up more in women over 50 than in any other group I work with, partly because diet culture has followed many of them for decades. If that resonates at all, please consider working with a dietitian one-on-one rather than going it alone.
+Here's where I push back on standard keto advice, though: for anyone with a history of disordered eating, the rigidity of strict keto can be a trigger. I've seen this come up more in women over 50 than in any other group, partly because diet culture has followed many of them for decades. If that resonates at all, work with a dietitian one-on-one rather than going it alone.
 
 ## Movement matters more than it did before
 
-You can't out-diet muscle loss after 50. Keto will reduce fat, but without resistance training, some of that weight loss will come from muscle, which is the opposite of what most people are trying to do.
+You can't out-diet muscle loss after 50. Keto will reduce fat. Without resistance training, though, some of that weight loss will come from muscle, which is the opposite of what most people are trying to do.
 
-You don't need to become a powerlifter. Two to three sessions a week of resistance training, even bodyweight exercises at home, makes a real difference in how keto affects your body composition. The combination of adequate protein, carb restriction, and resistance training is about as well-supported as anything in applied nutrition for this age group.
+Two to three sessions a week of resistance training, even bodyweight exercises at home, makes a real difference in how keto affects your body composition. The combination of adequate protein, carb restriction, and resistance training is about as well-supported as anything in applied nutrition for this age group.
 
-A kitchen scale ([this OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=contentportfo-20)) is one of the most useful tools I recommend, not to obsess over every gram, but because most people dramatically underestimate protein portions when they're eyeballing. Weigh your food for two weeks until you have a calibrated intuition, then relax.
-
----
-
+Get a kitchen scale (an [OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=contentportfo-20)). Not to obsess over every gram, but because most people dramatically underestimate protein portions when they're eyeballing. Weigh your food for two weeks until you have a feel for it, then relax.
 
 ---
 
-If you're 50-plus and thinking seriously about keto, the version that works for you will probably look a little different from what you read about in general keto spaces. More protein, more patience with adaptation, closer attention to electrolytes, and honest partnership with your doctor if you're on any medications. It's not a harder version of keto. It's just a more realistic one.
+If you're 50-plus and thinking seriously about keto, the version that works for you will probably look different from what you read about in general keto spaces. More protein. More patience with adaptation. Closer attention to electrolytes. Honest partnership with your doctor if you're on any medications. It's not a harder version of keto. It's just a more realistic one.
 
 *Photo: [Вениамин Курочкин](https://www.pexels.com/@vunyakurochkin) via Pexels*
 

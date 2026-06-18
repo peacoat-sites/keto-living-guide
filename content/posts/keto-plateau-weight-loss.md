@@ -25,7 +25,6 @@ author_title: "Recipe Developer"
 author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
 
 ---
-
 You've been strict with your macros for weeks. The scale moved fast at first, maybe 8 or 10 pounds in the first month, and you were feeling unstoppable. Then, nothing. A week goes by. Two weeks. The number on the scale just sits there, staring back at you like it's personally offended by your discipline. You haven't cheated. You're still eating under 20 grams of carbs a day. So what gives? You've hit a keto plateau, and you're far from alone. It happens to nearly everyone who follows a low-carb diet long enough, and the reasons behind it are more nuanced than most people realize.
 
 ## Why Keto Plateaus Happen (and Why They're Not Your Fault)
@@ -36,7 +35,7 @@ When you first cut carbs, your body burns through its glycogen stores in the liv
 
 Once glycogen is gone, your body shifts to burning fat for fuel. Fat oxidation is slower and more metabolically expensive than burning glycogen. Weight loss continues, but at a gentler pace. That's normal. The problem comes when your metabolism adjusts to your new calorie intake and activity level, which it will, usually within a few months.
 
-There's also something called metabolic adaptation, sometimes called adaptive thermogenesis. When you consistently eat at a calorie deficit, your body lowers its resting metabolic rate to compensate. Research published in *Obesity* (Rosenbaum & Leibel, 2010) showed that people who lost weight experienced a drop in resting energy expenditure beyond what you'd predict just from losing mass. Translation: you burn fewer calories at rest than you did before, even accounting for the weight you've lost. This is the silent engine of most plateaus.
+Then there's metabolic adaptation, sometimes called adaptive thermogenesis. When you consistently eat at a calorie deficit, your body lowers its resting metabolic rate to compensate. Research published in *Obesity* (Rosenbaum & Leibel, 2010) showed that people who lost weight experienced a drop in resting energy expenditure beyond what you'd predict just from losing mass. Translation: you burn fewer calories at rest than you did before, even accounting for the weight you've lost. This is what's actually driving most plateaus.
 
 Beyond metabolism, there are behavioral factors. Portion sizes creep up. That handful of almonds becomes two handfuls. The heavy cream in your coffee adds up to 200 extra calories a day without you even noticing. I've seen this play out with dozens of clients who were genuinely shocked when they started food logging again after months of eating by feel.
 
@@ -46,11 +45,11 @@ Before you overhaul everything, take a breath. A true plateau is generally defin
 
 A few things can mask fat loss on the scale:
 
-- **Muscle gain:** If you've added strength training, you may be losing fat and gaining muscle simultaneously, a scenario where the scale lies but your mirror and your clothes tell the truth.
+- **Muscle gain:** If you've added strength training, you may be losing fat and gaining muscle simultaneously. The scale lies. Your mirror and your clothes don't.
 - **Water retention from inflammation:** A hard workout, new exercise, or even a poor night's sleep can cause your body to hold water for days.
 - **Hormonal fluctuations:** For women, the week before a period can bring 2 to 5 pounds of water retention that vanishes after menstruation.
 
-The most reliable way to assess real progress is to track more than scale weight. Take monthly measurements of your waist, hips, and thighs. Track how your clothes fit. Use progress photos. If those are still moving in the right direction, the scale is not the full story.
+The most reliable way to assess real progress is to track more than scale weight. Take monthly measurements of your waist, hips, and thighs. Track how your clothes fit. Use progress photos. If those are still moving in the right direction, the scale isn't telling the whole story.
 
 A digital food scale like the [OXO Good Grips 11-Pound Food Scale](https://www.amazon.com) is genuinely useful at this stage. Weighing food rather than estimating it is one of the fastest ways to identify where hidden calories are sneaking in. *(This site may earn a commission on qualifying purchases.)*
 
@@ -80,7 +79,7 @@ This is what I'd walk a client through in our first session after they've been s
 
 **Step 3: Adjust your calories.** Use your logged data to check your actual intake. A common target for fat loss is a deficit of 300 to 500 calories below your estimated total daily energy expenditure. Don't go lower than 1,200 calories for women or 1,500 for men without medical supervision. Severe restriction accelerates adaptive thermogenesis.
 
-**Step 4: Try a protein reset.** Bump protein to the higher end of your range (around 1.0 gram per pound of lean body mass) for two to three weeks. Higher protein intake increases satiety, supports muscle retention, and has a higher thermic effect, meaning you burn more calories just digesting it.
+**Step 4: Try a protein reset.** Bump protein to the higher end of your range, around 1.0 gram per pound of lean body mass, for two to three weeks. Higher protein intake increases satiety, supports muscle retention, and has a higher thermic effect. You burn more calories just digesting it.
 
 **Step 5: Add a strategic carb refeed.** This sounds counterintuitive, but a single higher-carb day (around 100 to 150 grams of net carbs from whole food sources like sweet potatoes or fruit) every 10 to 14 days can temporarily raise leptin levels and reset metabolic rate. You'll briefly exit ketosis. The goal here is metabolic, not a cheat day free-for-all.
 
@@ -96,7 +95,7 @@ Combining keto with intermittent fasting (IF) is one of the most popular plateau
 
 A 16:8 approach, eating within an 8-hour window and fasting for 16 hours, is the easiest starting point. For most people that looks like skipping breakfast and eating from noon to 8 PM. Black coffee and water during the fasting window are fine.
 
-A few caveats: IF isn't magic, and it doesn't override excessive calorie intake. Some people find extended fasting triggers binge eating later in the day, especially in those with a history of disordered eating. And for women, there's emerging evidence that aggressive fasting protocols can disrupt cortisol and sex hormone regulation. If you try IF and feel worse, more fatigued, more irritable, worse sleep, pull back. No single strategy works for everyone.
+A few caveats: IF isn't magic, and it doesn't override excessive calorie intake. Some people find extended fasting triggers binge eating later in the day, especially those with a history of disordered eating. And for women, there's emerging evidence that aggressive fasting protocols can disrupt cortisol and sex hormone regulation. If you try IF and feel worse, more fatigued, more irritable, worse sleep, pull back. No single strategy works for everyone.
 
 ## The Comparison: Common Plateau Fixes at a Glance
 
@@ -109,9 +108,6 @@ A few caveats: IF isn't magic, and it doesn't override excessive calorie intake.
 | 16:8 intermittent fasting | 2 to 4 weeks | Medium | Insulin lowering, calorie control |
 | Carb refeed day | Immediate + 1 week | Medium | Metabolic adaptation |
 | Sleep and stress intervention | 4 to 8 weeks | High | Chronic plateau despite good diet |
-
----
-
 
 ---
 

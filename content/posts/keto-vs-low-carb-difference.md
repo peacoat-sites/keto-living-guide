@@ -25,7 +25,6 @@ author_title: "Lifestyle Writer"
 author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
 
 ---
-
 You've been eating "low carb" for three weeks, but your coworker who "does keto" says you're not actually in ketosis. You cut bread and pasta. Isn't that the same thing? Not exactly, and the difference matters more than most keto blogs will tell you.
 
 ## What These Terms Actually Mean
@@ -93,13 +92,6 @@ Step 3: If you want to confirm ketosis rather than guess, test it. Urine strips 
 
 Step 4: Assess your electrolyte intake. Both approaches cause kidneys to excrete more sodium, but keto is more pronounced. If you're getting headaches or fatigue, electrolytes are often the fix before anything else. [LMNT Electrolyte Drink Mix](https://www.amazon.com/dp/B07NKBYH9N?tag=contentportfo-20) has a solid sodium-to-potassium ratio and no sugar.
 
----
-
-
----
-
-The honest bottom line is that the keto versus low-carb debate often generates more heat than it needs to. Choose based on your actual goals, your history with restriction, and what you can realistically sustain past the three-month mark. The best dietary pattern is always the one you'll still be following a year from now. Work with a registered dietitian or your physician before making significant changes, especially if you're managing a health condition or taking medications that interact with diet.
-
----
+The honest reality is that the keto versus low-carb debate often generates more heat than it needs to. Choose based on your actual goals, your history with restriction, and what you can realistically sustain past the three-month mark. The best dietary pattern is always the one you'll still be following a year from now. Work with a registered dietitian or your physician before making significant changes, especially if you're managing a health condition or taking medications that interact with diet.
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

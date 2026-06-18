@@ -25,7 +25,6 @@ author_title: "Lifestyle Writer"
 author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
 
 ---
-
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.
 
 ## What the Targeted Ketogenic Diet Actually Is
@@ -95,17 +94,10 @@ Keep sodium intake deliberate, especially on training days. Don't rely on feelin
 
 I'll be honest: TKD has less direct research behind it than standard keto. Most of what we know comes from broader research on ketogenic diets and athletic performance, plus the well-established physiology of glycogen use during high-intensity exercise.
 
-What the research does consistently show: ketogenic diets impair high-intensity exercise performance in the short to medium term, and possibly long term for activities dependent on glycolysis. A 2017 study published in the Journal of Sports Medicine found that athletes on keto showed decreased performance in high-intensity efforts compared to carbohydrate-fed counterparts. The mechanism is understood. Glycogen depletion limits power output. TKD attempts to address exactly that mechanism.
+What the research does consistently show is that ketogenic diets impair high-intensity exercise performance in the short to medium term, and possibly long term for activities dependent on glycolysis. A 2017 study published in the Journal of Sports Medicine found that athletes on keto showed decreased performance in high-intensity efforts compared to carbohydrate-fed counterparts. The mechanism is understood: glycogen depletion limits power output. TKD attempts to address exactly that mechanism.
 
 What we don't have are large, controlled trials specifically on TKD protocols. Practitioners, coaches, and athletes have built much of the practical framework from applied experience. That doesn't make it invalid, but it means you should approach it as an experiment on yourself, with realistic expectations and willingness to adjust.
 
----
-
-
----
-
 The targeted ketogenic diet won't solve everything, and it's not for everyone. But if you're serious about training and you've been grinding through flat workouts on strict keto, it's a reasonable, physiologically sound adjustment worth trying. Start conservative with the carb dose, keep everything else tight, and give it a few weeks before drawing conclusions. Your gym sessions will tell you whether it's working better than any app or tracker will.
-
----
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

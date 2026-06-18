@@ -25,14 +25,11 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
-
 You're three days into keto, you feel like you got hit by a truck, and someone in a Facebook group just told you to "take some electrolytes." Great advice, but which ones? How much? And while you're at it, what about all those other supplements people keep mentioning: MCT oil, exogenous ketones, magnesium glycinate, digestive enzymes? The supplement aisle (and the internet) can feel overwhelming fast. Let me cut through the noise.
 
-Here's the honest truth: keto doesn't *require* supplements. A well-planned ketogenic diet built around real food can cover most of your nutritional bases. But the transition phase is legitimately rough for many people, and a few targeted supplements can make the difference between quitting on day four and actually reaching fat adaptation. I've coached clients who powered through without a single pill, and I've coached clients for whom magnesium alone was the game changer that kept them in the game. Context matters.
+Here's the honest truth: keto doesn't *require* supplements. A well-planned ketogenic diet built around real food can cover most of your nutritional bases. But the transition phase is legitimately rough for many people, and a few targeted supplements can make the difference between quitting on day four and actually reaching fat adaptation. I've coached clients who powered through without a single pill, and I've coached clients for whom magnesium alone was the difference that kept them going. Context matters.
 
 This guide covers what the research actually says, what I recommend most often in practice, and what you can almost certainly skip.
-
----
 
 ## The Electrolytes: Your First Priority on Keto
 
@@ -48,23 +45,15 @@ Here's why. When you cut carbohydrates, insulin levels drop. Lower insulin signa
 
 A good electrolyte supplement that combines sodium, potassium, and magnesium can simplify all of this. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is popular in the keto community for a reason: it's unsweetened, has solid sodium ratios, and doesn't contain the sugars or artificial dyes you'll find in most sports drinks. *(This site may earn a commission on purchases.)*
 
----
-
 ## MCT Oil: Fuel, Focus, and Realistic Expectations
 
 Medium-chain triglycerides, or MCTs, are fats that get absorbed directly into the portal vein and converted to ketones by the liver faster than long-chain fats. That's the biochemistry behind the hype. MCT oil, especially C8 (caprylic acid), can raise blood ketone levels measurably within 30 to 60 minutes.
 
-In practice, I use MCT oil as a tool for specific situations rather than a daily must-have:
-
-- During the first two weeks, when your brain is still adapting to running on ketones, a tablespoon in your morning coffee can smooth out mental fogginess.
-- On days when you're traveling and low-carb food options are scarce, MCTs help keep ketones elevated despite imperfect eating.
-- For anyone doing intermittent fasting who finds the hunger unbearable in the first few weeks, a small amount of MCT oil in black coffee doesn't spike insulin and can take the edge off.
+In practice, I use MCT oil as a tool for specific situations rather than a daily must-have. During the first two weeks, when your brain is still adapting to running on ketones, a tablespoon in your morning coffee can smooth out mental fogginess. On days when you're traveling and low-carb food options are scarce, MCTs help keep ketones elevated despite imperfect eating. For anyone doing intermittent fasting who finds the hunger unbearable in the first few weeks, a small amount of MCT oil in black coffee doesn't spike insulin and can take the edge off.
 
 The honest caveats: MCT oil does nothing to replace real dietary fat, it won't get you into ketosis if you're eating 150 grams of carbs a day, and starting with a tablespoon when you've never used it before is a reliable way to spend an unpleasant hour near a bathroom. Start with a teaspoon and work up over two weeks.
 
 [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) comes in liquid form (easy to blend into coffee or smoothies) and as MCT oil powder, which mixes more easily and tends to be gentler on digestion for beginners. *(This site may earn a commission on purchases.)*
-
----
 
 ## Micronutrients Worth Tracking: Magnesium, Vitamin D, and Omega-3s
 
@@ -76,23 +65,15 @@ Beyond electrolytes, a few specific micronutrients deserve attention on keto.
 
 **B vitamins:** Whole-food keto diets that include meat, eggs, and leafy greens tend to cover B vitamins reasonably well. If you're following a more restrictive or dairy-heavy version of keto without much variety, a B-complex supplement is cheap insurance.
 
----
-
 ## Exogenous Ketones: Useful Tool or Expensive Hype?
 
 Exogenous ketones, usually sold as beta-hydroxybutyrate (BHB) salts or esters, are externally supplied ketones you drink rather than produce yourself. They raise blood ketone readings quickly and are marketed aggressively as a way to "get into ketosis instantly."
 
 Here's the honest picture. Exogenous ketones genuinely raise blood BHB levels. That part isn't in dispute. What they don't do is create the metabolic state of fat adaptation. Your body isn't burning stored fat to produce those ketones; you drank them. If you eat 200 grams of carbs and then drink exogenous ketones, your ketone meter will show a number, but your metabolism is not in ketosis in any meaningful sense.
 
-Where I think they have legitimate value:
-
-- Athletes doing targeted carbohydrate intake (adding carbs around hard training sessions) who want to restore ketosis more quickly afterward.
-- People who have been fat-adapted for months and had an unavoidable high-carb meal (holiday, travel, social situation) and want to accelerate the return to ketosis.
-- Cognitive performance research, where some studies have shown BHB esters improving certain measures of mental performance acutely.
+Where I think they have legitimate value: Athletes doing targeted carbohydrate intake (adding carbs around hard training sessions) who want to restore ketosis more quickly afterward. People who have been fat-adapted for months and had an unavoidable high-carb meal (holiday, travel, social situation) and want to accelerate the return to ketosis. Cognitive performance research, where some studies have shown BHB esters improving certain measures of mental performance acutely.
 
 For a keto beginner? Skip them. They're expensive, some formulations taste genuinely terrible, and the money is better spent on quality food and proper electrolytes.
-
----
 
 ## Digestive Enzymes and Fiber: The Underrated Gut Support
 
@@ -103,8 +84,6 @@ A lot of keto beginners experience digestive issues in the first few weeks. Cons
 **Digestive enzymes with lipase:** If you're experiencing loose stools or a greasy sensation after high-fat meals early on, your bile production may just need time to upregulate. A digestive enzyme supplement that includes lipase (the fat-digesting enzyme) can ease the transition. I don't think most people need this long-term, but for the first four to six weeks it can make the adjustment more comfortable.
 
 **Ox bile supplements:** For people who have had their gallbladder removed, this is more than a comfort issue. Without a gallbladder to store and release concentrated bile, fat digestion genuinely suffers. Supplemental bile salts or ox bile are worth discussing with your doctor if this applies to you.
-
----
 
 ## Quick Reference: Which Supplements Are Worth It?
 
@@ -121,18 +100,9 @@ A lot of keto beginners experience digestive issues in the first few weeks. Cons
 | Digestive enzymes | First 4-6 weeks, post-cholecystectomy | Low/situational | Lipase-containing formula |
 | B vitamins | Restrictive or low-variety keto | Low | Cheap insurance for some |
 
----
-
-
----
-
-Supplements are genuinely useful, but they work in service of the diet, not instead of it. Get your food right first: quality protein, plenty of fat, green vegetables, and real salt. Then use this list as a targeted toolkit to address specific gaps and smooth out the transition. You don't need to buy everything at once. Start with a good electrolyte blend and some magnesium glycinate, pay attention to how you feel, and add from there. Most keto journeys that end in frustration end because the basics weren't in place, not because someone forgot to buy exogenous ketones.
+The real story about supplements is simple. They're genuinely useful, but they work in service of the diet, not instead of it. Get your food right first: quality protein, plenty of fat, green vegetables, and real salt. Then use this list as a targeted toolkit to address specific gaps and smooth out the transition. You don't need to buy everything at once. Start with a good electrolyte blend and some magnesium glycinate, pay attention to how you feel, and add from there. Most keto journeys that end in frustration end because the basics weren't in place, not because someone forgot to buy exogenous ketones.
 
 *Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
-
----
-
----
 
 ## Recommended Resources
 
@@ -140,4 +110,3 @@ Supplements are genuinely useful, but they work in service of the diet, not inst
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

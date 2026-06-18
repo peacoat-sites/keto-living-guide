@@ -25,24 +25,23 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
+You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. I've heard this moment described by clients more times than I can count, and it reveals something most keto guides skip: drinks can silently wreck your carb count until they actually do.
 
-You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. This moment, which I've heard described by clients more times than I can count, reveals something most keto guides skip over: drinks can make or break your carb count in ways that feel invisible until they don't.
-
-The good news is that your options are genuinely wider than you think. The bad news is that a few drinks marketed as healthy or "sugar-free" can quietly push you out of ketosis. Let's sort through all of it.
+Your options are wider than you think. That's the good news. The bad news? A few drinks marketed as healthy or "sugar-free" can quietly push you out of ketosis. Let's sort through it.
 
 ## Water and Plain Sparkling Water: Your Foundation
 
-This sounds obvious, but I want to say it anyway because hydration tends to slip when people overhaul their eating. On keto, your kidneys excrete more water and sodium because insulin levels drop and glycogen stores deplete. Each gram of glycogen holds roughly 3 grams of water, so in the first week especially, you can lose fluid fast. Staying ahead of that matters.
+Hydration tends to slip when people overhaul their eating. On keto, your kidneys excrete more water and sodium because insulin levels drop and glycogen stores deplete. Each gram of glycogen holds roughly 3 grams of water, so in the first week especially, you can lose fluid fast. Staying ahead of that matters.
 
-Plain water, sparkling water, and mineral water are all zero carbs, full stop. Brands like Pellegrino, Perrier, and LaCroix are fine. Where people run into trouble is flavored sparkling waters. Most are still zero carb, but a handful use fruit juice for flavoring and sneak in 2 to 4 grams of carbs per can. Always check the label. If you're drinking three or four cans a day, those grams add up.
+Plain water, sparkling water, and mineral water are all zero carbs. Period. Pellegrino, Perrier, and LaCroix are fine. The trouble comes with flavored sparkling waters. Most are still zero carb, but some use fruit juice for flavoring and sneak in 2 to 4 grams of carbs per can. Check the label. If you're drinking three or four cans daily, those grams add up.
 
-One practical upgrade: add electrolytes. A quality electrolyte powder or supplement with sodium, potassium, and magnesium can help prevent the fatigue and cramping people call "keto flu." [This one from LMNT](https://amzn.to/3example) has become a staple for many of my clients. (Disclosure: this site may earn a commission on purchases made through links.)
+One practical move: add electrolytes. A quality electrolyte powder with sodium, potassium, and magnesium helps prevent the fatigue and cramping people call "keto flu." [This one from LMNT](https://amzn.to/3example) has become standard for many of my clients. (Disclosure: this site may earn a commission on purchases made through links.)
 
 ## Coffee and Tea: Probably Your Best Friends
 
-Black coffee has essentially zero carbs. Same with plain brewed tea, green, black, white, or herbal. Both are widely consumed on keto without issue, and both offer a practical advantage on busy mornings when breakfast is still being figured out.
+Black coffee has essentially zero carbs. Same with plain brewed tea, green, black, white, or herbal. Both work on keto without issue and offer a practical advantage on busy mornings.
 
-The problems start with additions. Here's a quick breakdown:
+The problems start with additions:
 
 | Addition | Carbs per serving | Keto-friendly? |
 |---|---|---|
@@ -55,42 +54,39 @@ The problems start with additions. Here's a quick breakdown:
 | Collagen powder (1 scoop) | 0-1g | Generally yes |
 | Standard sweetened creamer | ~5-7g per 2 tbsp | No |
 
-Butter coffee and "bulletproof"-style drinks made with unsalted grass-fed butter and MCT oil are zero carb and popular among long-term keto practitioners. [MCT oil like this one from Sports Research](https://amzn.to/3example) blends cleanly into hot drinks without separating. Whether you need it or just enjoy it is a personal call. I've seen clients thrive with it and others who find it adds unnecessary calories without a meaningful benefit. Listen to your own body.
+Butter coffee and "bulletproof"-style drinks made with unsalted grass-fed butter and MCT oil are zero carb and popular with long-term keto practitioners. [MCT oil like this one from Sports Research](https://amzn.to/3example) blends cleanly into hot drinks without separating. Whether you need it or just enjoy it is a personal call. I've seen clients thrive with it and others who find it adds unnecessary calories without meaningful benefit. Listen to your own body.
 
 ## Alcohol on Keto: The Honest Version
 
-You might be wondering if alcohol is off the table entirely. It isn't, but it requires more thought than most keto resources suggest.
+Alcohol isn't off the table entirely, but it requires more thought than most keto resources suggest.
 
-Pure spirits like vodka, gin, tequila, whiskey, and rum contain zero carbs. Dry wines, both red and white, typically run 3 to 4 grams per 5-ounce pour. Most beer is a hard no, ranging from 10 to 15 grams per can, though light beers can drop to around 3 grams and "ultra" options can dip below 2 grams.
+Pure spirits like vodka, gin, tequila, whiskey, and rum contain zero carbs. Dry wines, both red and white, typically run 3 to 4 grams per 5-ounce pour. Most beer is a hard no, ranging from 10 to 15 grams per can, though light beers drop to around 3 grams and "ultra" options can dip below 2 grams.
 
-Here's what often gets left out: alcohol is metabolized before fat on keto. Your liver prioritizes clearing alcohol, which temporarily pauses fat oxidation. For some people this means a stall in weight loss, not from carbs directly but from the metabolic priority shift. It doesn't happen to everyone or every time, but it's real.
+Here's what gets left out: alcohol is metabolized before fat on keto. Your liver prioritizes clearing alcohol, which temporarily pauses fat oxidation. For some people this means a stall in weight loss, not from carbs directly but from the metabolic priority shift. It doesn't happen to everyone or every time. But it's real.
 
-Mixers are often the bigger problem anyway. Tonic water has roughly 22 grams of carbs per 12 ounces. Regular soda as a mixer is obviously out. Stick with soda water, a squeeze of lime, or keto-friendly mixers. And be honest with yourself about how alcohol affects your food choices later in the evening. That's not a judgment, it's just a pattern worth knowing.
+Mixers are often the bigger problem anyway. Tonic water has roughly 22 grams of carbs per 12 ounces. Regular soda as a mixer is out. Stick with soda water, a squeeze of lime, or keto-friendly mixers. And be honest with yourself about how alcohol affects your food choices later. That's not judgment, it's just a pattern worth knowing.
 
 ## Diet Sodas and Zero-Sugar Drinks: The Nuanced Truth
 
 Diet sodas like Diet Coke, Zevia, and sparkling waters with artificial sweeteners are technically zero carbs. Many keto dieters use them regularly without issue.
 
-The research on whether artificial sweeteners affect insulin response or gut microbiome composition is genuinely mixed. Some small studies suggest certain sweeteners may trigger a modest insulin response in some individuals. Others show no effect. I'm not going to tell you they're harmless for certain, because the data isn't there yet. What I can tell you is that I've worked with plenty of people who drink diet soda daily and stay in ketosis comfortably, and others who seem to stall until they cut it out.
+The research on whether artificial sweeteners affect insulin response or gut microbiome composition is genuinely mixed. Some small studies suggest certain sweeteners may trigger a modest insulin response in some individuals. Others show no effect. I won't tell you they're harmless for certain, because the data isn't there yet. What I can tell you is that I've worked with plenty of people who drink diet soda daily and stay in ketosis comfortably, and others who seem to stall until they cut it out.
 
-If you're not seeing the results you expect and your carbs are genuinely low, cutting diet soda for a few weeks is a reasonable experiment. Stevia-sweetened options like Zevia tend to be better tolerated than aspartame or sucralose for people who seem sensitive.
+If you're not seeing results and your carbs are genuinely low, cutting diet soda for a few weeks is a reasonable experiment. Stevia-sweetened options like Zevia tend to be better tolerated than aspartame or sucralose for people who seem sensitive.
 
 ## Keto-Friendly Drinks Worth Knowing About
 
-Beyond the basics, a few options are worth keeping on your radar:
+Beyond the basics:
 
-**Bone broth:** Around 1 to 2 grams of carbs per cup, high in sodium and collagen. Excellent for hitting electrolyte needs, especially in the first few weeks. Warm and savory, it's useful for people who struggle with late-night snack cravings.
+**Bone broth:** Around 1 to 2 grams of carbs per cup, high in sodium and collagen. Excellent for electrolytes, especially in the first few weeks. Warm and savory, it's useful for people who struggle with late-night snack cravings.
 
-**Unsweetened nut milks:** Almond milk and coconut milk (the carton variety, not full-fat canned) typically run 1 to 2 grams of carbs per cup unsweetened. Good for smoothies or coffee if you don't love heavy cream. Oat milk, soy milk, and rice milk are higher in carbs and generally not worth the trade-off on keto.
+**Unsweetened nut milks:** Almond milk and coconut milk (the carton variety, not full-fat canned) typically run 1 to 2 grams per cup unsweetened. Good for smoothies or coffee if you don't love heavy cream. Oat milk, soy milk, and rice milk are higher in carbs and not worth the trade-off.
 
-**Keto protein shakes:** A useful option when you need something portable. Look for under 5 grams of net carbs and a protein source you tolerate. Many commercial shakes use maltodextrin or other fillers that spike carbs unexpectedly, so read the label all the way through.
+**Keto protein shakes:** Useful when you need something portable. Look for under 5 grams of net carbs and a protein source you tolerate. Many commercial shakes use maltodextrin or other fillers that spike carbs unexpectedly, so read the label all the way through.
 
-**Kombucha:** This one surprises people. Traditional kombucha can have 6 to 8 grams of carbs per bottle. Some brands have introduced lower-sugar options around 2 to 4 grams. Possible in small amounts if you're not strict keto, but something to track carefully.
+**Kombucha:** This surprises people. Traditional kombucha can have 6 to 8 grams of carbs per bottle. Some brands have introduced lower-sugar options around 2 to 4 grams. Possible in small amounts if you're not strict, but track it carefully.
 
-
----
-
-Knowing what you can drink on keto removes a surprising amount of daily friction. Once you have a short mental list of your go-to drinks, ordering at a coffee shop, shopping at a gas station, or unwinding at the end of the day becomes a lot less stressful. You're not white-knuckling through a restricted diet. You're making informed choices. That's a different feeling entirely, and it's one that tends to stick.
+Once you have a short mental list of go-to drinks, ordering at a coffee shop, shopping at a gas station, or unwinding becomes less stressful. You're not white-knuckling through restriction. You're making informed choices. That's a different feeling entirely, and it's one that tends to stick.
 
 *Photo: [Dovinda Rd](https://www.pexels.com/@dovinda-rd-993674313) via Pexels*
 

@@ -23,24 +23,19 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
-
-You packed a sad desk salad on Monday, powered through it, and by Wednesday you were buying a $14 burrito bowl and telling yourself you'd "get back on track next week." I've seen this exact pattern with dozens of clients. It's not a willpower problem. It's a logistics problem, and it's completely fixable with about two hours on a Sunday.
+You packed a sad desk salad on Monday, powered through it, and by Wednesday you were dropping $14 on a burrito bowl and telling yourself you'd "get back on track next week." I've seen this exact pattern with dozens of clients. It's not a willpower problem. It's a logistics problem, and it's completely fixable with about two hours on a Sunday.
 
 Keto lunches are actually one of the easier meals to batch-cook, once you stop trying to replicate whatever you were eating before and start thinking in components. Here's how to make it work for real.
 
----
-
 ## Why Keto Lunch Prep Fails (And What to Do Differently)
 
-Most people approach meal prep the way they approach New Year's resolutions: with maximum ambition and no margin for reality. They plan five different lunches, spend four hours cooking, and by Thursday they're bored, the food looks sad, and half of it got thrown out.
+Most people approach meal prep the way they approach New Year's resolutions: with maximum ambition and zero margin for reality. They plan five different lunches, spend four hours cooking, and by Thursday they're bored, the food looks sad, and half of it got thrown out.
 
 The fix isn't more discipline. It's a simpler system.
 
 What most people don't realize is that keto is actually well-suited to meal prep because high-fat foods hold their texture and flavor better than high-carb foods when refrigerated. A grain bowl gets soggy. A bowl of roasted chicken thighs, cauliflower, and tahini dressing still tastes good on day four. Fat is your friend here, and not just metabolically.
 
-The other thing that trips people up: they prep full meals when they should be prepping components. When you cook a full "Tuscan chicken with zoodles" situation on Sunday, you're locked in. When you cook chicken thighs, roasted broccoli, and a jar of sauce, you have flexibility. Same ingredients, but Monday it's a warm bowl, Wednesday it's wrapped in lettuce, Friday it's on top of cauliflower rice. The variety doesn't require extra work.
-
----
+The other thing that trips people up: they prep full meals when they should be prepping components. When you cook a full "Tuscan chicken with zoodles" situation on Sunday, you're locked in. Cook chicken thighs, roasted broccoli, and a jar of sauce separately, and you have options. Monday it's a warm bowl, Wednesday it's wrapped in lettuce, Friday it's on top of cauliflower rice. The variety doesn't require extra work.
 
 ## The Keto Lunch Formula Worth Memorizing
 
@@ -58,8 +53,6 @@ That's it. Every successful keto lunch I've ever helped someone build follows th
 When someone tells me "keto food is boring," what I usually find is that they're hitting the first three categories and skipping the fourth entirely. A flavor layer costs you almost nothing in prep time and makes the difference between food you look forward to and food you endure.
 
 A reliable kitchen scale makes tracking macros far more accurate than eyeballing, especially in the early weeks. [A digital food scale](https://www.amazon.com/s?k=digital+food+scale) runs under $20 and takes the guesswork out of portioning.
-
----
 
 ## A Sunday Prep Session That Actually Fits Into Real Life
 
@@ -80,18 +73,16 @@ Here's a concrete two-hour session I've walked clients through. Not aspirational
 
 1. **Preheat the oven to 425°F.** Get it hot before anything else.
 2. **Season and arrange the chicken thighs** on a sheet pan with olive oil, salt, garlic powder, and whatever seasoning you like. Slide them in.
-3. **While chicken starts cooking**, boil your eggs. Six to eight minutes for slightly jammy yolks, twelve for fully set. Put them in cold water, done.
+3. **While chicken starts cooking**, boil your eggs. Six to eight minutes for slightly jammy yolks, twelve for fully set. Pop them in cold water.
 4. **Chop broccoli and cauliflower** into florets. Toss with olive oil and salt. After the chicken has been in for about 15 minutes, add the vegetable pan to the oven.
 5. **Brown your ground beef or sausage** in a skillet. Season it well. This is 10 minutes of actual attention.
-6. **Make one sauce or dressing** if you're not buying a pre-made option. A lemon-tahini takes three minutes: tahini, lemon juice, garlic, water to thin, salt.
-7. **Let everything cool** before you pack it. Packing hot food leads to condensation, which leads to soggy vegetables, which leads to you not eating your lunch.
+6. **Make one sauce or dressing** if you're not buying pre-made. Lemon-tahini takes three minutes: tahini, lemon juice, garlic, water to thin, salt.
+7. **Let everything cool** before you pack it. Hot food leads to condensation, which leads to soggy vegetables, which leads to you not eating your lunch.
 8. **Portion into containers.** I like separate containers for protein and vegetables, rather than packing assembled bowls, because it gives you more flexibility to mix and match through the week.
 
-Good containers matter more than most people think. Glass is better for reheating and doesn't absorb smells. [Glass meal prep containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers+with+lids) keep food fresher and don't leach anything into your food when microwaved.
+Glass containers beat plastic. [Glass meal prep containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers+with+lids) don't absorb smells, reheat better, and don't leach anything into your food when microwaved.
 
-This setup gives you proteins and vegetables for four to five lunches. The actual hands-on cooking time is under 90 minutes, with maybe 20 minutes of active work. The rest is oven time.
-
----
+This setup gives you proteins and vegetables for four to five lunches. The actual hands-on cooking time is under 90 minutes, with maybe 20 minutes of active work. The rest is just oven time.
 
 ## What Holds Well, What Doesn't: A Practical Guide
 
@@ -111,15 +102,13 @@ Not everything survives four days in the fridge, and finding this out the hard w
 | Pesto | Yes | Keeps well; add a thin layer of olive oil on top |
 | Shrimp | 2-3 days max | Loses texture quickly; best cooked mid-week |
 
-The biggest mistake I see is treating avocado like a prep ingredient. It's a day-of ingredient. Buy them, let them ripen at your own pace, and slice right before eating.
-
----
+The biggest mistake I see is treating avocado like a prep ingredient. It's not. Buy them, let them ripen at your own pace, and slice right before eating.
 
 ## Keeping Macros on Track Without Obsessing
 
 Keto works within a range, not a perfect number. Most people doing therapeutic keto for weight loss are aiming to stay under 20-50g net carbs per day, with fat making up roughly 60-75% of calories and protein somewhere around 20-25%. Those ranges vary by individual, and if you have a specific medical reason for doing keto, you should be working with a healthcare provider on your exact targets.
 
-For lunch specifically, I tell clients to aim for something in the range of 400-600 calories (exact amount depends on your total daily target), with at least 25-35g of protein to keep you satisfied through the afternoon.
+For lunch specifically, aim for something in the range of 400-600 calories (exact amount depends on your total daily target), with at least 25-35g of protein to keep you satisfied through the afternoon.
 
 A few practical tools that help:
 
@@ -131,13 +120,6 @@ Tracking apps like Cronometer or Carb Manager are both useful for learning what'
 
 *(This site may earn a commission on purchases made through product links, at no extra cost to you.)*
 
----
-
-
----
-
 Two hours on a Sunday won't solve every problem, but it removes the daily friction that quietly derails most people. The burrito bowl isn't the enemy. The absence of a better option is. Once you have containers of actual, good food waiting in your fridge, the default decision changes. That's the whole game.
-
----
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

@@ -12,11 +12,12 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 
 ---
+Keto works brilliantly for some people and feels like torture for others. The real difference? It's not about willpower. It's about your habits, your actual goals, and your relationship with food.
 
-Keto works wonders for some people and feels like a constant struggle for others. The difference usually comes down to your habits, your goals, and how you feel about food, not willpower. This quick quiz looks at seven of the factors that most often predict whether someone sticks with keto and thrives, or burns out in the first month.
+This quiz looks at seven factors that predict whether you'll actually stick with keto and thrive, or quit frustrated in week three.
 
-Answer honestly, and you'll get a personalized read on how well keto fits your life right now, plus a sensible next step whether you're a perfect match or better off with a gentler approach.
+Answer honestly. You'll get a real sense of how well keto fits your life right now, plus a concrete next step. Whether you're a perfect fit or better off with something gentler.
 
 {{< quiz >}}
 
-Remember that this quiz is a starting point, not a verdict. Plenty of people who score in the middle go on to do great on keto once they have the right plan and a stocked kitchen. If you're ready to dig in, the keto food database and beginner meal plan are the best places to start.
+This isn't a final judgment. People who land in the middle often succeed once they have a solid plan and a fridge that isn't full of pasta. Ready to try? The keto food database and beginner meal plan are where you should start.

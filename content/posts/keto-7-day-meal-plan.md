@@ -25,13 +25,11 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
+Most people quit keto in week one. Not because it doesn't work. They just open the fridge Monday morning with nothing planned, no prep, no clue what to eat that isn't cereal. That moment kills the whole thing. They're back to toast by Tuesday. A real meal plan removes that friction. You know what to eat, you've already bought it, and you're not making desperate decisions at 7am when you're not ready to make them.
 
-Most people who try keto quit within the first week. Not because the diet doesn't work, but because they open the fridge on Monday morning with no plan, no prepped food, and no idea what to eat that isn't a bowl of cereal. That single moment of friction is enough to send them straight back to toast and orange juice. A solid 7-day meal plan removes that friction completely. You know exactly what to eat, you've already bought the groceries, and you're not standing in the kitchen at 7am making decisions you're not ready to make.
-
-This guide gives you a real, practical keto meal plan for seven days, plus the context you need to actually follow through on it.
+This guide gives you a practical 7-day keto meal plan plus the actual context you need to stick with it.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">Week 1 Keto Grocery List by Category</div>
@@ -44,92 +42,92 @@ This guide gives you a real, practical keto meal plan for seven days, plus the c
 
 ## Why a 7-Day Plan Works Better Than Winging It
 
-Keto has a stricter ruleset than most diets. You're keeping net carbs under 20-25 grams per day, getting roughly 70-75% of your calories from fat, and keeping protein moderate at around 20-25%. Those numbers leave almost zero room for improvisation, especially in the beginning when you haven't yet memorized what you can and can't eat.
+Keto has rules. You're keeping net carbs under 20-25 grams daily, getting roughly 70-75% of calories from fat, and holding protein moderate at around 20-25%. There's almost no room for guessing, especially in the beginning when you don't yet know what slides through and what doesn't.
 
-A seven-day structure works because it gives your body enough time to transition into ketosis. Most people enter ketosis somewhere between 2 and 4 days of strict carb restriction, though it varies depending on your metabolic health and how active you are. You can read more about the timeline in our guide on [how long it takes to enter ketosis](/how-long-to-enter-ketosis/). The first week is also when keto flu tends to hit, and having meals already planned means you're not making food decisions while you feel foggy, tired, or headachy.
+Seven days is the sweet spot because it gives your body time to transition into ketosis. Most people enter somewhere between days 2 and 4 of strict carb restriction, though metabolic health and activity level shift that timeline around. Our [guide on how long it takes to enter ketosis](/how-long-to-enter-ketosis/) covers that in detail. The first week is also when keto flu hits hardest, and having meals already planned means you're not making food decisions while feeling foggy, exhausted, and headachy.
 
-There's also a psychological benefit. Seeing seven days laid out in front of you makes the whole thing feel manageable. It's not "I have to do keto forever." It's "I just have to follow this plan until Sunday."
+There's something psychological about it too. Seven days laid out in front of you feels manageable. It's not "I have to do keto forever." It's "I just follow this until Sunday."
 
 ---
 
 ## The Full 7-Day Keto Meal Plan
 
-This plan targets roughly 1,600-1,800 calories per day with net carbs under 25 grams. Adjust portions up or down based on your goals.
+This targets roughly 1,600-1,800 calories per day with net carbs under 25 grams. Scale portions up or down based on your actual goals.
 
 **Day 1**
-- Breakfast: 3 scrambled eggs cooked in butter, 2 strips of bacon, black coffee or plain tea
-- Lunch: Tuna salad (canned tuna, mayo, celery, salt, pepper) on a bed of romaine lettuce
-- Dinner: Pan-seared salmon with a side of roasted broccoli drizzled in olive oil
+- Breakfast: 3 scrambled eggs in butter, 2 bacon strips, black coffee or plain tea
+- Lunch: Tuna salad (canned tuna, mayo, celery, salt, pepper) on romaine lettuce
+- Dinner: Pan-seared salmon with roasted broccoli drizzled in olive oil
 - Snack: 1 oz cheddar cheese, 10 macadamia nuts
 
 **Day 2**
-- Breakfast: Full-fat Greek yogurt (plain, unsweetened) with a tablespoon of chia seeds and a few raspberries
-- Lunch: Leftover salmon flaked over a spinach salad with olive oil and lemon dressing
+- Breakfast: Full-fat plain Greek yogurt with a tablespoon of chia seeds and a few raspberries
+- Lunch: Salmon flaked over spinach salad with olive oil and lemon dressing
 - Dinner: Ground beef taco bowl, no tortilla. Seasoned beef, shredded cheese, sour cream, avocado, jalapeños over shredded cabbage
-- Snack: Hard-boiled egg, a few cucumber slices with cream cheese
+- Snack: Hard-boiled egg, cucumber slices with cream cheese
 
 **Day 3**
-- Breakfast: 2-egg omelet with spinach, mushrooms, and feta cheese
-- Lunch: Chicken Caesar salad, no croutons. Use a full-fat Caesar dressing
+- Breakfast: 2-egg omelet with spinach, mushrooms, and feta
+- Lunch: Chicken Caesar salad, no croutons, full-fat dressing
 - Dinner: Pork chops with garlic butter green beans
-- Snack: Celery sticks with almond butter (1 tablespoon, check the label for added sugar)
+- Snack: Celery sticks with almond butter (1 tablespoon, check the label)
 
 **Day 4**
-- Breakfast: Bacon and egg cups baked in a muffin tin with a little heavy cream
-- Lunch: BLT lettuce wrap. Bacon, tomato slice, mayo, romaine leaf instead of bread
-- Dinner: Baked chicken thighs with roasted asparagus and a side of cauliflower mash with butter
-- Snack: String cheese, a small handful of walnuts
+- Breakfast: Bacon and egg cups baked in a muffin tin with heavy cream
+- Lunch: BLT lettuce wrap. Bacon, tomato, mayo, romaine leaf instead of bread
+- Dinner: Baked chicken thighs with roasted asparagus and cauliflower mash with butter
+- Snack: String cheese, small handful of walnuts
 
 **Day 5**
-- Breakfast: Keto smoothie with unsweetened almond milk, a scoop of unflavored protein powder, a tablespoon of MCT oil, and half an avocado
+- Breakfast: Keto smoothie with unsweetened almond milk, unflavored protein powder, a tablespoon of MCT oil, and half an avocado
 - Lunch: Zucchini noodles with pesto and grilled shrimp
-- Dinner: Beef stir fry with bell peppers, broccoli, sesame oil, and coconut aminos (instead of soy sauce)
+- Dinner: Beef stir fry with bell peppers, broccoli, sesame oil, and coconut aminos
 - Snack: Pepperoni slices with cream cheese
 
 **Day 6**
-- Breakfast: Keto pancakes made with almond flour, eggs, and cream cheese, topped with a pat of butter
+- Breakfast: Keto pancakes made with almond flour, eggs, and cream cheese, topped with butter
 - Lunch: Cobb salad with grilled chicken, hard-boiled egg, avocado, bacon, blue cheese, and olive oil dressing
-- Dinner: Lamb chops with roasted Brussels sprouts and a lemon herb butter sauce
-- Snack: A handful of pecans, 1 oz dark chocolate (85% or higher)
+- Dinner: Lamb chops with roasted Brussels sprouts and lemon herb butter sauce
+- Snack: Handful of pecans, 1 oz dark chocolate (85% or higher)
 
 **Day 7**
-- Breakfast: Smoked salmon with cream cheese, capers, and a few slices of cucumber
+- Breakfast: Smoked salmon with cream cheese, capers, and cucumber slices
 - Lunch: Leftover stir fry beef warmed up, served over cauliflower rice
-- Dinner: Roast chicken thighs with a side of sautéed garlic spinach and half an avocado
+- Dinner: Roast chicken thighs with sautéed garlic spinach and half an avocado
 - Snack: Deviled eggs (2 halves), a few olives
 
-For dinner inspiration beyond this week, our collection of [keto chicken recipes](/keto-chicken-recipes/) has dozens of options that keep things interesting without blowing your carb limit.
+For more options beyond this week, our [keto chicken recipes](/keto-chicken-recipes/) collection has dozens of ways to keep things interesting without going over your carb limit.
 
 ---
 
 ## Grocery List and Meal Prep Strategy
 
-You don't need to cook every meal fresh. In fact, trying to do that is one of the fastest ways to burn out. Here's how to set yourself up on Sunday so the week actually runs smoothly.
+Don't cook every meal fresh. That's one of the fastest ways to burn out. Here's how to set yourself up on Sunday so the week actually works.
 
-**Proteins to buy:**
-- A pack of bacon (12-16 strips minimum)
+**Proteins:**
+- Pack of bacon (12-16 strips minimum)
 - 12 eggs
 - 1 lb ground beef
 - 2 salmon fillets
 - 4-6 chicken thighs
-- Pork chops (2)
-- Canned tuna (2 cans)
-- Shrimp (1 lb, frozen is fine)
-- Smoked salmon (4 oz)
+- 2 pork chops
+- 2 cans tuna
+- 1 lb shrimp (frozen works fine)
+- 4 oz smoked salmon
 
 **Produce:**
 - Spinach, romaine, cabbage (for salads and wraps)
 - Broccoli, asparagus, Brussels sprouts, green beans, zucchini, bell peppers
-- Avocados (4-5 for the week)
+- 4-5 avocados for the week
 - Mushrooms, celery, cucumber, tomato
 
 **Dairy and fats:**
-- Butter (a full stick)
+- Butter (a full stick minimum)
 - Heavy cream
 - Cream cheese
 - Cheddar, feta, blue cheese
 - Full-fat sour cream
-- Full-fat Greek yogurt (unsweetened)
+- Full-fat unsweetened Greek yogurt
 
 **Pantry:**
 - Olive oil, sesame oil, MCT oil
@@ -140,48 +138,42 @@ You don't need to cook every meal fresh. In fact, trying to do that is one of th
 - Dark chocolate (85%+)
 
 **Prep on Sunday:**
-1. Hard-boil 6 eggs. They keep in the fridge for a week and pull double duty as snacks and salad toppings.
-2. Cook a full pack of bacon. Reheat as needed throughout the week.
-3. Season and roast a tray of broccoli and Brussels sprouts. They reheat well and are easy to throw alongside any protein.
-4. Make a big batch of cauliflower mash and cauliflower rice in the same session.
-5. Pre-portion your nuts and cheese into small containers so you're not eating straight from the bag and losing track of portions.
 
-A good kitchen scale is genuinely useful here, especially for things like nuts and cheese where it's easy to eat twice what you meant to. [This one on Amazon](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20) is accurate, inexpensive, and fits in a drawer easily. (Disclosure: we may earn a small commission on purchases.)
+Hard-boil 6 eggs. They'll keep all week and double as snacks and salad toppings. Cook a full pack of bacon and reheat throughout the week. Season and roast a big tray of broccoli and Brussels sprouts, they reheat fine and pair with any protein. Make a batch of cauliflower mash and cauliflower rice in the same session. Pre-portion nuts and cheese into small containers so you're not eating straight from the bag and losing track.
+
+A good kitchen scale actually matters here, especially for nuts and cheese where it's easy to eat twice what you intended. [This one on Amazon](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20) is accurate, cheap, and fits in a drawer. (Disclosure: we may earn a small commission on purchases.)
 
 ---
 
 ## Managing the First Week: Keto Flu and Electrolytes
 
-Around days 2-4, you might feel rough. Headaches, fatigue, brain fog, muscle cramps. This is keto flu, and it happens because your kidneys excrete more sodium when insulin drops, which then pulls potassium and magnesium along with it. It's not a sign that keto is hurting you. It's a sign that you're transitioning.
+Days 2-4 can feel rough. Headaches, fatigue, brain fog, muscle cramps. This is keto flu, and it happens because your kidneys excrete more sodium when insulin drops, which pulls potassium and magnesium along with it. It's not a sign keto is hurting you. It's a sign you're transitioning.
 
-The fix is electrolytes. Specifically:
-- **Sodium:** Salt your food more than you normally would. Drink a cup of broth (chicken or beef) once a day.
-- **Potassium:** Avocado is your best friend here. One avocado has around 690 mg of potassium.
+The fix:
+- **Sodium:** Salt your food more than usual. Drink a cup of broth (chicken or beef) once a day.
+- **Potassium:** Avocado is your best friend. One has around 690 mg of potassium.
 - **Magnesium:** Supplement with 300-400 mg of magnesium glycinate at night. It also helps with sleep.
 
-We've covered this topic in depth in our article on [electrolytes on keto](/electrolytes-on-keto/), which is worth reading before you start the plan. Handling this early makes the difference between a miserable first week and a surprisingly smooth one.
+Our [article on electrolytes on keto](/electrolytes-on-keto/) covers this in depth and is worth reading before you start. Getting this right is the difference between a miserable week and a surprisingly smooth one.
 
-MCT oil is another useful addition during the first week. Adding a tablespoon to coffee or a smoothie gives your body a fast source of ketones before your metabolism has fully adapted. [MCT oil from brands like Bulletproof or Sports Research](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) are widely available and well-reviewed. Start with half a tablespoon to avoid digestive upset.
+MCT oil is another useful addition during week one. A tablespoon in coffee or a smoothie gives your body a fast ketone source before your metabolism fully adapts. [Bulletproof or Sports Research brands](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20) are widely available and well-reviewed. Start with half a tablespoon to avoid digestive upset.
 
 ---
 
 ## How to Scale This Plan for Your Goals
 
-Weight loss and maintenance look slightly different on keto, and so does this meal plan depending on where you're starting.
+Weight loss and maintenance look different on keto, and so does this meal plan depending on your starting point.
 
-**If you're trying to lose weight:** Keep portions controlled, especially with nuts, cheese, and fat bombs. These foods are keto-friendly but calorie-dense. Eating 400 calories worth of macadamia nuts thinking they're "free" because they're low-carb is a common mistake. Aim for a modest calorie deficit of 300-500 calories below your maintenance level.
+**For weight loss:** Keep portions controlled, especially with nuts, cheese, and fat bombs. These are keto-friendly but calorie-dense. Eating 400 calories of macadamia nuts thinking they're "free" because they're low-carb is how most people get stuck. Aim for a 300-500 calorie deficit below your maintenance level.
 
-**If you're eating keto for metabolic health or insulin resistance:** The carb limit matters more than the calorie count. Focus on keeping net carbs consistently under 20 grams and avoiding anything that spikes blood sugar, including most artificial sweeteners. Our article on [keto and insulin resistance](/keto-and-insulin-resistance/) goes much deeper on this.
+**For metabolic health or insulin resistance:** The carb limit matters more than calories. Keep net carbs consistently under 20 grams and avoid anything spiking blood sugar, including most artificial sweeteners. Our [article on keto and insulin resistance](/keto-and-insulin-resistance/) goes much deeper.
 
-**If you're very active:** You may need more protein and more total calories. Add an extra serving of protein at dinner or include a post-workout shake with whey protein isolate (check the carb count carefully).
+**For high activity levels:** You'll likely need more protein and more total calories. Add an extra serving of protein at dinner or include a post-workout shake with whey protein isolate (check the carb count).
 
-**After day 7:** The goal is to build a repeatable rotation. Some of these meals you'll love and want to keep. Some you won't. That's fine. The structure of this week teaches you how to build future weeks: a simple protein, a non-starchy vegetable, a fat source, and you're done.
-
----
-
+**After day 7:** Build a repeatable rotation. Some of these meals you'll love. Some you won't. That's fine. The point of this week is teaching you the structure: simple protein, non-starchy vegetable, fat source, done. Use that template for future weeks.
 
 ---
 
-Seven days is enough time to know whether this way of eating works for you. By the end of the week, your hunger patterns will have changed, your energy will likely feel more stable, and you'll have enough meal ideas to build your second week without needing a detailed script. The goal was never to hand you a rigid plan you follow forever. It was to get you through the hard part so the rest becomes habit.
+Seven days tells you whether this actually works for you. By the end, your hunger patterns shift, energy stabilizes, and you'll have enough meal ideas to build week two without needing a script. The goal was never a rigid plan for life. It was getting you through the hard part so the rest becomes automatic.
 
 *Photo: [Ella Olsson](https://www.pexels.com/@ella-olsson-572949) via Pexels*

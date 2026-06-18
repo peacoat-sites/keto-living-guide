@@ -24,7 +24,6 @@ faqs:
   - q: "How do I know if dairy is actually causing my symptoms?"
     a: "Do a strict elimination for four weeks, then reintroduce one dairy product at a time and wait 48-72 hours between each. This is the standard elimination protocol, and it's more informative than any allergy test for non-IgE-mediated reactions. A registered dietitian can walk you through it if you want a more structured approach."
 ---
-
 Most keto content treats dairy as a minor footnote: "Oh, sensitive to dairy? Just swap the cheese." That's not helpful. Going dairy-free on keto means rethinking your fat sources, your breakfast options, your baked goods, your coffee, and, if you're not careful, your electrolyte intake. It's a real restructuring, not a quick swap.
 
 The good news is it's completely doable. I've worked with clients who dropped dairy and found the whole diet easier to stick to. Less digestive noise, less bloating, and often a weight-loss plateau that suddenly broke. The research doesn't give us a clean explanation for why some people stall on dairy, but casein's effect on insulin secretion is a plausible factor, and anecdotally, pulling dairy often shakes things loose.
@@ -47,11 +46,11 @@ Dairy fat is convenient, calorie-dense, and works in almost everything. Replacin
 
 Coconut oil is the workhorse. Solid at room temperature, high smoke point (for refined versions), neutral or mild flavor depending on whether you go refined or unrefined. Use it for sautéing, baking, and anywhere you'd use butter. I keep [Nutiva Organic Coconut Oil](https://www.amazon.com/s?k=nutiva+organic+coconut+oil&tag=contentportfo-20) in a 54-oz jar because you'll go through it faster than you expect. *(Heads up: this is an affiliate link, so the site may earn a small commission.)*
 
-Avocado oil is your other daily driver. Higher smoke point than olive oil, near-neutral flavor. Great for cooking proteins, roasting vegetables, making mayo. [Chosen Foods avocado oil](https://www.amazon.com/s?k=chosen+foods+avocado+oil&tag=contentportfo-20) is widely available and mid-priced.
+Avocado oil is your other daily driver. Higher smoke point than olive oil, near-neutral flavor, great for cooking proteins and roasting vegetables. [Chosen Foods avocado oil](https://www.amazon.com/s?k=chosen+foods+avocado+oil&tag=contentportfo-20) is widely available and mid-priced.
 
-MCT oil deserves a separate mention because it does something the others don't: it converts to ketones rapidly, which is useful if you're using keto therapeutically or just want to stay in ketosis without much dietary fat. Add it to coffee, smoothies, or dressings. Start with one teaspoon and work up. The digestive adjustment is real if you go straight to a tablespoon.
+MCT oil deserves its own mention because it does something the others don't: it converts to ketones rapidly, which is useful if you're using keto therapeutically or just want to stay in ketosis without much dietary fat. Add it to coffee, smoothies, or dressings. Start with one teaspoon and work up. The digestive adjustment is real if you go straight to a tablespoon.
 
-Avocados, olives, and fatty fish (salmon, sardines, mackerel) fill out the rest. These aren't replacements for cooking fat, but they matter for hitting your daily fat targets through food rather than oils alone.
+Avocados, olives, and fatty fish (salmon, sardines, mackerel) round it out. These aren't replacements for cooking fat, but they matter for hitting your daily fat targets through food rather than oils alone.
 
 ## Coffee Without Cream: Less Tragic Than It Sounds
 
@@ -65,11 +64,11 @@ If you're doing any kind of intermittent fasting protocol alongside keto, be awa
 
 ## Cooking and Baking Without Butter
 
-This is where most people feel the loss most sharply. Butter is so integrated into keto cooking that pulling it creates real gaps.
+This is where most people feel the loss most sharply. Butter is so woven into keto cooking that pulling it creates real gaps.
 
 For high-heat cooking, coconut oil or avocado oil replaces butter directly, one-to-one by volume. The flavor changes but you'll adjust quickly.
 
-For baking, it gets more specific. Butter contributes fat, moisture, and flavor to keto baked goods. Coconut oil replaces the fat well but makes baked goods slightly drier and crumblier. Adding an extra egg yolk or a tablespoon of almond butter to your recipe often compensates for this. Refined coconut oil is better for baking than unrefined because the coconut flavor doesn't overpower everything else.
+Baking gets more specific. Butter contributes fat, moisture, and flavor to keto baked goods. Coconut oil replaces the fat well but makes baked goods slightly drier and crumblier. Adding an extra egg yolk or a tablespoon of almond butter to your recipe often compensates. Refined coconut oil is better for baking than unrefined because the coconut flavor won't overpower everything else.
 
 For something closer to butter's spreadability, [Miyoko's Organic Vegan Butter](https://www.amazon.com/s?k=miyokos+vegan+butter&tag=contentportfo-20) is cashew-based and works well on keto breads. It's pricier than regular butter, around $8 for 8 oz, so I'd recommend it as a condiment rather than a cooking fat.
 
@@ -79,7 +78,7 @@ Most keto protein powders are whey-based, which is a dairy product. If you're fu
 
 Egg white protein powder is the cleanest switch: neutral flavor, excellent amino acid profile, mixes reasonably well. [Anthony's Egg White Protein](https://www.amazon.com/s?k=anthony%27s+egg+white+protein&tag=contentportfo-20) is solid and budget-friendly. Collagen peptides are another option, though they're incomplete protein on their own (no tryptophan), so don't use them as your sole protein supplement.
 
-Pea protein and hemp protein work, but they have a stronger flavor profile that not everyone likes. If you're making savory protein shakes or blending with strong flavors, it doesn't matter much. For plain shakes, egg white protein holds up better.
+Pea protein and hemp protein work, but they have a stronger flavor that not everyone likes. If you're making savory protein shakes or blending with strong flavors, it doesn't matter much. For plain shakes, egg white protein holds up better.
 
 ## Electrolytes Without Dairy
 
@@ -88,9 +87,6 @@ Dairy contributes some calcium and potassium to a standard keto diet. Without it
 Calcium from leafy greens (collards, bok choy, kale) is well-absorbed. Canned salmon and sardines with bones are excellent calcium sources. Most people doing keto are more concerned about sodium, potassium, and magnesium anyway, but calcium is worth tracking if you're dairy-free and not eating many vegetables.
 
 For electrolyte supplements, [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) and [Redmond Re-Lyte](https://www.amazon.com/s?k=redmond+relyte+electrolytes&tag=contentportfo-20) are both dairy-free and well-formulated. Neither has added sugar. Both run around $1.50 per serving, which adds up, but if you're getting cramps or headaches, they're worth the cost.
-
----
-
 
 ---
 

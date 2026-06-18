@@ -25,32 +25,31 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
-Most of what you'll read about keto and inflammation falls into one of two camps: breathless claims that it "cures" autoimmune disease, or dismissive warnings that all that saturated fat will inflame your arteries into oblivion. Both miss the actual picture, which is more interesting and more conditional than either side admits.
+Most of what you'll read about keto and inflammation falls into one of two camps: breathless claims that it "cures" autoimmune disease, or dismissive warnings that all that saturated fat will inflame your arteries into oblivion. Both miss the actual picture, which is messier and more conditional than either side admits.
 
 Here's what the research actually shows, and what I've seen work (and not work) in practice.
 
 ## Why Keto Might Reduce Inflammation in the First Place
 
-The leading explanation involves beta-hydroxybutyrate, or BHB, the main ketone your body produces when carbohydrate intake drops low enough. A 2015 study in *Nature Medicine* found that BHB directly inhibits the NLRP3 inflammasome, a molecular complex involved in triggering inflammatory responses linked to conditions like gout, type 2 diabetes, and Alzheimer's disease. That's not a marketing claim. That's a specific mechanism with decent supporting evidence.
+The leading explanation involves beta-hydroxybutyrate, or BHB, the main ketone your body produces when carbohydrate intake drops low enough. A 2015 study in *Nature Medicine* found that BHB directly inhibits the NLRP3 inflammasome, a molecular complex involved in triggering inflammatory responses linked to conditions like gout, type 2 diabetes, and Alzheimer's disease. That's not marketing. That's a specific mechanism with decent supporting evidence.
 
 Beyond BHB, cutting refined carbohydrates and sugar drops blood glucose and insulin levels, and chronically high insulin is itself pro-inflammatory. So there's a dual effect: the ketones do something useful, and the stuff you stopped eating was causing harm.
 
-There's also the matter of gut microbiome changes. Reducing fermentable carbohydrates (the kind that feed certain bacterial populations) can shift inflammatory signaling from the gut. The research here is genuinely mixed, and some of those bacterial populations you're starving out were doing beneficial things too. Worth knowing.
+Then there's your gut microbiome. Reducing fermentable carbohydrates (the kind that feed certain bacterial populations) can shift inflammatory signaling from the gut. The research here is genuinely mixed, and some of those bacterial populations you're starving out were doing beneficial things too. Worth knowing.
 
 ## Where the Evidence Is Strongest
 
-Epilepsy first. Ketogenic diets have been used to reduce seizures since the 1920s, and the anti-inflammatory and neuroprotective effects are part of why they work. That's the most established ground.
+Epilepsy. Ketogenic diets have been used to reduce seizures since the 1920s, and the anti-inflammatory and neuroprotective effects are part of why they work. That's the most established ground.
 
-Beyond that, the clearest clinical signal in recent years has been in metabolic conditions. A 2020 study in *Frontiers in Nutrition* showed significant reductions in CRP (C-reactive protein, a standard inflammation marker) in people following a ketogenic diet for 12 weeks or more. The participants who showed the biggest improvements were also losing weight, which complicates interpretation. Fat loss independently reduces inflammation. Separating "keto did this" from "losing 20 pounds did this" is harder than most articles acknowledge.
+Beyond that, the clearest clinical signal in recent years has been in metabolic conditions. A 2020 study in *Frontiers in Nutrition* showed significant reductions in CRP (C-reactive protein, a standard inflammation marker) in people following a ketogenic diet for 12 weeks or more. But here's the catch: the participants who showed the biggest improvements were also losing weight, which complicates interpretation. Fat loss independently reduces inflammation. Separating "keto did this" from "losing 20 pounds did this" is harder than most articles acknowledge.
 
-Rheumatoid arthritis and other autoimmune conditions are where you'll find the most anecdotal enthusiasm and the thinnest clinical evidence. Some people report dramatic improvement. Some see no change. The honest position is that the data doesn't yet support recommending keto specifically for autoimmune disease, but it absolutely doesn't rule it out. If you have an inflammatory condition and want to try it, that's a reasonable experiment with your doctor's involvement.
+Rheumatoid arthritis and other autoimmune conditions are where you'll find the most anecdotal enthusiasm and the thinnest clinical evidence. Some people report dramatic improvement. Some see no change. The honest position is that the data doesn't yet support recommending keto specifically for autoimmune disease, but it absolutely doesn't rule it out. If you have an inflammatory condition and want to try it, that's reasonable, with your doctor involved.
 
 ## The Part Nobody Talks About: Keto Can Also Drive Inflammation
 
 This is where I part ways with most keto coverage.
 
-A poorly designed ketogenic diet, meaning the kind a lot of people actually eat, can be pro-inflammatory. If your fat sources are mostly processed meats, cheap industrial seed oils, and dairy from grain-fed animals, you're loading up on omega-6 fatty acids and potential inflammatory compounds while skimping on the anti-inflammatory foods that give keto its advantages.
+A poorly designed ketogenic diet, meaning the kind a lot of people actually eat, can be pro-inflammatory. If your fat sources are mostly processed meats, cheap industrial seed oils, and dairy from grain-fed animals, you're loading up on omega-6 fatty acids and potential inflammatory compounds while skimping on the anti-inflammatory foods that actually make keto work.
 
 The omega-6 to omega-3 ratio matters. A lot. The typical American diet runs somewhere around 15:1 or 20:1 (omega-6 to omega-3). That imbalance correlates with higher inflammatory markers. A keto diet built on bacon, processed cheese, and pork rinds doesn't automatically fix that ratio. A keto diet built around fatty fish, olive oil, avocado, leafy greens, and grass-fed meat gets you much closer to the 4:1 ratio that research suggests is beneficial.
 
@@ -61,7 +60,7 @@ Practically speaking, these are the swaps that make the difference:
 - Grass-fed butter or ghee over standard grain-fed dairy when possible
 - Actual green vegetables (spinach, arugula, broccoli, zucchini) making up a meaningful portion of your plate, not just a garnish
 
-The magnesium and zinc in those vegetables matter too. Both are involved in regulating inflammatory pathways, and both tend to be low in people eating ultra-processed food regardless of macros.
+The magnesium and zinc in those vegetables matter too. Both regulate inflammatory pathways, and both tend to be low in people eating ultra-processed food regardless of macros.
 
 ## Measuring Whether It's Actually Working
 
@@ -75,12 +74,9 @@ Joint pain, skin conditions like psoriasis, and energy levels are reasonable sec
 
 I want to be direct about something. For general weight loss, food quality on keto is somewhat flexible. People lose weight eating Quest bars and processed cheese because the caloric and hormonal mechanisms still function.
 
-For inflammation, food quality is not flexible. The anti-inflammatory effect appears to depend significantly on what you're eating, not just what you're not eating. A 2019 analysis in *Nutrients* looking at Mediterranean-style low-carb diets (which emphasize whole foods, olive oil, and fish) showed better inflammatory outcomes than standard low-carb diets higher in processed meat and dairy.
+For inflammation, food quality is not flexible. The anti-inflammatory effect depends significantly on what you're eating, not just what you're not eating. A 2019 analysis in *Nutrients* looking at Mediterranean-style low-carb diets (which emphasize whole foods, olive oil, and fish) showed better inflammatory outcomes than standard low-carb diets higher in processed meat and dairy.
 
 If inflammation is your goal and you're not seeing results, look at your fat sources before you look at your macros.
-
----
-
 
 ---
 

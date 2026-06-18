@@ -25,12 +25,9 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
-
 Most people assume vegetarian keto is some fringe experiment cooked up by people who couldn't commit fully to either diet. I've heard that dismissal plenty of times. But I've also watched clients follow it consistently for months, improve their bloodwork, lose weight they'd been trying to lose for years, and feel genuinely good doing it. So let me tell you what actually makes it hard, what makes it work, and where most of the advice out there misses the point.
 
 The real challenge isn't protein, by the way. Everyone worries about protein first. The actual sticking points are fat quality, hidden carbs in vegetarian staples, and something nobody talks about enough: the psychological squeeze of removing both meat AND most carbs at the same time. That's a lot of familiar comfort food gone at once.
-
----
 
 ## What You're Actually Eating (And What You're Not)
 
@@ -39,8 +36,6 @@ Standard keto runs on meat, fatty fish, eggs, and cheese. Remove the meat and fi
 Your daily plate ends up looking something like this: eggs in several forms, full-fat cheese, Greek yogurt (plain, full-fat, small portions because the carbs add up), heavy cream, butter, cream cheese, avocados, olives, olive oil, coconut oil, nuts and seeds, non-starchy vegetables, and plant proteins like tofu and tempeh if you tolerate them. That's actually a reasonable amount of variety once you start cooking with it.
 
 What you're cutting: bread, pasta, rice, beans, lentils, fruit (mostly), starchy vegetables, most grains. Here's where vegetarians feel the loss most sharply. Beans and lentils are the backbone of so many meatless diets. A cup of cooked lentils has around 40 grams of carbs. That blows your daily budget (typically 20-50g net carbs) in one serving. It's not that legumes are "bad." They just don't fit the carb limit. This is a real trade-off and I won't pretend otherwise.
-
----
 
 ## The Protein Math (It's Not As Bad As You Think, But You Have To Do It)
 
@@ -63,8 +58,6 @@ I use a kitchen scale daily when tracking, especially for nuts and seeds. The [O
 
 *(This site may earn a commission on Amazon purchases.)*
 
----
-
 ## Fat: The Part That Actually Requires Strategy
 
 Vegetarian keto is a high-fat diet and the fat has to come from somewhere good. This is where I'd push back on anyone who loads up on cheese as their primary fat source. Cheese is great, but it's also calorie-dense, easy to overeat, and if it's your main fat vehicle you're missing out on the anti-inflammatory stuff.
@@ -73,8 +66,6 @@ Olive oil on everything is the right instinct. Avocados daily if you can manage 
 
 I add a tablespoon of [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=mct+oil+brain+octane&tag=contentportfo-20) to coffee or a smoothie most mornings. The C8 version (pure caprylic acid) converts to ketones faster than blended MCT oils. Pricier than the blends, about $30 for 16 oz, but if you use it strategically rather than pouring it on everything it lasts a while. Honestly, the cheaper blended MCT oils work fine for most people. Start with small doses either way, because MCT oil on an empty stomach will send you running to the bathroom if you overdo it.
 
----
-
 ## The Electrolyte Problem Nobody Warned You About
 
 Keto drops insulin, insulin drops, kidneys excrete more sodium, sodium drops, and suddenly you feel like you have the flu. This is real and it's not a vegetarian-specific problem, but vegetarian keto makes it trickier because you're not eating broth or meat, which are the easy sodium sources most keto guides lean on.
@@ -82,8 +73,6 @@ Keto drops insulin, insulin drops, kidneys excrete more sodium, sodium drops, an
 Salt your food aggressively. I mean genuinely aggressively, more than feels right. Add potassium through avocado, spinach, and pumpkin seeds. Magnesium tends to run low on keto and low-carb vegetarian diets both; a nightly dose of magnesium glycinate (200-400mg) helps many people sleep better and reduces leg cramps. A reader emailed me last month specifically to say this single addition fixed the cramps she'd had for her first two weeks. I've been recommending it for years.
 
 [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) are popular in keto communities and they're genuinely useful: no sugar, high sodium, with potassium and magnesium included. About $45 for a 30-pack. If that's too steep, a pinch of salt in your water plus a magnesium supplement covers most of the bases.
-
----
 
 ## Meal Planning That Doesn't Make You Miserable
 
@@ -95,15 +84,8 @@ A workable day looks like: scrambled eggs with spinach and feta in the morning, 
 
 Glass meal prep containers make a difference if you're going to batch-cook. The [Pyrex Simply Store set](https://www.amazon.com/s?k=pyrex+meal+prep+containers&tag=contentportfo-20) holds up better than cheap plastic and doesn't absorb smell from eggy dishes the way plastic does.
 
----
-
-
----
-
 If you've tried standard keto and found it meat-heavy and uninspiring, or you've been vegetarian for years and want to try cutting carbs without blowing up your whole food identity, this combination is genuinely doable. It's more work in the planning phase than either diet alone. But the people I've seen stick with it past the first month tend to feel pretty strongly that it was worth the effort.
 
 *Photo: [Aleson Padilha](https://www.pexels.com/@aleson-padilha-945919991) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

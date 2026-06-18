@@ -25,12 +25,11 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 
 ---
-
-Most people assume that giving up breakfast cereals, toast, and orange juice means mornings become a sad, repetitive scrambled-egg routine. That assumption kills more keto diets than cheat days do. The truth is that breakfast on keto can be more satisfying, more varied, and honestly more delicious than whatever you were eating before. Once you understand which ingredients work and which ones quietly sabotage your macros, the whole thing clicks into place.
+Most people assume that giving up breakfast cereals, toast, and orange juice means mornings become a sad, repetitive scrambled-egg routine. That assumption kills more keto diets than cheat days do. The truth? Breakfast on keto can be more satisfying, more varied, and honestly more delicious than whatever you were eating before. Once you understand which ingredients work and which ones quietly sabotage your macros, the whole thing clicks into place.
 
 ## Why Breakfast Is the Hardest Keto Meal to Crack
 
-Breakfast is hard because we're creatures of habit. Most of us have been eating the same three or four morning foods since childhood, and nearly all of them are carb-heavy by design. A bowl of oatmeal clocks in at around 27 grams of net carbs. A medium banana adds another 24. Two slices of whole-grain toast? That's roughly 22 grams before you've even spread anything on them.
+We're creatures of habit. Most of us have been eating the same three or four morning foods since childhood, and nearly all of them are carb-heavy by design. A bowl of oatmeal clocks in at around 27 grams of net carbs. A medium banana adds another 24. Two slices of whole-grain toast? That's roughly 22 grams before you've even spread anything on them.
 
 On keto, your daily carb target is typically 20 to 50 grams of net carbs total. One "healthy" traditional breakfast can wipe out your entire allowance before 9 a.m.
 

@@ -25,20 +25,19 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 
 ---
-
 Most people jumping into keto spend the first week obsessing over carb counts and fat sources, then realize somewhere around day ten that they have absolutely no idea how much protein they're eating or where it's coming from. That's not a minor oversight. Get protein wrong on keto and you'll either lose muscle mass, stall fat loss, or accidentally knock yourself out of ketosis by eating too much of the wrong stuff. I've watched this play out with clients repeatedly, and the frustrating part is that the fix isn't complicated once you understand what's actually happening.
 
 ---
 
 ## Why Protein on Keto Is More Complicated Than Anyone Tells You
 
-Here's the thing most keto content glosses over: protein is the macro that requires the most individual calibration on a ketogenic diet. Fat targets are relatively forgiving. Carbs are a hard ceiling. But protein sits in this awkward middle ground where too little causes real problems and too much can theoretically blunt ketosis through a process called gluconeogenesis, where your liver converts amino acids into glucose.
+Here's the thing most keto content glosses over: protein is the macro that requires the most individual calibration on a ketogenic diet. Fat targets are relatively forgiving. Carbs are a hard ceiling. But protein sits in this awkward middle ground where too little causes real problems and too much can theoretically blunt ketosis through gluconeogenesis, where your liver converts amino acids into glucose.
 
 I'll be honest: the gluconeogenesis fear is genuinely overblown in most mainstream keto circles. The research here is mixed. Some studies suggest that gluconeogenesis is largely demand-driven, meaning your body only converts protein to glucose when it needs to, not just because protein is available. Others show that very high protein intakes can raise insulin enough to reduce ketone production in some people. What surprised me was how individual this response seems to be. Some of my clients eat 180 grams of protein daily and stay in solid ketosis. Others find anything above 120 grams pushes them into a gray zone.
 
 The practical upshot: a moderate protein target of roughly 0.7 to 1.0 grams per pound of lean body mass is where most people land successfully. That's not a guarantee, but it's a reasonable starting range backed by both research and real-world experience with actual keto dieters. If you're active or strength training, lean toward the higher end without fear.
 
-What matters just as much as quantity is the *quality and composition* of your protein sources. And this is where the conversation gets genuinely interesting.
+What matters just as much as quantity is the quality and composition of your protein sources. And this is where the conversation gets genuinely interesting.
 
 ---
 
@@ -105,10 +104,9 @@ Here's a simple framework that works in real life:
 
 ---
 
+Getting protein right on keto isn't about finding a perfect formula. It's about building a sustainable weekly pattern anchored around whole, nutrient-dense sources, tracking honestly for a few weeks until you have an intuitive sense of portions, and adjusting based on how you actually feel and perform. The people I've seen thrive long-term on keto aren't the ones who followed the most rigid protocol. They're the ones who figured out what worked for their body and stopped arguing with the data. That's available to you too.
 
----
-
-Getting protein right on keto isn't about finding a perfect formula. It's about building a sustainable weekly pattern anchored around whole, nutrient-dense sources, tracking honestly for a few weeks until you have an intuitive sense of portions, and adjusting based on how you actually feel and perform. The people I've seen thrive long-term on keto aren't the ones who followed the most rigid protocol. They're the ones who figured out what worked for their body and stopped arguing with the data. That's available to you too. As always, if you have specific health conditions or concerns, working with a registered dietitian or your physician before making significant dietary changes is the right call.
+As always, if you have specific health conditions or concerns, working with a registered dietitian or your physician before making significant dietary changes is the right call.
 
 *Photo: [Jess Loiterton](https://www.pexels.com/@jess-vide) via Pexels*
 

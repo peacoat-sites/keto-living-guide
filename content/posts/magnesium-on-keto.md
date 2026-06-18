@@ -25,7 +25,6 @@ author_title: "Recipe Developer"
 author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
 
 ---
-
 You cleaned up your diet, cut the carbs, started losing weight, and then somewhere around week two you woke up at 3am with a calf cramp so savage it left you limping the next morning. Welcome to one of keto's least glamorous rites of passage. Most people blame dehydration. A few blame electrolytes in some vague, hand-wavy way. What surprised me, when I actually dug into the physiology here, is how specifically magnesium is the culprit behind so many of keto's most common complaints, and how badly the standard advice undershoots what people actually need.
 
 ## Why Keto Drains Magnesium Faster Than You Think
@@ -104,10 +103,7 @@ A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutritio
 
 ---
 
-
----
-
-Magnesium isn't the most exciting topic in the keto space, and it doesn't get the attention that macros and ketone tracking do. But in my experience, it's the single nutrient most likely to explain why someone feels noticeably better or noticeably worse on a well-formulated low-carb diet. Getting it right won't guarantee results, but getting it wrong creates a drag on everything else you're trying to do. Worth the attention.
+Magnesium isn't the most exciting topic in the keto space. It doesn't get the attention that macros and ketone tracking do. But in my experience, it's the single nutrient most likely to explain why someone feels noticeably better or noticeably worse on a well-formulated low-carb diet. Getting it right won't guarantee results, but getting it wrong creates a drag on everything else you're trying to do. Worth the attention.
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

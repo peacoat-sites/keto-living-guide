@@ -25,10 +25,9 @@ author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
 
 ---
-
 A lot of people come to keto for weight loss. But they stay for the brain.
 
-I've heard this from dozens of clients over the years, and I've experienced it myself. The number on the scale matters to them at first, but around week three or four, something else happens. They describe it differently every time: "the fog lifted," "I can actually think again," "I felt like myself for the first time in years." It's one of the most consistent things I hear, and it's also one of the most misunderstood.
+I've heard this from dozens of clients over the years, and I've experienced it myself. The scale matters at first, sure. But around week three or four, something else happens. They describe it differently every time: "the fog lifted," "I can actually think again," "I felt like myself for the first time in years." It's one of the most consistent things I hear, and it's also one of the most misunderstood.
 
 So let's talk about what's actually going on, what makes it better or worse, and what to do if you're waiting for clarity that hasn't shown up yet.
 
@@ -38,9 +37,9 @@ Your brain is roughly 60% fat by dry weight, and it runs on a tremendous amount 
 
 A 2012 study published in *Neurobiology of Aging* found that participants with mild cognitive impairment showed measurable improvements in memory after following a high-fat, low-carb diet for six weeks. Older research from Richard Veech's lab at the NIH suggested ketones produce roughly 28% more energy per unit of oxygen than glucose does. That's not a magic number, and the research is still evolving, but it points to why so many people report feeling sharper rather than just "fine" on keto.
 
-The other piece is insulin. When you eat a lot of refined carbs, blood glucose spikes and crashes repeatedly throughout the day. Each crash can bring brain fog, irritability, and that 2 p.m. "I can't look at another spreadsheet" feeling. Ketosis smooths that out. Your brain gets a steadier supply of fuel, and for a lot of people, that stability alone accounts for a significant chunk of the mental clarity they experience.
+The other piece is insulin. When you eat a lot of refined carbs, blood glucose spikes and crashes repeatedly throughout the day. Each crash brings brain fog, irritability, and that 2 p.m. "I can't look at another spreadsheet" feeling. Ketosis smooths that out. Your brain gets a steadier supply of fuel, and for a lot of people, that stability alone accounts for a significant chunk of the mental clarity they experience.
 
-That said, I want to be honest: the research on keto and cognition is still thin in healthy adults. Most of the robust data comes from epilepsy treatment and early Alzheimer's studies. The anecdotal reports are compelling, and there are plausible mechanisms, but "the science says keto makes you smarter" would be overstating it. What I can say is that for most of my clients, something real and noticeable happens to their thinking.
+I want to be honest though: the research on keto and cognition is still thin in healthy adults. Most of the solid data comes from epilepsy treatment and early Alzheimer's studies. The anecdotal reports are compelling, and there are plausible mechanisms, but "the science says keto makes you smarter" would be overstating it. What I can say is that for most of my clients, something real and noticeable happens to their thinking.
 
 ## The Part Nobody Warns You About: It Gets Worse Before It Gets Better
 
@@ -48,11 +47,11 @@ If you're in your first week and you feel like someone replaced your brain with 
 
 The transition period is real. As glycogen depletes and your body shifts its metabolic machinery toward fat and ketone production, there's a window, usually days three through seven, where cognition can dip noticeably. Memory feels sluggish. You might lose words mid-sentence. One client described it as "thinking through a thick glass wall."
 
-This is sometimes called keto flu, but the cognitive piece of it often gets underplayed in favor of the headache-and-fatigue discussion. The main driver isn't ketones. It's electrolytes.
+This is sometimes called keto flu, but the cognitive piece often gets buried in the headache-and-fatigue discussion. The main driver isn't ketones. It's electrolytes.
 
 When insulin drops, your kidneys excrete sodium at a higher rate. Sodium and potassium work together to maintain the electrical gradients your neurons depend on. When those levels fall, cognitive performance follows. Magnesium matters here too: it's involved in over 300 enzymatic processes, including several that affect neurological function, and most people in the US are already insufficient before they start keto.
 
-What I tell people: don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
+Don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
 
 ## Once You're Adapted: What Mental Clarity Actually Looks Like
 
@@ -82,13 +81,8 @@ If you've been keto for six or more weeks, you're sleeping adequately, your elec
 
 ---
 
-
----
-
 If you're early in your keto experiment and still waiting for the fog to clear, give it a few more weeks, get your electrolytes seriously dialed in, and don't skip sleep in the name of optimizing anything else. For most people, the clarity does come. And for many of them, it's what keeps them eating this way long after the weight loss goals have been met.
 
 *Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

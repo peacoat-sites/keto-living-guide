@@ -25,7 +25,6 @@ author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 
 ---
-
 Nobody warns you about this part.
 
 You start keto, you're feeling pretty good, the scale is moving, and then around day four or five you realize you haven't been to the bathroom in three days. You're eating plenty. You don't feel sick exactly. You just feel... stopped up. And when you go searching for answers, most of what you find is either breezy ("just drink more water!") or buried in contradictory advice about fiber that makes your head spin.
@@ -42,7 +41,7 @@ First, you drop a lot of water weight in that first week. Glycogen stores (your 
 
 Second, fiber intake tends to drop. Not always, but usually. If you were getting fiber from whole grains, beans, fruit, and the occasional sweet potato, those are gone now. A lot of people replace them with eggs, cheese, bacon, and meat. Fiber intake plummets, and your gut notices.
 
-Third, the change in gut bacteria is real. Research on this is still developing, but there's good evidence that the composition of your gut microbiome shifts fairly quickly when you make a major dietary change. Some of those bacterial populations that help move things along can temporarily decrease. A 2020 study in *Cell* looking at ketogenic diets and gut microbiome specifically found reductions in fiber-fermenting bacteria like *Bifidobacterium* over a 4-week period. That doesn't mean keto is permanently bad for your gut, but it does help explain why the first few weeks can be rough.
+Third, the change in gut bacteria is real. Research on this is still developing, but there's good evidence that your gut microbiome composition shifts fairly quickly when you make a major dietary change. Some of those bacterial populations that help move things along can temporarily decrease. A 2020 study in *Cell* looking at ketogenic diets and gut microbiome specifically found reductions in fiber-fermenting bacteria like *Bifidobacterium* over a 4-week period. That doesn't mean keto is permanently bad for your gut, but it does help explain why the first few weeks can be rough.
 
 The good news: for most people, this is temporary. By weeks three or four, things typically normalize on their own if you're doing a few things right.
 
@@ -74,11 +73,6 @@ Most keto constipation is annoying, not dangerous. But there are situations wher
 
 If you haven't had a bowel movement in more than a week, that warrants a conversation. If you have pain, rectal bleeding, significant bloating, or nausea accompanying the constipation, don't wait. And if you have a history of irritable bowel syndrome, inflammatory bowel disease, or any structural GI issues, please don't try to manage this through diet tweaks alone without professional input. The advice here is for generally healthy adults dealing with a common dietary transition effect.
 
----
-
-
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*
-
----
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
