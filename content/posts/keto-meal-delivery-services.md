@@ -26,9 +26,9 @@ author_bio: "Jake Torres spent a decade as a line cook before going keto himself
 
 ---
 
-You've been eating keto for three weeks. The first week felt manageable. You batch-cooked on Sunday, portioned out your meals, and actually felt good about it. Then Wednesday of week two happened — long day, no prep done, and you ended up staring into the fridge at 7pm eating string cheese and deli turkey slices over the sink. By week three, you're researching whether keto meal delivery is actually worth it or just an expensive shortcut for people who can't get it together. Neither of those things is true, by the way.
+You've been eating keto for three weeks. The first week felt manageable. You batch-cooked on Sunday, portioned out your meals, and actually felt good about it. Then Wednesday of week two happened, long day, no prep done, and you ended up staring into the fridge at 7pm eating string cheese and deli turkey slices over the sink. By week three, you're researching whether keto meal delivery is actually worth it or just an expensive shortcut for people who can't get it together. Neither of those things is true, by the way.
 
-Keto meal delivery isn't a magic fix, and it's not admitting defeat. For a lot of people I work with, it's simply the bridge that keeps them in the game when life gets in the way — which it always does.
+Keto meal delivery isn't a magic fix, and it's not admitting defeat. For a lot of people I work with, it's simply the bridge that keeps them in the game when life gets in the way, which it always does.
 
 ---
 

@@ -32,9 +32,9 @@ You step on the scale three days into keto and see a number that seems almost im
 <div class="value-module">
   <div class="vm-head">Weekly Fat-Loss Reality Check by Phase</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this table to calibrate expectations and troubleshoot stalls at each keto phase—numbers are illustrative ranges for a typical adult in moderate caloric deficit.</p>
+    <p class="vm-intro">Use this table to calibrate expectations and troubleshoot stalls at each keto phase-numbers are illustrative ranges for a typical adult in moderate caloric deficit.</p>
     <table><thead><tr><th>Phase</th><th>Timeframe</th><th>Typical Scale Loss</th><th>Actual Fat Loss</th><th>What's Really Happening</th><th>Red Flag If…</th></tr></thead><tbody><tr><td>Glycogen Flush</td><td>Days 1–5</td><td>4–10 lbs</td><td>0.5–1 lb</td><td>Depleting ~400–500g glycogen + 3× that in bound water; kidneys excreting sodium</td><td>Zero scale change (may indicate hidden carbs exceeding 50g/day)</td></tr><tr><td>Transition Stall</td><td>Days 6–14</td><td>0–2 lbs</td><td>1–2 lbs</td><td>Water loss slows; fat adaptation beginning; possible water retention rebound</td><td>Gaining weight while tracking &lt;20g carbs (check sodium, stress, sleep)</td></tr><tr><td>Steady Fat Loss</td><td>Weeks 3–12</td><td>1–2 lbs/week</td><td>1–2 lbs/week</td><td>Ketosis established; scale now reflects mostly fat; appetite often suppressed</td><td>Less than 0.5 lb/week for 3+ weeks (reassess calorie intake)</td></tr><tr><td>Adaptation Plateau</td><td>Months 3–6</td><td>0.5–1 lb/week</td><td>0.5–1 lb/week</td><td>Metabolic rate adjusts; closer to goal weight means smaller deficit</td><td>Complete stall 4+ weeks (consider diet break or macro recalculation)</td></tr><tr><td>Maintenance Approach</td><td>Month 6+</td><td>0–0.5 lb/week</td><td>0–0.5 lb/week</td><td>Nearing set point; body composition changes may outpace scale</td><td>Obsessing over scale when measurements and photos show progress</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

@@ -37,7 +37,7 @@ So let's talk about which foods actually deliver, what I've seen work for real c
   <div class="vm-body">
     <p class="vm-intro">This table shows fat grams, fat types, and net carbs per typical serving to help you plan meals that hit your macros.</p>
     <table><thead><tr><th>Food</th><th>Serving</th><th>Total Fat (g)</th><th>Saturated (g)</th><th>Mono/Poly (g)</th><th>Net Carbs (g)</th></tr></thead><tbody><tr><td>Ribeye steak</td><td>6 oz cooked</td><td>28</td><td>11</td><td>14</td><td>0</td></tr><tr><td>Chicken thigh (skin-on)</td><td>4 oz cooked</td><td>14</td><td>4</td><td>8</td><td>0</td></tr><tr><td>Whole eggs</td><td>2 large</td><td>10</td><td>3</td><td>5</td><td>1</td></tr><tr><td>Avocado (Hass)</td><td>1 medium</td><td>21</td><td>3</td><td>16</td><td>3</td></tr><tr><td>Salmon (Atlantic)</td><td>4 oz cooked</td><td>12</td><td>2</td><td>7</td><td>0</td></tr><tr><td>Bacon</td><td>3 slices</td><td>9</td><td>3</td><td>5</td><td>0</td></tr><tr><td>Macadamia nuts</td><td>1 oz (10–12 nuts)</td><td>21</td><td>3</td><td>17</td><td>2</td></tr><tr><td>Cheddar cheese</td><td>1 oz</td><td>9</td><td>6</td><td>3</td><td>0.4</td></tr><tr><td>Olive oil (extra virgin)</td><td>1 tbsp</td><td>14</td><td>2</td><td>11</td><td>0</td></tr><tr><td>Coconut oil</td><td>1 tbsp</td><td>14</td><td>12</td><td>1</td><td>0</td></tr><tr><td>Heavy cream</td><td>2 tbsp</td><td>11</td><td>7</td><td>3</td><td>0.8</td></tr><tr><td>Pork belly</td><td>3 oz cooked</td><td>25</td><td>9</td><td>13</td><td>0</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

@@ -23,9 +23,9 @@ Let's sort that out.
 <div class="value-module">
   <div class="vm-head">Butter Type Comparison for Keto</div>
   <div class="vm-body">
-    <p class="vm-intro">This table breaks down the key differences between butter types so you can match your choice to your actual priorities—whether that's budget, fat quality, or cooking needs.</p>
+    <p class="vm-intro">This table breaks down the key differences between butter types so you can match your choice to your actual priorities-whether that's budget, fat quality, or cooking needs.</p>
     <table><thead><tr><th>Butter Type</th><th>Fat %</th><th>Carbs per Tbsp</th><th>Smoke Point</th><th>Omega-3 / CLA</th><th>Dairy Proteins</th><th>Typical Cost</th><th>Best For</th></tr></thead><tbody><tr><td>Conventional (Land O'Lakes, store brand)</td><td>~80%</td><td>0g</td><td>350°F</td><td>Baseline</td><td>Present (trace)</td><td>$3–4 / lb</td><td>Budget-conscious daily use; baking</td></tr><tr><td>Grass-fed (Kerrygold, Vital Farms)</td><td>~82%</td><td>0g</td><td>350°F</td><td>~3–5× higher</td><td>Present (trace)</td><td>$8–12 / lb</td><td>Those prioritizing fat quality; finishing dishes</td></tr><tr><td>Ghee (Fourth &amp; Heart, Bulletproof)</td><td>99–100%</td><td>0g</td><td>~485°F</td><td>Varies by source</td><td>Removed</td><td>$10–15 / lb equiv.</td><td>High-heat cooking; dairy-sensitive individuals</td></tr><tr><td>Clarified Butter (homemade or store)</td><td>~99%</td><td>0g</td><td>~450°F</td><td>Varies by source</td><td>Mostly removed</td><td>$6–10 / lb equiv.</td><td>Sautéing; those mildly lactose-sensitive</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

@@ -25,7 +25,7 @@ faqs:
     a: "Do a strict elimination for four weeks, then reintroduce one dairy product at a time and wait 48-72 hours between each. This is the standard elimination protocol, and it's more informative than any allergy test for non-IgE-mediated reactions. A registered dietitian can walk you through it if you want a more structured approach."
 ---
 
-Most keto content treats dairy as a minor footnote: "Oh, sensitive to dairy? Just swap the cheese." That's not helpful. Going dairy-free on keto means rethinking your fat sources, your breakfast options, your baked goods, your coffee, and — if you're not careful — your electrolyte intake. It's a real restructuring, not a quick swap.
+Most keto content treats dairy as a minor footnote: "Oh, sensitive to dairy? Just swap the cheese." That's not helpful. Going dairy-free on keto means rethinking your fat sources, your breakfast options, your baked goods, your coffee, and, if you're not careful, your electrolyte intake. It's a real restructuring, not a quick swap.
 
 The good news is it's completely doable. I've worked with clients who dropped dairy and found the whole diet easier to stick to. Less digestive noise, less bloating, and often a weight-loss plateau that suddenly broke. The research doesn't give us a clean explanation for why some people stall on dairy, but casein's effect on insulin secretion is a plausible factor, and anecdotally, pulling dairy often shakes things loose.
 
