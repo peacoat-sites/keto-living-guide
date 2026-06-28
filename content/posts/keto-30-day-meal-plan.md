@@ -119,6 +119,15 @@ It happens around day 14 for most people. Everything tastes like eggs and sadnes
 
 ## Electrolytes, Supplements, and What's Actually Worth Taking
 
+## Sources
+
+- [A kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+keto&tag=contentportfo-20)
+- [Meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20)
+- [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+
+
 The supplement market around keto is bloated with products you don't need. Here's the short version.
 
 **Electrolytes: essential.** Aim for 2,000 to 4,000mg sodium per day (more if you're active and sweating), 3,000 to 4,700mg potassium, and 300 to 500mg magnesium. Most people get sodium easily through food and liberal salt use. Potassium comes from avocado, leafy greens, and salmon. Magnesium is hardest to hit from food alone. A magnesium glycinate or malate supplement (glycinate is gentler on digestion than oxide) taken before bed is one of the better uses of $15 in supplement money. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) that covers all three can also simplify things considerably. *(Commission disclosure applies.)*

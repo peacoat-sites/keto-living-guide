@@ -146,6 +146,12 @@ Good meal prep containers make a real difference. [Glass containers with locking
 
 ## Common Beginner Mistakes and How to Avoid Them
 
+## Sources
+
+- [This food scale on Amazon](https://www.amazon.com/s?k=digital+kitchen+scale)
+- [Glass containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers)
+
+
 **Eating too much protein and not enough fat.** Keto is not a high-protein diet. Excess protein can convert to glucose through gluconeogenesis, potentially slowing your path into ketosis. Prioritize fatty cuts of meat, cook in butter, and add avocado.
 
 **Fear of salt.** When you cut carbs, your kidneys excrete sodium at a higher rate. Under-salting your food is one of the main causes of keto flu symptoms. Salt your food to taste, and consider adding a pinch of salt to your water if headaches persist.

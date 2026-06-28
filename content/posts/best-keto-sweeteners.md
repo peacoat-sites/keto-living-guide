@@ -85,6 +85,14 @@ Beyond the bulking agent issue, there's ongoing debate about whether sucralose a
 
 ## How to Substitute Sweeteners in Real Recipes
 
+## Sources
+
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+baking)
+- [Leeloo The First](https://www.pexels.com/@leeloothefirst)
+- from the Cleveland Clinic suggesting a possible association between high erythri
+- is preliminary
+
+
 Swapping sweeteners isn't always a one-to-one trade. Here's how to approach it practically.
 
 **Step 1: Identify the role sugar plays in your recipe.** Is it just sweetness? Or does the recipe also need browning, bulk, moisture retention, or the crystallization properties of sugar? This determines which substitutes will work.

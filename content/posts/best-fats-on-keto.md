@@ -59,6 +59,15 @@ Coconut oil deserves a separate note. It's high in saturated fat (mostly lauric 
 
 ## Practical Fat Intake: What This Looks Like Day to Day
 
+## Sources
+
+- [Sports Research MCT Oil](https://www.amazon.com/dp/B00WFP31ZO?tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/dp/B0113UZJE2?tag=contentportfo-20)
+- [Daniela Elena Tentis](https://www.pexels.com/@daniela-elena-tentis-118658)
+- in *Nutrients* looking at over 30 trials confirmed what clinical practice alread
+- on saturated fat and cardiovascular risk has gotten genuinely more complicated o
+
+
 Getting 60-75% of your calories from fat on keto sounds like a lot until you see what it actually means in food. Two eggs cooked in a tablespoon of butter, a handful of macadamia nuts, half an avocado at lunch, salmon for dinner, and a small amount of olive oil on a salad gets you there without forcing anything. A [kitchen scale](https://www.amazon.com/dp/B0113UZJE2?tag=contentportfo-20) makes this much easier to track in the early weeks.
 
 A reader emailed me a few months ago saying she was eating plenty of fat but still felt unsatisfied and couldn't stay in ketosis. Turned out she was relying heavily on cheese as her primary fat source. Not a terrible food, but it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Variety matters for both nutritional balance and satiety.

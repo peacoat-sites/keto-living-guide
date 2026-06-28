@@ -84,6 +84,15 @@ If your goals are modest, dropping 15 to 20 pounds, reducing afternoon energy cr
 
 ## How to Actually Figure Out Which One You're Doing
 
+## Sources
+
+- [Escali Primo Digital Food Scale](https://www.amazon.com/dp/B0007GAWRS?tag=contentportfo-20)
+- [Keto-Mojo GKI Blood Glucose & Ketone Meter](https://www.amazon.com/dp/B07B94MHSB?tag=contentportfo-20)
+- [LMNT Electrolyte Drink Mix](https://www.amazon.com/dp/B07NKBYH9N?tag=contentportfo-20)
+- supports benefits at this range: improved blood sugar regulation
+- is exploring its role in migraine management and neurodegenerative conditions
+
+
 Step 1: Track your carbs for three days without changing your eating. Use a free app like Cronometer or Carb Manager. Look at net carbs: total carbs minus fiber.
 
 Step 2: Look at where you land. Above 100 grams? You're low-carb light, or possibly just "lower carb than before." Between 50 and 100 grams? Solid low-carb range. Under 50 grams? You might be approaching ketosis. Under 30 grams with adequate fat intake? You're likely there.

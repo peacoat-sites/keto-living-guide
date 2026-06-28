@@ -86,6 +86,15 @@ Keep these on hand regardless: [electrolyte supplements](https://www.amazon.com/
 
 ## How to Actually Use a Keto Meal Delivery Service Without Wasting Money
 
+## Sources
+
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food)
+- [electrolyte supplements](https://www.amazon.com/s?k=electrolyte+supplements+keto)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil)
+- [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers)
+- [keto-friendly snack bars](https://www.amazon.com/s?k=keto+snack+bars)
+
+
 Getting value from these services is partly choosing the right one and partly using it strategically. Here's a step-by-step approach that works better than just subscribing and hoping.
 
 **Step 1: Identify your highest-risk meals.** For most people, it's lunch on workdays or dinner on nights with evening commitments. Pick the meal you most consistently fail to plan for. That's where delivery adds real value.

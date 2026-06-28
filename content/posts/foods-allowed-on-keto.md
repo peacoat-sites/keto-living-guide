@@ -132,6 +132,13 @@ For meal prep, the biggest lever you can pull is portioning and organizing ahead
 
 ## Drinks, Condiments, and Sneaky Carb Sources
 
+## Sources
+
+- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20)
+- [Ivan Vi](https://www.pexels.com/@juanvidas)
+
+
 Beverages are a quiet carb trap. Water is always the right answer. Coffee and tea are fine, black or with heavy cream. Sparkling water is great. Diet sodas are technically zero carbs, but artificial sweeteners affect some people's insulin response and cravings, so they're worth experimenting with rather than assuming they're neutral.
 
 Alcohol is complicated. Dry wine (about 2 to 4 grams per 5-ounce pour) and spirits like whiskey, vodka, gin, and tequila are the lowest-carb options. Beer, cider, and cocktails with juice or soda are mostly off the table. Alcohol also pauses fat burning temporarily because your liver prioritizes metabolizing ethanol. It doesn't permanently kick you out of ketosis, but it does slow things down.

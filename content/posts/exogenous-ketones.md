@@ -63,6 +63,15 @@ What I'd skip: using them as a daily supplement with no specific purpose, buying
 
 ## A Note on Quality and Cost
 
+## Sources
+
+- [www.kaboompics.com](https://www.pexels.com/@karola-g)
+- gives you mental clarity before your 9 a.m. meeting. Here
+- settings and endurance sports contexts but they're expensive (sometimes $30 to $
+- Actually Shows
+- on exogenous ketones involves either animals or very specific human performance
+
+
 The supplement space here is messy. A lot of BHB salt products contain more sodium than the label emphasizes, which matters if you're already getting plenty from food. Some products use cheap blends where the BHB content per serving is lower than it looks. And the GI distress from higher doses of BHB salts is real. I've had clients work up to full servings gradually and that helps, but some people just don't tolerate them well.
 
 Ketone esters, if you want to explore them, HVMN currently makes one of the more accessible versions at around $3 to $4 per serving in bulk. It's still expensive for regular use, but the dose-response is more reliable than salts.

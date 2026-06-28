@@ -108,6 +108,15 @@ Here's where keto gets specific to women, and where generic advice breaks down.
 
 ## What a Realistic Keto Week Looks Like for a Woman Over 40
 
+## Sources
+
+- [A good one](https://www.amazon.com)
+- [LMNT](https://www.amazon.com)
+- [Good meal prep containers](https://www.amazon.com)
+- [MCT oil](https://www.amazon.com)
+- [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
+
+
 This is a template, not gospel. It shows eating keto doesn't mean subsisting on bacon:
 
 | Day | Breakfast | Lunch | Dinner | Snack |

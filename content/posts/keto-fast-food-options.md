@@ -92,6 +92,15 @@ Electrolytes also matter when you're eating fast food on keto. The sodium conten
 
 ## What to Carry With You So Fast Food Is Never Your Only Option
 
+## Sources
+
+- [food scale](https://www.amazon.com/s?k=food+scale+for+keto&tag=contentportfo-20)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20)
+- [MCT oil packets](https://www.amazon.com/s?k=mct+oil+packets+keto&tag=contentportfo-20)
+- [Keto snack bars](https://www.amazon.com/s?k=keto+snack+bars&tag=contentportfo-20)
+- [Flo Dahm](https://www.pexels.com/@flodahm)
+
+
 The smartest keto strategy is having backup with you so fast food becomes a choice instead of an emergency. Clients who reduce their drive-through stress keep a few things in their car or bag:
 
 [MCT oil packets](https://www.amazon.com/s?k=mct+oil+packets+keto&tag=contentportfo-20) are portable fat that kills hunger fast. One packet bridges a 3-4 hour window. [Keto snack bars](https://www.amazon.com/s?k=keto+snack+bars&tag=contentportfo-20) like Perfect Keto or RXBAR (the plain flavors have reasonable carbs) need zero prep. Hard-boiled eggs, string cheese, and pepperoni travel well for a few hours in a small cooler bag.

@@ -84,6 +84,15 @@ On a vegan diet, fixing this gets a bit trickier because you can't salt butter o
 
 ### FAQ
 
+## Sources
+
+- [Naked Pea](https://www.amazon.com/s?k=naked+pea+protein&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
+- [Thai Kitchen full-fat coconut milk](https://www.amazon.com/s?k=thai+kitchen+coconut+milk&tag=contentportfo-20)
+- [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)
+- [LMNT electrolytes](https://www.amazon.com/s?k=lmnt+electrolytes&tag=contentportfo-20)
+
+
 #### Is vegan keto actually effective for weight loss?
 
 Yes. Same reason any keto diet works: caloric restriction and appetite control from eating fat-heavy, protein-adequate food. It's not more effective than other well-structured diets for most people, just effective for the same reasons standard keto is.

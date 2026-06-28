@@ -85,6 +85,15 @@ A kitchen scale takes the guesswork out of portions, especially for calorie-dens
 
 ## Beyond Diet: What Else Moves the Needle
 
+## Sources
+
+- [Check electrolyte options on Amazon here.](https://www.amazon.com/s?k=keto+electrolytes)
+- [A reliable digital food scale](https://www.amazon.com/s?k=digital+food+scale+kitchen)
+- Actually Shows
+- on keto for PCOS is promising but still relatively limited
+- aren't meaningful
+
+
 Diet is the foundation, but it's not the whole building.
 
 Sleep deprivation worsens insulin resistance directly. That means poor sleep can undermine a solid low-carb diet. If you're sleeping under 7 hours, that's worth addressing alongside your food choices.

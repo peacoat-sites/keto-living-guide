@@ -118,6 +118,15 @@ If you have a fever, that's not keto flu. See a doctor.
 
 ## What Doesn't Actually Help (Common Mistakes)
 
+## Sources
+
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20)
+- [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
+- energy levels that exceed their pre-keto baseline once they're fully fat-adapted
+- shows that sugar activates reward pathways in certain populations similarly to a
+
+
 **Chasing ketone levels obsessively.** I see this constantly. People buy blood ketone meters or strips and spiral into anxiety when numbers don't look "right." During the transition, your body's ability to use ketones efficiently is still developing. High ketone readings don't guarantee you feel good, and lower readings don't mean you're failing.
 
 **Adding "keto flu cures" that are basically caffeine.** Several products marketed for keto energy are stimulants. They'll temporarily mask fatigue while your nervous system is already stressed. Not helpful.

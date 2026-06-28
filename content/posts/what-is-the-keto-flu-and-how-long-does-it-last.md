@@ -109,6 +109,12 @@ A few specific behaviors reliably extend or intensify the transition.
 
 ## When to Talk to a Doctor
 
+## Sources
+
+- [LMNT](https://amzn.to/placeholder)
+- [Doctor's Best High Absorption Magnesium](https://amzn.to/placeholder)
+
+
 Keto flu is uncomfortable but not dangerous for most healthy adults. That said, several situations warrant a conversation with your doctor before or during the transition.
 
 If you're managing type 1 or type 2 diabetes, especially on insulin or sulfonylureas, carb restriction can require medication adjustments to avoid hypoglycemia. Don't start keto without medical supervision here.

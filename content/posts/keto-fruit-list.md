@@ -97,6 +97,15 @@ One caveat on blueberries: they're frequently lumped in with raspberries and bla
 
 ## Fruit Substitutions That Actually Work
 
+## Sources
+
+- [A reliable kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+digital&tag=)
+- [MCT oil powder](https://www.amazon.com/s?k=mct+oil+powder+keto&tag=)
+- [keto-friendly nuts](https://www.amazon.com/s?k=keto+snack+nuts+mixed&tag=)
+- [quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=)
+- [Ar kay](https://www.pexels.com/@ar-kay-768552413)
+
+
 Sometimes the issue isn't avoiding fruit entirely. It's replacing what fruit provides: sweetness, freshness, brightness.
 
 For **sweetness in smoothies or yogurt bowls**, frozen raspberries or blackberries plus a drop of liquid stevia gets very close to what a banana or mango gives you, without the carb load.

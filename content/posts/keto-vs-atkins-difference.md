@@ -64,6 +64,15 @@ The other group who should pay attention: people who get stuck. I've seen this p
 
 ## The Product Overlap Situation
 
+## Sources
+
+- [Keto-Mojo GK+ meter](https://www.amazon.com/dp/B07VQCMBQV?tag=contentportfo-20)
+- [Jose Stauffenberg](https://www.pexels.com/@jostauffen)
+- isn't working. Here
+- shows carb-restricted diets beat low-fat diets for weight loss short-term
+- in the *British Journal of Nutrition* shows this pattern repeatedly
+
+
 Atkins-branded products are everywhere. They're slapped with "keto-friendly" labels. They're marketed to both audiences. An Atkins Chocolate Peanut Butter Bar clocks in at 3g net carbs according to the label. It also contains sugar alcohols, specifically maltitol in most versions, which spikes blood sugar harder than other sugar alcohols and can suppress ketones in sensitive people. If you're buying these and assuming they're neutral to ketone levels, test that assumption.
 
 This isn't unique to Atkins. Plenty of "keto-friendly" products have the same problem. But Atkins specifically lives in that dual-audience space where the lines get blurry. If you're serious about staying in ketosis, check your levels after eating them. (The [Keto-Mojo GK+ meter](https://www.amazon.com/dp/B07VQCMBQV?tag=contentportfo-20) runs around $59 and tests both glucose and ketones; it's solid value at that price. *As an Amazon Associate, the site may earn a commission on purchases.*)

@@ -90,6 +90,15 @@ What surprised me when I really looked at the data was how much of the "keto pro
 
 ## How to Build a Practical Keto Protein Strategy
 
+## Sources
+
+- [A reliable digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+digital&tag=contentportfo-20)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement+no+sugar&tag=contentportfo-20)
+- [Jess Loiterton](https://www.pexels.com/@jess-vide)
+- here is mixed
+- and real-world experience with actual keto dieters
+
+
 Here's a simple framework that works in real life:
 
 **Step 1: Calculate your protein target.** Take your goal body weight in pounds and multiply by 0.8. That's a reasonable daily protein target in grams for most moderately active adults. If you're lifting weights regularly, use 1.0. Don't overthink it.

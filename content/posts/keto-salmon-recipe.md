@@ -81,6 +81,14 @@ A kitchen scale matters more than most people expect. Salmon fillets vary wildly
 
 ## Meal Prep: Can You Make Salmon Ahead?
 
+## Sources
+
+- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
+- [A basic digital scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20)
+- [glass meal prep container](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
+- [Ivan S](https://www.pexels.com/@ivan-s)
+
+
 Cooked salmon keeps in the fridge for up to 3 days, and it's genuinely good cold in a salad or flaked into cauliflower rice. But reheated salmon isn't as good as fresh. The texture gets mealy and the fat can turn.
 
 What I do instead: prep everything but the fish. Make the cream sauce, chop the herbs, have the sides ready. The actual sear takes 7 minutes, which is fast enough for a Tuesday night even when you're tired.

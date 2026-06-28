@@ -68,6 +68,15 @@ A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=contentport
 
 ### FAQ
 
+## Sources
+
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20)
+- [avocado oil](https://www.amazon.com/s?k=avocado+oil+spray&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=contentportfo-20)
+- [Felicity Tai](https://www.pexels.com/@felicity-tai)
+- in *Food Science & Nutrition* confirmed the nutritional gap between grass-fed an
+
+
 #### Is butter actually a good fat source for keto, or just a neutral one?
 
 It's genuinely good. High in saturated and monounsaturated fat, essentially zero carbs, and a reasonable source of fat-soluble vitamins. It's not as nutritionally dense as fatty fish or avocado, but as a cooking fat and flavor base it earns its place.

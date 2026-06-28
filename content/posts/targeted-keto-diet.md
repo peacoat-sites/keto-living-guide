@@ -92,6 +92,15 @@ Keep sodium intake deliberate, especially on training days. Don't rely on feelin
 
 ## What the Research Actually Shows
 
+## Sources
+
+- [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+- Actually Shows
+- behind it than standard keto
+- on ketogenic diets and athletic performance
+
+
 I'll be honest: TKD has less direct research behind it than standard keto. Most of what we know comes from broader research on ketogenic diets and athletic performance, plus the well-established physiology of glycogen use during high-intensity exercise.
 
 What the research does consistently show is that ketogenic diets impair high-intensity exercise performance in the short to medium term, and possibly long term for activities dependent on glycolysis. A 2017 study published in the Journal of Sports Medicine found that athletes on keto showed decreased performance in high-intensity efforts compared to carbohydrate-fed counterparts. The mechanism is understood: glycogen depletion limits power output. TKD attempts to address exactly that mechanism.

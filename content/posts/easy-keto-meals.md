@@ -136,6 +136,11 @@ If you're just starting out, understanding [how long it typically takes to enter
 
 ## Batch Cooking: Making Easy Meals Even Easier
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 One of the smartest moves in a keto kitchen is batch cooking once or twice a week. Spend 60 to 90 minutes on a Sunday afternoon and you'll have the building blocks for meals that take under 5 minutes to assemble on weeknights.
 
 Here's what to batch cook most efficiently:

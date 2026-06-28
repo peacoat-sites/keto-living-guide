@@ -116,6 +116,12 @@ Adding [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) to a s
 
 ## Smart Snacking Habits That Make Keto Easier
 
+## Sources
+
+- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
+- [Tamanna Rumee](https://www.pexels.com/@tamanna-rumee-52377920)
+
+
 Having the list is half the battle. Using it well is the other half.
 
 **Prep in advance.** The moment you're hungry is the worst time to decide what to eat. Hard-boil eggs at the start of the week. Pre-portion nuts into small bags or containers. Cut vegetables on Sunday. When a ready option is sitting in the fridge, you'll reach for it. When it's not, you'll reach for something you'll regret.

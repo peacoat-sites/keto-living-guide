@@ -65,6 +65,15 @@ MCT oil is worth mentioning here. Medium-chain triglycerides, found in coconut o
 
 ## Why Some People Never Get the Clarity Boost
 
+## Sources
+
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=bulletproof+brain+octane+C8+MCT+oil&tag=contentportfo-20)
+- [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818)
+- thinking through a thick glass wall. This
+- sleeping better because you're not waking up at 3 a.m. with blood sugar swings. MCT
+
+
 This is the part I think is most underserved in most keto content.
 
 Not everyone feels mentally sharper on keto, and if that's you, it's not a personal failure. A few things worth examining:

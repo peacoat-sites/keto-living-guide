@@ -76,6 +76,15 @@ Salt your food aggressively. I mean genuinely aggressively, more than feels righ
 
 ## Meal Planning That Doesn't Make You Miserable
 
+## Sources
+
+- [Ozeri Pronto digital scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20)
+- [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=mct+oil+brain+octane&tag=contentportfo-20)
+- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=contentportfo-20)
+- [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=contentportfo-20)
+
+
 The first week of vegetarian keto is the hardest, not because of the biology but because you haven't built the habits yet. What I tell clients: spend 20 minutes before the week starts and map out breakfast and lunch. Dinner can be more flexible. If you wake up without a plan you will stand in front of the fridge feeling annoyed at eggs.
 
 A workable day looks like: scrambled eggs with spinach and feta in the morning, a big salad with avocado, hemp seeds, and olive oil dressing at lunch, and dinner that's either a tofu stir-fry with low-carb vegetables in sesame oil, a crustless quiche, or zucchini noodles with a creamy pesto and cottage cheese protein boost. None of these require advanced cooking skills.

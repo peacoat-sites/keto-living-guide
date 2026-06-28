@@ -67,6 +67,14 @@ Sesame seeds are worth mentioning: about 1 gram net carb per tablespoon, high in
 
 ## On Nut Butters
 
+## Sources
+
+- [a kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20)
+- [Anthony's Organic Flaxseed Meal](https://www.amazon.com/s?k=anthony%27s+organic+flaxseed+meal&tag=contentportfo-20)
+- [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai)
+- on this is consistent
+
+
 Most of the same logic applies, with one additional complication: additives. Natural almond or peanut butter (two ingredients: nuts, maybe salt) is fine. The commercial "natural" versions that have added sugar, palm oil, or honey are not keto-friendly in any meaningful quantity, regardless of what the packaging implies.
 
 Peanut butter is technically a legume butter, not a nut butter, which keto purists sometimes use to argue against it. I find this argument uncompelling. About 4 grams net carbs per 2 tablespoons, good fat content, cheap, widely available. If it fits your macros, it fits your macros.

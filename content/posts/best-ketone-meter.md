@@ -57,6 +57,14 @@ The people who get the most value from frequent testing are those doing ketogeni
 
 ## Practical Setup: What You Actually Need to Start
 
+## Sources
+
+- [i-SENS, USA](https://www.pexels.com/@i-sens-usa-578245562)
+- behind it is more rigorous than competitors
+- than any other consumer ketone meter
+- rather than snapshot readings
+
+
 If you're buying your first meter and want one device that does the job well without overcomplplicating things, get the Keto-Mojo GK+ Duo. Download the app. Buy a box of both glucose and ketone strips, because testing glucose alongside ketones gives you the Glucose Ketone Index (GKI), which is a more informative number than BHB alone for understanding metabolic state.
 
 You'll also want a decent lancet device. The one Keto-Mojo bundles is fine, but the **Genteel Plus** lancing device (around $30) uses vacuum suction to draw blood without having to prick quite as deep, which matters if you're testing daily.

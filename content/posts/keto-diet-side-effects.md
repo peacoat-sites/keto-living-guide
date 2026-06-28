@@ -94,6 +94,15 @@ Most keto side effects are front-loaded in the first few weeks. But there are a 
 
 ## Side Effects That Signal You Should Pause and Talk to a Doctor
 
+## Sources
+
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [Doctor's Best High Absorption Magnesium](https://www.amazon.com/s?k=doctors+best+magnesium+glycinate&tag=contentportfo-20)
+- [Sports Research MCT Oil](https://www.amazon.com/s?k=sports+research+mct+oil&tag=contentportfo-20)
+- [OXO Good Grips Digital Scale](https://www.amazon.com/s?k=OXO+digital+kitchen+scale&tag=contentportfo-20)
+- [Andrea Piacquadio](https://www.pexels.com/@olly)
+
+
 Keto isn't appropriate for everyone, and some symptoms aren't "just the keto flu." Stop and seek medical advice if you experience:
 
 - Persistent heart palpitations that don't improve after electrolyte correction within 48 hours

@@ -103,6 +103,13 @@ If electrolyte issues are part of your early-keto struggles (very common), a qua
 
 ## Which Method Should You Use? An Honest Answer
 
+## Sources
+
+- [like this one on Amazon](https://www.amazon.com)
+- [Silviu Din](https://www.pexels.com/@silviu-din-1620549)
+- Total Carbohydrates. Net
+
+
 There's no universal right answer, which I know feels unhelpful when you want a clear rule. But here's how to think about it:
 
 **Count total carbs if:** you're new to keto, you've been stuck for more than two weeks without explanation, you eat a lot of packaged "keto" products, you have type 2 diabetes or insulin resistance and need precise glucose control, or you just want to keep it simple.

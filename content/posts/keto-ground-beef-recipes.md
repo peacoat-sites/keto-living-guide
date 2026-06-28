@@ -93,6 +93,12 @@ People tend to make the same errors, and they're all easy to fix.
 
 ## Meal Prep with Ground Beef: Make It Once, Eat It Four Times
 
+## Sources
+
+- [Ozeri Pronto Digital Kitchen Scale on Amazon](https://www.amazon.com/s?k=kitchen+scale+for+cooking)
+- [Angele  J](https://www.pexels.com/@angele-j-35172)
+
+
 Ground beef is one of the best ingredients for keto meal prep. Cook a large batch on Sunday and repurpose it across the week.
 
 Here's a realistic four-meal plan from a single 2-pound batch of browned, seasoned ground beef:

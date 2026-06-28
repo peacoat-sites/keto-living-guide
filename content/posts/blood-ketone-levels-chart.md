@@ -66,6 +66,14 @@ Once you know your patterns, once or twice a week at a consistent time gives you
 
 ## When Numbers Behave Strangely
 
+## Sources
+
+- [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch)
+- on therapeutic ketosis
+- than chasing a perfect number after every meal
+- without the cost
+
+
 A few scenarios I get asked about constantly:
 
 You've been strict for two weeks and you're reading 0.2 mmol/L. Most likely culprits: protein is too high (excess protein can be gluconeogenic, though this is overstated in the keto world), you're eating more carbs than you think, or your body just needs more time. Some people take three to four weeks to fully shift. Also check your electrolytes. Severe sodium depletion can affect how your body metabolizes fuels.

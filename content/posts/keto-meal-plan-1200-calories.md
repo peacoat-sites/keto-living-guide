@@ -85,6 +85,15 @@ You're not going to gain weight from 50-100 extra calories on a given day. If yo
 
 ### Do I really need electrolyte supplements on keto at 1,200 calories?
 
+## Sources
+
+- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [magnesium glycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=contentportfo-20)
+- [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20)
+- [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
+- [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch)
+
+
 Not technically, but practically yes. Getting adequate electrolytes through food alone at this calorie level is difficult. Without supplementation, most people experience headaches, cramps, and fatigue that make the diet harder to stick with. It's worth the investment.
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*

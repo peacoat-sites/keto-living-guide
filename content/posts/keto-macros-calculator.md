@@ -109,6 +109,15 @@ The calculator is only as useful as the inputs you give it. Here are the errors 
 
 ## What to Do With Your Numbers Once You Have Them
 
+## Sources
+
+- [this one on Amazon](https://www.amazon.com)
+- [kitchen food scale](https://www.amazon.com)
+- [LMNT](https://www.amazon.com)
+- [The Ketogenic Bible](https://www.amazon.com)
+- [Markus Spiske](https://www.pexels.com/@markusspiske)
+
+
 Having macro targets is just the prerequisite. Acting on them consistently is the actual work. A few practical systems make that easier.
 
 Start with a meal template rather than tracking every bite from scratch every day. Once you know your targets, build 2-3 repeatable breakfasts, 2-3 lunches, and a handful of dinner options that hit your numbers. For Sarah in our example above, a breakfast of 3 eggs cooked in a tablespoon of butter plus two strips of bacon covers roughly 25g protein, 28g fat, and 1g net carbs. That's a template she can use without logging from scratch.

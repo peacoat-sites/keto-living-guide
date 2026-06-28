@@ -86,6 +86,15 @@ For meal prep, the right containers make consistency easier. [Glass meal prep co
 
 ## Tracking Macros Without Losing Your Mind
 
+## Sources
+
+- [LMNT electrolyte packets](https://www.amazon.com)
+- [Glass meal prep containers](https://www.amazon.com)
+- [kitchen scale](https://www.amazon.com)
+- [Alexy Almond](https://www.pexels.com/@alexy-almond)
+- here is solid for specific outcomes
+
+
 You don't need to track forever. But for the first four weeks, tracking teaches you where carbs actually hide. Ketchup. Salad dressings. Nuts. That "healthy" protein bar. Most people are shocked.
 
 Download Cronometer or Carb Manager. Both are free and handle net carb calculations automatically. Log your meals for a few weeks until you develop an intuitive sense of portions. After that, many people move to a loose approach where they track occasionally or only when progress stalls.

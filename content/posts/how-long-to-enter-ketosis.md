@@ -85,6 +85,15 @@ If you want to get into ketosis as fast as safely possible, here's a practical s
 
 ## How to Know You're Actually in Ketosis
 
+## Sources
+
+- [LMNT and similar no-sugar electrolyte packets](https://www.amazon.com/s?k=keto+electrolytes&tag=contentportfo-20)
+- [C8 MCT oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20)
+- [Blood ketone meters](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
+- [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=contentportfo-20)
+- [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
+
+
 Testing is reliable. Symptoms are less so.
 
 The subjective signs people report: a metallic or slightly fruity taste in the mouth (from acetone exhaled through breath), decreased appetite and hunger, increased urine output in the early days, and a temporary dip in energy followed by a clear-headed calm around days 3 to 5. Some notice their urine smells different. But these aren't specific to ketosis. Fatigue could be keto flu or just fatigue. Decreased appetite could be from eating more fat and protein.

@@ -101,6 +101,15 @@ You don't have to, but it removes guesswork. Blood ketone meters are the gold st
 
 ## Keto Isn't for Everyone: The Honest Part
 
+## Sources
+
+- [A simple digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)
+- [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+- [Valeria Boltneva](https://www.pexels.com/@valeriya)
+- published in *Obesity Reviews* found that very low-carbohydrate diets produced s
+- in *Diabetes Therapy* found that patients with type 2 diabetes following a ketog
+
+
 I wouldn't be doing you any favors if I skipped this. Keto works well for a lot of people, but it's not a universal solution and there are situations where it requires caution or outright avoidance.
 
 People with type 1 diabetes need close medical supervision due to the risk of diabetic ketoacidosis, which is a different (and dangerous) state from nutritional ketosis. Those with a history of disordered eating may find strict macro tracking counterproductive. Gallbladder issues can flare up with a sudden increase in dietary fat. And some people simply feel terrible on keto for months and never adapt, which is real and not a personal failure.

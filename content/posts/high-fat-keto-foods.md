@@ -68,6 +68,14 @@ Zucchini, asparagus, Brussels sprouts, green beans, cabbage. All low in net carb
 
 ## Practical Assembly: What a Day Actually Looks Like
 
+## Sources
+
+- [Bulletproof Brain Octane](https://www.amazon.com/s?k=MCT+oil+C8&tag=contentportfo-20)
+- [Ozeri Pronto](https://www.amazon.com/s?k=Ozeri+Pronto+kitchen+scale&tag=contentportfo-20)
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [Mithul Varshan](https://www.pexels.com/@mithulvarshan)
+
+
 You might be wondering how to actually do this without spending an hour cooking every meal. Here's what I tell people when they're getting started.
 
 Breakfast doesn't demand effort. Three eggs scrambled in a tablespoon of butter, half an avocado, and coffee with a splash of heavy cream gets you to 35+ grams of fat before 9am. That's not a special occasion meal. It's a ten-minute routine.

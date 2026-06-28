@@ -84,6 +84,15 @@ MCT oil can bridge the early adaptation phase. Medium-chain triglycerides conver
 
 ## How You Know It's Working
 
+## Sources
+
+- [Alexas Fotos](https://www.pexels.com/@alexasfotos)
+- improved endurance)</td><td>Maintenance phase
+- doesn't suggest MCTs speed up the underlying adaptation process
+- cold-pressed coconut-sourced MCT oil
+- if you want it
+
+
 Forget urine ketone strips after the first few weeks. They measure ketone spillage, not utilization, and they become unreliable once your kidneys and muscles get efficient at using ketones rather than dumping them. Blood ketone meters like the Keto-Mojo (around $60 for the meter kit) give you actual data if you want it.
 
 But honestly, the subjective signs are reliable too. Stable energy without eating every few hours. Exercise that feels sustainable instead of running on fumes. Mental clarity that doesn't require caffeine every 90 minutes. Hunger that's more like a suggestion than an alarm. You'll know.

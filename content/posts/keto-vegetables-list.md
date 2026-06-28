@@ -110,6 +110,12 @@ A kitchen scale and a reliable carb-tracking app make this kind of monitoring mu
 
 ## How to Build a Keto Plate Around Vegetables
 
+## Sources
+
+- [digital kitchen scale](https://www.amazon.com)
+- [keto electrolyte supplement](https://www.amazon.com)
+
+
 Here's a practical approach I give to clients who are meal prepping or just trying to get the week organized.
 
 **Step 1: Choose your leafy green base.** Start every dinner plate with a foundation of leafy greens. Two cups of spinach, arugula, or romaine costs you almost nothing in carbs and gives you a real nutritional foundation.

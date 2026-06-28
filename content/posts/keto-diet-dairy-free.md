@@ -82,6 +82,15 @@ Pea protein and hemp protein work, but they have a stronger flavor that not ever
 
 ## Electrolytes Without Dairy
 
+## Sources
+
+- [Nutiva Organic Coconut Oil](https://www.amazon.com/s?k=nutiva+organic+coconut+oil&tag=contentportfo-20)
+- [Chosen Foods avocado oil](https://www.amazon.com/s?k=chosen+foods+avocado+oil&tag=contentportfo-20)
+- [Milkadamia unsweetened](https://www.amazon.com/s?k=milkadamia+unsweetened&tag=contentportfo-20)
+- [Miyoko's Organic Vegan Butter](https://www.amazon.com/s?k=miyokos+vegan+butter&tag=contentportfo-20)
+- [Anthony's Egg White Protein](https://www.amazon.com/s?k=anthony%27s+egg+white+protein&tag=contentportfo-20)
+
+
 Dairy contributes some calcium and potassium to a standard keto diet. Without it, you need to be a bit more deliberate.
 
 Calcium from leafy greens (collards, bok choy, kale) is well-absorbed. Canned salmon and sardines with bones are excellent calcium sources. Most people doing keto are more concerned about sodium, potassium, and magnesium anyway, but calcium is worth tracking if you're dairy-free and not eating many vegetables.

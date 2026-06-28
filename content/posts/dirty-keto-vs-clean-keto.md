@@ -83,6 +83,15 @@ The honest takeaway isn't "dirty keto is bad." It's that dirty keto trades long-
 
 ## How to Shift From Dirty to Cleaner Without Losing Your Mind
 
+## Sources
+
+- [a quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=)
+- [good kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=)
+- [Keto-friendly nut packs](https://www.amazon.com/s?k=macadamia+nuts+keto&tag=)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=)
+- in ketosis. A
+
+
 You don't have to overhaul everything at once.
 
 1. **Audit one meal first.** Look at breakfast. If it's processed meat and a diet soda, swap one element. Add two eggs cooked in butter. Add half an avocado. That's it.

@@ -76,6 +76,15 @@ The research on self-monitoring generally supports it for dietary adherence, but
 
 ### FAQ
 
+## Sources
+
+- [Keto-Mojo meter](https://www.amazon.com/s?k=keto+mojo+meter&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=food+scale+kitchen&tag=contentportfo-20)
+- [electrolyte supplements](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20)
+- [FOX ^.ᆽ.^= ∫](https://www.pexels.com/@fox-58267)
+
+
 #### Is Carb Manager actually free, or is it free-to-start?
 
 The core features, including macro tracking, barcode scanning, and meal logging, are genuinely free with no time limit. Some premium features (advanced analytics, unlimited recipes, ketone logging) sit behind the paid tier, but you won't hit a paywall on basic daily tracking.

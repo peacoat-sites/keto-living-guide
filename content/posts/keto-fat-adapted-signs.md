@@ -93,6 +93,15 @@ Adding [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) during
 
 ## The Bottom Line
 
+## Sources
+
+- [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20)
+- [Olga Lazurenko](https://www.pexels.com/@olga-lazurenko-637669623)
+- sharper focus and steadier cognition throughout the day
+
+
 The transition to fat adaptation is genuinely interesting metabolically and massively misunderstood. Most people look for dramatic signals when the real one is quieter: fewer cravings, steadier days, hunger that whispers instead of shouts. If you're in the middle of it right now and it's hard, that's normal. Give your body the full eight to twelve weeks before deciding it isn't working. The physiology is real, the timeline is real, and most people who stick it out reach the other side and realize they can't quite remember when things changed.
 
 *Photo: [Olga Lazurenko](https://www.pexels.com/@olga-lazurenko-637669623) via Pexels*

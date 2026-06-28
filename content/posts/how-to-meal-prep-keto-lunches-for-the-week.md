@@ -106,6 +106,14 @@ The biggest mistake I see is treating avocado like a prep ingredient. It's not. 
 
 ## Keeping Macros on Track Without Obsessing
 
+## Sources
+
+- [A digital food scale](https://www.amazon.com/s?k=digital+food+scale)
+- [Glass meal prep containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers+with+lids)
+- [Quality MCT oil](https://www.amazon.com/s?k=mct+oil+keto)
+- [keto electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement)
+
+
 Keto works within a range, not a perfect number. Most people doing therapeutic keto for weight loss are aiming to stay under 20-50g net carbs per day, with fat making up roughly 60-75% of calories and protein somewhere around 20-25%. Those ranges vary by individual, and if you have a specific medical reason for doing keto, you should be working with a healthcare provider on your exact targets.
 
 For lunch specifically, aim for something in the range of 400-600 calories (exact amount depends on your total daily target), with at least 25-35g of protein to keep you satisfied through the afternoon.

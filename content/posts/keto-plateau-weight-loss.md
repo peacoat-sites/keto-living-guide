@@ -99,6 +99,15 @@ A few caveats: IF isn't magic, and it doesn't override excessive calorie intake.
 
 ## The Comparison: Common Plateau Fixes at a Glance
 
+## Sources
+
+- [OXO Good Grips 11-Pound Food Scale](https://www.amazon.com)
+- [LMNT Electrolyte Drink Mix](https://www.amazon.com)
+- [SHVETS production](https://www.pexels.com/@shvets-production)
+- published in *Obesity* (Rosenbaum & Leibel
+- suggests NEAT can vary by up to 2
+
+
 | Strategy | Time to See Results | Difficulty | Best For |
 |---|---|---|---|
 | Food logging + calorie audit | 1 to 2 weeks | Low | Calorie creep |

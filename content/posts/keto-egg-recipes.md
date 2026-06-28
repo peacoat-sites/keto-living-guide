@@ -59,6 +59,14 @@ Sous vide eggs are worth mentioning if you already own a circulator. At 145°F f
 
 ## A Note on How Many Eggs Is Actually Too Many
 
+## Sources
+
+- [Prep Naturals glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+keto)
+- [Pixabay](https://www.pexels.com/@pixabay)
+- here is genuinely mixed
+
+
 The research here is genuinely mixed. Dietary cholesterol and cardiovascular risk have a more complicated relationship than the old "eggs are dangerous" narrative suggested. But "eat unlimited eggs with zero consideration" is also a stretch. Most studies on higher egg consumption show neutral or positive outcomes in metabolic markers for people without pre-existing lipid disorders. Individual responses vary significantly.
 
 For most of my clients, two to four eggs a day is a reasonable and sustainable range. Some people do egg fasts eating six or more per day for short periods without issue. If you have familial hypercholesterolemia or you're already managing high LDL, this is a conversation to have with your doctor before making eggs your primary protein.

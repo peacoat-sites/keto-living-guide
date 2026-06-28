@@ -63,6 +63,15 @@ For electrolyte tracking, if you're supplementing with something like LMNT or ma
 
 ## Building a Habit That Sticks
 
+## Sources
+
+- [Brett Jordan](https://www.pexels.com/@brettjordan)
+- is obsessively detailed
+- to how they actually felt
+- on food tracking is clear: people who log for the first 60 days of a dietary cha
+- quality or wanting deeper nutrient tracking
+
+
 The research on food tracking is clear: people who log for the first 60 days of a dietary change are significantly more likely to maintain it at six months. But logging rates drop hard after week two if the friction is too high. Pick an app you'll actually open, not the most sophisticated one.
 
 My recommendation: start with Carb Manager's free tier for the first month. The interface is forgiving, the keto defaults are correct, and you won't pay anything while you figure out whether you're actually going to use it. If you're three or four weeks in and frustrated by the data quality or wanting deeper nutrient tracking, that's when you switch to Cronometer. By then you'll know your common foods and setup goes faster.

@@ -68,6 +68,13 @@ The queso blanco at Chipotle has around 3-4 grams of net carbs per serving. The 
 
 ## A Contrarian Take: Don't Stress the Salsa
 
+## Sources
+
+- [Anastasiia Lopushynska](https://www.pexels.com/@lapushkina)
+- here is mixed on whether it belongs on a keto plate
+- is genuinely easy to access
+
+
 I've seen keto guides that tell you to skip all salsa at Chipotle to be safe. That's bad advice. The fresh tomato salsa and the green tomatillo salsa are both under 5 grams of net carbs, they contain actual vegetables and fiber, and they're probably the most nutritionally interesting thing on the line. Cutting them to save 4 grams of carbs while loading up on sour cream and cheese is a weird prioritization. Real food with micronutrients is worth the carb budget.
 
 The corn salsa, yes, absolutely skip that one. But blanket salsa avoidance is overcautious in a way that makes keto harder to sustain and less pleasant. That's ultimately what derails people.

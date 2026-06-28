@@ -86,6 +86,12 @@ One more thing: keto chocolate cake doesn't freeze especially well once frosted.
 
 ## A Note on Realistic Expectations
 
+## Sources
+
+- [Nishant Sharma](https://www.pexels.com/@nishant-sharma-77755298)
+- on low-carb diets and blood sugar management is solid
+
+
 A reader emailed me a few months back saying she'd made three different keto chocolate cake recipes and hated all of them, asking if it was even possible to make one worth eating. I told her honestly: yes, but your expectations have to match reality. If you're comparing it to a slice of Costco sheet cake, you'll always be disappointed. If you're evaluating it as its own thing, a rich, chocolate-forward, low-carb dessert that you can eat without spiking your blood sugar, it genuinely delivers.
 
 The research on low-carb diets and blood sugar management is solid. The part about keto desserts being indistinguishable from the real thing is marketing.

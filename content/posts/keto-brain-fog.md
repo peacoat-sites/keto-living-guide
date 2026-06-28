@@ -83,6 +83,15 @@ This is where I see people get truly stuck. First week's done, electrolytes are 
 
 ## What the Research Actually Shows About Ketones and Cognition
 
+## Sources
+
+- [Timur Weber](https://www.pexels.com/@timur-weber)
+- actually shows
+- even suggests they're more efficient per unit of oxygen)
+- Actually Shows About Ketones and Cognition
+- on ketogenic diets and cognitive performance in healthy adults is mixed
+
+
 I'll be straight with you: the research on ketogenic diets and cognitive performance in healthy adults is mixed, and the improvements aren't huge.
 
 There are genuinely interesting findings in clinical populations. People with Alzheimer's or epilepsy show real neurological benefits from ketones. Henderson and colleagues published a 2012 study in Neurobiology of Aging showing cognitive improvements in older adults with mild cognitive impairment after MCT supplementation. Reger's team found similar effects in 2004. But jumping from "people with cognitive decline got better" to "keto makes sharp people sharper" is a bigger leap than the data supports.

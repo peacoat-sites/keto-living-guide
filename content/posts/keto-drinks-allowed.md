@@ -76,6 +76,15 @@ If you're not seeing results and your carbs are genuinely low, cutting diet soda
 
 ## Keto-Friendly Drinks Worth Knowing About
 
+## Sources
+
+- [This one from LMNT](https://amzn.to/3example)
+- [MCT oil like this one from Sports Research](https://amzn.to/3example)
+- [Dovinda Rd](https://www.pexels.com/@dovinda-rd-993674313)
+- on whether artificial sweeteners affect insulin response or gut microbiome compo
+- isn't there yet
+
+
 Beyond the basics:
 
 **Bone broth:** Around 1 to 2 grams of carbs per cup, high in sodium and collagen. Excellent for electrolytes, especially in the first few weeks. Warm and savory, it's useful for people who struggle with late-night snack cravings.

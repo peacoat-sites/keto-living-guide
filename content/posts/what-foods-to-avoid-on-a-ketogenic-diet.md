@@ -80,6 +80,11 @@ Keeping a kitchen scale and reading labels consistently are two habits that sepa
 
 ## Alcohol and the Keto Conversation Nobody Wants to Have
 
+## Sources
+
+- here is genuinely mixed
+
+
 Alcohol on keto is a topic where I've seen a lot of wishful thinking, and I want to give you the honest version.
 
 The research here is genuinely mixed. Pure spirits like vodka, whiskey, tequila, and gin contain zero carbohydrates. Dry wines run about 2 to 4 grams per 5-ounce glass. So technically, these fit the carb math of keto. But there are complicating factors.

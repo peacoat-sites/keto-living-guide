@@ -106,6 +106,15 @@ That said, MCT oil isn't magic. If you're already eating at a calorie surplus, a
 
 ## Common Side Effects and How to Avoid Them
 
+## Sources
+
+- [Bulletproof Brain Octane C8 MCT Oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20)
+- [Sports Research MCT Oil](https://www.amazon.com/s?k=Sports+Research+MCT+oil&tag=contentportfo-20)
+- [Polina ⠀](https://www.pexels.com/@polina-kovaleva)
+- sharper focus and reduced brain fog when they add MCT oil to their morning routi
+- published in the *European Journal of Clinical Nutrition* found that participant
+
+
 MCT oil has one notorious downside: digestive distress. People call it "disaster pants" and they're not joking.
 
 Caprylic acid in particular can cause rapid gut motility, which means cramping, loose stools, and urgency if you take too much too soon. This isn't dangerous, but it's uncomfortable and it puts a lot of people off MCT oil permanently, which is a shame because it's entirely preventable.

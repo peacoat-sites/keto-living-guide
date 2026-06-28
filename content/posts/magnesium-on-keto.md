@@ -85,6 +85,15 @@ The harder reality is that hitting 350 to 400mg from food alone while keeping ca
 
 ## A Practical Protocol for Getting Magnesium Right on Keto
 
+## Sources
+
+- [Thorne Magnesium Bisglycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutrition&tag=contentportfo-20)
+- [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=contentportfo-20)
+- [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
+- here is mixed and I won't oversell it
+
+
 If you're dealing with symptoms right now, here's what I'd actually walk through with a client:
 
 1. **Audit your current intake.** Use Cronometer (free version is fine) and log three days of eating. Most people are shocked at how far below target they are.

@@ -102,6 +102,13 @@ For whole, unprocessed foods, use a reliable nutrition database like Cronometer 
 
 ## Practical Mistakes That Mess Up the Math
 
+## Sources
+
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20)
+- is mixed in places
+- supports this in most healthy people
+
+
 A few patterns I see repeatedly.
 
 **Trusting the front-of-package claim without checking the label.** "2g net carbs!" on the front sometimes involves math that only works if you subtract maltitol in full. Flip the package over and do your own calculation.

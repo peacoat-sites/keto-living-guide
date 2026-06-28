@@ -120,6 +120,12 @@ For more ideas on what to actually eat when you're getting started, the [easy ke
 
 ## Flavor Variations to Keep Things Interesting
 
+## Sources
+
+- [digital kitchen scale on Amazon](https://www.amazon.com/s?k=digital+kitchen+scale)
+- [Ivan S](https://www.pexels.com/@ivan-s)
+
+
 Basic keto bread is a foundation. Once you have the base recipe working, you can go anywhere.
 
 **Garlic herb bread:** Add 1 teaspoon of garlic powder and 1 tablespoon of dried rosemary or Italian seasoning to the dry ingredients. Brush the top with garlic butter before baking. Excellent with soups or as a side for keto pasta.

@@ -73,6 +73,13 @@ Some people track their Glucose Ketone Index (GKI), which is blood glucose (in m
 
 ## A Note on Exogenous Ketones and Testing
 
+## Sources
+
+- [Artem Podrez](https://www.pexels.com/@artempodrez)
+- in the *Journal of Breath Research* found breath acetone correlated reasonably w
+- doesn't back the idea that higher ketones equal better results for most people d
+
+
 Taking exogenous ketone supplements (HVMN, Perfect Keto's ketone esters or salts) will show up as elevated BHB on a blood meter. That doesn't mean you're in nutritional ketosis. It means you drank ketones. This surprises people. I've had readers get excited telling me their blood ketones hit 4.2 after a ketone drink, thinking it's a sign of something. It's not. The goal is endogenous production from fat metabolism. Exogenous supplementation is a different animal.
 
 ---

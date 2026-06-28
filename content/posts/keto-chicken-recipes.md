@@ -91,6 +91,11 @@ Rotate through four or five of these across a two-week period and you're never a
 
 ## Meal Prepping Keto Chicken Like a Pro
 
+## Sources
+
+- [This food scale on Amazon](https://www.amazon.com/s?k=kitchen+food+scale)
+
+
 Batch cooking is the single most reliable strategy for staying on a ketogenic diet long-term. When there's cooked protein in the refrigerator, the 6 PM "I don't know what to eat" moment doesn't spiral into a drive-through decision.
 
 Here's a practical Sunday prep routine:

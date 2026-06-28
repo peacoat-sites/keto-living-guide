@@ -85,6 +85,14 @@ Honest take: most RTD keto coffees are overpriced. Making a cold brew at home an
 
 ### FAQ
 
+## Sources
+
+- [personal blender like the NutriBullet](https://www.amazon.com/s?k=NutriBullet+personal+blender&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20)
+- [Picas Joe](https://www.pexels.com/@picasjoe)
+- noticeable mental clarity and energy within 30-60 minutes
+
+
 **Question?**
 Still need to be added by client.
 

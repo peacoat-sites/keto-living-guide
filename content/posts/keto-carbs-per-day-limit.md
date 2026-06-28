@@ -95,6 +95,11 @@ Carb count is the main lever, but it's not the only one. I've worked with people
 
 ## A Quick Comparison: Common Keto Approaches by Carb Level
 
+## Sources
+
+- and real-world practice show is that most people doing keto for weight loss land
+
+
 | Approach | Daily Carb Range | Who It's For |
 |---|---|---|
 | Strict / Therapeutic Keto | 10 to 20g total carbs | Clinical use (epilepsy), those needing deep ketosis |

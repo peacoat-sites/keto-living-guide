@@ -102,6 +102,15 @@ A Lily's chocolate bar or a couple squares of 85%+ dark chocolate. Not zero carb
 
 ## What to Skip (And Why the Labels Are Misleading)
 
+## Sources
+
+- [You can sometimes find them cheaper in bulk on Amazon](https://www.amazon.com/)
+- and from working with real people trying to make this stick
+- on erythritol is generally reassuring
+- here is mixed on whether certain "keto" products belong in the category at all
+- on whether diet sodas affect insulin or appetite is genuinely inconclusive
+
+
 The research here is mixed on whether certain "keto" products belong in the category at all, and I'd rather flag the problem categories than let you find out at the register.
 
 **Quest bars and similar protein bars.** Not bad products, and not entirely off limits. But a lot of them run 4-8g net carbs after subtracting fiber, and the texture comes from ingredients your body may have an unpredictable response to. Some people stall on keto when bars become daily staples. I've seen it enough times that I recommend them as occasional fallbacks, not daily snacks.

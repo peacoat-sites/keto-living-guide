@@ -78,6 +78,15 @@ And if you're tracking your electrolyte intake (a kitchen scale like the [OXO Go
 
 ## Recommended Resources
 
+## Sources
+
+- [Amazon](https://www.amazon.com/s?k=LMNT+electrolytes)
+- [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+kitchen+scale)
+- [Jonathan Borba](https://www.pexels.com/@jonathanborba)
+- [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
+- [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.

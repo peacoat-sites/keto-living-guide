@@ -111,6 +111,15 @@ If your primary goal is fat loss and you're not a high-level athlete, standard k
 
 ## Adding Movement to Accelerate Your Results
 
+## Sources
+
+- [This OXO digital scale](https://www.amazon.com)
+- [LMNT is popular](https://www.amazon.com)
+- [Annushka Ahuja](https://www.pexels.com/@annushka-ahuja)
+- in *Obesity Reviews* found that very low-carb diets produced significantly great
+- found that subjects in ketosis maintained muscle during resistance training whil
+
+
 Keto works solo. But pair it with the right movement and everything accelerates.
 
 Resistance training is the highest-value exercise to combine with keto for weight loss. Building or maintaining muscle keeps your resting metabolic rate higher, so you burn more calories at rest. A 2019 *Journal of Strength and Conditioning Research* study found that subjects in ketosis maintained muscle during resistance training while losing significantly more fat than controls.

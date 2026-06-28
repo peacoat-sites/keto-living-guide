@@ -67,6 +67,15 @@ LDL cholesterol specifically warrants a note. In some people, LDL rises signific
 
 ## Tracking, tools, and where people waste money
 
+## Sources
+
+- [Nadin Sh](https://www.pexels.com/@nadin-sh-78971847)
+- that surprisingly clear-headed feeling after the first couple weeks
+- backing this is genuinely strong
+- in *Diabetes Care* following nearly 300 patients with type 2 diabetes found that
+- actually shows keto is good for
+
+
 You don't need a $400 continuous glucose monitor to do keto well. Most people don't need to track ketones obsessively either. What you actually need: a food scale (the OXO Good Grips at around $50 is accurate and durable), a reliable way to log food (Cronometer is better than MyFitnessPal for micronutrient tracking and it's free), and enough patience to cook real food most of the time.
 
 Where people genuinely waste money is on keto specialty products. Exogenous ketone supplements (BHB salts, usually $60-80 a tub) do temporarily raise blood ketones but don't put you in nutritional ketosis or meaningfully accelerate fat adaptation. The research on their performance benefits is thin. If you want to spend $70 a month on something keto-related, spend it on quality protein and good olive oil.

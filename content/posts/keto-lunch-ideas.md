@@ -112,6 +112,11 @@ Here's something I've noticed: people new to keto tend to undereat fat at lunch,
 
 ## Staying Consistent: The Lunch Habits That Stick
 
+## Sources
+
+- [food scale on Amazon](https://www.amazon.com/s?k=kitchen+food+scale)
+
+
 Variety matters for long-term adherence, but routine matters more. People who stay on keto successfully rotate three to five lunches they can make on autopilot. Novelty is fun for the first few weeks. After that, simplicity wins.
 
 Keep your pantry stocked with canned fish (tuna, salmon, sardines), a few cheeses, good mayo or olive oil, and some leafy green. Those four categories alone generate a dozen different lunches without a single recipe.

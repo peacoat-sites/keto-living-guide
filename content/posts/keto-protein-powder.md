@@ -63,6 +63,15 @@ The MCT oil powder addition is worth knowing about. Some keto protein powders in
 
 ## Timing and Practical Use
 
+## Sources
+
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=contentportfo-20)
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20)
+- [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682)
+- in *Nutrients* looked at protein intake and ketosis and found that moderate prot
+- on muscle-building effectiveness beats almost everything else on the market
+
+
 Post-workout is the obvious window, and for good reason. Muscle protein synthesis is elevated after resistance training and dietary protein takes advantage of that. But the "anabolic window" research has gotten less dramatic over the years. If you miss the 30-minute post-workout window, the world doesn't end.
 
 Where I've seen keto dieters really misuse protein powder is as a meal replacement when they're already in a low-calorie deficit. A 130-calorie protein shake is not a meal. If you're eating twice a day and one of those "meals" is a shake, you're probably under-eating fat and calories overall, which catches up with people as fatigue and cravings by week three. Use shakes to supplement whole food meals, not replace them.

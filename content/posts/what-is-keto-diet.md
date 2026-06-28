@@ -120,6 +120,15 @@ The key distinguishing feature of keto is the consistent production of ketones. 
 
 ## Honest Caveats: Who Should Approach This Carefully
 
+## Sources
+
+- [LMNT or Ultima Replenisher](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20)
+- [Pixabay](https://www.pexels.com/@pixabay)
+- published in *Obesity* found that subjects following a ketogenic diet reported s
+- has examined its role in Type 2 diabetes management
+- menstrual cycle disruptions in the first few months on keto
+
+
 Keto isn't magic and it's not for everyone.
 
 People with Type 1 diabetes should only attempt keto under close medical supervision because of ketoacidosis risk. People with a history of eating disorders may find the restriction framework counterproductive or harmful. Anyone with gallbladder issues or a history of pancreatitis should talk to a physician first, since the high fat load can be problematic.

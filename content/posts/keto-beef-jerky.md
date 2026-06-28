@@ -70,6 +70,11 @@ The first time I made a batch, I left it in the dehydrator too long and ended up
 
 ## The Protein Spike Question
 
+## Sources
+
+- [Radwan Menzer](https://www.pexels.com/@radwanmenzer)
+
+
 One thing I want to address directly because I see it come up in keto forums: eating a lot of lean protein, like plain beef jerky, does not meaningfully raise your insulin the way carbohydrates do in most people. The concern that protein "kicks you out of ketosis" through gluconeogenesis is overstated for typical amounts. Eating 4 ounces of jerky is not going to undo ketosis in a fat-adapted person. If you're eating 400 grams of protein a day, that's a different discussion. Normal snacking amounts? Don't worry about it.
 
 What will actually interrupt ketosis is the sugar in the jerky, not the protein. Keep your eye on the right thing.

@@ -107,6 +107,15 @@ For supplemental protein, a [quality whey protein isolate](https://www.amazon.co
 
 ## Protein and the Bigger Picture: Muscle, Satiety, and Long-Term Results
 
+## Sources
+
+- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20)
+- [quality whey protein isolate](https://www.amazon.com/s?k=whey+protein+isolate+low+carb&tag=contentportfo-20)
+- [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
+- on protein and ketosis is messier than either camp admits
+- published in journals like *Cell Metabolism* and work from scientists like Dr
+
+
 Protein's most underappreciated job on keto isn't macro balance. It's protecting muscle during a calorie deficit, which is where most people on a weight-loss protocol actually live.
 
 When you cut carbs and calories, your body will pull energy from anywhere available, including lean tissue, if protein intake is too low. Losing muscle slows your metabolic rate over time, makes the diet feel harder, and leaves you looking softer than you want even after significant weight loss. Adequate protein is the single most effective dietary strategy to prevent this, more effective than resistance training alone when protein is insufficient.

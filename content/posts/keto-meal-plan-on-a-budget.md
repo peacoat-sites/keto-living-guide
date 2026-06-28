@@ -107,6 +107,14 @@ If you want a convenient electrolyte option, [electrolyte supplements formulated
 
 ## Shopping Smarter: Strategies That Actually Move the Needle
 
+## Sources
+
+- [A reliable option on Amazon](https://www.amazon.com/s?k=digital+kitchen+scale)
+- [electrolyte supplements formulated for keto](https://www.amazon.com/s?k=keto+electrolyte+supplement)
+- [Good-quality glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
+- [Rulo Davila](https://www.pexels.com/@rulomx)
+
+
 Buying the right foods is one thing. Getting them at the best price is another. A few strategies I consistently recommend:
 
 **Shop the sales cycle, not the recipe.** Instead of finding a recipe and then buying ingredients, check what's on sale at your store that week and build your meals around that. Pork shoulder on sale this week? Great, your plan just got cheaper.

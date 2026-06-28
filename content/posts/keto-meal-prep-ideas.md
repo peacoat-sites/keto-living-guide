@@ -111,6 +111,14 @@ People mess this up in predictable ways. Here's what to watch for.
 
 ## Keeping It Interesting All Week Long
 
+## Sources
+
+- [these BPA-free glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement)
+- [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+keto)
+
+
 The death of any meal prep routine is monotony. Here's how to get five distinct meals out of the same core ingredients:
 
 - Monday: Shredded chicken taco bowl over cauliflower rice with salsa and sour cream

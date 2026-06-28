@@ -125,6 +125,11 @@ Sugar alcohols are trickier. Erythritol has minimal impact on blood sugar and ca
 
 ## The Fat Adaptation Phase: When Things Get Good
 
+## Sources
+
+- [Andrea Piacquadio](https://www.pexels.com/@olly)
+
+
 Most beginners want results in week one. Realistically, the first two weeks are mostly about getting your electrolytes balanced and your body used to running without constant carb intake. Fat adaptation, the deeper metabolic shift where your mitochondria become genuinely efficient at oxidizing fat for fuel, takes 4 to 8 weeks for most people.
 
 What changes when you're fat-adapted:

@@ -101,6 +101,14 @@ If you're trying to decide, talk it through with a healthcare provider or regist
 
 ## Practical Steps for Choosing and Starting
 
+## Sources
+
+- [Good options are available on Amazon](https://www.amazon.com/s?k=mct+oil+keto)
+- [digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food)
+- [Electrolyte supplements formulated for low carb diets](https://www.amazon.com/s?k=keto+electrolyte+supplements)
+- comparing the two directly shows that both produce meaningful weight loss and me
+
+
 Once you've thought through your goals, here's how to actually move forward without overthinking it.
 
 **Step 1: Define your goal, specifically.** "Losing weight" is not specific enough. Are you targeting 20 pounds over six months? Managing A1C? Getting off a medication under a doctor's supervision? Specificity helps determine how aggressive your carb restriction needs to be.

@@ -17,3 +17,7 @@ This database tracks the **net carbs** (total carbs minus fiber) in common keto 
 {{< keto-carbs >}}
 
 Why net carbs? Because your body doesn't convert fiber into glucose. It passes straight through, which means it doesn't count against your daily carb allowance. Most people on keto aim for 20 to 50 grams of net carbs daily. The color coding here makes scanning easy: green means very low carb, amber means moderate, and red means you should keep portions small.
+
+## Sources
+
+- Central database and updated monthly

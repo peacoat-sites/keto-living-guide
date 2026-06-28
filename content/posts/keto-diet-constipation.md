@@ -69,6 +69,15 @@ Inulin and FOS (fructooligosaccharides) are popular in some keto circles as preb
 
 ## When to Actually Worry
 
+## Sources
+
+- [Natural Vitality Calm magnesium citrate powder](https://www.amazon.com)
+- [LMNT](https://www.amazon.com)
+- [Nuun Sport](https://www.amazon.com)
+- [Max Vakhtbovych](https://www.pexels.com/@artbovich)
+- on this is still developing
+
+
 Most keto constipation is annoying, not dangerous. But there are situations where you should stop self-treating and call your doctor.
 
 If you haven't had a bowel movement in more than a week, that warrants a conversation. If you have pain, rectal bleeding, significant bloating, or nausea accompanying the constipation, don't wait. And if you have a history of irritable bowel syndrome, inflammatory bowel disease, or any structural GI issues, please don't try to manage this through diet tweaks alone without professional input. The advice here is for generally healthy adults dealing with a common dietary transition effect.

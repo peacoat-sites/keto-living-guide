@@ -99,6 +99,15 @@ The Mediterranean diet often wins in long-term adherence studies, and it does pr
 
 ## Common Mistakes That Slow Progress
 
+## Sources
+
+- [Lmnt and Nuun Sport](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+- [A basic digital food scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)
+- [Jonathan Borba](https://www.pexels.com/@jonathanborba)
+- published in *Nutrition & Metabolism* found that adults with type 2 diabetes fol
+- Actually Says
+
+
 The most frequent error I see is swapping carbs for protein without increasing fat enough. This matters because protein, especially in large amounts, can stimulate enough insulin to slow ketosis. Your fat intake should be high enough that you're genuinely satiated between meals. If you're eating mostly chicken breast and salad and feeling miserable, you're doing low-calorie, not keto.
 
 Second mistake: dairy overload. Heavy cream, cheese, and Greek yogurt are popular keto staples, but dairy contains lactose (a sugar) and triggers a surprisingly significant insulin response, particularly cheese and milk. Full-fat hard cheeses are lower in lactose, but if you're stalling, pull back on dairy for two weeks and see what happens.

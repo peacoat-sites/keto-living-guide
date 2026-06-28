@@ -69,6 +69,15 @@ Here's where I push back on standard keto advice, though: for anyone with a hist
 
 ## Movement matters more than it did before
 
+## Sources
+
+- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20)
+- [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)
+- [OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=contentportfo-20)
+- [Вениамин Курочкин](https://www.pexels.com/@vunyakurochkin)
+- points toward something closer to 1
+
+
 You can't out-diet muscle loss after 50. Keto will reduce fat. Without resistance training, though, some of that weight loss will come from muscle, which is the opposite of what most people are trying to do.
 
 Two to three sessions a week of resistance training, even bodyweight exercises at home, makes a real difference in how keto affects your body composition. The combination of adequate protein, carb restriction, and resistance training is about as well-supported as anything in applied nutrition for this age group.

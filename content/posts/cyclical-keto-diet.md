@@ -102,6 +102,15 @@ For meal prep across both phases, having dedicated [meal prep containers](https:
 
 ## What CKD Won't Do
 
+## Sources
+
+- [blood or breath ketone meter](https://www.amazon.com/s?k=ketone+meter&tag=contentportfo-20)
+- [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=mct+oil+powder&tag=contentportfo-20)
+- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
+- [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
+
+
 This is the part that tends to get left out of enthusiastic articles about carb cycling, so I want to be direct.
 
 Cyclical keto does not mean you stay in ketosis all week. You will be out of ketosis during and after refeeds. That is by design. If staying in continuous ketosis is your primary goal, whether for therapeutic reasons, seizure management, or personal preference, CKD is the wrong approach.

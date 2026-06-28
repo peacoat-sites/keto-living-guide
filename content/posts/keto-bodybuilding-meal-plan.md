@@ -73,6 +73,15 @@ Take it. Creatine monohydrate is one of the most studied supplements in sports n
 
 ## Tracking and adjusting
 
+## Sources
+
+- [Optimum Nutrition Gold Standard 100% Whey](https://www.amazon.com/s?k=optimum+nutrition+whey+isolate&tag=contentportfo-20)
+- [Sports Research MCT Oil](https://www.amazon.com/s?k=sports+research+mct+oil&tag=contentportfo-20)
+- [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers+keto&tag=contentportfo-20)
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [This one from OXO](https://www.amazon.com/s?k=OXO+kitchen+food+scale&tag=contentportfo-20)
+
+
 Get a kitchen scale. I mean this seriously. [This one from OXO](https://www.amazon.com/s?k=OXO+kitchen+food+scale&tag=contentportfo-20) is accurate, durable, and about $50. *(Commission disclosure applies.)* Eyeballing food is fine once you have years of experience. Until then, you are almost certainly overestimating protein and underestimating fat.
 
 Track for at least 6 weeks before drawing conclusions. Muscle gain on keto is slower than on a higher-carb diet, full stop. If someone tells you otherwise, they're selling something. In my experience, a realistic rate is about 0.5-0.75 pounds of lean mass per month for most natural trainees. That's not nothing, and it comes with genuinely low body fat, but you have to go in with that expectation or you'll bail too early.

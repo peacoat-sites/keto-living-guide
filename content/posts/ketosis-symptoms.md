@@ -90,6 +90,15 @@ If constipated, increase non-starchy vegetables (spinach, zucchini, broccoli), d
 
 ## The Symptoms That Aren't Normal (Know When to Stop)
 
+## Sources
+
+- [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter)
+- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes)
+- [blood ketone monitor](https://www.amazon.com/s?k=keto+blood+meter)
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil)
+- [Khôi Châu](https://www.pexels.com/@nkblu)
+
+
 Ketosis has a dangerous look-alike: diabetic ketoacidosis, or DKA. This primarily affects people with Type 1 diabetes and some with Type 2 who have very low insulin production. DKA involves blood ketones above 10 mmol/L combined with high blood sugar, which is metabolically very different from nutritional ketosis where blood sugar remains normal or low-normal.
 
 Symptoms that warrant immediate medical attention:

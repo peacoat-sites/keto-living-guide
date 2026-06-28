@@ -57,6 +57,12 @@ Protein bowls in the "healthy" section (think Healthy Choice Power Bowls or simi
 
 ## Making Frozen Meals Work Long-Term
 
+## Sources
+
+- [Jade  Sandra](https://www.pexels.com/@jadesandra)
+- on electrolyte supplementation during ketosis is genuinely supportive
+
+
 One thing I tell clients: don't treat any frozen meal as a complete, satisfying, long-term solution on its own. They work best as part of a system. Keep a bag of pre-cooked rotisserie chicken, some hard-boiled eggs, a block of cheese, and a bag of frozen vegetables around. That way a frozen meal with slightly lower protein becomes a full meal when you add ingredients from that rotation rather than a snack you're unsatisfied with an hour later.
 
 A kitchen scale helps more than most people expect. (This one on Amazon is accurate and cheap, and it'll change how you read portion sizes.) Weighing the actual product before eating it tells you whether that frozen meal claiming 8g net carbs is actually delivering one serving or 1.4 servings, which matters more than people realize.

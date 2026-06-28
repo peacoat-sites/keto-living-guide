@@ -151,6 +151,13 @@ Read labels. Always.
 
 ## How to Build a Keto Shopping List from Scratch
 
+## Sources
+
+- [This MCT oil from Sports Research](https://www.amazon.com/s?k=sports+research+mct+oil)
+- [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale+food)
+- [Ninthgrid](https://www.pexels.com/@ninthgrid-2149521550)
+
+
 Here's the practical step-by-step I walk new clients through before their first trip.
 
 **Step 1: Anchor meals around a protein.**

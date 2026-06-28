@@ -65,6 +65,15 @@ A kitchen scale is quietly one of the most useful investments you'll make. Eyeba
 
 ## What to Do About Long Runs and Fueling
 
+## Sources
+
+- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=contentportfo-20)
+- [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=contentportfo-20)
+- [RUN 4 FFWPU](https://www.pexels.com/@runffwpu)
+- in the Journal of Physiology
+
+
 Once you're fully adapted, many low-carb runners find they need little to no fuel during runs under 90 minutes. This is real and it's one of the genuine practical advantages: no gel dependency on moderate-distance runs.
 
 For longer efforts, things get more complicated. Some adapted runners go completely fat-fueled and do well. Others use targeted keto, taking 20-30g of fast carbs immediately before a long effort or hard workout, then returning to strict keto. This doesn't fully knock you out of ketosis and it blunts the performance hit at higher intensities. It's a reasonable middle ground that a lot of endurance athletes find practical.

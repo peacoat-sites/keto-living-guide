@@ -63,6 +63,12 @@ This crust won't hold up to being picked up like a slice. It's a fork-and-knife 
 
 ## Toppings: Don't Overthink It
 
+## Sources
+
+- [pizza stone](https://www.amazon.com/s?k=pizza+stone&tag=)
+- [Nomad Ashwin](https://www.pexels.com/@nomad-ashwin-509086572)
+
+
 Classic tomato sauce is fine on keto. Two or three tablespoons of a no-sugar-added marinara (Rao's Homemade is excellent and widely available, about $9 a jar) has maybe 2-3g net carbs for the whole pizza. Some people swap in crushed San Marzano tomatoes with olive oil and garlic, which is also great.
 
 Low-moisture mozzarella melts better than fresh here. Fresh mozzarella releases a lot of water and will make your crust soggy unless you pat it very dry first. For toppings: pepperoni, Italian sausage (check labels for added sugar), olives, roasted peppers, mushrooms, spinach, all work well. Load meat and low-carb vegetables without much worry.

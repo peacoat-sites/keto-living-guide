@@ -94,6 +94,15 @@ Most clients I've worked through this process with find their threshold somewher
 
 ## What You Can Actually Eat on 20 Grams
 
+## Sources
+
+- [like this one on Amazon](https://www.amazon.com/s?k=kitchen+scale)
+- [like LMNT or similar on Amazon](https://www.amazon.com/s?k=keto+electrolyte+supplement)
+- [available on Amazon](https://www.amazon.com/s?k=mct+oil)
+- actually says about it
+- from Virta Health
+
+
 This is where it gets practical. Twenty grams of net carbs sounds brutal until you realize most of your diet doesn't contribute to that number at all. Meat, fish, eggs, cheese, butter, olive oil, and most full-fat dairy contain zero or near-zero net carbs. Your carb budget is spent almost entirely on vegetables, nuts, and any small condiment or dairy allowances.
 
 A realistic day might look like: two eggs cooked in butter with a handful of spinach (1 gram), a lunch salad with romaine, cucumber, avocado, and olive oil dressing (about 4 grams), a snack of macadamia nuts (2 grams for a 1-ounce serving), and a dinner of salmon with roasted broccoli and a small side of cauliflower rice (about 8 grams). That's roughly 15 grams, leaving you a small buffer.

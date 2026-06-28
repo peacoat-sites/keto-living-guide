@@ -109,6 +109,15 @@ Getting electrolytes right doesn't just stop the symptoms. It actually supports 
 
 ## Step-by-Step: How to Troubleshoot a Keto Weight Loss Stall
 
+## Sources
+
+- [Etekcity Digital Kitchen Scale](https://www.amazon.com/s?k=kitchen+food+scale)
+- [Prep Naturals Glass Meal Prep Containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
+- [LMNT Electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes)
+- [www.kaboompics.com](https://www.pexels.com/@karola-g)
+- here is genuinely interesting
+
+
 Stalled for more than three to four weeks? Something needs to change. Here's how to work through it systematically.
 
 **Step 1: Recount your carbs.** Fire up a tracking app like Cronometer or Carb Manager and log everything you've eaten for three days. Look for hidden carbs in sauces, dressings, nut butters, and dairy. Many people are eating 40-60g net carbs without realizing it and can't figure out why ketosis isn't happening.

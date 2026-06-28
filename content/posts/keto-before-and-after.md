@@ -72,6 +72,15 @@ Here's what nobody talks about enough: some people just respond better to fat re
 
 ## What Sustainable "After" Actually Looks Like
 
+## Sources
+
+- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
+- [body tape measure](https://www.amazon.com/s?k=body+measuring+tape&tag=contentportfo-20)
+- [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
+- in *Frontiers in Nutrition*
+- feeling noticeably better than those who don't
+
+
 The photos always show a before and a specific after moment. They never show what happens at month 18.
 
 Long-term keto maintenance is genuinely possible for some people. I have clients who've eaten this way for four or five years and feel better than they have in decades. I also have clients who cycled off after a year, regained some weight, and are still trying to figure things out. Regain on keto isn't inevitable, but it's common if you slip back into old patterns without a transition plan.

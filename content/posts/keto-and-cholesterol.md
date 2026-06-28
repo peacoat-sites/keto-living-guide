@@ -70,6 +70,13 @@ Keto, when it's working metabolically, tends to drive this ratio down substantia
 
 ## Comparing Common Keto Approaches by Likely Lipid Impact
 
+## Sources
+
+- card where lower always means better
+- in *Nutrients* looking at very-low-carbohydrate diets found consistent reduction
+- on this group is ongoing
+
+
 | Keto Style | Primary Fat Sources | Likely LDL Effect | Likely HDL Effect | Likely TG Effect |
 |---|---|---|---|---|
 | Standard (mixed fats) | Butter, meat, cheese, olive oil | Moderate increase | Moderate increase | Significant decrease |

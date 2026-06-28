@@ -103,6 +103,14 @@ Frozen vegetables are just as nutritious as fresh and dramatically faster on bus
 
 ## A Practical Keto Shopping List Template
 
+## Sources
+
+- [A quality MCT oil](https://www.amazon.com)
+- [A well-formulated product](https://www.amazon.com)
+- [Glass meal prep containers](https://www.amazon.com)
+- [Anna Shvets](https://www.pexels.com/@shvetsa)
+
+
 Here's a starting framework for one person for one week. Adjust for your household.
 
 | Category | Items |

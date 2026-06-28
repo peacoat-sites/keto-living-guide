@@ -74,6 +74,15 @@ You don't need them. Salt your food generously with regular salt or No Salt (pot
 
 ### FAQ
 
+## Sources
+
+- [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=ketolowcarbli-20)
+- [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=ketolowcarbli-20)
+- [Decent MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=ketolowcarbli-20)
+- [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=ketolowcarbli-20)
+- [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=ketolowcarbli-20)
+
+
 #### Is keto actually more expensive than eating normally?
 
 It can be, but only if you buy a lot of specialty products. Meat, eggs, butter, and vegetables aren't inherently more expensive than the carb-heavy processed foods they replace. The cost creep comes from keto-branded substitutes.
