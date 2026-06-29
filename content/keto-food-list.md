@@ -5,6 +5,7 @@ slug: "keto-food-list"
 description: "Searchable keto food navigator with net carbs, calories, fat, and protein for 60+ foods. Filter by category and keto-friendliness to build your perfect meal plan."
 categories: ["Keto Food Guide"]
 author: "Natalie Rowe"
+image: "https://images.pexels.com/photos/106877/pexels-photo-106877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 The most important skill on a ketogenic diet is learning to identify net carbs quickly and accurately. Unlike total carbohydrates, net carbs are what actually affect blood sugar and insulin response. Knowing which foods keep you in ketosis and which will kick you out is the foundation of every successful keto meal plan.

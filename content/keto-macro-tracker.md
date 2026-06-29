@@ -16,6 +16,7 @@ faqs:
     answer: "Insulin lowers sodium retention by the kidneys. When insulin drops on keto, your kidneys excrete more sodium, pulling potassium and magnesium with it. This is why many people experience the 'keto flu' in the first week. Supplementing sodium (2-4g/day), potassium (1-3g), and magnesium (300-500mg) prevents most symptoms."
   - question: "Should I track macros every day on keto?"
     answer: "Tracking is most important in the first 4-6 weeks while you're learning which foods fit your targets. After that, many people can eyeball portions accurately. If your weight loss stalls or you suspect you've drifted out of ketosis, returning to strict tracking for a week usually identifies the issue."
+image: "https://images.pexels.com/photos/12499374/pexels-photo-12499374.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Staying in ketosis comes down to one number: net carbs under your daily threshold. Everything else, protein, fat, and total calories, shapes your results from there. This tracker lets you log meals for the day, see running totals against your targets, and get an at-a-glance view of where you stand.

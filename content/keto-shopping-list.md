@@ -16,6 +16,7 @@ faqs:
     answer: "Erythritol and monk fruit sweetener are the top choices. They have minimal impact on blood sugar and insulin. Stevia is also fine. Avoid maltitol (common in sugar-free candy) because it spikes blood sugar almost as much as table sugar."
   - question: "What should I drink on keto?"
     answer: "Water, sparkling water, black coffee, and unsweetened teas are your best options. Unsweetened almond milk works for recipes. Electrolyte packets without sugar or maltodextrin help replace sodium, potassium, and magnesium lost during keto adaptation."
+image: "https://images.pexels.com/photos/8422682/pexels-photo-8422682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Walking into a grocery store without a plan is the fastest way to end up with a cart full of high-carb impulse buys. This checklist solves that. It covers every category you need for a well-stocked keto kitchen, with notes on what to watch for on labels.

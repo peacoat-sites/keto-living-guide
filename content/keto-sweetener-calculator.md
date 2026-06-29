@@ -18,6 +18,7 @@ faqs:
     answer: "Xylitol has a glycemic index of around 7 (versus 65 for sugar) and contains roughly 2.4 calories per gram. It is lower-carb than sugar but is NOT zero-carb — it can raise blood sugar slightly and will count toward net carbs. It is also highly toxic to dogs."
   - question: "What is Swerve sweetener made of?"
     answer: "Swerve is a blend of erythritol, oligosaccharides (from non-GMO starchy root vegetables), and natural flavors. It behaves like a 1:1 sugar replacement by volume and contains 0 net carbs."
+image: "https://images.pexels.com/photos/8250929/pexels-photo-8250929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 One of the trickiest parts of keto baking is substituting sweeteners. Unlike cooking with fat or protein, sweeteners behave very differently from one another — not just in sweetness intensity, but in texture, cooling effect, browning ability, and how they interact with heat. A recipe that calls for "1 cup of sugar" does not automatically translate to "1 cup of erythritol," and using the wrong ratio can turn a keto cake into something that tastes either flat or overwhelmingly sweet.

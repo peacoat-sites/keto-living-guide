@@ -18,6 +18,7 @@ faqs:
     answer: "Yes, and many people find OMAD + keto very effective for fat loss. However, OMAD requires careful attention to hitting adequate protein and micronutrient targets in a single meal. It is not recommended for beginners — build up through 16:8 and 18:6 first."
   - question: "Does the 5:2 diet work well with keto?"
     answer: "The 5:2 protocol can complement keto, though the two approaches differ in design. On 5:2 fast days, the 500-600 calorie limit already keeps you in a carb-minimal state if you choose keto-friendly foods, deepening ketosis on those days."
+image: "https://images.pexels.com/photos/7054402/pexels-photo-7054402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Intermittent fasting (IF) and the ketogenic diet are a natural pairing. Both approaches shift your body away from glucose as a primary fuel source and toward fat-burning and ketone production. When combined, the effects can compound: keto lowers baseline insulin and blood sugar, while IF extends the fasted state and accelerates the depletion of liver glycogen — the last barrier to deep ketosis.
