@@ -3,7 +3,7 @@ title: "Keto 7 Day Meal Plan"
 date: 2026-05-28T09:49:49.166909+00:00
 draft: false
 description: "Discover our complete keto 7 day meal plan with easy recipes, shopping lists, and macros to help you start ketosis and lose weight fast. Get started today!"
-image: "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19808820/pexels-photo-19808820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
 slug: "keto-7-day-meal-plan"
