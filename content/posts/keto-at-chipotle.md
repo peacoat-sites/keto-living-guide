@@ -13,16 +13,16 @@ author_bio: "Jake Torres spent a decade as a line cook before going keto himself
 slug: "keto-at-chipotle"
 affiliate_disclosure: false
 faqs:
-  - q: "Is Chipotle a good option for keto?"
-    a: "Yes, genuinely. With a salad bowl, the right protein, and careful topping choices, you can eat a satisfying 15-20 gram net carb meal that's high in protein and fat. It's one of the more keto-friendly fast-casual chains once you know the numbers."
-  - q: "Can I eat guacamole on keto at Chipotle?"
-    a: "Absolutely. Chipotle's guacamole has roughly 8 grams of net carbs per serving, and it comes with healthy fats from avocado. It's one of the better things you can add to your bowl for both nutrition and satiety."
-  - q: "Are Chipotle's beans keto?"
-    a: "Not for strict keto. Both black beans and pinto beans run around 22-23 grams of net carbs per full serving. If you're following a more liberal low-carb approach (50+ grams per day), a half-portion is workable, but for standard ketogenic targets, skip them."
-  - q: "Is the Chipotle lifestyle bowl actually keto?"
-    a: "It can be, depending on what's in it. The 'lifestyle bowls' they market include a 'keto' option that's essentially a salad bowl with their standard keto-friendly toppings. Check the specific build on the app before ordering because the exact configuration has changed at various points, and you want to verify what goes into it at your location."
-  - q: "Can I have the fajita vegetables?"
-    a: "Yes. Fajita veggies (peppers and onions, cooked in a small amount of oil) run about 5 grams of net carbs. They add bulk, flavor, and actual fiber. Include them."
+ - q: "Is Chipotle a good option for keto?"
+ a: "Yes, genuinely. With a salad bowl, the right protein, and careful topping choices, you can eat a satisfying 15-20 gram net carb meal that's high in protein and fat. It's one of the more keto-friendly fast-casual chains once you know the numbers."
+ - q: "Can I eat guacamole on keto at Chipotle?"
+ a: "Absolutely. Chipotle's guacamole has roughly 8 grams of net carbs per serving, and it comes with healthy fats from avocado. It's one of the better things you can add to your bowl for both nutrition and satiety."
+ - q: "Are Chipotle's beans keto?"
+ a: "Not for strict keto. Both black beans and pinto beans run around 22-23 grams of net carbs per full serving. If you're following a more liberal low-carb approach (50+ grams per day), a half-portion is workable, but for standard ketogenic targets, skip them."
+ - q: "Is the Chipotle lifestyle bowl actually keto?"
+ a: "It can be, depending on what's in it. The 'lifestyle bowls' they market include a 'keto' option that's essentially a salad bowl with their standard keto-friendly toppings. Check the specific build on the app before ordering because the exact configuration has changed at various points, and you want to verify what goes into it at your location."
+ - q: "Can I have the fajita vegetables?"
+ a: "Yes. Fajita veggies (peppers and onions, cooked in a small amount of oil) run about 5 grams of net carbs. They add bulk, flavor, and actual fiber. Include them."
 ---
 Most people assume fast-casual Mexican food is basically off-limits on keto. I used to think the same thing. Then I started actually mapping out what Chipotle puts in each component, and what surprised me was just how keto-adaptable the menu is once you stop thinking about it as a burrito restaurant and start treating it as a protein-and-fat assembly station.
 

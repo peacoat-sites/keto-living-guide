@@ -13,16 +13,16 @@ author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients
 slug: "keto-carb-cycling"
 affiliate_disclosure: false
 faqs:
-  - q: "How many carbs should I eat on a carb cycling day?"
-    a: "Most people do well with 100-150g of net carbs on a refeed day. Athletes with high training volumes can go higher, sometimes 200g or more, but 150g is a reasonable ceiling for most people trying to cycle back into ketosis within 24-36 hours."
-  - q: "Will carb cycling kick me out of ketosis permanently?"
-    a: "No. A single planned refeed day will take you out of ketosis temporarily, typically for 12-48 hours depending on your metabolic flexibility and how much you ate. People who've been fat-adapted for several months tend to re-enter ketosis faster than keto beginners."
-  - q: "Should I carb cycle if I'm just starting keto?"
-    a: "No. Wait at least six to eight weeks. Your body is still building the enzymatic machinery to efficiently burn fat for fuel, and interrupting that adaptation repeatedly extends the miserable early phase. Get fat-adapted first, then consider cycling."
-  - q: "Is keto carb cycling backed by research?"
-    a: "The research is thinner than the popular coverage suggests. There's solid evidence for carbohydrate periodization in athletes, and reasonable mechanistic evidence for leptin-related benefits of periodic refeeds. But most carb cycling protocols haven't been studied directly in long-term randomized trials. It's a reasonable practice with legitimate rationale, not a proven protocol with a robust evidence base behind it."
-  - q: "What should I eat on a high-carb day?"
-    a: "Prioritize whole food carbohydrate sources: white rice, sweet potatoes, oats, fruit. Keep fat low on these days since you're temporarily running on glucose and excess dietary fat has nowhere useful to go. This isn't a license to eat everything you've been avoiding for weeks. The goal is a clean, moderate refeed, not a celebration."
+ - q: "How many carbs should I eat on a carb cycling day?"
+ a: "Most people do well with 100-150g of net carbs on a refeed day. Athletes with high training volumes can go higher, sometimes 200g or more, but 150g is a reasonable ceiling for most people trying to cycle back into ketosis within 24-36 hours."
+ - q: "Will carb cycling kick me out of ketosis permanently?"
+ a: "No. A single planned refeed day will take you out of ketosis temporarily, typically for 12-48 hours depending on your metabolic flexibility and how much you ate. People who've been fat-adapted for several months tend to re-enter ketosis faster than keto beginners."
+ - q: "Should I carb cycle if I'm just starting keto?"
+ a: "No. Wait at least six to eight weeks. Your body is still building the enzymatic machinery to efficiently burn fat for fuel, and interrupting that adaptation repeatedly extends the miserable early phase. Get fat-adapted first, then consider cycling."
+ - q: "Is keto carb cycling backed by research?"
+ a: "The research is thinner than the popular coverage suggests. There's solid evidence for carbohydrate periodization in athletes, and reasonable mechanistic evidence for leptin-related benefits of periodic refeeds. But most carb cycling protocols haven't been studied directly in long-term randomized trials. It's a reasonable practice with legitimate rationale, not a proven protocol with a robust evidence base behind it."
+ - q: "What should I eat on a high-carb day?"
+ a: "Prioritize whole food carbohydrate sources: white rice, sweet potatoes, oats, fruit. Keep fat low on these days since you're temporarily running on glucose and excess dietary fat has nowhere useful to go. This isn't a license to eat everything you've been avoiding for weeks. The goal is a clean, moderate refeed, not a celebration."
 ---
 
 Most articles about keto carb cycling spend 800 words telling you it's "the best of both worlds" before getting around to explaining how it actually works. That framing is wrong, and it sets people up to do this badly.
@@ -73,7 +73,7 @@ Electrolytes matter more on cycling days, not less. The glycogen/water flux mess
 
 - [A good kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food&tag=contentportfo-20)
 - [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [Biel  Heinrich](https://www.pexels.com/@biel-heinrich-114407456)
+- [Biel Heinrich](https://www.pexels.com/@biel-heinrich-114407456)
 - in the *Journal of the International Society of Sports Nutrition* showed measura
 
 
@@ -86,7 +86,7 @@ If you try carb cycling and find yourself either over-restricting on high-carb d
 ---
 
 
-*Photo: [Biel  Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
+*Photo: [Biel Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
 
 ---
 

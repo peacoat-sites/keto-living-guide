@@ -11,10 +11,7 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-and-heart-health-what-two-conflicting-2026-studies-actually-show"
-affiliate_disclosure: false
----
-
-The keto community is having a genuinely uncomfortable week. A large observational study dropped June 4, 2026 in *Scientific Reports*, analyzing 43,776 American adults from NHANES data spanning 2001 to 2018, and found that people eating a ketogenic dietary pattern had a 24% lower risk of all-cause mortality (HR = 0.76, 95% CI 0.63–0.90, P = 0.003) with no corresponding spike in cardiovascular deaths. Good news, right? Except that five months earlier, a University of Utah Health team published findings in *Science Advances* showing that long-term keto caused fatty liver disease, wrecked lipid profiles, and seriously compromised insulin function in mice, with male subjects sustaining the worst liver damage. Both studies are real. Both matter. Neither one cancels the other out, and that's exactly the problem.
+affiliate_disclosure: false, The keto community is having a genuinely uncomfortable week. A large observational study dropped June 4, 2026 in *Scientific Reports*, analyzing 43,776 American adults from NHANES data spanning 2001 to 2018, and found that people eating a ketogenic dietary pattern had a 24% lower risk of all-cause mortality (HR = 0.76, 95% CI 0.63–0.90, P = 0.003) with no corresponding spike in cardiovascular deaths. Good news, right? Except that five months earlier, a University of Utah Health team published findings in *Science Advances* showing that long-term keto caused fatty liver disease, wrecked lipid profiles, and seriously compromised insulin function in mice, with male subjects sustaining the worst liver damage. Both studies are real. Both matter. Neither one cancels the other out, and that's exactly the problem.
 
 ## What the NHANES Study Actually Measured (and What It Didn't)
 
@@ -55,7 +52,7 @@ The research on this will keep improving. Neither of these 2026 studies is the f
 ---
 
 ## Sources
-- [Ketogenic Diet and All-Cause Mortality – NHANES Analysis, *Scientific Reports*](https://www.nature.com/articles/s41598-024-73384-x) (June 4, 2026)
+- [Ketogenic Diet and All-Cause Mortality, NHANES Analysis, *Scientific Reports*](https://www.nature.com/articles/s41598-024-73384-x) (June 4, 2026)
 - [University of Utah Health: Keto's Hidden Long-Term Metabolic Cost, *ScienceDaily*](https://www.sciencedaily.com/releases/2026/01/260127010144.htm) (January 27, 2026)
 - [Adaptive Ketogenic–Mediterranean Protocol vs. GLP-1 Agonists, *PMC*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12389659/) (June 2026)
 - [Ketogenic Diet in 2026: New Insights and Guidance, El Paso Back Clinic](https://elpasobackclinic.com/ketogenic-diet-in-2026-new-insights-and-guidance/) (February 9, 2026)

@@ -9,16 +9,16 @@ tags: ["keto", "before", "after"]
 slug: "keto-before-and-after"
 affiliate_disclosure: false
 faqs:
-  - q: "How long does it take to see results on keto?"
-    a: "Most people see significant water weight loss in the first week, but meaningful fat loss typically becomes visible around weeks 3 to 6. Metabolic improvements like lower triglycerides and better fasting glucose can show up in bloodwork within 8 to 12 weeks."
-  - q: "Why did I lose weight fast at first and then stall?"
-    a: "The initial rapid loss is mostly glycogen and water, not fat. Once that's gone, your rate of loss reflects actual fat burning, which is slower. Stalls at weeks 3 to 5 are extremely common and usually resolve on their own, though rechecking your protein and total calorie intake is worth doing if it persists."
-  - q: "Will keto work if I've tried it before and regained the weight?"
-    a: "Yes, regain doesn't mean keto doesn't work for you. It usually means the transition back to regular eating wasn't managed well. Going back to keto can restart the metabolic benefits, and you'll often adapt faster the second time."
-  - q: "Is the before-and-after weight loss on keto mostly water?"
-    a: "In the first week, yes, a meaningful chunk of it is. After that, genuine fat loss takes over if you're in a caloric deficit. The two effects layer on top of each other, which is part of why early results look so striking."
-  - q: "Do you need to be in ketosis to see results?"
-    a: "Strict ketosis (blood ketones above 0.5 mmol/L) isn't required for every benefit. Many of the metabolic improvements associated with keto come from carbohydrate restriction itself, even if you're in a moderate-low range rather than deep ketosis. For some goals, like therapeutic use for epilepsy, precise ketosis matters more. For general fat loss, the line is less rigid."
+ - q: "How long does it take to see results on keto?"
+ a: "Most people see significant water weight loss in the first week, but meaningful fat loss typically becomes visible around weeks 3 to 6. Metabolic improvements like lower triglycerides and better fasting glucose can show up in bloodwork within 8 to 12 weeks."
+ - q: "Why did I lose weight fast at first and then stall?"
+ a: "The initial rapid loss is mostly glycogen and water, not fat. Once that's gone, your rate of loss reflects actual fat burning, which is slower. Stalls at weeks 3 to 5 are extremely common and usually resolve on their own, though rechecking your protein and total calorie intake is worth doing if it persists."
+ - q: "Will keto work if I've tried it before and regained the weight?"
+ a: "Yes, regain doesn't mean keto doesn't work for you. It usually means the transition back to regular eating wasn't managed well. Going back to keto can restart the metabolic benefits, and you'll often adapt faster the second time."
+ - q: "Is the before-and-after weight loss on keto mostly water?"
+ a: "In the first week, yes, a meaningful chunk of it is. After that, genuine fat loss takes over if you're in a caloric deficit. The two effects layer on top of each other, which is part of why early results look so striking."
+ - q: "Do you need to be in ketosis to see results?"
+ a: "Strict ketosis (blood ketones above 0.5 mmol/L) isn't required for every benefit. Many of the metabolic improvements associated with keto come from carbohydrate restriction itself, even if you're in a moderate-low range rather than deep ketosis. For some goals, like therapeutic use for epilepsy, precise ketosis matters more. For general fat loss, the line is less rigid."
 author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Research Editor"
@@ -30,12 +30,12 @@ Most people come to keto with a mix of hope and skepticism. You've probably scro
 Let's talk about what actually changes, when it changes, and why the transformation photo you saved to your phone might not match your own experience.
 
 <div class="value-module">
-  <div class="vm-head">Keto Timeline: What to Expect by Week</div>
-  <div class="vm-body">
-    <p class="vm-intro">This evidence-based timeline helps you distinguish normal adaptation from stalls, with realistic ranges based on typical outcomes.</p>
-    <table><caption>Keto Adaptation Timeline and Realistic Expectations</caption><thead><tr><th>Timeframe</th><th>Primary Change</th><th>Typical Scale Movement</th><th>What You'll Feel</th><th>Red Flag to Watch</th></tr></thead><tbody><tr><td>Days 1–7</td><td>Glycogen depletion, water loss</td><td>3–8 lbs lost (mostly water)</td><td>Rapid deflation, reduced bloating</td><td>Severe dizziness (increase sodium to 3,000–5,000mg)</td></tr><tr><td>Days 8–14</td><td>Early ketosis, electrolyte shifts</td><td>1–3 lbs lost</td><td>Possible keto flu: fatigue, headache, brain fog</td><td>Heart palpitations (potassium/magnesium deficit)</td></tr><tr><td>Weeks 3–4</td><td>Fat adaptation begins</td><td>0.5–2 lbs/week</td><td>Energy stabilizing, appetite decreasing</td><td>No weight change AND no measurement change</td></tr><tr><td>Weeks 5–8</td><td>Metabolic flexibility improving</td><td>0.5–1.5 lbs/week</td><td>Steady energy, reduced cravings</td><td>Persistent fatigue (may need more calories)</td></tr><tr><td>Months 3–6</td><td>Body recomposition phase</td><td>Scale may stall while body reshapes</td><td>Clothes fitting differently, face thinning</td><td>Hair shedding (protein intake may be too low)</td></tr><tr><td>Month 6+</td><td>New baseline established</td><td>Highly individual</td><td>Diet feels sustainable or doesn't</td><td>Obsessive food focus (reassess approach)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Keto Timeline: What to Expect by Week</div>
+ <div class="vm-body">
+ <p class="vm-intro">This evidence-based timeline helps you distinguish normal adaptation from stalls, with realistic ranges based on typical outcomes.</p>
+ <table><caption>Keto Adaptation Timeline and Realistic Expectations</caption><thead><tr><th>Timeframe</th><th>Primary Change</th><th>Typical Scale Movement</th><th>What You'll Feel</th><th>Red Flag to Watch</th></tr></thead><tbody><tr><td>Days 1–7</td><td>Glycogen depletion, water loss</td><td>3–8 lbs lost (mostly water)</td><td>Rapid deflation, reduced bloating</td><td>Severe dizziness (increase sodium to 3,000–5,000mg)</td></tr><tr><td>Days 8–14</td><td>Early ketosis, electrolyte shifts</td><td>1–3 lbs lost</td><td>Possible keto flu: fatigue, headache, brain fog</td><td>Heart palpitations (potassium/magnesium deficit)</td></tr><tr><td>Weeks 3–4</td><td>Fat adaptation begins</td><td>0.5–2 lbs/week</td><td>Energy stabilizing, appetite decreasing</td><td>No weight change AND no measurement change</td></tr><tr><td>Weeks 5–8</td><td>Metabolic flexibility improving</td><td>0.5–1.5 lbs/week</td><td>Steady energy, reduced cravings</td><td>Persistent fatigue (may need more calories)</td></tr><tr><td>Months 3–6</td><td>Body recomposition phase</td><td>Scale may stall while body reshapes</td><td>Clothes fitting differently, face thinning</td><td>Hair shedding (protein intake may be too low)</td></tr><tr><td>Month 6+</td><td>New baseline established</td><td>Highly individual</td><td>Diet feels sustainable or doesn't</td><td>Obsessive food focus (reassess approach)</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The First Two Weeks: What's Actually Happening

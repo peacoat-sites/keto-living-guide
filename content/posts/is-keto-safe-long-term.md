@@ -9,16 +9,16 @@ tags: ["keto", "safe", "long", "term"]
 slug: "is-keto-safe-long-term"
 affiliate_disclosure: false
 faqs:
-  - q: "Is keto safe for your kidneys long-term?"
-    a: "For people with healthy kidneys, current evidence suggests keto doesn't cause kidney damage. The protein intake on a well-formulated keto diet is moderate, not extreme. However, if you have chronic kidney disease or a history of kidney stones, you should absolutely get medical clearance first and monitor regularly."
-  - q: "Can you do keto forever, or do you need to cycle off?"
-    a: "There's no evidence that you must cycle off, but there's also no evidence that staying in ketosis indefinitely is necessary for the metabolic benefits. Some people do it for life and thrive. Others do better cycling between strict keto and a broader low-carb approach. This really comes down to individual response, goals, and honestly, whether it's working psychologically as much as physiologically."
-  - q: "Does keto damage your heart long-term?"
-    a: "The answer is genuinely complicated. Most standard markers (triglycerides, HDL, blood pressure, fasting glucose) tend to improve. The concern is around LDL, particularly in lean hyper-responders. If your LDL is elevated on keto, don't dismiss it because 'keto LDL is different.' Get an ApoB test and talk to a cardiologist who understands low-carb diets."
-  - q: "Will keto cause nutrient deficiencies over time?"
-    a: "It can, if you're not paying attention. The most common deficiencies I see are magnesium, potassium, vitamin D, and B vitamins (especially if you're not eating much organ meat or fortified foods). Eating a wide variety of non-starchy vegetables, fatty fish, and whole-food sources covers most of this. A magnesium glycinate supplement, around $15-20 a month, is something I recommend to nearly all my long-term keto clients."
-  - q: "Is keto safe long-term for women specifically?"
-    a: "The research is thinner here, which is frustrating. Some women report menstrual irregularities, particularly at very low calorie intakes combined with keto. Thyroid function is another area worth monitoring, since some women see T3 shift downward in extended ketosis. These aren't universal effects, but they're worth watching for, especially if you notice changes in energy, hair loss, or cycle disruption."
+ - q: "Is keto safe for your kidneys long-term?"
+ a: "For people with healthy kidneys, current evidence suggests keto doesn't cause kidney damage. The protein intake on a well-formulated keto diet is moderate, not extreme. However, if you have chronic kidney disease or a history of kidney stones, you should absolutely get medical clearance first and monitor regularly."
+ - q: "Can you do keto forever, or do you need to cycle off?"
+ a: "There's no evidence that you must cycle off, but there's also no evidence that staying in ketosis indefinitely is necessary for the metabolic benefits. Some people do it for life and thrive. Others do better cycling between strict keto and a broader low-carb approach. This really comes down to individual response, goals, and honestly, whether it's working psychologically as much as physiologically."
+ - q: "Does keto damage your heart long-term?"
+ a: "The answer is genuinely complicated. Most standard markers (triglycerides, HDL, blood pressure, fasting glucose) tend to improve. The concern is around LDL, particularly in lean hyper-responders. If your LDL is elevated on keto, don't dismiss it because 'keto LDL is different.' Get an ApoB test and talk to a cardiologist who understands low-carb diets."
+ - q: "Will keto cause nutrient deficiencies over time?"
+ a: "It can, if you're not paying attention. The most common deficiencies I see are magnesium, potassium, vitamin D, and B vitamins (especially if you're not eating much organ meat or fortified foods). Eating a wide variety of non-starchy vegetables, fatty fish, and whole-food sources covers most of this. A magnesium glycinate supplement, around $15-20 a month, is something I recommend to nearly all my long-term keto clients."
+ - q: "Is keto safe long-term for women specifically?"
+ a: "The research is thinner here, which is frustrating. Some women report menstrual irregularities, particularly at very low calorie intakes combined with keto. Thyroid function is another area worth monitoring, since some women see T3 shift downward in extended ketosis. These aren't universal effects, but they're worth watching for, especially if you notice changes in energy, hair loss, or cycle disruption."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Lifestyle Writer"
@@ -36,12 +36,12 @@ What I can tell you is what the research does show, what I've seen working with 
 ---
 
 <div class="value-module">
-  <div class="vm-head">Keto Monitoring: When to Test What</div>
-  <div class="vm-body">
-    <p class="vm-intro">Since supervised programs show better outcomes than unsupervised keto, here's a practical lab monitoring schedule based on clinical protocols from published long-term studies.</p>
-    <table><caption>Recommended Lab Tests for Long-Term Keto (Illustrative Schedule)</caption><thead><tr><th>Test</th><th>Baseline</th><th>3 Months</th><th>6 Months</th><th>Annually</th><th>Why It Matters on Keto</th></tr></thead><tbody><tr><td>Lipid panel (LDL, HDL, triglycerides)</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>~25% of people see LDL rise significantly; triglycerides typically improve</td></tr><tr><td>Fasting glucose + HbA1c</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Tracks insulin sensitivity improvements or rebounds</td></tr><tr><td>Basic metabolic panel (kidney function)</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>Higher protein intake warrants monitoring in at-risk individuals</td></tr><tr><td>Uric acid</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Can spike early (gout/kidney stone risk); usually normalizes by 6 months</td></tr><tr><td>Electrolytes (sodium, potassium, magnesium)</td><td>✓</td><td>✓</td><td></td><td>As needed</td><td>Keto increases excretion; deficiencies cause fatigue, cramps, arrhythmia risk</td></tr><tr><td>Thyroid panel (TSH, free T3)</td><td>✓</td><td></td><td></td><td>✓</td><td>Some evidence T3 decreases on very low carb; clinical significance debated</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Keto Monitoring: When to Test What</div>
+ <div class="vm-body">
+ <p class="vm-intro">Since supervised programs show better outcomes than unsupervised keto, here's a practical lab monitoring schedule based on clinical protocols from published long-term studies.</p>
+ <table><caption>Recommended Lab Tests for Long-Term Keto (Illustrative Schedule)</caption><thead><tr><th>Test</th><th>Baseline</th><th>3 Months</th><th>6 Months</th><th>Annually</th><th>Why It Matters on Keto</th></tr></thead><tbody><tr><td>Lipid panel (LDL, HDL, triglycerides)</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>~25% of people see LDL rise significantly; triglycerides typically improve</td></tr><tr><td>Fasting glucose + HbA1c</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Tracks insulin sensitivity improvements or rebounds</td></tr><tr><td>Basic metabolic panel (kidney function)</td><td>✓</td><td></td><td>✓</td><td>✓</td><td>Higher protein intake warrants monitoring in at-risk individuals</td></tr><tr><td>Uric acid</td><td>✓</td><td>✓</td><td></td><td>✓</td><td>Can spike early (gout/kidney stone risk); usually normalizes by 6 months</td></tr><tr><td>Electrolytes (sodium, potassium, magnesium)</td><td>✓</td><td>✓</td><td></td><td>As needed</td><td>Keto increases excretion; deficiencies cause fatigue, cramps, arrhythmia risk</td></tr><tr><td>Thyroid panel (TSH, free T3)</td><td>✓</td><td></td><td></td><td>✓</td><td>Some evidence T3 decreases on very low carb; clinical significance debated</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What the Research Actually Shows

@@ -9,16 +9,16 @@ tags: ["keto", "brain"]
 slug: "keto-brain-fog"
 affiliate_disclosure: false
 faqs:
-  - q: "How long does keto brain fog usually last?"
-    a: "For most people, the worst of it clears within 5 to 10 days. Full cognitive adaptation, where mental energy feels genuinely stable and good, can take 4 to 6 weeks. If significant fog persists past three weeks with proper electrolyte intake and adequate calories, it's worth checking whether you're actually in ketosis and ruling out sleep issues."
-  - q: "Can keto brain fog be dangerous?"
-    a: "Typically no, not in healthy adults. It's unpleasant but not harmful. That said, if you're doing anything that requires sharp mental performance (driving long distances, operating machinery, certain jobs), the adaptation period deserves some respect. Time your transition thoughtfully if that's your situation."
-  - q: "Does everyone get brain fog on keto?"
-    a: "No. Some people transition with barely any symptoms, particularly those who are already metabolically flexible, meaning they exercise regularly and weren't eating a very high-carb diet. People coming off a high-sugar, high-processed-carb diet tend to have a harder time."
-  - q: "Will more fat or more protein help with brain fog?"
-    a: "More fat helps if total calories are too low. Protein is interesting: some evidence suggests adequate protein (around 1.2 to 1.7 grams per kilogram of body weight) supports cognitive function, and many keto dieters undereat it. I'd look at whether protein intake is sufficient before adding more fat."
-  - q: "Is MCT oil actually worth buying for brain fog?"
-    a: "Probably, as a short-term tool during adaptation. The effect is real for many people, and the mechanism (rapid conversion to ketones) makes sense. It won't fix electrolyte deficiencies or sleep problems, so treat it as a supplement to the basics, not a replacement. Budget brands are fine; you don't need the premium versions."
+ - q: "How long does keto brain fog usually last?"
+ a: "For most people, the worst of it clears within 5 to 10 days. Full cognitive adaptation, where mental energy feels genuinely stable and good, can take 4 to 6 weeks. If significant fog persists past three weeks with proper electrolyte intake and adequate calories, it's worth checking whether you're actually in ketosis and ruling out sleep issues."
+ - q: "Can keto brain fog be dangerous?"
+ a: "Typically no, not in healthy adults. It's unpleasant but not harmful. That said, if you're doing anything that requires sharp mental performance (driving long distances, operating machinery, certain jobs), the adaptation period deserves some respect. Time your transition thoughtfully if that's your situation."
+ - q: "Does everyone get brain fog on keto?"
+ a: "No. Some people transition with barely any symptoms, particularly those who are already metabolically flexible, meaning they exercise regularly and weren't eating a very high-carb diet. People coming off a high-sugar, high-processed-carb diet tend to have a harder time."
+ - q: "Will more fat or more protein help with brain fog?"
+ a: "More fat helps if total calories are too low. Protein is interesting: some evidence suggests adequate protein (around 1.2 to 1.7 grams per kilogram of body weight) supports cognitive function, and many keto dieters undereat it. I'd look at whether protein intake is sufficient before adding more fat."
+ - q: "Is MCT oil actually worth buying for brain fog?"
+ a: "Probably, as a short-term tool during adaptation. The effect is real for many people, and the mechanism (rapid conversion to ketones) makes sense. It won't fix electrolyte deficiencies or sleep problems, so treat it as a supplement to the basics, not a replacement. Budget brands are fine; you don't need the premium versions."
 author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
@@ -35,12 +35,12 @@ So let me give you the real breakdown on keto brain fog: what's causing it, what
 
 
 <div class="value-module">
-  <div class="vm-head">Keto Brain Fog: Symptom-to-Cause Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to identify which underlying cause is driving your symptoms, with specific thresholds and corresponding fixes.</p>
-    <ul><li><strong>Symptom timing: Days 1–7 of keto</strong><ul><li>Primary suspect: <em>Electrolyte depletion</em></li><li>Check: Sodium intake below 4–5 g/day (typical keto target is higher than standard diet due to increased excretion)</li><li>Check: Potassium below 3–4 g/day from food sources</li><li>Check: Magnesium below 300–400 mg/day</li><li>Quick test: If symptoms improve within 2–4 hours of salted broth + magnesium, electrolytes were the cause</li></ul></li><li><strong>Symptom timing: Days 7–21 of keto</strong><ul><li>Primary suspect: <em>Incomplete metabolic adaptation</em></li><li>Check: Blood ketones below 0.5 mmol/L (suggests you're not yet in consistent ketosis)</li><li>Check: Hidden carbs keeping you above 30–50 g/day net carbs</li><li>Check: Sleep quality declined (adaptation stress can disrupt sleep, worsening fog)</li></ul></li><li><strong>Symptom timing: Beyond 3–4 weeks</strong><ul><li>Primary suspect: <em>Caloric or nutrient deficit</em></li><li>Check: Total calorie intake dropped more than 30% from pre-keto baseline</li><li>Check: Protein below 0.7 g per pound of body weight</li><li>Check: B-vitamins or iron inadequate (common when eliminating fortified grains)</li></ul></li><li><strong>Red flags requiring medical evaluation</strong><ul><li>Fog accompanied by heart palpitations, muscle cramps, or weakness</li><li>Symptoms persist unchanged despite 2 weeks of adequate electrolytes and calories</li><li>Pre-existing thyroid, adrenal, or blood sugar conditions</li></ul></li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Keto Brain Fog: Symptom-to-Cause Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to identify which underlying cause is driving your symptoms, with specific thresholds and corresponding fixes.</p>
+ <ul><li><strong>Symptom timing: Days 1–7 of keto</strong><ul><li>Primary suspect: <em>Electrolyte depletion</em></li><li>Check: Sodium intake below 4–5 g/day (typical keto target is higher than standard diet due to increased excretion)</li><li>Check: Potassium below 3–4 g/day from food sources</li><li>Check: Magnesium below 300–400 mg/day</li><li>Quick test: If symptoms improve within 2–4 hours of salted broth + magnesium, electrolytes were the cause</li></ul></li><li><strong>Symptom timing: Days 7–21 of keto</strong><ul><li>Primary suspect: <em>Incomplete metabolic adaptation</em></li><li>Check: Blood ketones below 0.5 mmol/L (suggests you're not yet in consistent ketosis)</li><li>Check: Hidden carbs keeping you above 30–50 g/day net carbs</li><li>Check: Sleep quality declined (adaptation stress can disrupt sleep, worsening fog)</li></ul></li><li><strong>Symptom timing: Beyond 3–4 weeks</strong><ul><li>Primary suspect: <em>Caloric or nutrient deficit</em></li><li>Check: Total calorie intake dropped more than 30% from pre-keto baseline</li><li>Check: Protein below 0.7 g per pound of body weight</li><li>Check: B-vitamins or iron inadequate (common when eliminating fortified grains)</li></ul></li><li><strong>Red flags requiring medical evaluation</strong><ul><li>Fog accompanied by heart palpitations, muscle cramps, or weakness</li><li>Symptoms persist unchanged despite 2 weeks of adequate electrolytes and calories</li><li>Pre-existing thyroid, adrenal, or blood sugar conditions</li></ul></li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What's Actually Happening in Your Brain

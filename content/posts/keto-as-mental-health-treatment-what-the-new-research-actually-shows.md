@@ -11,10 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-as-mental-health-treatment-what-the-new-research-actually-shows"
-affiliate_disclosure: false
----
-
-When RFK Jr. stood up in February 2026 and told the world that a ketogenic diet could *cure* schizophrenia, the backlash was immediate and predictable. Psychiatrists and pharmacists pushed back hard, calling his statement a dramatic overreach of what the science actually supports. And they weren't wrong to push back. But here's what's getting lost in the noise: there genuinely is something happening in this space. The research is real, it's accelerating, and it's coming from places like Stanford, Harvard, and JAMA Psychiatry, not fringe wellness blogs. The honest conversation is more nuanced than either "RFK is right" or "this is dangerous quackery," and it's worth having.
+affiliate_disclosure: false, When RFK Jr. stood up in February 2026 and told the world that a ketogenic diet could *cure* schizophrenia, the backlash was immediate and predictable. Psychiatrists and pharmacists pushed back hard, calling his statement a dramatic overreach of what the science actually supports. And they weren't wrong to push back. But here's what's getting lost in the noise: there genuinely is something happening in this space. The research is real, it's accelerating, and it's coming from places like Stanford, Harvard, and JAMA Psychiatry, not fringe wellness blogs. The honest conversation is more nuanced than either "RFK is right" or "this is dangerous quackery," and it's worth having.
 
 ## What the Actual Research Shows (and Doesn't)
 
@@ -68,5 +65,5 @@ The research is genuinely exciting. The mechanistic story is plausible. And the 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 

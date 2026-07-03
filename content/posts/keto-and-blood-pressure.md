@@ -13,16 +13,16 @@ author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients
 slug: "keto-and-blood-pressure"
 affiliate_disclosure: false
 faqs:
-  - q: "Does keto lower blood pressure quickly?"
-    a: "Some people see changes within 1-2 weeks, mostly from sodium and water loss tied to lower insulin. Expect fluctuation early, not a clean downward line. Meaningful, stable reductions typically take 4-6 weeks."
-  - q: "Is keto safe if I have high blood pressure?"
-    a: "For most people, yes, and it often helps. The exception: if you're on blood pressure medication, the combination can lower your pressure too much. Monitor closely and keep your doctor in the loop."
-  - q: "Why did my blood pressure go up when I started keto?"
-    a: "Almost certainly electrolytes. The kidneys excrete sodium rapidly in the first week or two, which can cause compensatory effects that spike pressure transiently. Adding sodium, potassium, and magnesium usually resolves this within a day or two."
-  - q: "Can keto replace blood pressure medication?"
-    a: "Sometimes, under medical supervision. I've seen clients go from two medications to none after sustained keto plus weight loss. But this requires physician oversight and proper monitoring. Don't taper medication on your own."
-  - q: "How much salt should I eat on keto if I have high blood pressure?"
-    a: "This is where standard advice gets it wrong. 'Low salt' is the default hypertension recommendation, but keto increases sodium excretion. Most people doing keto need more sodium than they think, even with high blood pressure. Aim for 2-3g of sodium daily and adjust based on symptoms and blood pressure readings, ideally with guidance from a clinician who understands low-carb physiology."
+ - q: "Does keto lower blood pressure quickly?"
+ a: "Some people see changes within 1-2 weeks, mostly from sodium and water loss tied to lower insulin. Expect fluctuation early, not a clean downward line. Meaningful, stable reductions typically take 4-6 weeks."
+ - q: "Is keto safe if I have high blood pressure?"
+ a: "For most people, yes, and it often helps. The exception: if you're on blood pressure medication, the combination can lower your pressure too much. Monitor closely and keep your doctor in the loop."
+ - q: "Why did my blood pressure go up when I started keto?"
+ a: "Almost certainly electrolytes. The kidneys excrete sodium rapidly in the first week or two, which can cause compensatory effects that spike pressure transiently. Adding sodium, potassium, and magnesium usually resolves this within a day or two."
+ - q: "Can keto replace blood pressure medication?"
+ a: "Sometimes, under medical supervision. I've seen clients go from two medications to none after sustained keto plus weight loss. But this requires physician oversight and proper monitoring. Don't taper medication on your own."
+ - q: "How much salt should I eat on keto if I have high blood pressure?"
+ a: "This is where standard advice gets it wrong. 'Low salt' is the default hypertension recommendation, but keto increases sodium excretion. Most people doing keto need more sodium than they think, even with high blood pressure. Aim for 2-3g of sodium daily and adjust based on symptoms and blood pressure readings, ideally with guidance from a clinician who understands low-carb physiology."
 ---
 
 Most coverage of keto and blood pressure picks one of two stories: "keto lowers blood pressure, full stop" or "all that saturated fat will kill you." Both are lazy. The actual picture is more specific, more interesting, and more useful.

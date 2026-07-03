@@ -9,16 +9,16 @@ tags: ["easy", "keto", "meals"]
 slug: "easy-keto-meals"
 affiliate_disclosure: false
 faqs:
-  - q: "Can I eat keto without cooking a lot?"
-    a: "Absolutely. Some of the best keto options require zero cooking or almost none. Rotisserie chicken from the grocery store with sliced avocado and a handful of nuts is a complete meal. Canned tuna mixed with mayo and eaten with cucumber slices works. Deli meat roll-ups with cream cheese, hard-boiled eggs, string cheese, olives, and beef jerky are all grab-and-eat keto foods that require nothing from your stove."
-  - q: "What are good keto meals for people who hate vegetables?"
-    a: "You don't have to eat vegetables to do keto, though most people feel better when they include some fiber. If you're a reluctant vegetable eater, try hiding them rather than featuring them. Cauliflower blended into a cheese sauce is almost undetectable. Spinach wilted into scrambled eggs disappears into the texture. Zucchini roasted until slightly caramelized tastes nothing like steamed zucchini. Preparation matters enormously when vegetables are concerned."
-  - q: "How do I make keto meals more interesting long-term?"
-    a: "Variety in fat sources and seasoning profiles is the key. The same chicken thigh tastes completely different marinated in coconut milk and curry paste versus rubbed with smoked paprika and lemon. Explore cuisines naturally lower in carbs, like Thai, Greek, Mexican (minus the tortillas and rice), and Middle Eastern food. I've seen people stay excited about keto for years just by rotating through different global spice profiles."
-  - q: "Are there keto meals that work for the whole family, not just me?"
-    a: "Yes, and this is one of keto's underrated strengths. Most keto meals are built around proteins and flavors that everyone enjoys. Make taco bowls, burger patties, or sheet pan chicken for the family. Serve theirs with rice, tortillas, or bread. Keep yours grain-free. The main protein is identical, which means you're not cooking two separate dinners."
-  - q: "What's the best way to handle keto when eating out?"
-    a: "Most restaurants are easier to navigate keto-friendly than people expect. At a burger spot, order the burger without the bun and add avocado. At a steakhouse, replace the potato with extra vegetables or a side salad. At a Mexican restaurant, a fajita bowl minus the rice and beans works well. At an Italian restaurant, skip pasta dishes and go for grilled proteins with olive oil. The main traps to avoid are breaded proteins, sweet sauces, and anything 'glazed' or 'teriyaki.'"
+ - q: "Can I eat keto without cooking a lot?"
+ a: "Absolutely. Some of the best keto options require zero cooking or almost none. Rotisserie chicken from the grocery store with sliced avocado and a handful of nuts is a complete meal. Canned tuna mixed with mayo and eaten with cucumber slices works. Deli meat roll-ups with cream cheese, hard-boiled eggs, string cheese, olives, and beef jerky are all grab-and-eat keto foods that require nothing from your stove."
+ - q: "What are good keto meals for people who hate vegetables?"
+ a: "You don't have to eat vegetables to do keto, though most people feel better when they include some fiber. If you're a reluctant vegetable eater, try hiding them rather than featuring them. Cauliflower blended into a cheese sauce is almost undetectable. Spinach wilted into scrambled eggs disappears into the texture. Zucchini roasted until slightly caramelized tastes nothing like steamed zucchini. Preparation matters enormously when vegetables are concerned."
+ - q: "How do I make keto meals more interesting long-term?"
+ a: "Variety in fat sources and seasoning profiles is the key. The same chicken thigh tastes completely different marinated in coconut milk and curry paste versus rubbed with smoked paprika and lemon. Explore cuisines naturally lower in carbs, like Thai, Greek, Mexican (minus the tortillas and rice), and Middle Eastern food. I've seen people stay excited about keto for years just by rotating through different global spice profiles."
+ - q: "Are there keto meals that work for the whole family, not just me?"
+ a: "Yes, and this is one of keto's underrated strengths. Most keto meals are built around proteins and flavors that everyone enjoys. Make taco bowls, burger patties, or sheet pan chicken for the family. Serve theirs with rice, tortillas, or bread. Keep yours grain-free. The main protein is identical, which means you're not cooking two separate dinners."
+ - q: "What's the best way to handle keto when eating out?"
+ a: "Most restaurants are easier to navigate keto-friendly than people expect. At a burger spot, order the burger without the bun and add avocado. At a steakhouse, replace the potato with extra vegetables or a side salad. At a Mexican restaurant, a fajita bowl minus the rice and beans works well. At an Italian restaurant, skip pasta dishes and go for grilled proteins with olive oil. The main traps to avoid are breaded proteins, sweet sauces, and anything 'glazed' or 'teriyaki.'"
 author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Recipe Developer"
@@ -29,12 +29,12 @@ Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're alr
 
 
 <div class="value-module">
-  <div class="vm-head">Quick Keto Plate Builder Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these thresholds to assemble a balanced keto meal in minutes without counting every macro.</p>
-    <ul><li><strong>Protein (palm-sized portion, ~4-6 oz):</strong> Chicken thigh, salmon, ground beef, eggs (2-3), or pork chop, aim for roughly 25-40 g protein per meal</li><li><strong>Fat source (1-2 thumb-sized portions):</strong> Avocado (½), olive oil (1-2 tbsp), butter (1 tbsp), cheese (1 oz), or mayo (1 tbsp), adds ~15-25 g fat</li><li><strong>Low-carb vegetable (fist-sized or larger):</strong> Spinach, broccoli, zucchini, asparagus, or cauliflower, keep under 5 g net carbs per serving</li><li><strong>Seasoning boost (no-carb flavor):</strong> Salt, pepper, garlic powder, paprika, Italian herbs, or lemon juice, skip sugar-based rubs</li><li><strong>Quick carb check:</strong> If your vegetable is onion, tomato, or bell pepper, halve your usual portion (they run 3-6 g net carbs per ½ cup)</li><li><strong>Meal total target:</strong> Plate should land around 5-10 g net carbs, 25-40 g protein, 30-50 g fat for a standard keto dinner</li></ul>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Quick Keto Plate Builder Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these thresholds to assemble a balanced keto meal in minutes without counting every macro.</p>
+ <ul><li><strong>Protein (palm-sized portion, ~4-6 oz):</strong> Chicken thigh, salmon, ground beef, eggs (2-3), or pork chop, aim for roughly 25-40 g protein per meal</li><li><strong>Fat source (1-2 thumb-sized portions):</strong> Avocado (½), olive oil (1-2 tbsp), butter (1 tbsp), cheese (1 oz), or mayo (1 tbsp), adds ~15-25 g fat</li><li><strong>Low-carb vegetable (fist-sized or larger):</strong> Spinach, broccoli, zucchini, asparagus, or cauliflower, keep under 5 g net carbs per serving</li><li><strong>Seasoning boost (no-carb flavor):</strong> Salt, pepper, garlic powder, paprika, Italian herbs, or lemon juice, skip sugar-based rubs</li><li><strong>Quick carb check:</strong> If your vegetable is onion, tomato, or bell pepper, halve your usual portion (they run 3-6 g net carbs per ½ cup)</li><li><strong>Meal total target:</strong> Plate should land around 5-10 g net carbs, 25-40 g protein, 30-50 g fat for a standard keto dinner</li></ul>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Keto Meals Are Easier Than You Think

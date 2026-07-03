@@ -9,16 +9,16 @@ tags: ["keto", "chocolate", "cake"]
 slug: "keto-chocolate-cake"
 affiliate_disclosure: false
 faqs:
-  - q: "Can I make keto chocolate cake without almond flour?"
-    a: "Yes. Coconut flour works, but you'll need to adjust significantly: use about ¼ the amount called for in an almond flour recipe and increase your eggs and liquid. Some people also use a combination of sunflower seed flour and a small amount of coconut flour, which is worth trying if you have a nut allergy."
-  - q: "Why did my keto chocolate cake turn out eggy?"
-    a: "Too many eggs relative to the other ingredients, or eggs that weren't at room temperature when mixed. Room temperature eggs incorporate more evenly. Also, letting the cake cool completely before cutting is important since the egg proteins need time to set properly."
-  - q: "Can I use monk fruit sweetener instead of erythritol or allulose?"
-    a: "Most commercial monk fruit sweeteners (like Lakanto) are actually a monk fruit and erythritol blend, so you'll get similar results to erythritol alone. Pure monk fruit extract is intensely sweet and can be tricky to measure accurately in baked goods, so I'd stick with a blend."
-  - q: "How do I store keto chocolate cake and how long does it last?"
-    a: "Refrigerated and covered, it keeps well for 4-5 days. The texture is best on day one or two. If your cake dries out faster than that, add a tablespoon of avocado oil to your next batch or swap sour cream in for any non-fat dairy."
-  - q: "Does keto chocolate cake actually kick you out of ketosis?"
-    a: "Depends entirely on your portion and your individual response. A well-made slice using allulose or erythritol shouldn't cause a significant blood sugar spike for most people, but everyone responds differently. If you're tracking strictly, measure your specific ingredients and use a macro calculator. And if you have any underlying health conditions, talking to a dietitian or your doctor before making significant dietary changes is always a good call."
+ - q: "Can I make keto chocolate cake without almond flour?"
+ a: "Yes. Coconut flour works, but you'll need to adjust significantly: use about ¼ the amount called for in an almond flour recipe and increase your eggs and liquid. Some people also use a combination of sunflower seed flour and a small amount of coconut flour, which is worth trying if you have a nut allergy."
+ - q: "Why did my keto chocolate cake turn out eggy?"
+ a: "Too many eggs relative to the other ingredients, or eggs that weren't at room temperature when mixed. Room temperature eggs incorporate more evenly. Also, letting the cake cool completely before cutting is important since the egg proteins need time to set properly."
+ - q: "Can I use monk fruit sweetener instead of erythritol or allulose?"
+ a: "Most commercial monk fruit sweeteners (like Lakanto) are actually a monk fruit and erythritol blend, so you'll get similar results to erythritol alone. Pure monk fruit extract is intensely sweet and can be tricky to measure accurately in baked goods, so I'd stick with a blend."
+ - q: "How do I store keto chocolate cake and how long does it last?"
+ a: "Refrigerated and covered, it keeps well for 4-5 days. The texture is best on day one or two. If your cake dries out faster than that, add a tablespoon of avocado oil to your next batch or swap sour cream in for any non-fat dairy."
+ - q: "Does keto chocolate cake actually kick you out of ketosis?"
+ a: "Depends entirely on your portion and your individual response. A well-made slice using allulose or erythritol shouldn't cause a significant blood sugar spike for most people, but everyone responds differently. If you're tracking strictly, measure your specific ingredients and use a macro calculator. And if you have any underlying health conditions, talking to a dietitian or your doctor before making significant dietary changes is always a good call."
 author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Research Editor"
@@ -30,12 +30,12 @@ Most keto chocolate cake recipes will lie to you. Not maliciously, just optimist
 So what can keto chocolate cake actually be? And what can't it?
 
 <div class="value-module">
-  <div class="vm-head">Keto Flour & Sweetener Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table summarizes the key behavioral differences between common keto baking ingredients to help you choose based on your cake style.</p>
-    <table><thead><tr><th>Ingredient</th><th>Best For</th><th>Key Behavior</th><th>Watch Out For</th><th>Typical Ratio</th></tr></thead><tbody><tr><td>Almond flour (super-fine)</td><td>Layer cakes, moist crumb</td><td>Holds fat well, creates tender texture</td><td>Crumbles without enough eggs (use 4 for 9-inch round)</td><td>1½–2 cups per 9-inch layer</td></tr><tr><td>Coconut flour</td><td>Dense snacking cakes, brownies</td><td>Absorbs 4× liquid of almond flour</td><td>Fibrous texture; faint coconut note</td><td>¼ cup replaces 1 cup almond flour</td></tr><tr><td>Erythritol (e.g., Swerve)</td><td>Budget-friendly baking</td><td>Measures 1:1 with sugar</td><td>Cooling aftertaste; crystallizes as cake cools</td><td>¾–1 cup per cake</td></tr><tr><td>Allulose</td><td>Smooth texture, no recrystallization</td><td>70% sweetness of sugar; browns like sugar</td><td>Can cause digestive upset in large amounts</td><td>Increase by 30% vs. sugar</td></tr><tr><td>Monk fruit blend</td><td>Intense sweetness, small quantities</td><td>Often blended with erythritol for bulk</td><td>Check blend ratio; some are 2:1 vs. sugar</td><td>Follow package conversion</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Keto Flour & Sweetener Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table summarizes the key behavioral differences between common keto baking ingredients to help you choose based on your cake style.</p>
+ <table><thead><tr><th>Ingredient</th><th>Best For</th><th>Key Behavior</th><th>Watch Out For</th><th>Typical Ratio</th></tr></thead><tbody><tr><td>Almond flour (super-fine)</td><td>Layer cakes, moist crumb</td><td>Holds fat well, creates tender texture</td><td>Crumbles without enough eggs (use 4 for 9-inch round)</td><td>1½–2 cups per 9-inch layer</td></tr><tr><td>Coconut flour</td><td>Dense snacking cakes, brownies</td><td>Absorbs 4× liquid of almond flour</td><td>Fibrous texture; faint coconut note</td><td>¼ cup replaces 1 cup almond flour</td></tr><tr><td>Erythritol (e.g., Swerve)</td><td>Budget-friendly baking</td><td>Measures 1:1 with sugar</td><td>Cooling aftertaste; crystallizes as cake cools</td><td>¾–1 cup per cake</td></tr><tr><td>Allulose</td><td>Smooth texture, no recrystallization</td><td>70% sweetness of sugar; browns like sugar</td><td>Can cause digestive upset in large amounts</td><td>Increase by 30% vs. sugar</td></tr><tr><td>Monk fruit blend</td><td>Intense sweetness, small quantities</td><td>Often blended with erythritol for bulk</td><td>Check blend ratio; some are 2:1 vs. sugar</td><td>Follow package conversion</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Ingredient Decisions That Actually Matter

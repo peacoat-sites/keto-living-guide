@@ -9,16 +9,16 @@ tags: ["keto", "meal", "plan"]
 slug: "keto-7-day-meal-plan"
 affiliate_disclosure: false
 faqs:
-  - q: "How many carbs per day does this meal plan stick to?"
-    a: "Every day in this plan is designed to stay under 25 grams of net carbs. Most days come in closer to 15-20 grams. Net carbs are calculated by subtracting fiber from total carbs, which is the number that actually matters for ketosis."
-  - q: "Can I swap meals around between days?"
-    a: "Absolutely. The days aren't interdependent except where one meal uses leftovers from the previous night's dinner (Days 2 and 7 do this). Swapping a Day 3 breakfast with a Day 6 breakfast, for example, has no effect on your results."
-  - q: "What if I'm not hungry for a snack?"
-    a: "Skip it. Keto tends to reduce hunger naturally once you're fat-adapted because fat and protein are more satiating than carbs. If you're genuinely not hungry, there's no rule that says you need to eat. Forcing food when you're not hungry just adds unnecessary calories."
-  - q: "Is this plan suitable for someone who's never done keto before?"
-    a: "Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our keto diet for beginners guide to understand the full framework. Knowing the 'why' behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate."
-  - q: "Will I actually lose weight in the first week?"
-    a: "Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal."
+ - q: "How many carbs per day does this meal plan stick to?"
+ a: "Every day in this plan is designed to stay under 25 grams of net carbs. Most days come in closer to 15-20 grams. Net carbs are calculated by subtracting fiber from total carbs, which is the number that actually matters for ketosis."
+ - q: "Can I swap meals around between days?"
+ a: "Absolutely. The days aren't interdependent except where one meal uses leftovers from the previous night's dinner (Days 2 and 7 do this). Swapping a Day 3 breakfast with a Day 6 breakfast, for example, has no effect on your results."
+ - q: "What if I'm not hungry for a snack?"
+ a: "Skip it. Keto tends to reduce hunger naturally once you're fat-adapted because fat and protein are more satiating than carbs. If you're genuinely not hungry, there's no rule that says you need to eat. Forcing food when you're not hungry just adds unnecessary calories."
+ - q: "Is this plan suitable for someone who's never done keto before?"
+ a: "Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our keto diet for beginners guide to understand the full framework. Knowing the 'why' behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate."
+ - q: "Will I actually lose weight in the first week?"
+ a: "Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal."
 author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
@@ -32,12 +32,12 @@ This guide gives you a practical 7-day keto meal plan plus the actual context yo
 ---
 
 <div class="value-module">
-  <div class="vm-head">Week 1 Keto Grocery List by Category</div>
-  <div class="vm-body">
-    <p class="vm-intro">This consolidated shopping list covers all seven days, organized by store section to minimize backtracking and ensure nothing gets forgotten.</p>
-    <table><thead><tr><th>Category</th><th>Items</th><th>Quantity</th></tr></thead><tbody><tr><td>Eggs & Dairy</td><td>Large eggs</td><td>2 dozen</td></tr><tr><td></td><td>Butter (unsalted)</td><td>1 lb</td></tr><tr><td></td><td>Heavy whipping cream</td><td>1 pint</td></tr><tr><td></td><td>Cream cheese</td><td>8 oz block</td></tr><tr><td></td><td>Shredded cheddar</td><td>8 oz</td></tr><tr><td></td><td>Parmesan (grated)</td><td>4 oz</td></tr><tr><td>Meat & Seafood</td><td>Bacon</td><td>1 lb</td></tr><tr><td></td><td>Ground beef (80/20)</td><td>1.5 lbs</td></tr><tr><td></td><td>Chicken thighs (bone-in, skin-on)</td><td>2 lbs</td></tr><tr><td></td><td>Salmon fillets</td><td>12 oz</td></tr><tr><td></td><td>Pork chops</td><td>1 lb</td></tr><tr><td></td><td>Italian sausage links</td><td>1 lb</td></tr><tr><td>Canned/Pantry</td><td>Canned tuna (in oil or water)</td><td>3 cans (5 oz each)</td></tr><tr><td></td><td>Mayonnaise (full-fat, no sugar)</td><td>1 jar</td></tr><tr><td></td><td>Olive oil (extra virgin)</td><td>1 bottle</td></tr><tr><td></td><td>Avocado oil</td><td>1 bottle</td></tr><tr><td></td><td>Chicken or beef broth</td><td>32 oz carton</td></tr><tr><td></td><td>Almonds (raw or roasted, unsalted)</td><td>8 oz</td></tr><tr><td>Produce</td><td>Avocados</td><td>5</td></tr><tr><td></td><td>Romaine lettuce</td><td>2 heads</td></tr><tr><td></td><td>Spinach (fresh)</td><td>10 oz bag</td></tr><tr><td></td><td>Broccoli</td><td>2 heads</td></tr><tr><td></td><td>Cauliflower</td><td>1 head</td></tr><tr><td></td><td>Zucchini</td><td>3 medium</td></tr><tr><td></td><td>Celery</td><td>1 bunch</td></tr><tr><td></td><td>Garlic</td><td>1 head</td></tr><tr><td></td><td>Lemons</td><td>2</td></tr><tr><td>Electrolyte Support*</td><td>Lite Salt (sodium/potassium blend)</td><td>1 container</td></tr><tr><td></td><td>Magnesium citrate supplement</td><td>1 bottle (200-400mg capsules)</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Week 1 Keto Grocery List by Category</div>
+ <div class="vm-body">
+ <p class="vm-intro">This consolidated shopping list covers all seven days, organized by store section to minimize backtracking and ensure nothing gets forgotten.</p>
+ <table><thead><tr><th>Category</th><th>Items</th><th>Quantity</th></tr></thead><tbody><tr><td>Eggs & Dairy</td><td>Large eggs</td><td>2 dozen</td></tr><tr><td></td><td>Butter (unsalted)</td><td>1 lb</td></tr><tr><td></td><td>Heavy whipping cream</td><td>1 pint</td></tr><tr><td></td><td>Cream cheese</td><td>8 oz block</td></tr><tr><td></td><td>Shredded cheddar</td><td>8 oz</td></tr><tr><td></td><td>Parmesan (grated)</td><td>4 oz</td></tr><tr><td>Meat & Seafood</td><td>Bacon</td><td>1 lb</td></tr><tr><td></td><td>Ground beef (80/20)</td><td>1.5 lbs</td></tr><tr><td></td><td>Chicken thighs (bone-in, skin-on)</td><td>2 lbs</td></tr><tr><td></td><td>Salmon fillets</td><td>12 oz</td></tr><tr><td></td><td>Pork chops</td><td>1 lb</td></tr><tr><td></td><td>Italian sausage links</td><td>1 lb</td></tr><tr><td>Canned/Pantry</td><td>Canned tuna (in oil or water)</td><td>3 cans (5 oz each)</td></tr><tr><td></td><td>Mayonnaise (full-fat, no sugar)</td><td>1 jar</td></tr><tr><td></td><td>Olive oil (extra virgin)</td><td>1 bottle</td></tr><tr><td></td><td>Avocado oil</td><td>1 bottle</td></tr><tr><td></td><td>Chicken or beef broth</td><td>32 oz carton</td></tr><tr><td></td><td>Almonds (raw or roasted, unsalted)</td><td>8 oz</td></tr><tr><td>Produce</td><td>Avocados</td><td>5</td></tr><tr><td></td><td>Romaine lettuce</td><td>2 heads</td></tr><tr><td></td><td>Spinach (fresh)</td><td>10 oz bag</td></tr><tr><td></td><td>Broccoli</td><td>2 heads</td></tr><tr><td></td><td>Cauliflower</td><td>1 head</td></tr><tr><td></td><td>Zucchini</td><td>3 medium</td></tr><tr><td></td><td>Celery</td><td>1 bunch</td></tr><tr><td></td><td>Garlic</td><td>1 head</td></tr><tr><td></td><td>Lemons</td><td>2</td></tr><tr><td>Electrolyte Support*</td><td>Lite Salt (sodium/potassium blend)</td><td>1 container</td></tr><tr><td></td><td>Magnesium citrate supplement</td><td>1 bottle (200-400mg capsules)</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why a 7-Day Plan Works Better Than Winging It

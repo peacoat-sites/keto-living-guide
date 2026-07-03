@@ -13,16 +13,16 @@ author_bio: "Diana Walsh went keto after her second child and had to figure out 
 slug: "keto-bodybuilding-meal-plan"
 affiliate_disclosure: false
 faqs:
-  - q: "Can you actually build muscle in ketosis?"
-    a: "Yes, but it's slower than high-carb approaches for most people, and it requires higher protein intake than standard keto protocols recommend. It works best for people who have a strong reason to stay low-carb, like blood sugar management or better body composition results historically."
-  - q: "Should I do targeted keto (TKD) or cyclical keto (CKD) for bodybuilding?"
-    a: "TKD, where you add 20-30g fast carbs right before training, is the simpler and more practical option for most people. CKD involves full glycogen reloads on weekends and genuinely disrupts ketosis repeatedly, which tends to cause more fatigue than it cures. Unless you're an advanced athlete with a specific competition reason, TKD is the better starting point."
-  - q: "How long does it take to adapt to keto before my strength comes back?"
-    a: "Most people see strength return to baseline around weeks 3-5. Some need 8 weeks. The athletes I've seen take longest are those who under-ate sodium and protein during the transition. If your strength tanked and hasn't recovered at 6 weeks, check those two variables before assuming keto isn't working."
-  - q: "Will high protein kick me out of ketosis?"
-    a: "Not in the way most people fear. Gluconeogenesis is regulated by demand, not just protein supply. Hitting 1 gram per pound of bodyweight won't prevent ketosis in an adapted individual. If you're constantly testing your ketones and they're low, look at total calories and hidden carbs before blaming protein."
-  - q: "What's the biggest mistake people make on a keto bodybuilding plan?"
-    a: "Underrating protein and overrating fat. Keto's identity as a 'high-fat diet' leads a lot of people to keep piling in butter and oil while protein sits at 100g a day or less. Fat is a fuel source here, not a building block. Muscle is built from protein. Get the protein right first, then fill remaining calories with fat."
+ - q: "Can you actually build muscle in ketosis?"
+ a: "Yes, but it's slower than high-carb approaches for most people, and it requires higher protein intake than standard keto protocols recommend. It works best for people who have a strong reason to stay low-carb, like blood sugar management or better body composition results historically."
+ - q: "Should I do targeted keto (TKD) or cyclical keto (CKD) for bodybuilding?"
+ a: "TKD, where you add 20-30g fast carbs right before training, is the simpler and more practical option for most people. CKD involves full glycogen reloads on weekends and genuinely disrupts ketosis repeatedly, which tends to cause more fatigue than it cures. Unless you're an advanced athlete with a specific competition reason, TKD is the better starting point."
+ - q: "How long does it take to adapt to keto before my strength comes back?"
+ a: "Most people see strength return to baseline around weeks 3-5. Some need 8 weeks. The athletes I've seen take longest are those who under-ate sodium and protein during the transition. If your strength tanked and hasn't recovered at 6 weeks, check those two variables before assuming keto isn't working."
+ - q: "Will high protein kick me out of ketosis?"
+ a: "Not in the way most people fear. Gluconeogenesis is regulated by demand, not just protein supply. Hitting 1 gram per pound of bodyweight won't prevent ketosis in an adapted individual. If you're constantly testing your ketones and they're low, look at total calories and hidden carbs before blaming protein."
+ - q: "What's the biggest mistake people make on a keto bodybuilding plan?"
+ a: "Underrating protein and overrating fat. Keto's identity as a 'high-fat diet' leads a lot of people to keep piling in butter and oil while protein sits at 100g a day or less. Fat is a fuel source here, not a building block. Muscle is built from protein. Get the protein right first, then fill remaining calories with fat."
 ---
 
 Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. I've worked with clients who were genuinely lean and genuinely frustrated that they couldn't seem to add muscle no matter how dialed-in their training was, and nine times out of ten the problem was their food, specifically not enough protein and way too little attention to nutrient timing.

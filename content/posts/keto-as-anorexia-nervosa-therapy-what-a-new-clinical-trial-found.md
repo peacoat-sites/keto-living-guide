@@ -11,10 +11,7 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found"
-affiliate_disclosure: false
----
-
-If you follow the keto world at all, you've probably seen the headlines this week. A peer-reviewed trial just found that a ketogenic diet significantly reduced core symptoms of anorexia nervosa in adult women, with 72% of completers scoring in a "recovered or normal" range by the end of the intervention. The reaction in clinical nutrition circles has been, to put it mildly, a lot. Anorexia nervosa is one of the most treatment-resistant psychiatric conditions we know of, and it carries the highest mortality rate of any eating disorder. The idea that a high-fat diet, of all things, could move the needle is genuinely surprising, and it deserves a careful look rather than either breathless enthusiasm or reflexive dismissal.
+affiliate_disclosure: false, If you follow the keto world at all, you've probably seen the headlines this week. A peer-reviewed trial just found that a ketogenic diet significantly reduced core symptoms of anorexia nervosa in adult women, with 72% of completers scoring in a "recovered or normal" range by the end of the intervention. The reaction in clinical nutrition circles has been, to put it mildly, a lot. Anorexia nervosa is one of the most treatment-resistant psychiatric conditions we know of, and it carries the highest mortality rate of any eating disorder. The idea that a high-fat diet, of all things, could move the needle is genuinely surprising, and it deserves a careful look rather than either breathless enthusiasm or reflexive dismissal.
 
 ## What the Trial Actually Did (and Didn't Do)
 

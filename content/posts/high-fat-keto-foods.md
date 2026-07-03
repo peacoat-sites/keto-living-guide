@@ -13,16 +13,16 @@ author_bio: "Jake Torres spent a decade as a line cook before going keto himself
 slug: "high-fat-keto-foods"
 affiliate_disclosure: false
 faqs:
-  - q: "How much fat should I actually eat on keto?"
-    a: "There's no single number, but most people doing keto aim for 60 to 75 percent of calories from fat. For a 1,800-calorie intake, that's roughly 120 to 150 grams of fat per day. If you're tracking, apps like Cronometer make this easier than manual math."
-  - q: "Can I eat too much fat on keto and stall weight loss?"
-    a: "Yes. This is something the 'eat unlimited fat' version of keto advice glosses over. Fat has 9 calories per gram, and a caloric surplus is a caloric surplus regardless of macronutrient source. If fat loss has stalled, calories are usually worth looking at before blaming carb creep."
-  - q: "Are seed oils okay on keto?"
-    a: "The research here is genuinely mixed and contested. Seed oils like canola and soybean oil are technically keto-compliant by carb count, but their high omega-6 content and instability at heat is a real concern many researchers take seriously. I'd default to olive oil, butter, coconut oil, and animal fats as your primary cooking fats and minimize the seed oils where you can."
-  - q: "What's the best high-fat keto food for someone who doesn't like cooking?"
-    a: "Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical."
-  - q: "Do I need to track fat grams or can I just eat to satiety?"
-    a: "For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is."
+ - q: "How much fat should I actually eat on keto?"
+ a: "There's no single number, but most people doing keto aim for 60 to 75 percent of calories from fat. For a 1,800-calorie intake, that's roughly 120 to 150 grams of fat per day. If you're tracking, apps like Cronometer make this easier than manual math."
+ - q: "Can I eat too much fat on keto and stall weight loss?"
+ a: "Yes. This is something the 'eat unlimited fat' version of keto advice glosses over. Fat has 9 calories per gram, and a caloric surplus is a caloric surplus regardless of macronutrient source. If fat loss has stalled, calories are usually worth looking at before blaming carb creep."
+ - q: "Are seed oils okay on keto?"
+ a: "The research here is genuinely mixed and contested. Seed oils like canola and soybean oil are technically keto-compliant by carb count, but their high omega-6 content and instability at heat is a real concern many researchers take seriously. I'd default to olive oil, butter, coconut oil, and animal fats as your primary cooking fats and minimize the seed oils where you can."
+ - q: "What's the best high-fat keto food for someone who doesn't like cooking?"
+ a: "Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical."
+ - q: "Do I need to track fat grams or can I just eat to satiety?"
+ a: "For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is."
 ---
 Most people start keto thinking they need to cut carbs, then figure out the fat part later. That's backwards, and it causes a lot of unnecessary frustration.
 
@@ -32,12 +32,12 @@ So let's talk about which foods actually deliver, what I've seen work for real c
 
 
 <div class="value-module">
-  <div class="vm-head">Fat Content Comparison: Common Keto Foods</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows fat grams, fat types, and net carbs per typical serving to help you plan meals that hit your macros.</p>
-    <table><thead><tr><th>Food</th><th>Serving</th><th>Total Fat (g)</th><th>Saturated (g)</th><th>Mono/Poly (g)</th><th>Net Carbs (g)</th></tr></thead><tbody><tr><td>Ribeye steak</td><td>6 oz cooked</td><td>28</td><td>11</td><td>14</td><td>0</td></tr><tr><td>Chicken thigh (skin-on)</td><td>4 oz cooked</td><td>14</td><td>4</td><td>8</td><td>0</td></tr><tr><td>Whole eggs</td><td>2 large</td><td>10</td><td>3</td><td>5</td><td>1</td></tr><tr><td>Avocado (Hass)</td><td>1 medium</td><td>21</td><td>3</td><td>16</td><td>3</td></tr><tr><td>Salmon (Atlantic)</td><td>4 oz cooked</td><td>12</td><td>2</td><td>7</td><td>0</td></tr><tr><td>Bacon</td><td>3 slices</td><td>9</td><td>3</td><td>5</td><td>0</td></tr><tr><td>Macadamia nuts</td><td>1 oz (10–12 nuts)</td><td>21</td><td>3</td><td>17</td><td>2</td></tr><tr><td>Cheddar cheese</td><td>1 oz</td><td>9</td><td>6</td><td>3</td><td>0.4</td></tr><tr><td>Olive oil (extra virgin)</td><td>1 tbsp</td><td>14</td><td>2</td><td>11</td><td>0</td></tr><tr><td>Coconut oil</td><td>1 tbsp</td><td>14</td><td>12</td><td>1</td><td>0</td></tr><tr><td>Heavy cream</td><td>2 tbsp</td><td>11</td><td>7</td><td>3</td><td>0.8</td></tr><tr><td>Pork belly</td><td>3 oz cooked</td><td>25</td><td>9</td><td>13</td><td>0</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Fat Content Comparison: Common Keto Foods</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows fat grams, fat types, and net carbs per typical serving to help you plan meals that hit your macros.</p>
+ <table><thead><tr><th>Food</th><th>Serving</th><th>Total Fat (g)</th><th>Saturated (g)</th><th>Mono/Poly (g)</th><th>Net Carbs (g)</th></tr></thead><tbody><tr><td>Ribeye steak</td><td>6 oz cooked</td><td>28</td><td>11</td><td>14</td><td>0</td></tr><tr><td>Chicken thigh (skin-on)</td><td>4 oz cooked</td><td>14</td><td>4</td><td>8</td><td>0</td></tr><tr><td>Whole eggs</td><td>2 large</td><td>10</td><td>3</td><td>5</td><td>1</td></tr><tr><td>Avocado (Hass)</td><td>1 medium</td><td>21</td><td>3</td><td>16</td><td>3</td></tr><tr><td>Salmon (Atlantic)</td><td>4 oz cooked</td><td>12</td><td>2</td><td>7</td><td>0</td></tr><tr><td>Bacon</td><td>3 slices</td><td>9</td><td>3</td><td>5</td><td>0</td></tr><tr><td>Macadamia nuts</td><td>1 oz (10–12 nuts)</td><td>21</td><td>3</td><td>17</td><td>2</td></tr><tr><td>Cheddar cheese</td><td>1 oz</td><td>9</td><td>6</td><td>3</td><td>0.4</td></tr><tr><td>Olive oil (extra virgin)</td><td>1 tbsp</td><td>14</td><td>2</td><td>11</td><td>0</td></tr><tr><td>Coconut oil</td><td>1 tbsp</td><td>14</td><td>12</td><td>1</td><td>0</td></tr><tr><td>Heavy cream</td><td>2 tbsp</td><td>11</td><td>7</td><td>3</td><td>0.8</td></tr><tr><td>Pork belly</td><td>3 oz cooked</td><td>25</td><td>9</td><td>13</td><td>0</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Everyday Workhorses (And Why They're So Good)

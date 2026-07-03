@@ -13,16 +13,16 @@ author_bio: "Diana Walsh went keto after her second child and had to figure out 
 slug: "keto-beef-jerky"
 affiliate_disclosure: false
 faqs:
-  - q: "Is beef jerky actually keto-friendly?"
-    a: "It depends entirely on the brand and flavor. Many commercial jerkies use sugar, honey, or teriyaki sauce as key ingredients and can run 5-10 grams of net carbs per serving. Choose brands with 3 grams of net carbs or fewer per serving, and always check the ingredient list, not just the front-of-package marketing."
-  - q: "How much beef jerky can I eat on keto?"
-    a: "There's no hard limit, but jerky is easy to overeat because it's dense and salty. Keep an eye on your daily carb total, especially with commercial products. Two or three servings in a day is fine for most people hitting their carb targets; the protein content won't cause problems for the vast majority of keto dieters."
-  - q: "Does homemade keto jerky need a dehydrator?"
-    a: "No, an oven works. Set it to its lowest temperature (usually 170°F), place strips on a wire rack over a baking sheet, and prop the door open slightly to allow moisture to escape. A dehydrator produces more consistent results and is more energy-efficient, but it's not mandatory for getting started."
-  - q: "Can beef jerky stall weight loss on keto?"
-    a: "Jerky itself isn't a common culprit for stalls, but hidden sugars in commercial jerky can add up and keep you from maintaining deep ketosis. If you've hit a stall, it's worth auditing your jerky brand's actual carb content per the serving size you're eating, not the serving size listed."
-  - q: "What's the difference between beef jerky and meat sticks for keto purposes?"
-    a: "Mostly format and fat content. Meat sticks like Chomps or EPIC bars tend to have a higher fat content from added ingredients or fattier cuts. Traditional sliced jerky is usually leaner. Neither is inherently better; it comes down to whether you're using it as a protein snack or want something more satiating with more fat."
+ - q: "Is beef jerky actually keto-friendly?"
+ a: "It depends entirely on the brand and flavor. Many commercial jerkies use sugar, honey, or teriyaki sauce as key ingredients and can run 5-10 grams of net carbs per serving. Choose brands with 3 grams of net carbs or fewer per serving, and always check the ingredient list, not just the front-of-package marketing."
+ - q: "How much beef jerky can I eat on keto?"
+ a: "There's no hard limit, but jerky is easy to overeat because it's dense and salty. Keep an eye on your daily carb total, especially with commercial products. Two or three servings in a day is fine for most people hitting their carb targets; the protein content won't cause problems for the vast majority of keto dieters."
+ - q: "Does homemade keto jerky need a dehydrator?"
+ a: "No, an oven works. Set it to its lowest temperature (usually 170°F), place strips on a wire rack over a baking sheet, and prop the door open slightly to allow moisture to escape. A dehydrator produces more consistent results and is more energy-efficient, but it's not mandatory for getting started."
+ - q: "Can beef jerky stall weight loss on keto?"
+ a: "Jerky itself isn't a common culprit for stalls, but hidden sugars in commercial jerky can add up and keep you from maintaining deep ketosis. If you've hit a stall, it's worth auditing your jerky brand's actual carb content per the serving size you're eating, not the serving size listed."
+ - q: "What's the difference between beef jerky and meat sticks for keto purposes?"
+ a: "Mostly format and fat content. Meat sticks like Chomps or EPIC bars tend to have a higher fat content from added ingredients or fattier cuts. Traditional sliced jerky is usually leaner. Neither is inherently better; it comes down to whether you're using it as a protein snack or want something more satiating with more fat."
 ---
 
 Most articles about keto beef jerky spend three paragraphs telling you jerky is "a great high-protein snack" before getting to anything useful. You already know that. What they bury, or skip entirely, is the one thing that actually matters: most commercial jerky is loaded with enough sugar and maltodextrin to knock you out of ketosis, and the "keto-friendly" labels on store shelves are doing some real creative math.

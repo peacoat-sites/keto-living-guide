@@ -9,16 +9,16 @@ tags: ["cyclical", "keto", "diet"]
 slug: "cyclical-keto-diet"
 affiliate_disclosure: false
 faqs:
-  - q: "Will I gain fat on refeed days?"
-    a: "You'll likely see the scale go up by 1-3 pounds after a refeed, but most of that is glycogen and the water stored with it (roughly 3 grams of water per gram of glycogen), not fat. Actual fat gain from a single high-carb day requires a significant caloric surplus. Keep the refeeds mostly whole-food carbohydrates, keep fat intake lower on those days, and the weight typically drops back within a day or two of returning to keto."
-  - q: "How do I know if I'm back in ketosis after a refeed?"
-    a: "The most reliable method is a blood ketone meter targeting levels above 0.5 mmol/L. Most people return to measurable ketosis within 24-48 hours of resuming strict keto, especially if they exercised during or after the refeed. Some people feel the shift subjectively through mental clarity and reduced hunger. Both signals matter, but the meter gives you certainty."
-  - q: "Can I do CKD without exercising heavily?"
-    a: "You can, but the case for it gets weaker. The primary rationale for carbohydrate refeeds is glycogen replenishment for athletic performance and supporting hormonal signaling under prolonged caloric restriction. If you're sedentary or only doing light activity, standard keto or targeted keto (small carbs around workouts only) is likely a better fit."
-  - q: "How long should I do standard keto before trying CKD?"
-    a: "I generally recommend at least 8-12 weeks of consistent standard keto first. You want to be genuinely fat-adapted, comfortable with the dietary habits, and clear on why you're considering CKD before adding complexity. Jumping to cyclical keto too early usually means you're troubleshooting two things at once."
-  - q: "Are there people who should avoid CKD entirely?"
-    a: "Yes. People managing epilepsy with ketosis, those with type 1 or type 2 diabetes (especially on insulin or certain medications), anyone with a history of disordered eating, and people with known metabolic disorders should consult their healthcare provider before experimenting with carb cycling. The periodic high-carbohydrate intake introduces variables that can have real clinical consequences in those situations."
+ - q: "Will I gain fat on refeed days?"
+ a: "You'll likely see the scale go up by 1-3 pounds after a refeed, but most of that is glycogen and the water stored with it (roughly 3 grams of water per gram of glycogen), not fat. Actual fat gain from a single high-carb day requires a significant caloric surplus. Keep the refeeds mostly whole-food carbohydrates, keep fat intake lower on those days, and the weight typically drops back within a day or two of returning to keto."
+ - q: "How do I know if I'm back in ketosis after a refeed?"
+ a: "The most reliable method is a blood ketone meter targeting levels above 0.5 mmol/L. Most people return to measurable ketosis within 24-48 hours of resuming strict keto, especially if they exercised during or after the refeed. Some people feel the shift subjectively through mental clarity and reduced hunger. Both signals matter, but the meter gives you certainty."
+ - q: "Can I do CKD without exercising heavily?"
+ a: "You can, but the case for it gets weaker. The primary rationale for carbohydrate refeeds is glycogen replenishment for athletic performance and supporting hormonal signaling under prolonged caloric restriction. If you're sedentary or only doing light activity, standard keto or targeted keto (small carbs around workouts only) is likely a better fit."
+ - q: "How long should I do standard keto before trying CKD?"
+ a: "I generally recommend at least 8-12 weeks of consistent standard keto first. You want to be genuinely fat-adapted, comfortable with the dietary habits, and clear on why you're considering CKD before adding complexity. Jumping to cyclical keto too early usually means you're troubleshooting two things at once."
+ - q: "Are there people who should avoid CKD entirely?"
+ a: "Yes. People managing epilepsy with ketosis, those with type 1 or type 2 diabetes (especially on insulin or certain medications), anyone with a history of disordered eating, and people with known metabolic disorders should consult their healthcare provider before experimenting with carb cycling. The periodic high-carbohydrate intake introduces variables that can have real clinical consequences in those situations."
 author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Research Editor"
@@ -32,12 +32,12 @@ The cyclical ketogenic diet, often called CKD, is one of the most misunderstood 
 ---
 
 <div class="value-module">
-  <div class="vm-head">CKD Candidate Assessment Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these specific criteria to determine whether cyclical keto is appropriate for your situation versus staying with standard keto.</p>
-    <table><thead><tr><th>Criterion</th><th>Standard Keto Likely Better</th><th>CKD Worth Considering</th></tr></thead><tbody><tr><td>Weekly training intensity</td><td>Light cardio, yoga, walking, or under 3 sessions/week</td><td>4+ sessions/week including resistance training or HIIT</td></tr><tr><td>Time on strict keto</td><td>Less than 6-8 weeks (still fat-adapting)</td><td>8+ weeks with confirmed ketone production</td></tr><tr><td>Performance pattern</td><td>Energy stable across workout types</td><td>Noticeable drop in strength/power after first 20-30 minutes of intense work</td></tr><tr><td>Glycogen-dependent activities</td><td>None or minimal</td><td>Regular sprinting, heavy lifting (5-rep range), or sport competition</td></tr><tr><td>Weight loss as primary goal</td><td>Yes, significant fat loss still needed</td><td>Within 10-15 lbs of goal weight, shifting toward body composition</td></tr><tr><td>Relationship with carbs</td><td>History of binge eating or difficulty with moderation</td><td>Can eat structured carb meals without triggering multi-day overeating</td></tr><tr><td>Thyroid/hormone concerns</td><td>No symptoms of metabolic slowdown</td><td>Persistent low body temperature, stalled fat loss despite deficit, or disrupted menstrual cycle after 3+ months</td></tr><tr><td>Tracking willingness</td><td>Prefer simple eat/don't-eat rules</td><td>Willing to plan refeed macros and time carbs around training</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">CKD Candidate Assessment Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these specific criteria to determine whether cyclical keto is appropriate for your situation versus staying with standard keto.</p>
+ <table><thead><tr><th>Criterion</th><th>Standard Keto Likely Better</th><th>CKD Worth Considering</th></tr></thead><tbody><tr><td>Weekly training intensity</td><td>Light cardio, yoga, walking, or under 3 sessions/week</td><td>4+ sessions/week including resistance training or HIIT</td></tr><tr><td>Time on strict keto</td><td>Less than 6-8 weeks (still fat-adapting)</td><td>8+ weeks with confirmed ketone production</td></tr><tr><td>Performance pattern</td><td>Energy stable across workout types</td><td>Noticeable drop in strength/power after first 20-30 minutes of intense work</td></tr><tr><td>Glycogen-dependent activities</td><td>None or minimal</td><td>Regular sprinting, heavy lifting (5-rep range), or sport competition</td></tr><tr><td>Weight loss as primary goal</td><td>Yes, significant fat loss still needed</td><td>Within 10-15 lbs of goal weight, shifting toward body composition</td></tr><tr><td>Relationship with carbs</td><td>History of binge eating or difficulty with moderation</td><td>Can eat structured carb meals without triggering multi-day overeating</td></tr><tr><td>Thyroid/hormone concerns</td><td>No symptoms of metabolic slowdown</td><td>Persistent low body temperature, stalled fat loss despite deficit, or disrupted menstrual cycle after 3+ months</td></tr><tr><td>Tracking willingness</td><td>Prefer simple eat/don't-eat rules</td><td>Willing to plan refeed macros and time carbs around training</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What the Cyclical Ketogenic Diet Actually Is
