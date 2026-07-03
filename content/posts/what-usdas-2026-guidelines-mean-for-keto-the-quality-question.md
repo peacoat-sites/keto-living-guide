@@ -74,3 +74,12 @@ The government's 2026 shift toward acknowledging low-carb diets as valid represe
 ---
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14) — Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.
+
