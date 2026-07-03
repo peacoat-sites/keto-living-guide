@@ -11,9 +11,7 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-reverse-pancreatic-stress-in-type-2-diabetes"
-affiliate_disclosure: false
----
-Most dietary interventions for type 2 diabetes just manage symptoms. Lower blood sugar through restriction, weight loss, or both. What they rarely do is fix the underlying problem, the insulin-producing beta cells that have been grinding under chronic stress for years. A new clinical trial suggests keto might actually repair that damage. If it holds up, this changes how we think about diet and T2D.
+affiliate_disclosure: false, Most dietary interventions for type 2 diabetes just manage symptoms. Lower blood sugar through restriction, weight loss, or both. What they rarely do is fix the underlying problem, the insulin-producing beta cells that have been grinding under chronic stress for years. A new clinical trial suggests keto might actually repair that damage. If it holds up, this changes how we think about diet and T2D.
 
 ## What the UAB Trial Actually Found
 
@@ -59,11 +57,11 @@ Neither study tells you what to eat tomorrow. Both tell you that the question "c
 
 ## Sources
 
-- [Endocrine Society – Keto diet may improve beta cell function in people with type 2 diabetes](https://www.endocrine.org/news-and-advocacy/news-room/2026/keto-diet-may-improve-beta-cell-function-in-people-with-type-2-diabetes) (April 21, 2026)
-- [Nutrition Insight – Study finds keto diet improves beta-cell function in type 2 diabetes](https://www.nutritioninsight.com/news/keto-diet-improves-beta-cell-function.html) (April 23, 2026)
-- [Medical News Today – Diabetes remission: Keto may be more effective than low-fat diet](https://www.medicalnewstoday.com/articles/keto-type-2-diabetes-remission) (April 24, 2026)
-- [ScienceDaily – Keto diet weight loss may come with a hidden cost](https://www.sciencedaily.com/releases/2026/01/260127010144.htm) (January 27, 2026)
-- [NewsHub UK – Ketogenic eating linked to improved beta cell markers in Type 2 diabetes](https://www.newshub.co.uk/health-wellness/2026/04/21/ketogenic-eating-linked-to-improved-beta-cell-markers-in-type-2-diabetes/) (April 21, 2026)
+- [Endocrine Society, Keto diet may improve beta cell function in people with type 2 diabetes](https://www.endocrine.org/news-and-advocacy/news-room/2026/keto-diet-may-improve-beta-cell-function-in-people-with-type-2-diabetes) (April 21, 2026)
+- [Nutrition Insight, Study finds keto diet improves beta-cell function in type 2 diabetes](https://www.nutritioninsight.com/news/keto-diet-improves-beta-cell-function.html) (April 23, 2026)
+- [Medical News Today, Diabetes remission: Keto may be more effective than low-fat diet](https://www.medicalnewstoday.com/articles/keto-type-2-diabetes-remission) (April 24, 2026)
+- [ScienceDaily, Keto diet weight loss may come with a hidden cost](https://www.sciencedaily.com/releases/2026/01/260127010144.htm) (January 27, 2026)
+- [NewsHub UK, Ketogenic eating linked to improved beta cell markers in Type 2 diabetes](https://www.newshub.co.uk/health-wellness/2026/04/21/ketogenic-eating-linked-to-improved-beta-cell-markers-in-type-2-diabetes/) (April 21, 2026)
 
 *Photo: [Total Shape](https://www.pexels.com/@totalshape) via Pexels*
 

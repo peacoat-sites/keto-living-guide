@@ -11,10 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-for-mental-illness-inside-the-metabolic-psychiatry-surge"
-affiliate_disclosure: false
----
-
-When RFK Jr. stood up in February 2026 and announced that a ketogenic diet could "cure schizophrenia," the backlash was swift and predictable. Clinicians pushed back hard, calling it an overstatement of preliminary evidence. Headlines got loud. And somewhere in all of that noise, a genuinely interesting story got buried: the science behind using ketogenic therapy for serious mental illness is moving faster than most people realize, and the researchers doing this work are at places like Harvard, Stanford, and the University of Edinburgh.
+affiliate_disclosure: false, When RFK Jr. stood up in February 2026 and announced that a ketogenic diet could "cure schizophrenia," the backlash was swift and predictable. Clinicians pushed back hard, calling it an overstatement of preliminary evidence. Headlines got loud. And somewhere in all of that noise, a genuinely interesting story got buried: the science behind using ketogenic therapy for serious mental illness is moving faster than most people realize, and the researchers doing this work are at places like Harvard, Stanford, and the University of Edinburgh.
 
 If you heard the RFK claim and felt something between hope and skepticism, that's probably the right place to land. You might be wondering what's actually true. Here's what I'd tell you.
 

@@ -11,10 +11,7 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-protect-the-brain-in-women-with-the-apoe4-gene"
-affiliate_disclosure: false
----
-
-Most coverage of keto and Alzheimer's risk focuses on ketones as a general brain fuel alternative. That framing isn't wrong, but it buries the lead: the people who may benefit most are a specific subset, women carrying the APOE4 gene variant, and two studies published in early 2026 have made that case more concretely than anything before them.
+affiliate_disclosure: false, Most coverage of keto and Alzheimer's risk focuses on ketones as a general brain fuel alternative. That framing isn't wrong, but it buries the lead: the people who may benefit most are a specific subset, women carrying the APOE4 gene variant, and two studies published in early 2026 have made that case more concretely than anything before them.
 
 If you're a woman who knows she carries APOE4, or you're wondering whether to find out, this research is worth your full attention.
 

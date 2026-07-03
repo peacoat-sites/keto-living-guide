@@ -11,10 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-for-treatment-resistant-depression-what-the-new-science-says"
-affiliate_disclosure: false
----
-
-For years, psychiatrists have been quietly warning that roughly 30% of people with major depression don't respond adequately to antidepressants. That's not a fringe statistic. It's been sitting in the literature for decades, largely without a satisfying answer. So when a randomized clinical trial out of the University of Oxford landed in *JAMA Psychiatry* on February 4, 2026, showing that a ketogenic diet outperformed a plant-based control diet in reducing depression symptoms among treatment-resistant patients, it didn't just generate headlines. It forced a genuine conversation about whether metabolic intervention belongs in the psychiatrist's toolkit.
+affiliate_disclosure: false, For years, psychiatrists have been quietly warning that roughly 30% of people with major depression don't respond adequately to antidepressants. That's not a fringe statistic. It's been sitting in the literature for decades, largely without a satisfying answer. So when a randomized clinical trial out of the University of Oxford landed in *JAMA Psychiatry* on February 4, 2026, showing that a ketogenic diet outperformed a plant-based control diet in reducing depression symptoms among treatment-resistant patients, it didn't just generate headlines. It forced a genuine conversation about whether metabolic intervention belongs in the psychiatrist's toolkit.
 
 I'll be honest: I've been skeptical of the mental health claims around keto for a long time. The anecdotes have been loud, the mechanisms hand-wavy, and the studies mostly tiny and uncontrolled. But this Oxford trial is different enough to take seriously, and the broader picture forming around it is worth understanding clearly, without the hype.
 
@@ -65,9 +62,9 @@ The honest position is that we're watching a field develop in real time. The ear
 ## Sources
 
 - [Keto Diet A Potential Treatment For Depression, Trial Shows](https://www.usnews.com/news/health-news/articles/2026-02-06/keto-diet-a-potential-treatment-for-depression-trial-shows) (February 6, 2026)
-- [A Ketogenic Diet for Treatment-Resistant Depression: A Randomized Clinical Trial ,  JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844388) (February 4, 2026)
-- [Awareness and Best Practices in Using Ketogenic Therapy to Treat Serious Mental Illness: A Modified Delphi Consensus ,  Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1749406/full) (January 2026)
-- [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness ,  Stanford Medicine](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html) (April 1, 2024)
+- [A Ketogenic Diet for Treatment-Resistant Depression: A Randomized Clinical Trial , JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844388) (February 4, 2026)
+- [Awareness and Best Practices in Using Ketogenic Therapy to Treat Serious Mental Illness: A Modified Delphi Consensus , Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1749406/full) (January 2026)
+- [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness , Stanford Medicine](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html) (April 1, 2024)
 
 *Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
 
@@ -81,6 +78,6 @@ The honest position is that we're watching a field develop in real time. The ear
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 

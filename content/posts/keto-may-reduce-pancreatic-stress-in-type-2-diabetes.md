@@ -11,10 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-may-reduce-pancreatic-stress-in-type-2-diabetes"
-affiliate_disclosure: false
----
-
-If you've been following keto communities lately, you've probably seen the headlines. A clinical trial published April 21, 2026 in the *Journal of the Endocrine Society* is making the rounds, and for once, the excitement isn't overblown. The study found that 12 weeks on a ketogenic diet improved a key marker of pancreatic stress in people with Type 2 diabetes, and here's the part that matters: the improvements weren't simply because people lost a lot of weight. That distinction is a big deal, and it's worth taking a careful look at what the research actually shows before drawing conclusions in either direction.
+affiliate_disclosure: false, If you've been following keto communities lately, you've probably seen the headlines. A clinical trial published April 21, 2026 in the *Journal of the Endocrine Society* is making the rounds, and for once, the excitement isn't overblown. The study found that 12 weeks on a ketogenic diet improved a key marker of pancreatic stress in people with Type 2 diabetes, and here's the part that matters: the improvements weren't simply because people lost a lot of weight. That distinction is a big deal, and it's worth taking a careful look at what the research actually shows before drawing conclusions in either direction.
 
 ## What the Study Found, and Why It Stands Out
 
@@ -62,11 +59,11 @@ Talk to your care team. Bring the study. Ask the questions. That's always the ri
 
 ## Sources
 
-- [Endocrine Society – Keto diet may improve beta cell function in people with type 2 diabetes](https://www.endocrine.org/news-and-advocacy/news-room/2026/keto-diet-may-improve-beta-cell-function-in-people-with-type-2-diabetes) (April 21, 2026)
-- [Nutrition Insight – Study finds keto diet improves beta-cell function in type 2 diabetes](https://www.nutritioninsight.com/news/keto-diet-improves-beta-cell-function.html) (April 23, 2026)
-- [NewsHub – Ketogenic eating linked to improved beta cell markers in Type 2 diabetes](https://www.newshub.co.uk/health-wellness/2026/04/21/ketogenic-eating-linked-to-improved-beta-cell-markers-in-type-2-diabetes/) (April 21, 2026)
-- [News-Medical.net – High-fat, low-carbohydrate diet may improve beta-cell function in patients with type 2 diabetes](https://www.news-medical.net/news/20260421/High-fat-low-carbohydrate-diet-may-improve-beta-cell-function-in-patients-with-type-2-diabetes.aspx) (April 21, 2026)
-- [The Week India – Beyond weight loss: How keto diet relaxes pancreas to reverse insulin inefficiency](https://www.theweek.in/news/health/2026/04/27/beyond-weight-loss-how-the-keto-diet-relaxes-the-pancreas-to-reverse-insulin-inefficiency-in-type-2-diabetes.html) (April 27, 2026)
+- [Endocrine Society, Keto diet may improve beta cell function in people with type 2 diabetes](https://www.endocrine.org/news-and-advocacy/news-room/2026/keto-diet-may-improve-beta-cell-function-in-people-with-type-2-diabetes) (April 21, 2026)
+- [Nutrition Insight, Study finds keto diet improves beta-cell function in type 2 diabetes](https://www.nutritioninsight.com/news/keto-diet-improves-beta-cell-function.html) (April 23, 2026)
+- [NewsHub, Ketogenic eating linked to improved beta cell markers in Type 2 diabetes](https://www.newshub.co.uk/health-wellness/2026/04/21/ketogenic-eating-linked-to-improved-beta-cell-markers-in-type-2-diabetes/) (April 21, 2026)
+- [News-Medical.net, High-fat, low-carbohydrate diet may improve beta-cell function in patients with type 2 diabetes](https://www.news-medical.net/news/20260421/High-fat-low-carbohydrate-diet-may-improve-beta-cell-function-in-patients-with-type-2-diabetes.aspx) (April 21, 2026)
+- [The Week India, Beyond weight loss: How keto diet relaxes pancreas to reverse insulin inefficiency](https://www.theweek.in/news/health/2026/04/27/beyond-weight-loss-how-the-keto-diet-relaxes-the-pancreas-to-reverse-insulin-inefficiency-in-type-2-diabetes.html) (April 27, 2026)
 
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 

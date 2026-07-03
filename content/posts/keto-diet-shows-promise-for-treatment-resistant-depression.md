@@ -11,10 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-diet-shows-promise-for-treatment-resistant-depression"
-affiliate_disclosure: false
----
-
-For a long time, the conversation around ketogenic diets and mental health lived in a corner of the internet populated by biohackers and testimonial threads. Researchers were skeptical, psychiatrists were largely uninterested, and anyone suggesting that what you eat could move the needle on serious depression was easy to dismiss. That's changing fast, and a paper published in *JAMA Psychiatry* on February 4, 2026 is probably the single biggest reason why.
+affiliate_disclosure: false, For a long time, the conversation around ketogenic diets and mental health lived in a corner of the internet populated by biohackers and testimonial threads. Researchers were skeptical, psychiatrists were largely uninterested, and anyone suggesting that what you eat could move the needle on serious depression was easy to dismiss. That's changing fast, and a paper published in *JAMA Psychiatry* on February 4, 2026 is probably the single biggest reason why.
 
 ## What the JAMA Psychiatry Trial Actually Found
 
@@ -81,6 +78,6 @@ The honest answer is we don't know yet. But the question has moved from "is this
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) — Daily check-in journal for depression — structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10), Daily check-in journal for depression, structured mood tracking and reflection prompts designed around therapeutic principles.
 

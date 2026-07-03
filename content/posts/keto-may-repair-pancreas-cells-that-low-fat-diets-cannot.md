@@ -11,10 +11,7 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-repair-pancreas-cells-that-low-fat-diets-cannot"
-affiliate_disclosure: false
----
-
-Picture this: you're a type 2 diabetic who's already tried cutting fat, counting calories, and losing weight the conventional way. Your A1C comes down a little, your doctor says "keep it up," but something deeper isn't changing. Your pancreas is still struggling. The cells that make insulin, the beta cells, are still under stress. And nobody has a great answer for that part.
+affiliate_disclosure: false, Picture this: you're a type 2 diabetic who's already tried cutting fat, counting calories, and losing weight the conventional way. Your A1C comes down a little, your doctor says "keep it up," but something deeper isn't changing. Your pancreas is still struggling. The cells that make insulin, the beta cells, are still under stress. And nobody has a great answer for that part.
 
 A study published in April 2026 in the *Journal of the Endocrine Society* suggests keto might.
 

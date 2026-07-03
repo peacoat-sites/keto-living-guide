@@ -11,9 +11,7 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-diet-for-mental-illness-what-the-new-science-actually-shows"
-affiliate_disclosure: false
----
-If you searched "keto and mental health" in early February 2026, you were part of something bigger. RFK Jr. claimed on February 4th that a ketogenic diet could "cure" schizophrenia. Search traffic spiked. Debates exploded. Then in June, Scientific American ran a major feature on keto as a potential treatment for anorexia, schizophrenia, and depression. Suddenly this wasn't fringe anymore. Maybe you're wondering if there's something real here, or if it's just diet hype wearing a lab coat. Fair question. The answer is messier and more interesting than either camp wants to admit.
+affiliate_disclosure: false, If you searched "keto and mental health" in early February 2026, you were part of something bigger. RFK Jr. claimed on February 4th that a ketogenic diet could "cure" schizophrenia. Search traffic spiked. Debates exploded. Then in June, Scientific American ran a major feature on keto as a potential treatment for anorexia, schizophrenia, and depression. Suddenly this wasn't fringe anymore. Maybe you're wondering if there's something real here, or if it's just diet hype wearing a lab coat. Fair question. The answer is messier and more interesting than either camp wants to admit.
 
 ## The Research Is Real, and It's More Promising Than You'd Expect
 
@@ -55,12 +53,12 @@ The science is genuinely exciting. It's also genuinely early. Both things are tr
 
 ## Sources
 
-- [A Ketogenic Diet for Treatment-Resistant Depression – *JAMA Psychiatry*](https://pubmed.ncbi.nlm.nih.gov/41637092/) (February 4, 2026)
-- [Could the Keto Diet Help Treat Anorexia, Schizophrenia and Depression? – *Scientific American*](https://www.scientificamerican.com/article/could-the-keto-diet-help-treat-anorexia-schizophrenia-and-depression/) (June 16, 2026)
-- [Keto Diet May Help Reduce Anorexia Nervosa Symptoms – *Fox News*](https://www.foxnews.com/health/popular-weight-loss-diet-shows-surprising-impact-serious-mental-health-condition) (June 4, 2026)
-- [Can the Keto Diet 'Cure' Schizophrenia? – *Pharmacy Times*](https://www.pharmacytimes.com/view/can-the-keto-diet-cure-schizophrenia-) (February 4, 2026)
-- [Clinical Evidence for Ketogenic Therapy in Mental Illness – *Metabolic Mind*](https://www.metabolicmind.org/resources/science/clinical-trials/) (March 13, 2026)
-- [Keto Diet a Potential Treatment for Depression, Trial Shows – *MedicalXpress*](https://medicalxpress.com/news/2026-02-keto-diet-potential-treatment-depression.html) (February 6, 2026)
+- [A Ketogenic Diet for Treatment-Resistant Depression, *JAMA Psychiatry*](https://pubmed.ncbi.nlm.nih.gov/41637092/) (February 4, 2026)
+- [Could the Keto Diet Help Treat Anorexia, Schizophrenia and Depression?, *Scientific American*](https://www.scientificamerican.com/article/could-the-keto-diet-help-treat-anorexia-schizophrenia-and-depression/) (June 16, 2026)
+- [Keto Diet May Help Reduce Anorexia Nervosa Symptoms, *Fox News*](https://www.foxnews.com/health/popular-weight-loss-diet-shows-surprising-impact-serious-mental-health-condition) (June 4, 2026)
+- [Can the Keto Diet 'Cure' Schizophrenia?, *Pharmacy Times*](https://www.pharmacytimes.com/view/can-the-keto-diet-cure-schizophrenia-) (February 4, 2026)
+- [Clinical Evidence for Ketogenic Therapy in Mental Illness, *Metabolic Mind*](https://www.metabolicmind.org/resources/science/clinical-trials/) (March 13, 2026)
+- [Keto Diet a Potential Treatment for Depression, Trial Shows, *MedicalXpress*](https://medicalxpress.com/news/2026-02-keto-diet-potential-treatment-depression.html) (February 6, 2026)
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 
