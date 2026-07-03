@@ -14,15 +14,15 @@ slug: "keto-brownies-recipe"
 affiliate_disclosure: false
 faqs:
  - q: "Can I use coconut flour instead of almond flour in keto brownies?"
- a: "You can't do a straight swap. Coconut flour absorbs roughly four times as much liquid as almond flour, so a 1:1 substitution produces something dry and dense. If you want to use coconut flour as the primary base, you'd need a completely different recipe with more eggs and more fat."
+   a: "You can't do a straight swap. Coconut flour absorbs roughly four times as much liquid as almond flour, so a 1:1 substitution produces something dry and dense. If you want to use coconut flour as the primary base, you'd need a completely different recipe with more eggs and more fat."
  - q: "Why do my keto brownies fall apart when I cut them?"
- a: "Almost always one of two things: they were cut while still warm, or the fat-to-flour ratio is off. Cool them completely, refrigerate for 30 minutes before slicing, and use a sharp knife wiped clean between cuts."
+   a: "Almost always one of two things: they were cut while still warm, or the fat-to-flour ratio is off. Cool them completely, refrigerate for 30 minutes before slicing, and use a sharp knife wiped clean between cuts."
  - q: "How many net carbs are in a keto brownie?"
- a: "It depends entirely on the recipe and the sweetener used. With the recipe above, you're looking at roughly 5-6g net carbs per square from a 16-square batch. Recipes using coconut sugar or honey marketed as 'keto' can run 15-20g per serving, which isn't keto by most definitions."
+   a: "It depends entirely on the recipe and the sweetener used. With the recipe above, you're looking at roughly 5-6g net carbs per square from a 16-square batch. Recipes using coconut sugar or honey marketed as 'keto' can run 15-20g per serving, which isn't keto by most definitions."
  - q: "Can I make keto brownies without eggs?"
- a: "The research on egg replacers in keto baking is honestly thin. Flax eggs (1 tablespoon ground flax plus 3 tablespoons water per egg) work tolerably in some recipes but tend to produce a denser, slightly gummy result in brownies. If you need egg-free, it's worth finding a recipe specifically developed that way rather than substituting."
+   a: "The research on egg replacers in keto baking is honestly thin. Flax eggs (1 tablespoon ground flax plus 3 tablespoons water per egg) work tolerably in some recipes but tend to produce a denser, slightly gummy result in brownies. If you need egg-free, it's worth finding a recipe specifically developed that way rather than substituting."
  - q: "Do keto brownies taste like regular brownies?"
- a: "Honestly, not identically. But with the right sweetener blend and Dutch-process cocoa, they're close enough that most people eating one without context wouldn't immediately identify it as 'diet food.' The texture skews fudgier and denser, which works in their favor."
+   a: "Honestly, not identically. But with the right sweetener blend and Dutch-process cocoa, they're close enough that most people eating one without context wouldn't immediately identify it as 'diet food.' The texture skews fudgier and denser, which works in their favor."
 ---
 
 Most keto brownie recipes taste like chocolate-flavored cardboard. You know the kind: gritty almond flour base, weirdly oily, that strange cooling sensation from too much erythritol. People bake them once, eat one square out of obligation, and quietly go back to just skipping dessert.

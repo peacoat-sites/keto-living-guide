@@ -14,15 +14,15 @@ slug: "best-electrolyte-supplements-for-keto-beginners"
 affiliate_disclosure: false
 faqs:
  - q: "How long does the keto flu last?"
- a: "Most people feel the worst between days three and seven. If you're supplementing electrolytes properly and staying hydrated, symptoms usually resolve within a week. If you're still feeling consistently terrible at two weeks, something else is likely going on and it's worth talking to your doctor."
+   a: "Most people feel the worst between days three and seven. If you're supplementing electrolytes properly and staying hydrated, symptoms usually resolve within a week. If you're still feeling consistently terrible at two weeks, something else is likely going on and it's worth talking to your doctor."
  - q: "Can I take electrolyte supplements while intermittent fasting?"
- a: "Yes. Plain electrolytes without calories don't break a fast in any meaningful metabolic sense. LMNT and similar zero-calorie products are fine during your fasting window. Just avoid anything with sugar or fruit juice added."
+   a: "Yes. Plain electrolytes without calories don't break a fast in any meaningful metabolic sense. LMNT and similar zero-calorie products are fine during your fasting window. Just avoid anything with sugar or fruit juice added."
  - q: "Is it possible to get too many electrolytes on keto?"
- a: "Sodium excess typically resolves itself through urine in healthy people, though very high intake over time has cardiovascular implications worth not ignoring. Magnesium excess is rare from food and supplements at reasonable doses but can cause digestive issues. Potassium is the one that warrants actual care, if you're eating well and supplementing, you don't need to pile on additional potassium pills."
+   a: "Sodium excess typically resolves itself through urine in healthy people, though very high intake over time has cardiovascular implications worth not ignoring. Magnesium excess is rare from food and supplements at reasonable doses but can cause digestive issues. Potassium is the one that warrants actual care, if you're eating well and supplementing, you don't need to pile on additional potassium pills."
  - q: "Do I need electrolytes forever on keto, or just at the beginning?"
- a: "The adjustment phase is the most acute period, but most people who stay on keto long-term find they feel better with some ongoing sodium supplementation, especially if they exercise. Your kidneys continue to excrete sodium at higher rates than on a higher-carb diet. It doesn't have to be a daily supplement forever, many people just salt their food liberally and that's enough once they're adapted."
+   a: "The adjustment phase is the most acute period, but most people who stay on keto long-term find they feel better with some ongoing sodium supplementation, especially if they exercise. Your kidneys continue to excrete sodium at higher rates than on a higher-carb diet. It doesn't have to be a daily supplement forever, many people just salt their food liberally and that's enough once they're adapted."
  - q: "What's the fastest fix if I'm feeling terrible right now?"
- a: "Make a cup of warm broth, a product like Kettle & Fire beef broth has around 580 mg of sodium per cup, and the warmth seems to help people feel better quickly. Add a pinch of NoSalt if you have it. Drink it slowly. Most people feel noticeably better within an hour."
+   a: "Make a cup of warm broth, a product like Kettle & Fire beef broth has around 580 mg of sodium per cup, and the warmth seems to help people feel better quickly. Add a pinch of NoSalt if you have it. Drink it slowly. Most people feel noticeably better within an hour."
 ---
 
 If you've made it about a week into keto and you feel like you got hit by a truck, you're not imagining it. The fatigue, the headaches, the muscle cramps that wake you at 3am, that's not your body rejecting low-carb eating. That's electrolyte depletion, and it's one of the most predictable and fixable things in all of nutrition.

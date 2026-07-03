@@ -14,15 +14,15 @@ slug: "keto-diet-while-breastfeeding"
 affiliate_disclosure: false
 faqs:
  - q: "Will keto dry up my milk supply?"
- a: "Not necessarily, but strict keto with low calories is a real risk factor for reduced supply. The carb restriction itself may play a role for some women, though the caloric restriction is likely the bigger driver. Staying above 1,800-2,000 calories and keeping carbs at a moderate low-carb level (80-100g) rather than strict keto reduces this risk significantly."
+   a: "Not necessarily, but strict keto with low calories is a real risk factor for reduced supply. The carb restriction itself may play a role for some women, though the caloric restriction is likely the bigger driver. Staying above 1,800-2,000 calories and keeping carbs at a moderate low-carb level (80-100g) rather than strict keto reduces this risk significantly."
  - q: "Is it safe to be in ketosis while breastfeeding?"
- a: "Mild nutritional ketosis is probably fine for most healthy breastfeeding women, but the research is limited and case reports of ketoacidosis in this population do exist. Deep, prolonged ketosis while breastfeeding carries more uncertainty than it does in non-lactating adults, and most dietitians who specialize in lactation recommend against it until more data exists."
+   a: "Mild nutritional ketosis is probably fine for most healthy breastfeeding women, but the research is limited and case reports of ketoacidosis in this population do exist. Deep, prolonged ketosis while breastfeeding carries more uncertainty than it does in non-lactating adults, and most dietitians who specialize in lactation recommend against it until more data exists."
  - q: "How many carbs can I eat and still lose weight while breastfeeding?"
- a: "More than you might think. Many women lose weight steadily at 80-130g of net carbs per day when protein is high and calories are appropriately controlled. You don't need deep ketosis to lose postpartum weight, and chasing that state while nursing creates risks that probably aren't worth it."
+   a: "More than you might think. Many women lose weight steadily at 80-130g of net carbs per day when protein is high and calories are appropriately controlled. You don't need deep ketosis to lose postpartum weight, and chasing that state while nursing creates risks that probably aren't worth it."
  - q: "When can I try stricter keto after having a baby?"
- a: "Once you've fully weaned or significantly reduced nursing sessions, your body's metabolic demands shift back closer to baseline and strict keto becomes a more reasonable option. If you're still exclusively breastfeeding a newborn or young infant, that's not the time to experiment with 20g carb days."
+   a: "Once you've fully weaned or significantly reduced nursing sessions, your body's metabolic demands shift back closer to baseline and strict keto becomes a more reasonable option. If you're still exclusively breastfeeding a newborn or young infant, that's not the time to experiment with 20g carb days."
  - q: "Do I need to take any extra supplements on low-carb while breastfeeding?"
- a: "Yes, and more than on keto alone. You'll want to continue your prenatal vitamin, pay close attention to electrolytes (sodium, potassium, magnesium), make sure you're getting enough choline and iodine, and watch omega-3 intake. Iodine in particular gets missed on low-carb diets that cut out dairy and grains, and it's important for infant brain development."
+   a: "Yes, and more than on keto alone. You'll want to continue your prenatal vitamin, pay close attention to electrolytes (sodium, potassium, magnesium), make sure you're getting enough choline and iodine, and watch omega-3 intake. Iodine in particular gets missed on low-carb diets that cut out dairy and grains, and it's important for infant brain development."
 ---
 
 Three days into strict keto after my second delivery, I hit a wall that had nothing to do with carb cravings. My milk supply tanked, I felt dizzy every time I stood up, and I was more exhausted than the newborn haze alone could explain. I thought I was doing everything right. I wasn't.

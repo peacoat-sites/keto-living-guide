@@ -14,15 +14,15 @@ slug: "keto-pizza-recipe"
 affiliate_disclosure: false
 faqs:
  - q: "Why does my fathead dough keep falling apart?"
- a: "The cheese wasn't warm enough when you added the other ingredients. Try to mix everything while the cheese is still very warm and pliable. If it's already cooling and crumbly, microwave the whole mixture for 15 more seconds and knead it quickly."
+   a: "The cheese wasn't warm enough when you added the other ingredients. Try to mix everything while the cheese is still very warm and pliable. If it's already cooling and crumbly, microwave the whole mixture for 15 more seconds and knead it quickly."
  - q: "Can I make the dough ahead of time?"
- a: "Yes. Fathead dough keeps in the refrigerator for up to three days wrapped tightly in plastic. Let it sit out for 10-15 minutes before rolling, since it stiffens when cold. You can also pre-bake the crust and freeze it."
+   a: "Yes. Fathead dough keeps in the refrigerator for up to three days wrapped tightly in plastic. Let it sit out for 10-15 minutes before rolling, since it stiffens when cold. You can also pre-bake the crust and freeze it."
  - q: "How many carbs does keto pizza actually have?"
- a: "A two-slice serving of fathead crust pizza with standard toppings and sauce lands around 5-8g net carbs for most recipes. It varies depending on how much sauce you use and what toppings you add, so checking your specific ingredients is worth the two minutes it takes."
+   a: "A two-slice serving of fathead crust pizza with standard toppings and sauce lands around 5-8g net carbs for most recipes. It varies depending on how much sauce you use and what toppings you add, so checking your specific ingredients is worth the two minutes it takes."
  - q: "Is fathead dough really that much better than store-bought keto crusts?"
- a: "The store-bought options I've tried, including a few that charge $8-10 per crust, have mostly disappointed me on texture and flavor. The good ones are okay. Fathead is better, cheaper, and you know exactly what's in it. A batch costs maybe $3 in ingredients."
+   a: "The store-bought options I've tried, including a few that charge $8-10 per crust, have mostly disappointed me on texture and flavor. The good ones are okay. Fathead is better, cheaper, and you know exactly what's in it. A batch costs maybe $3 in ingredients."
  - q: "Will this actually kick me out of ketosis?"
- a: "A well-made keto pizza with fathead crust almost certainly won't, assuming you're otherwise sticking to your carb targets. What does derail people is using a recipe that seems keto-friendly but has hidden carbs in the sauce or sausage. Read labels on processed toppings especially."
+   a: "A well-made keto pizza with fathead crust almost certainly won't, assuming you're otherwise sticking to your carb targets. What does derail people is using a recipe that seems keto-friendly but has hidden carbs in the sauce or sausage. Read labels on processed toppings especially."
 ---
 
 Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. I've had that conversation with clients more times than I can count. The truth is that bad keto pizza is genuinely bad. But a well-made version? It holds up. I make it for people who aren't on any kind of low-carb diet, and they eat it without complaint.

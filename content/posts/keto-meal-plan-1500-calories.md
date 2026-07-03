@@ -14,15 +14,15 @@ slug: "keto-meal-plan-1500-calories"
 affiliate_disclosure: false
 faqs:
  - q: "How many net carbs should I eat on a 1,500-calorie keto plan?"
- a: "Most people stay in ketosis reliably at 20–25g net carbs per day, though some can go up to 30–35g and still maintain it. If you're not sure where your threshold is, start at 20g and test with urine strips (Keto-Mojo is a more accurate blood meter if you want to invest around $60)."
+   a: "Most people stay in ketosis reliably at 20–25g net carbs per day, though some can go up to 30–35g and still maintain it. If you're not sure where your threshold is, start at 20g and test with urine strips (Keto-Mojo is a more accurate blood meter if you want to invest around $60)."
  - q: "Will 1,500 calories on keto cause muscle loss?"
- a: "Not if you're eating adequate protein (90–110g daily for most people) and doing some resistance training a few times a week. Keto is actually reasonably muscle-sparing compared to low-fat calorie restriction, partly because higher fat intake maintains testosterone levels better than low-fat diets do."
+   a: "Not if you're eating adequate protein (90–110g daily for most people) and doing some resistance training a few times a week. Keto is actually reasonably muscle-sparing compared to low-fat calorie restriction, partly because higher fat intake maintains testosterone levels better than low-fat diets do."
  - q: "Why am I not losing weight on 1,500 calories keto?"
- a: "The most common reasons are underestimated portion sizes (especially fats), hidden carbs in condiments and processed foods, or cortisol and poor sleep interfering with fat loss. Track strictly with a food scale for two weeks before concluding the calories aren't working."
+   a: "The most common reasons are underestimated portion sizes (especially fats), hidden carbs in condiments and processed foods, or cortisol and poor sleep interfering with fat loss. Track strictly with a food scale for two weeks before concluding the calories aren't working."
  - q: "Is 1,500 calories too low for someone who exercises regularly?"
- a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750–2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
+   a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750–2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
  - q: "Do I need to use MCT oil on a 1,500-calorie keto plan?"
- a: "No, it's optional. MCT oil (like Bulletproof Brain Octane at around $25 for 16oz on Amazon, site may earn a commission) can help some people get into ketosis faster initially, but it adds calories that count toward your daily total. At 1,500 calories, I'd rather people use those fat grams for whole food sources that carry more micronutrients."
+   a: "No, it's optional. MCT oil (like Bulletproof Brain Octane at around $25 for 16oz on Amazon, site may earn a commission) can help some people get into ketosis faster initially, but it adds calories that count toward your daily total. At 1,500 calories, I'd rather people use those fat grams for whole food sources that carry more micronutrients."
 ---
 
 Fifteen hundred calories on keto isn't some magic number, but it's close to where a lot of people actually land when they're losing weight steadily without feeling like they're starving. If you've been bouncing between "eat less" advice that leaves you miserable and keto plans that feel like a butter-fueled free-for-all, you might be wondering if there's a middle ground that actually works. There is. And it's more straightforward than most meal-plan articles make it sound.

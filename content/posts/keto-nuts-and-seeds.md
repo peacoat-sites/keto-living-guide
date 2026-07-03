@@ -14,15 +14,15 @@ slug: "keto-nuts-and-seeds"
 affiliate_disclosure: false
 faqs:
  - q: "Are cashews keto?"
- a: "They can fit in small amounts, but they're one of the higher-carb nuts at around 8-9 grams net per ounce. Treat them as a condiment rather than a snack, and measure carefully. Most people eating strict keto skip them or use them sparingly in recipes."
+   a: "They can fit in small amounts, but they're one of the higher-carb nuts at around 8-9 grams net per ounce. Treat them as a condiment rather than a snack, and measure carefully. Most people eating strict keto skip them or use them sparingly in recipes."
  - q: "What nuts kick you out of ketosis?"
- a: "No single nut will universally knock someone out of ketosis, because tolerance varies. That said, cashews, pistachios, and chestnuts (which are extremely high carb, closer to a starchy food) are the most likely culprits when portion sizes slip. It's usually the quantity, not the nut itself."
+   a: "No single nut will universally knock someone out of ketosis, because tolerance varies. That said, cashews, pistachios, and chestnuts (which are extremely high carb, closer to a starchy food) are the most likely culprits when portion sizes slip. It's usually the quantity, not the nut itself."
  - q: "Can I eat nut flour on keto?"
- a: "Yes. Almond flour and coconut flour are staples in keto baking. Almond flour runs about 3 grams net carbs per quarter cup; coconut flour is lower in net carbs but much more absorbent, so recipes aren't interchangeable. Don't try substituting one for the other 1:1 or you'll end up with something inedible."
+   a: "Yes. Almond flour and coconut flour are staples in keto baking. Almond flour runs about 3 grams net carbs per quarter cup; coconut flour is lower in net carbs but much more absorbent, so recipes aren't interchangeable. Don't try substituting one for the other 1:1 or you'll end up with something inedible."
  - q: "Are sunflower seeds good for keto?"
- a: "Reasonable, not exceptional. Around 4 grams net carbs per ounce, which means a couple handfuls will add up faster than you'd expect. They're a solid option in moderation, especially as a salad topping or mixed into trail mix where you're not eating them as the primary snack."
+   a: "Reasonable, not exceptional. Around 4 grams net carbs per ounce, which means a couple handfuls will add up faster than you'd expect. They're a solid option in moderation, especially as a salad topping or mixed into trail mix where you're not eating them as the primary snack."
  - q: "Why do some nuts cause digestive issues on keto?"
- a: "Nuts are high in fiber, fat, and for some people, compounds like phytic acid and tannins that can irritate the gut. Almonds are a common offender. If you're experiencing GI issues after eating nuts, try switching varieties, reducing quantity, or choosing roasted over raw (roasting breaks down some of the harder-to-digest compounds)."
+   a: "Nuts are high in fiber, fat, and for some people, compounds like phytic acid and tannins that can irritate the gut. Almonds are a common offender. If you're experiencing GI issues after eating nuts, try switching varieties, reducing quantity, or choosing roasted over raw (roasting breaks down some of the harder-to-digest compounds)."
 ---
 
 Most articles about keto nuts hand you an alphabetical list with carb counts and call it done. That's fine as far as it goes, but it skips the stuff that actually matters: which nuts are worth eating regularly versus which ones you should treat like a condiment, why the package serving size is almost always a trap, and how easy it is to eat 40 grams of carbs thinking you're being careful.

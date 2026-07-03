@@ -14,15 +14,15 @@ slug: "keto-diet-dairy-free"
 affiliate_disclosure: false
 faqs:
  - q: "Is ghee considered dairy-free?"
- a: "Technically, ghee is a dairy product made from butter. Most people with lactose intolerance tolerate it fine because the lactose is removed in processing. If you have a true dairy allergy or casein sensitivity, ghee isn't safe because it contains trace milk proteins."
+   a: "Technically, ghee is a dairy product made from butter. Most people with lactose intolerance tolerate it fine because the lactose is removed in processing. If you have a true dairy allergy or casein sensitivity, ghee isn't safe because it contains trace milk proteins."
  - q: "Can I do dairy-free keto if I'm also vegan?"
- a: "Yes, and plenty of people do. It requires leaning on tofu, tempeh, seitan (check the carbs), and plant-based protein powders for protein, while getting fat from coconut, avocado, nuts, and oils. It's more planning-intensive than standard keto, but the macros are workable."
+   a: "Yes, and plenty of people do. It requires leaning on tofu, tempeh, seitan (check the carbs), and plant-based protein powders for protein, while getting fat from coconut, avocado, nuts, and oils. It's more planning-intensive than standard keto, but the macros are workable."
  - q: "Will cutting dairy help me break a weight-loss plateau on keto?"
- a: "Possibly. The evidence here is mostly anecdotal, but casein in dairy stimulates an insulin response in some people, and pulling it occasionally shifts a stall. Worth a 30-day trial if you've been stuck for more than 6 weeks."
+   a: "Possibly. The evidence here is mostly anecdotal, but casein in dairy stimulates an insulin response in some people, and pulling it occasionally shifts a stall. Worth a 30-day trial if you've been stuck for more than 6 weeks."
  - q: "What about dairy-free keto 'cheese' made from nuts?"
- a: "Most nut-based cheeses are low-carb enough to fit keto (usually 1-3g net carbs per ounce), and some melt acceptably well for cooking. They don't behave like real cheese in every context, but for topping dishes or adding flavor, they're fine. Read the label carefully because some brands add tapioca starch."
+   a: "Most nut-based cheeses are low-carb enough to fit keto (usually 1-3g net carbs per ounce), and some melt acceptably well for cooking. They don't behave like real cheese in every context, but for topping dishes or adding flavor, they're fine. Read the label carefully because some brands add tapioca starch."
  - q: "How do I know if dairy is actually causing my symptoms?"
- a: "Do a strict elimination for four weeks, then reintroduce one dairy product at a time and wait 48-72 hours between each. This is the standard elimination protocol, and it's more informative than any allergy test for non-IgE-mediated reactions. A registered dietitian can walk you through it if you want a more structured approach."
+   a: "Do a strict elimination for four weeks, then reintroduce one dairy product at a time and wait 48-72 hours between each. This is the standard elimination protocol, and it's more informative than any allergy test for non-IgE-mediated reactions. A registered dietitian can walk you through it if you want a more structured approach."
 ---
 Most keto content treats dairy as a minor footnote: "Oh, sensitive to dairy? Just swap the cheese." That's not helpful. Going dairy-free on keto means rethinking your fat sources, your breakfast options, your baked goods, your coffee, and, if you're not careful, your electrolyte intake. It's a real restructuring, not a quick swap.
 

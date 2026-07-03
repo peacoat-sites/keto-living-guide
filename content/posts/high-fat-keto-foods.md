@@ -14,15 +14,15 @@ slug: "high-fat-keto-foods"
 affiliate_disclosure: false
 faqs:
  - q: "How much fat should I actually eat on keto?"
- a: "There's no single number, but most people doing keto aim for 60 to 75 percent of calories from fat. For a 1,800-calorie intake, that's roughly 120 to 150 grams of fat per day. If you're tracking, apps like Cronometer make this easier than manual math."
+   a: "There's no single number, but most people doing keto aim for 60 to 75 percent of calories from fat. For a 1,800-calorie intake, that's roughly 120 to 150 grams of fat per day. If you're tracking, apps like Cronometer make this easier than manual math."
  - q: "Can I eat too much fat on keto and stall weight loss?"
- a: "Yes. This is something the 'eat unlimited fat' version of keto advice glosses over. Fat has 9 calories per gram, and a caloric surplus is a caloric surplus regardless of macronutrient source. If fat loss has stalled, calories are usually worth looking at before blaming carb creep."
+   a: "Yes. This is something the 'eat unlimited fat' version of keto advice glosses over. Fat has 9 calories per gram, and a caloric surplus is a caloric surplus regardless of macronutrient source. If fat loss has stalled, calories are usually worth looking at before blaming carb creep."
  - q: "Are seed oils okay on keto?"
- a: "The research here is genuinely mixed and contested. Seed oils like canola and soybean oil are technically keto-compliant by carb count, but their high omega-6 content and instability at heat is a real concern many researchers take seriously. I'd default to olive oil, butter, coconut oil, and animal fats as your primary cooking fats and minimize the seed oils where you can."
+   a: "The research here is genuinely mixed and contested. Seed oils like canola and soybean oil are technically keto-compliant by carb count, but their high omega-6 content and instability at heat is a real concern many researchers take seriously. I'd default to olive oil, butter, coconut oil, and animal fats as your primary cooking fats and minimize the seed oils where you can."
  - q: "What's the best high-fat keto food for someone who doesn't like cooking?"
- a: "Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical."
+   a: "Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical."
  - q: "Do I need to track fat grams or can I just eat to satiety?"
- a: "For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is."
+   a: "For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is."
 ---
 Most people start keto thinking they need to cut carbs, then figure out the fat part later. That's backwards, and it causes a lot of unnecessary frustration.
 

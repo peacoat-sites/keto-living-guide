@@ -14,15 +14,15 @@ slug: "keto-leafy-greens"
 affiliate_disclosure: false
 faqs:
  - q: "Are leafy greens going to kick me out of ketosis?"
- a: "Not if you're eating reasonable amounts. Most leafy greens run 1 to 3 grams of net carbs per cup, so even 3 to 4 cups daily adds up to 4 to 10 grams, well within any standard keto carb target."
+   a: "Not if you're eating reasonable amounts. Most leafy greens run 1 to 3 grams of net carbs per cup, so even 3 to 4 cups daily adds up to 4 to 10 grams, well within any standard keto carb target."
  - q: "Which leafy green has the fewest carbs?"
- a: "Spinach, arugula, and romaine are all at the very low end, typically 0.5 to 1.5 grams of net carbs per raw cup. Collard greens cooked down are similarly low per serving."
+   a: "Spinach, arugula, and romaine are all at the very low end, typically 0.5 to 1.5 grams of net carbs per raw cup. Collard greens cooked down are similarly low per serving."
  - q: "Can I eat too many leafy greens on keto?"
- a: "It's unlikely to derail ketosis, but very high raw spinach or kale consumption can be a concern if you have kidney stone history (oxalates) or are on warfarin (vitamin K interactions). Rotating your greens and cooking some of them reduces both risks considerably."
+   a: "It's unlikely to derail ketosis, but very high raw spinach or kale consumption can be a concern if you have kidney stone history (oxalates) or are on warfarin (vitamin K interactions). Rotating your greens and cooking some of them reduces both risks considerably."
  - q: "Do I need to track leafy greens, or can I eat them freely?"
- a: "Most keto practitioners suggest tracking everything initially, at least for the first four to six weeks, so you understand your actual intake. Once you have a clear picture, many people do move to 'eating greens freely' since the carb cost is so low. That said, I'd still weigh and log anything you're eating in significant volume."
+   a: "Most keto practitioners suggest tracking everything initially, at least for the first four to six weeks, so you understand your actual intake. Once you have a clear picture, many people do move to 'eating greens freely' since the carb cost is so low. That said, I'd still weigh and log anything you're eating in significant volume."
  - q: "What's the best way to eat leafy greens if I don't like salads?"
- a: "Cook them in fat. Wilted spinach in butter with garlic, collards braised in chicken broth and olive oil, or kale sauteed with bacon and apple cider vinegar are genuinely different eating experiences than a raw salad. Most people who claim they hate leafy greens haven't tried them cooked in good fat."
+   a: "Cook them in fat. Wilted spinach in butter with garlic, collards braised in chicken broth and olive oil, or kale sauteed with bacon and apple cider vinegar are genuinely different eating experiences than a raw salad. Most people who claim they hate leafy greens haven't tried them cooked in good fat."
 ---
 
 Most people doing keto stress way too much about hitting their fat macros and not nearly enough about their vegetables. I get it. The diet is called ketogenic, not "eat your greens," and the early days are usually spent figuring out how to survive without bread. But after working with hundreds of clients over the years, I'll tell you plainly: the people who struggle with keto long-term, the ones who feel flat, constipated, and foggy after the first few weeks, are almost always the ones skipping their leafy greens.

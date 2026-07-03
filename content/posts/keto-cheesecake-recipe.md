@@ -14,15 +14,15 @@ slug: "keto-cheesecake-recipe"
 affiliate_disclosure: false
 faqs:
  - q: "Can I make this cheesecake without a springform pan?"
- a: "You can use a deep 9-inch pie dish, but getting clean slices is harder and the crust tends to stick. If you go this route, line the dish with parchment as best you can, and accept that the first slice will probably not be pretty. A springform pan genuinely makes this recipe easier, and a decent one (like the Chicago Metallic 9-inch) runs about $15 on Amazon."
+   a: "You can use a deep 9-inch pie dish, but getting clean slices is harder and the crust tends to stick. If you go this route, line the dish with parchment as best you can, and accept that the first slice will probably not be pretty. A springform pan genuinely makes this recipe easier, and a decent one (like the Chicago Metallic 9-inch) runs about $15 on Amazon."
  - q: "Why did my cheesecake crack on top?"
- a: "The most common causes are overmixing (too much incorporated air), baking at too high a temperature, or cooling too fast. If yours cracked, plan to cover it with berries or compote and don't stress. It will still taste right. For next time: lower oven temp, water in the oven, and don't open the oven door during baking."
+   a: "The most common causes are overmixing (too much incorporated air), baking at too high a temperature, or cooling too fast. If yours cracked, plan to cover it with berries or compote and don't stress. It will still taste right. For next time: lower oven temp, water in the oven, and don't open the oven door during baking."
  - q: "Can I freeze keto cheesecake?"
- a: "Yes, and it freezes better than most people expect. Wrap individual slices tightly in plastic wrap and then foil, and freeze for up to 2 months. Thaw in the fridge overnight. The texture holds reasonably well, though it may be very slightly more dense after freezing. The allulose version freezes better than erythritol-based, in my experience."
+   a: "Yes, and it freezes better than most people expect. Wrap individual slices tightly in plastic wrap and then foil, and freeze for up to 2 months. Thaw in the fridge overnight. The texture holds reasonably well, though it may be very slightly more dense after freezing. The allulose version freezes better than erythritol-based, in my experience."
  - q: "Is erythritol or allulose better for this recipe?"
- a: "Allulose wins on texture, especially once the cheesecake is chilled. Erythritol can recrystallize in cold, high-fat environments, which creates a faint grittiness some people notice and some don't. If you already have a powdered erythritol blend at home, use it, it's fine. If you're buying specifically for this, get allulose."
+   a: "Allulose wins on texture, especially once the cheesecake is chilled. Erythritol can recrystallize in cold, high-fat environments, which creates a faint grittiness some people notice and some don't. If you already have a powdered erythritol blend at home, use it, it's fine. If you're buying specifically for this, get allulose."
  - q: "How many carbs are in a slice of keto cheesecake?"
- a: "Using this recipe with allulose and the almond-pecan crust, expect roughly 4-5 grams of net carbs per slice (1/12 of a 9-inch cake). This can vary by brand, so track your specific ingredients if precision matters to you."
+   a: "Using this recipe with allulose and the almond-pecan crust, expect roughly 4-5 grams of net carbs per slice (1/12 of a 9-inch cake). This can vary by brand, so track your specific ingredients if precision matters to you."
 ---
 
 My clients always assume cheesecake is off the table. They come in having done weeks of keto perfectly, and then someone brings a cheesecake to a birthday party and they either white-knuckle through it or eat a slice and feel like they've blown everything. I've had this exact conversation probably two hundred times.
