@@ -11,7 +11,9 @@ author_slug: "mark-chen"
 author_title: "Research Editor"
 author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
 slug: "keto-diet-for-mental-illness-what-the-new-science-actually-shows"
-affiliate_disclosure: false, If you searched "keto and mental health" in early February 2026, you were part of something bigger. RFK Jr. claimed on February 4th that a ketogenic diet could "cure" schizophrenia. Search traffic spiked. Debates exploded. Then in June, Scientific American ran a major feature on keto as a potential treatment for anorexia, schizophrenia, and depression. Suddenly this wasn't fringe anymore. Maybe you're wondering if there's something real here, or if it's just diet hype wearing a lab coat. Fair question. The answer is messier and more interesting than either camp wants to admit.
+affiliate_disclosure: false
+---
+If you searched "keto and mental health" in early February 2026, you were part of something bigger. RFK Jr. claimed on February 4th that a ketogenic diet could "cure" schizophrenia. Search traffic spiked. Debates exploded. Then in June, Scientific American ran a major feature on keto as a potential treatment for anorexia, schizophrenia, and depression. Suddenly this wasn't fringe anymore. Maybe you're wondering if there's something real here, or if it's just diet hype wearing a lab coat. Fair question. The answer is messier and more interesting than either camp wants to admit.
 
 ## The Research Is Real, and It's More Promising Than You'd Expect
 

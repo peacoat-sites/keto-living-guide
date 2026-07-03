@@ -11,7 +11,9 @@ author_slug: "jake-torres"
 author_title: "Recipe Developer"
 author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
 slug: "keto-cooking-on-a-budget"
-affiliate_disclosure: false, Most people come to me after they've already blown their grocery budget once or twice trying to eat keto. They've bought the almond flour, the grass-fed everything, the fancy MCT oil, the $12 avocado oil mayo. Then they look at the receipt and quietly wonder if this diet is actually designed for people who make more money than they do.
+affiliate_disclosure: false
+---
+Most people come to me after they've already blown their grocery budget once or twice trying to eat keto. They've bought the almond flour, the grass-fed everything, the fancy MCT oil, the $12 avocado oil mayo. Then they look at the receipt and quietly wonder if this diet is actually designed for people who make more money than they do.
 
 It's not. But the way keto gets marketed, you'd be forgiven for thinking otherwise.
 

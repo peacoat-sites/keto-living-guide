@@ -11,7 +11,9 @@ author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-reverse-pancreatic-stress-in-type-2-diabetes"
-affiliate_disclosure: false, Most dietary interventions for type 2 diabetes just manage symptoms. Lower blood sugar through restriction, weight loss, or both. What they rarely do is fix the underlying problem, the insulin-producing beta cells that have been grinding under chronic stress for years. A new clinical trial suggests keto might actually repair that damage. If it holds up, this changes how we think about diet and T2D.
+affiliate_disclosure: false
+---
+Most dietary interventions for type 2 diabetes just manage symptoms. Lower blood sugar through restriction, weight loss, or both. What they rarely do is fix the underlying problem, the insulin-producing beta cells that have been grinding under chronic stress for years. A new clinical trial suggests keto might actually repair that damage. If it holds up, this changes how we think about diet and T2D.
 
 ## What the UAB Trial Actually Found
 
