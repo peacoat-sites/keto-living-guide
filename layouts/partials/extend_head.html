@@ -97,3 +97,9 @@
 }
 </script>
 {{- end }}
+
+{{/* title-font */}}
+{{- if eq .Section "posts" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,800&display=swap">
+<style>.post-title{font-family:'Fraunces', Georgia, serif;letter-spacing:-.025em}</style>
+{{- end }}
