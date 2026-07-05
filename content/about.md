@@ -1,5 +1,6 @@
 ---
 title: "About Keto Living Guide"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Keto Living Guide,  meet Natalie Rowe and learn how we cover the ketogenic diet."
