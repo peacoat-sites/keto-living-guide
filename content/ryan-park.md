@@ -2,6 +2,7 @@
 title: "Ryan Park"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
