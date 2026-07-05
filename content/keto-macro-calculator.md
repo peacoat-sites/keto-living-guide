@@ -1,5 +1,6 @@
 ---
 title: "Keto Macro Calculator 2026,  Find Your Perfect Keto Macros"
+hide_title: true
 description: "Calculate your personal keto macros based on your body, goals, and activity level. Get your daily fat, protein, and carb targets instantly."
 date: 2026-05-21
 layout: "page"
