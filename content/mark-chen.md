@@ -2,6 +2,7 @@
 title: "Mark Chen"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Research Editor"
