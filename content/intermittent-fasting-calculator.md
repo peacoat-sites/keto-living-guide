@@ -1,5 +1,6 @@
 ---
 title: "Intermittent Fasting Calculator: Find Your Ideal Eating Window"
+hide_title: true
 date: 2026-06-10
 slug: "intermittent-fasting-calculator"
 description: "Calculate your exact intermittent fasting eating window and fasting hours for 16:8, 18:6, 20:4, OMAD, or 5:2 — with a live countdown timer."
