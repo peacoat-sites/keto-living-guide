@@ -1,5 +1,6 @@
 ---
 title: "Keto Sweetener Conversion Calculator: Find the Perfect Substitute"
+hide_title: true
 date: 2026-06-10
 slug: "keto-sweetener-conversion"
 description: "Use our free keto sweetener conversion calculator to instantly find how much erythritol, monk fruit, allulose, stevia, or xylitol replaces sugar in any recipe."
