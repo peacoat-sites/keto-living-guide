@@ -1,1 +1,331 @@
-test
+{{ define "main" }}
+
+{{- if eq .Section "posts" -}}
+
+{{/* ════════════════════════════════════════════════════════════
+     ARTICLE PAGES  (content/posts/*)
+     Full layout: featured hero image + header + sidebar + ads
+     ════════════════════════════════════════════════════════════ */}}
+
+<div class="post-wrap">
+  {{ $tocRail := .TableOfContents }}
+  {{ if and (templates.Exists "partials/toc.html") $tocRail (gt (len $tocRail) 150) }}
+  <aside class="toc-rail">{{ partial "toc.html" . }}</aside>
+  {{ end }}
+  <article class="post-main">
+
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb">
+      <a href="/">Home</a>
+      {{ if .Params.categories }}
+      <span>&rsaquo;</span>
+      <a href="{{ with index (.GetTerms "categories") 0 }}{{ .RelPermalink }}{{ end }}">{{ partial "topic-label.html" (index .Params.categories 0) }}</a>
+      {{ end }}
+      <span>&rsaquo;</span>
+      <span>{{ .Title | truncate 50 }}</span>
+    </nav>
+
+    <!-- Category + Title + Meta -->
+    {{ if .Params.categories }}
+    <span class="post-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
+    {{ end }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta" style="justify-content:space-between;align-items:center">
+      <div class="post-meta-main" style="display:flex;align-items:center;flex-wrap:wrap;gap:10px">
+      {{ with .Params.author }}<span class="post-author" style="display:inline-flex;align-items:center;gap:6px">By <a href="/{{ $.Params.author_slug | default (urlize .) }}/" rel="author" style="display:inline-flex;align-items:center;gap:6px;color:inherit;font-weight:600;text-decoration:none"><img src="/img/authors/{{ $.Params.author_slug | default (urlize .) }}.jpg" alt="{{ . }}" style="width:22px;height:22px;border-radius:50%;object-fit:cover;flex-shrink:0">{{ . }}</a></span>{{ end }}
+      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+      {{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }}<span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
+      <span>{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+      <span class="post-reviewed">&middot; <a href="/editorial-standards/" style="color:inherit;font-weight:600">Fact-checked &amp; reviewed</a></span>
+      </div>
+      <div class="post-share" aria-label="Share this article">
+        <a class="share-btn sb-x" href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X" title="Share on X"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+        <a class="share-btn sb-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" aria-label="Share on Facebook" title="Share on Facebook"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
+        <a class="share-btn sb-rd" href="https://www.reddit.com/submit?url={{ .Permalink | urlquery }}&title={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on Reddit" title="Share on Reddit"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg></a>
+        <a class="share-btn sb-em" href="mailto:?subject={{ .Title | urlquery }}&body=Thought%20you%20might%20find%20this%20helpful%3A%20{{ .Permalink | urlquery }}" target="_blank" rel="noopener" aria-label="Share by email" title="Share by email"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z"/><path d="M22.5 6.908V6.75a3 3 0 0 0-3-3h-15a3 3 0 0 0-3 3v.158l9.714 5.978a1.5 1.5 0 0 0 1.572 0L22.5 6.908Z"/></svg></a>
+      </div>
+    </div>
+    <style>
+      .post-share{display:inline-flex;align-items:center;gap:8px;flex-shrink:0}
+      .post-share .share-btn{display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:50%;border:1px solid var(--border,#e7e5e4);color:var(--stone,#78716c);background:transparent;transition:background .15s,color .15s,border-color .15s,transform .15s}
+      .post-share .share-btn:hover{transform:translateY(-1px)}
+      .post-share .sb-x:hover{background:#000;border-color:#000;color:#fff}
+      .post-share .sb-fb:hover{background:#1877f2;border-color:#1877f2;color:#fff}
+      .post-share .sb-rd:hover{background:#ff4500;border-color:#ff4500;color:#fff}
+      .post-share .sb-em:hover{background:#6b7280;border-color:#6b7280;color:#fff}
+      @media(max-width:560px){.post-meta{justify-content:flex-start !important}.post-share{margin-top:6px}
+      }
+    </style>
+
+    <!-- Featured Hero Image — same image shown on the article card -->
+    {{ if .Params.image }}
+    <div class="post-featured-image">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
+    </div>
+    {{ end }}
+
+    <!-- Top CTA (affiliate) -->
+    {{ partial "cta-box.html" . }}
+
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    <!-- In-article video (if this article has a matching YouTube upload) -->
+    {{ $vslug := .Params.slug | default .File.ContentBaseName }}
+    {{ with site.Data.youtube }}
+      {{- $vid := "" }}{{ $vt := "" }}{{ range . }}{{ if eq .article_slug $vslug }}{{ $vid = .standard_id }}{{ $vt = .title }}{{ end }}{{ end -}}
+      {{ with $vid }}
+      <div class="article-video" style="margin:0 0 30px">
+        <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280);margin-bottom:8px;display:flex;align-items:center;gap:6px">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="#FF0000" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.1 31.1 0 0 0 0 12a31.1 31.1 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.1 31.1 0 0 0 24 12a31.1 31.1 0 0 0-.5-5.8z"/><path d="M9.5 15.5v-7l6 3.5z" fill="#fff"/></svg>
+          Prefer to watch? Here's the video version
+        </div>
+        <div style="position:relative;padding-bottom:56.25%;height:0;border-radius:12px;overflow:hidden;box-shadow:0 2px 14px rgba(0,0,0,.12)">
+          <iframe src="https://www.youtube.com/embed/{{ . }}" title="{{ $vt }}" loading="lazy" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+    <!-- Content with inline Amazon product after 2nd H2 -->
+    <div class="post-content">
+    {{- $content := .Content -}}
+    {{- $parts := split $content "</h2>" -}}
+    {{- if ge (len $parts) 3 -}}
+      {{- $last := sub (len $parts) 1 -}}
+      {{- range $i, $part := $parts -}}
+        {{- $part | safeHTML -}}
+        {{- if lt $i $last -}}</h2>{{- end -}}
+        {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $content -}}
+    {{- end -}}
+    </div>
+
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+
+    {{- if .Params.faqs }}
+    <div class="faq-section">
+      <h2 class="faq-heading">Frequently Asked Questions</h2>
+      {{- range .Params.faqs }}
+      <div class="faq-item">
+        <h3 class="faq-question">{{ .q }}</h3>
+        <p class="faq-answer">{{ .a }}</p>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    <!-- Author Bio -->
+    {{ with .Params.author }}
+    {{ $slug := $.Params.author_slug | default (urlize .) }}
+    <div class="author-bio" style="display:flex;gap:14px;align-items:flex-start;padding:20px;background:var(--surface,#f8fafc);border-radius:10px;margin:2rem 0">
+      <a href="/{{ $slug }}/" style="flex-shrink:0">
+        <img src="/img/authors/{{ $slug }}.jpg" alt="{{ . }}"
+             style="width:54px;height:54px;border-radius:50%;object-fit:cover">
+      </a>
+      <div class="author-info">
+        <strong class="author-name">
+          <a href="/{{ $slug }}/" style="color:var(--heading,#1e293b);text-decoration:none">{{ . }}</a>
+        </strong>
+        {{ with $.Params.author_title }}<span class="author-title" style="display:block;font-size:.8rem;color:var(--muted,#64748b);margin-bottom:4px">{{ . }}</span>{{ end }}
+        {{ with $.Params.author_bio }}<p class="author-blurb" style="margin:0;font-size:.85rem;color:var(--muted,#64748b)">{{ . }}</p>{{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    {{ partial "related-articles.html" . }}
+
+    <!-- In-article Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
+    <div class="ad-container ad-incontent" style="margin:24px 0">
+      <ins class="adsbygoogle"
+        style="display:block;text-align:center"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_incontent }}"
+        data-ad-format="fluid"
+        data-ad-layout="in-article"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+    {{ end }}
+
+    <!-- Bottom CTA (affiliate) -->
+    {{ partial "cta-box.html" . }}
+
+    <!-- Tags -->
+    {{ if .Params.tags }}
+    <div class="post-tags">
+      {{ range .Params.tags }}
+      <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Social Sharing -->
+    <div class="social-share">
+      <span class="social-share-label">Share this article:</span>
+      <a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X">&#x1D54F;</a>
+      <a class="share-btn share-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on Facebook">f</a>
+      <a class="share-btn share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | absURL | urlquery }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn">in</a>
+      {{ if .Params.image }}<a class="share-btn share-pinterest" href="https://pinterest.com/pin/create/button/?url={{ .Permalink | absURL | urlquery }}&media={{ .Params.image | absURL | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Pin on Pinterest">P</a>{{ end }}
+    </div>
+
+  </article>
+
+  <!-- ── STICKY SIDEBAR (articles only) ── -->
+  <aside class="sidebar">
+
+    <!-- Watch on YouTube CTA -->
+    {{ with .Site.Params.youtube_channel }}
+    <div class="widget yt-cta" style="text-align:center">
+      <a href="https://www.youtube.com/channel/{{ . }}" target="_blank" rel="noopener" aria-label="Visit our YouTube channel" style="text-decoration:none;display:block">
+        <svg viewBox="0 0 28 20" width="52" height="37" aria-hidden="true" style="margin-bottom:9px"><rect width="28" height="20" rx="6" fill="#FF0000"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#fff"/></svg>
+        <div style="font-weight:700;font-size:14.5px;color:var(--text,#1e293b);font-family:var(--serif,Georgia)">Watch &amp; Learn</div>
+      </a>
+      <div style="font-size:12.5px;color:var(--muted,#6b7280);margin:2px 0 13px">Video guides and quick tips</div>
+      <a href="https://www.youtube.com/channel/{{ . }}?sub_confirmation=1" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;background:#FF0000;color:#fff;padding:8px 18px;border-radius:20px;text-decoration:none;font-weight:600;font-size:13px">
+        <svg viewBox="0 0 28 20" width="18" height="13" aria-hidden="true"><rect width="28" height="20" rx="6" fill="#fff"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#FF0000"/></svg> Subscribe
+      </a>
+    </div>
+    {{ end }}
+    <!-- Related Articles widget — reliable recent-posts fallback -->
+    <div class="widget">
+      <div class="widget-title">Related Articles</div>
+      <div class="related-articles">
+        {{- $currentPermalink := .Permalink -}}
+        {{- $allPosts := where .Site.RegularPages "Section" "posts" -}}
+        {{- $sameCat := slice -}}
+        {{- if .Params.categories -}}
+          {{- $cat := index .Params.categories 0 -}}
+          {{- $sameCat = where $allPosts ".Params.categories" "intersect" (slice $cat) -}}
+        {{- end -}}
+        {{- $candidates := $sameCat | first 8 -}}
+        {{- if lt (len $candidates) 4 -}}
+          {{- $candidates = $allPosts | first 8 -}}
+        {{- end -}}
+        {{- range $candidates -}}
+          {{- if ne .Permalink $currentPermalink -}}
+          <a href="{{ .Permalink }}" class="ra-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" />{{ end }}
+            <div class="ra-body">
+              <h4 class="ra-title">{{ .Title }}</h4>
+              <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+            </div>
+          </a>
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </div>
+
+    <!-- Sidebar Ad -->
+    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
+    <div class="widget" style="padding:0;border:none;background:transparent">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="{{ .Site.Params.adsense_id }}"
+        data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
+        data-ad-format="rectangle"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+    {{ end }}
+
+    <!-- Browse Topics -->
+    <div class="widget">
+      <div class="widget-title">Browse Topics</div>
+      <ul class="widget-list">
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        {{ $lbl := title (replace $name "-" " ") }}
+        {{ $lbl = replace $lbl "Hr" "HR" }}{{ $lbl = replace $lbl "Pm" "PM" }}{{ $lbl = replace $lbl "Diy" "DIY" }}{{ $lbl = replace $lbl "Hoa" "HOA" }}{{ $lbl = replace $lbl "Hvac" "HVAC" }}{{ $lbl = replace $lbl "Rv" "RV" }}
+        <li><a href="{{ with site.GetPage (printf "/categories/%s" $name) }}{{ .RelPermalink }}{{ end }}">{{ $lbl }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ with .Params.author }}
+    {{ $authorName := . }}
+    {{ $authorSlug := $.Params.author_slug | default (urlize .) }}
+    {{ $authorPosts := where site.RegularPages "Params.author" $authorName }}
+    {{ if gt (len $authorPosts) 1 }}
+    <div class="widget">
+      <div class="widget-title">More by {{ $authorName }}</div>
+      <div class="author-articles">
+        {{ $currentPermalink := $.Permalink }}
+        {{ range ($authorPosts | first 6) }}
+          {{ if ne .Permalink $currentPermalink }}
+          <a href="{{ .RelPermalink }}" class="ra-card">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" />{{ end }}
+            <div class="ra-body">
+              <h4 class="ra-title">{{ .Title }}</h4>
+              <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+            </div>
+          </a>
+          {{ end }}
+        {{ end }}
+      </div>
+      <a href="/{{ $authorSlug }}/" class="view-all-link">View all articles &rsaquo;</a>
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <!-- Recent Articles -->
+    <div class="widget">
+      <div class="widget-title">Recent Articles</div>
+      <div class="recent-articles">
+        {{ $raCurrent := .Permalink }}
+        {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+        {{ if ne .Permalink $raCurrent }}
+        <a href="{{ .RelPermalink }}" class="ra-card">
+          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" loading="lazy" />{{ end }}
+          <div class="ra-body">
+            <h4 class="ra-title">{{ .Title }}</h4>
+            <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+          </div>
+        </a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <style>
+      .recent-articles,.related-articles,.author-articles{display:flex;flex-direction:column;gap:10px}
+      .ra-card{display:grid;grid-template-columns:70px 1fr;gap:12px;align-items:center;padding:8px;border-radius:8px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);text-decoration:none;color:inherit;transition:background .2s,transform .2s}
+      .ra-card:hover{transform:translateY(-1px);background:var(--surface2,#f5f2ec)}
+      .ra-thumb{width:70px;height:50px;object-fit:cover;border-radius:5px}
+      .ra-body{display:flex;flex-direction:column;gap:3px;min-width:0}
+      .ra-title{font-size:.88rem;font-weight:600;color:var(--text,#1c1917);margin:0;line-height:1.3;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+      .ra-time{font-size:.76rem;color:var(--muted,#a8a29e)}
+    </style>
+
+  </aside>
+</div>
+
+
+<!-- AI Disclosure -->
+<div class="ai-disclosure">
+  <p>This article was produced with assistance from AI tools and reviewed by
+    {{ if .Params.author }}<a href="/authors/{{ .Params.author | urlize }}/">{{ .Params.author }}</a>{{ else }}our editorial team{{ end }}.
+  </p>
+</div>
+
+  {{ partial "newsletter-strip.html" . }}
+{{ partial "amazon-products.html" . }}
+{{- else -}}
+
+{{/* ════════════════════════════════════════════════════════════
+     NON-ARTICLE PAGES  (about, contact, privacy, etc.)
+     Clean single-column — no ads, no read time, no date, no CTA
+     ════════════════════════════════════════════════════════════ */}}
+
+<div class="page-wrap">
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</div>
+
+{{- end }}
+{{ end }}
