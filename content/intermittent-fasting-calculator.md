@@ -7,7 +7,6 @@ description: "Calculate your exact intermittent fasting eating window and fastin
 author: "Natalie Rowe"
 categories: ["Keto Lifestyle"]
 tags: ["intermittent fasting", "16:8", "OMAD", "eating window", "fasting timer", "keto lifestyle"]
-image: ""
 faqs:
   - question: "Does intermittent fasting break ketosis?"
     answer: "No — intermittent fasting supports ketosis. When you extend the fasting window, your body depletes glycogen stores and accelerates the shift to fat-burning and ketone production. Many keto practitioners find that combining IF with low-carb eating deepens ketosis."
