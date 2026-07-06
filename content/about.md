@@ -7,6 +7,7 @@ description: "About Keto Living Guide,  meet Natalie Rowe and learn how we cover
 layout: "about-page"
 author_slug: "diana-walsh"
 author_name: "Keto Living Guide"
+person_name: "Natalie Rowe"
 ---
 
 ## About Keto Living Guide
