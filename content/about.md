@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Keto Living Guide,  meet Natalie Rowe and learn how we cover the ketogenic diet."
----
+layout: "about-page"
+author_slug: "keto-living-guide"
+author_name: "Keto Living Guide"---
 
 ## About Keto Living Guide
 
