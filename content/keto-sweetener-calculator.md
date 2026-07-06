@@ -7,7 +7,6 @@ description: "Use our free keto sweetener conversion calculator to instantly fin
 author: "Natalie Rowe"
 categories: ["Keto Basics"]
 tags: ["sweeteners", "erythritol", "monk fruit", "allulose", "stevia", "keto baking"]
-image: ""
 faqs:
   - question: "Can I use erythritol as a 1:1 sugar substitute?"
     answer: "Not quite. Erythritol is about 70% as sweet as sugar, so you need roughly 1.4 cups of erythritol to match 1 cup of sugar's sweetness. The calculator above gives you exact conversions for any amount."
