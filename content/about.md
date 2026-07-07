@@ -3,11 +3,11 @@ title: "About Keto Living Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Keto Living Guide,  meet Natalie Rowe and learn how we cover the ketogenic diet."
+description: "About Keto Living Guide,  meet Diana Walsh and learn how we cover the ketogenic diet."
 layout: "about-page"
 author_slug: "diana-walsh"
 author_name: "Keto Living Guide"
-person_name: "Natalie Rowe"
+person_name: "Diana Walsh"
 ---
 
 ## About Keto Living Guide
@@ -16,9 +16,9 @@ Keto Living Guide is an independent nutrition resource focused on the ketogenic 
 
 ## Meet the Editor
 
-**Natalie Rowe** is the editor behind Keto Living Guide.
+**Diana Walsh** is the editor behind Keto Living Guide.
 
-Natalie has followed and studied the ketogenic diet for over six years. She started keto for personal health reasons, fell down the research rabbit hole, and eventually started writing to help other people cut through the misinformation that saturates the low-carb space online. Her focus is evidence-based: she cites studies, explains mechanisms, and clearly distinguishes between what's established and what's still being debated.
+Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto.
 
 ## What We Cover
 
@@ -32,7 +32,7 @@ We clearly label opinion versus evidence, and we update articles when new resear
 
 ## Important Disclaimer
 
-Keto Living Guide provides general nutritional information only. Natalie Rowe is a researcher and writer,  not a registered dietitian or medical professional. The ketogenic diet can significantly affect blood sugar, cholesterol, and medication requirements. Always consult your doctor or a registered dietitian before making major dietary changes, especially if you have existing health conditions.
+Keto Living Guide provides general nutritional information only. Diana Walsh is a researcher and writer,  not a registered dietitian or medical professional. The ketogenic diet can significantly affect blood sugar, cholesterol, and medication requirements. Always consult your doctor or a registered dietitian before making major dietary changes, especially if you have existing health conditions.
 
 ## Affiliate Disclosure
 
