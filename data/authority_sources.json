@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Harvard T.H. Chan — The Nutrition Source",
+  "url": "https://nutritionsource.hsph.harvard.edu/",
+  "note": "Evidence-based nutrition"
+ },
+ {
+  "name": "USDA FoodData Central",
+  "url": "https://fdc.nal.usda.gov/",
+  "note": "Official food nutrient data"
+ },
+ {
+  "name": "National Institutes of Health (NIH)",
+  "url": "https://www.nih.gov/",
+  "note": "Biomedical research"
+ },
+ {
+  "name": "American Diabetes Association",
+  "url": "https://diabetes.org/",
+  "note": "Carbohydrate and blood-sugar guidance"
+ }
+]
