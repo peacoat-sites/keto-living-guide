@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Intermittent Fasting",
+    "url": "/intermittent-fasting-calculator/",
+    "icon": "\u23f1\ufe0f"
+  },
+  {
+    "label": "Food List",
+    "url": "/keto-food-list/",
+    "icon": "\ud83e\udd51"
+  },
+  {
+    "label": "Macro Calc",
+    "url": "/keto-macro-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Macro Tracker",
+    "url": "/keto-macro-tracker/",
+    "icon": "\ud83d\udcca"
+  },
+  {
+    "label": "Grocery List",
+    "url": "/keto-grocery-list/",
+    "icon": "\u2705"
+  }
+]
