@@ -3,22 +3,6 @@
 {{ $slug     := .Params.author_slug }}
 {{ $title    := .Params.author_title }}
 {{ $spec     := .Params.author_specialty }}
-{{ $bio      := "" }}{{ if .Content }}{{ $bio = .Content | plainify | replaceRE "\\s+" " " | strings.TrimSpace }}{{ end }}
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "{{ $name | replaceRE "\"" "\\\"" }}",
-  "url": "{{ .Permalink }}",
-  "image": "{{ (printf "img/authors/%s.jpg" $slug) | absURL }}",
-  "jobTitle": "{{ $title | replaceRE "\"" "\\\"" }}"{{ with $spec }},
-  "knowsAbout": "{{ . | replaceRE "\"" "\\\"" }}"{{ end }}{{ with $bio }},
-  "description": "{{ . | truncate 300 | replaceRE "\"" "\\\"" }}"{{ end }},
-  "worksFor": { "@type": "Organization", "name": "{{ .Site.Title | replaceRE "\"" "\\\"" }}", "url": "{{ .Site.BaseURL }}" }
-}
-</script>
-
 <div class="ap-wrap">
   <div class="ap-hero">
     <div class="ap-photo-wrap">
