@@ -21,8 +21,8 @@ faqs:
    a: "Depends entirely on your portion and your individual response. A well-made slice using allulose or erythritol shouldn't cause a significant blood sugar spike for most people, but everyone responds differently. If you're tracking strictly, measure your specific ingredients and use a macro calculator. And if you have any underlying health conditions, talking to a dietitian or your doctor before making significant dietary changes is always a good call."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Research Editor"
-author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+author_title: "Nutrition Researcher"
+author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 
 ---
 Most keto chocolate cake recipes will lie to you. Not maliciously, just optimistically. They'll show you a glossy photo of something that looks like it came out of a bakery, and then you'll follow the instructions exactly and end up with a dense, eggy disc that tastes vaguely of almond flour and disappointment. I've tested probably two dozen variations over the years, made the classic mistakes, and figured out what separates the ones worth making from the ones worth forgetting.

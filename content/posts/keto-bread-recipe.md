@@ -21,8 +21,8 @@ faqs:
    a: "Some of it is, some of it isn't. Always check the nutrition label and specifically look at net carbs (total carbs minus fiber and sugar alcohols). Some commercial keto breads use wheat gluten or oat fiber, which keeps the net carbs low but may cause issues for people who are sensitive to gluten. If strict ketosis is your goal, homemade gives you full control over every ingredient."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 Most people quit keto within the first two weeks. Ask them why, and you'll hear the same answer over and over: they missed bread. Not pasta. Not cake. Bread. That soft, chewy thing that holds a sandwich together, soaks up soup, makes breakfast feel like breakfast. The thing is, you don't actually have to give it up. A decent keto bread recipe gets you shockingly close to the real thing, and once you nail the technique, you'll stop thinking of this diet as deprivation.

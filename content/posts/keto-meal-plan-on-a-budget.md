@@ -21,8 +21,8 @@ faqs:
    a: "The most reliable low-cost signal is how you feel after about two to three weeks of consistent eating below 20 to 30 grams of net carbs per day. Reduced hunger, steadier energy, and the absence of blood sugar swings are practical markers. Urine ketone strips are inexpensive and available at most pharmacies, and while they're not perfectly accurate for established keto dieters (your body becomes more efficient at using ketones over time, so excretion drops), they're useful early on as a rough confirmation. Blood ketone meters are more accurate but cost more. For most people, consistent eating a"
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You've probably seen those beautifully photographed keto meal plans: wild-caught salmon, grass-fed ribeyes, organic avocado everything. And if you're like most people I've worked with, your first reaction isn't inspiration. It's frustration. Because that costs a fortune, and nobody told you keto was supposed to be a luxury diet. Here's the thing: it doesn't have to be. Some of the most metabolically effective keto foods are also some of the cheapest foods in any grocery store. The disconnect between how keto gets marketed and how it can actually be lived is real, and it's worth talking about honestly.

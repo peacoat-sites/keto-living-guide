@@ -19,8 +19,8 @@ faqs:
    a: "Read the label, not the front of the package. 'Low-carb' isn't regulated the way 'organic' or 'gluten-free' is, so manufacturers use it loosely. A product labeled low-carb might still have 15 grams of net carbs per serving, which is a lot if your daily limit is 20. Ingredients to watch out for include maltitol (the sugar alcohol that spikes blood sugar most), wheat flour listed as a minor ingredient, and tapioca starch, which is commonly used in 'keto' tortillas and breads but adds more carbs than it appears to. When in doubt, weigh your portion with a kitchen scale and plug it into a tracking"
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You followed the meal plan perfectly. Skipped the bread, passed on dessert, even turned down your coworker's birthday cake. But the scale hasn't budged in two weeks. So what's going wrong?

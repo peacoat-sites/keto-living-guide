@@ -21,8 +21,8 @@ faqs:
    a: "Honest answer: we don't have great long-term randomized controlled trial data on this specific combination over five or ten years. What we have is a reasonable mechanistic rationale, positive shorter-term data on both approaches separately, and substantial anecdotal experience from practitioners working with clients. For metabolically healthy adults who are eating enough, getting adequate protein, and monitoring how they feel, there's nothing alarming in the current literature. That said, 'safe' is always individual. Working with a registered dietitian who actually knows low-carb nutrition (no"
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You've been eating keto for three weeks. The scale moved at first, then stalled. You're doing everything "right," but somewhere around 2pm you're eating your fourth handful of macadamia nuts because you're not sure if you're actually hungry or just bored or just doing the thing where you graze because the food is keto-approved and therefore fine. Sound familiar? That's the moment a lot of people start hearing about combining keto with intermittent fasting, usually from someone who swears it changed everything. The thing is, sometimes it actually does. But not for the reasons most people think, and not in the way most people try it.

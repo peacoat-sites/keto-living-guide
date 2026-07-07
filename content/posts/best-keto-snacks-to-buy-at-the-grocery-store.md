@@ -21,8 +21,8 @@ faqs:
    a: "Meat sticks like Chomps, pork rinds, macadamia nuts, and individually wrapped cheese rounds like BabyBel (they hold a few hours unrefrigerated due to the wax coating) are the most practical. Whisps parmesan crisps are also fully shelf-stable and don't crush easily in a bag. Building a small 'car kit' with these shelf-stable options has saved a lot of my clients from convenience store disasters on long days."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 Most people walk into the grocery store planning to "grab something keto" and leave with a bag of pork rinds and a prayer. I've done it. I've watched clients do it. And honestly, it ends one of two ways: boredom by day four, or they buy something that looked keto-friendly on the package but knocked them out of ketosis by lunch. The snack aisle is genuinely confusing on a low-carb diet because food marketing has weaponized the language. "Low carb," "sugar free," "keto friendly", all can show up on packaging with 18 grams of net carbs per serving. I'll share what I've actually learned from research and from working with real people trying to make this stick.

@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily. A structured carb refeed day (as described above) can provide metabolic benefit without abandoning keto long-term. True cyclical keto, where you do 5 days low-carb and 2 days higher-carb, works well for some people, particularly athletes who need glycogen for performance. But it's not a requirement for everyone hitting a plateau. Simpler fixes like calorie auditing and protein adjustment should come first."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 You've been strict with your macros for weeks. The scale moved fast at first, maybe 8 or 10 pounds in the first month, and you were feeling unstoppable. Then, nothing. A week goes by. Two weeks. The number on the scale just sits there, staring back at you like it's personally offended by your discipline. You haven't cheated. You're still eating under 20 grams of carbs a day. So what gives? You've hit a keto plateau, and you're far from alone. It happens to nearly everyone who follows a low-carb diet long enough, and the reasons behind it are more nuanced than most people realize.

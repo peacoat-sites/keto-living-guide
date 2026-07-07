@@ -21,8 +21,8 @@ faqs:
     a: "Berries first, every time. They have the lowest net carbs, the highest fiber ratio, and strong nutritional value. After berries, stone fruits like peaches and plums are reasonable second choices if portions are controlled. Hold off on grapes, mangoes, and bananas until you're clearly in a maintenance or carb-cycling phase and understand how your body responds to higher carb loads."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 You pick up a peach at the farmers market, and for a second you think: *it's fruit, it's natural, it can't be that bad.* Then you get home, look it up, and find out one medium peach has 13 grams of net carbs. On a strict keto diet, that's most of your daily carb budget in a single piece of fruit. Natural doesn't mean low-carb, and this is where a lot of people quietly blow their macros without realizing it.

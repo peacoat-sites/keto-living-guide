@@ -21,8 +21,8 @@ faqs:
    a: "It can, and the mechanism is interesting. Carbohydrates support serotonin and melatonin synthesis, so people sometimes sleep worse in the first week or two on keto. Magnesium supplementation helps. So does keeping carb restriction to earlier in the day if you're doing carb cycling, or ensuring adequate calorie intake overall. Sleep disruption typically normalizes by weeks 2-3."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 You cut carbs four days ago. Your head's pounding. Your legs feel like concrete. You're snapping at someone for breathing too loud. You're starting to wonder if keto is brilliant or actively trying to kill you.

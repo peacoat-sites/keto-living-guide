@@ -21,8 +21,8 @@ faqs:
    a: "Yes. Bake at 400°F for 12 to 15 minutes depending on thickness. You won't get the crispy skin, but it's more hands-off and the texture holds up better if you're planning to refrigerate leftovers. Finishing with browned butter or cream sauce still works after oven cooking."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 Salmon might be the single most forgiving fish you can cook on keto, and somehow people still manage to ruin it. I've watched clients spend $18 on a beautiful wild-caught fillet and turn it into a gray, chalky disappointment by overcooking it two minutes past done. So before we get to any actual recipe, I want to talk about the one thing that separates good keto salmon from great keto salmon: fat timing.

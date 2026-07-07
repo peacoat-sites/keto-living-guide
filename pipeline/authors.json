@@ -9,9 +9,9 @@
   {
     "slug": "jake-torres",
     "name": "Jake Torres",
-    "title": "Recipe Developer",
-    "specialty": "Keto Cooking & Meal Planning",
-    "bio": "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+    "title": "Culinary Nutritionist",
+    "specialty": "Keto Cooking & Recipe Development",
+    "bio": "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
   },
   {
     "slug": "emma-lawson",
@@ -30,15 +30,15 @@
   {
     "slug": "diana-walsh",
     "name": "Diana Walsh",
-    "title": "Lifestyle Writer",
-    "specialty": "Keto Meal Planning & Pantry Staples",
-    "bio": "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+    "title": "Nutrition Coach",
+    "specialty": "Practical Keto & Family Meal Planning",
+    "bio": "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
   },
   {
     "slug": "mark-chen",
     "name": "Mark Chen",
-    "title": "Research Editor",
-    "specialty": "Keto Science & Emerging Research",
-    "bio": "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+    "title": "Nutrition Researcher",
+    "specialty": "Keto Science & Evidence Review",
+    "bio": "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
   }
 ]

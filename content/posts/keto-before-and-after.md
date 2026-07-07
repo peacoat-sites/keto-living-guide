@@ -21,8 +21,8 @@ faqs:
    a: "Strict ketosis (blood ketones above 0.5 mmol/L) isn't required for every benefit. Many of the metabolic improvements associated with keto come from carbohydrate restriction itself, even if you're in a moderate-low range rather than deep ketosis. For some goals, like therapeutic use for epilepsy, precise ketosis matters more. For general fat loss, the line is less rigid."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Research Editor"
-author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+author_title: "Nutrition Researcher"
+author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 
 ---
 Most people come to keto with a mix of hope and skepticism. You've probably scrolled through dramatic before-and-afters, read a few success stories, and you're trying to figure out what's actually real versus what's been optimized for shock value. That's smart. I've worked with clients one-on-one for years now, and I've seen keto produce genuinely striking results for some people and frustratingly modest ones for others. The difference almost never comes down to willpower.

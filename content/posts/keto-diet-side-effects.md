@@ -21,8 +21,8 @@ faqs:
     a: "No. The keto flu specifically is almost a sign that you've cut carbs enough to trigger the metabolic shift. Think of it as your body complaining about change, not about harm. Manage your electrolytes, don't restrict calories aggressively in week one, and give yourself the two-week grace period before making a verdict."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You started keto on Monday. By Wednesday you feel like you got hit by a bus. Your head's pounding, your legs are heavy, and you're so foggy you had to read the same email three times. You're ready to quit.

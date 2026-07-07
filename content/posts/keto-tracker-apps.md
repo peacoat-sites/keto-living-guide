@@ -21,8 +21,8 @@ faqs:
     a: "The research here is genuinely mixed. Many people lose weight on keto without explicit calorie counting because protein and fat are more satiating. But if you've been eating keto for more than 6-8 weeks without results, tracking calories for two weeks is worth doing. It's a diagnostic tool, not a lifelong requirement, and you might be surprised where your calories are actually coming from."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 Most people pick a keto tracker the same way they pick a gym: grab the most popular one, set it up once, and then quietly stop using it two weeks later. I've watched this pattern with clients for years, and I'll be honest, I contributed to it for a while by just defaulting to whatever app had the best App Store rating. What surprised me when I actually dug in was how differently these apps are designed at a philosophy level, and how badly that mismatch can derail someone who's otherwise doing everything right.

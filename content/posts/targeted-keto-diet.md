@@ -21,8 +21,8 @@ faqs:
    a: "Hormonal differences mean women often have a somewhat different response to carbohydrate timing and fat adaptation. Some research suggests women oxidize fat more readily than men during moderate exercise, which may mean carbohydrate supplementation matters less for women at lower training intensities. However, the underlying physiology of glycogen use during high-intensity exercise applies across sexes. If you're a woman doing intense training and experiencing the performance issues described above, TKD is worth testing under the same principles. Tracking your response over 3 to 4 weeks will t"
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.

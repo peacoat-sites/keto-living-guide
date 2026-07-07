@@ -5,8 +5,8 @@ layout: "author-page"
 hide_title: true
 author_name: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Research Editor"
-author_specialty: "Keto Science & Emerging Research"
+author_title: "Nutrition Researcher"
+author_specialty: "Keto Science & Evidence Review"
 ---
 
-Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works.
+Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research.

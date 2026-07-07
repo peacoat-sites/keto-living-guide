@@ -21,8 +21,8 @@ faqs:
    a: "Yes, though the threshold is hard to hit with oral supplements because the body excretes excess magnesium through the kidneys quite efficiently in healthy people. The most common sign that you've taken too much is loose stools or diarrhea, which is actually the mechanism used intentionally in magnesium-based laxatives. More serious toxicity (cardiac effects, muscle weakness) is associated with very high doses, typically in people with kidney impairment who can't excrete the excess. If you have any kidney disease or take medications that affect kidney function, get medical guidance before suppl"
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 You cleaned up your diet, cut the carbs, started losing weight, and then somewhere around week two you woke up at 3am with a calf cramp so savage it left you limping the next morning. Welcome to one of keto's least glamorous rites of passage. Most people blame dehydration. A few blame electrolytes in some vague, hand-wavy way. What surprised me, when I actually dug into the physiology here, is how specifically magnesium is the culprit behind so many of keto's most common complaints, and how badly the standard advice undershoots what people actually need.

@@ -21,8 +21,8 @@ faqs:
    a: "It can be, if you had a full return to high-carb eating between attempts. Your body has to go through the glycogen depletion and electrolyte flush again from scratch. The good news is that many people report their second transition is faster than their first, possibly because they know what to expect and handle electrolytes better from day one."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 Three days into keto. Eggs, bacon, salad, nothing else. Your head is pounding, your legs feel like wet cement, and you just snapped at your coworker over something you can't even remember. You probably have keto flu, and as miserable as it feels, it's actually a sign that something real is happening inside your body.

@@ -21,8 +21,8 @@ faqs:
    a: "Diet sodas have zero carbs, so they won't technically raise your carb count. The research on whether artificial sweeteners affect ketosis directly is genuinely mixed, with some small studies suggesting they may affect insulin response and some showing no meaningful impact. If diet soda helps you stay off regular soda, it's probably a net positive. If you're aiming for optimal metabolic health, unsweetened sparkling water or plain iced tea is the cleaner choice."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 You're stuck on the highway, forty minutes from home, blood sugar crashing, and the only exits for the next ten miles are a McDonald's and a Taco Bell. If you've been doing keto for more than a week, you've probably lived this exact moment. And if your first instinct was "I'm just going to ruin it today," I want to challenge that directly. Fast food on keto isn't the dietary minefield most people assume it is. The menus have changed, the customization options are real, and with about sixty seconds of mental prep, you can walk out of almost any drive-through without torching your macros.

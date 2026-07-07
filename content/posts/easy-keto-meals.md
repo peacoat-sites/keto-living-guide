@@ -21,8 +21,8 @@ faqs:
    a: "Most restaurants are easier to navigate keto-friendly than people expect. At a burger spot, order the burger without the bun and add avocado. At a steakhouse, replace the potato with extra vegetables or a side salad. At a Mexican restaurant, a fajita bowl minus the rice and beans works well. At an Italian restaurant, skip pasta dishes and go for grilled proteins with olive oil. The main traps to avoid are breaded proteins, sweet sauces, and anything 'glazed' or 'teriyaki.'"
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're already a little hungry and a little cranky, and you have zero interest in spending 45 minutes in the kitchen. Sound familiar? A lot of people abandon keto right at this exact moment. Not because the diet stopped working, but because they ran out of fast, satisfying ideas. The good news is that keto is actually one of the most meal-prep-friendly dietary approaches out there, and once you get a feel for the core building blocks, you can throw together a genuinely great dinner in 15 to 20 minutes flat.

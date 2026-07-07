@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but simplify ruthlessly. You don't need elaborate recipes. Hard-boiled eggs, rotisserie chicken (check the label for added sugars, most plain rotisserie chickens are fine), bagged salad greens, sliced cheese, and portioned nuts require almost zero cooking. Buy pre-washed spinach. Use a grocery store rotisserie chicken instead of cooking your own. The goal is having keto-friendly food ready, not winning a cooking competition."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Research Editor"
-author_bio: "Mark Chen has a background in nutritional biochemistry and tracks the evolving science of ketogenic diets closely. He believes most keto content oversimplifies the research, and he writes to give readers an accurate picture of what the evidence actually shows. At Keto Living Guide, he covers new studies, myth-busting, and the science behind how ketosis works."
+author_title: "Nutrition Researcher"
+author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 
 ---
 Picture this: it's 7 p.m. on a Wednesday, you're exhausted, and you open the fridge to find absolutely nothing keto-friendly ready to eat. You're staring down a block of cheese and some lunch meat, desperately improvising. Twenty minutes later you've caved and ordered pizza. Sound familiar? This is the scenario that derails more keto dieters than any craving ever could. The fix isn't willpower. It's preparation.

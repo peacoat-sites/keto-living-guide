@@ -21,8 +21,8 @@ faqs:
    a: "No, and I want to be direct about this. Plenty of people do keto successfully through home cooking, meal prepping, and thoughtful restaurant choices. Delivery services are a tool, not a requirement. If you enjoy cooking and can batch prep on Sundays, a good cookbook like Practical Keto Meal Plans and some solid containers might serve you better than a subscription. Use delivery where it actually helps your life. Don't use it out of obligation."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Recipe Developer"
-author_bio: "Jake Torres spent a decade as a line cook before going keto himself and realizing how much kitchen technique could transform low-carb eating. He approaches every recipe as a flavor problem first, a macro problem second, and brings professional kitchen intuition to dishes that actually taste good. At Keto Living Guide, he develops and tests all original recipes and covers meal prep strategy."
+author_title: "Culinary Nutritionist"
+author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 
 ---
 You've been eating keto for three weeks. The first week felt manageable. You batch-cooked on Sunday, portioned out your meals, and actually felt good about it. Then Wednesday of week two hit, long day, no prep done, and you found yourself staring into the fridge at 7pm eating string cheese and deli turkey slices standing over the sink. By week three, you're Googling whether keto meal delivery is actually worth it or just an expensive shortcut for people who can't get their act together. Here's the thing: it's neither of those.

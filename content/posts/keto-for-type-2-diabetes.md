@@ -21,8 +21,8 @@ faqs:
    a: "Stick to protein and fat, ask for substitutions without shame, and watch for hidden carbs in sauces, marinades, and breading. At most restaurants, a bunless burger with a side salad, grilled fish with vegetables, or a steak with no potato swap is achievable. Tex-Mex spots are tricky because beans and rice are everywhere, but a fajita bowl with meat, guacamole, cheese, and sour cream minus the tortillas and rice works perfectly well. Your glucose meter will quickly teach you which restaurants and which dishes are actually safe for you."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Lifestyle Writer"
-author_bio: "Diana Walsh went keto after her second child and had to figure out how to feed a family on a budget without spending hours in the kitchen. She developed a system of pantry staples, batch cooking, and simple swaps that made keto sustainable for her household. At Keto Living Guide, she covers meal planning, grocery guides, and realistic low-carb living for busy people."
+author_title: "Nutrition Coach"
+author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 
 ---
 Your doctor calls with your A1C: 8.4 down to 5.9 in six months. Metformin cut in half. That was David, 54, one of my clients who ditched calorie restriction and started eating keto after years of spinning his wheels with blood sugar control. No magic involved. Just metabolic reality.
