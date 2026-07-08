@@ -5,79 +5,146 @@
     {
       "q": "How do you usually feel a couple hours after a big pasta or bread-heavy meal?",
       "options": [
-        {"t": "Sluggish, foggy, or ready for a nap", "s": 3},
-        {"t": "Pretty normal, no real change", "s": 1},
-        {"t": "Great, carbs are my fuel", "s": 0}
+        {
+          "t": "Sluggish, foggy, or ready for a nap",
+          "s": 3
+        },
+        {
+          "t": "Pretty normal, no real change",
+          "s": 1
+        },
+        {
+          "t": "Great, carbs are my fuel",
+          "s": 0
+        }
       ]
     },
     {
       "q": "Could you picture giving up bread, pasta, and sugar most of the time?",
       "options": [
-        {"t": "Honestly, yes, I could let them go", "s": 3},
-        {"t": "It would be hard but doable", "s": 1},
-        {"t": "No way, those are my favorites", "s": 0}
+        {
+          "t": "Honestly, yes, I could let them go",
+          "s": 3
+        },
+        {
+          "t": "It would be hard but doable",
+          "s": 1
+        },
+        {
+          "t": "No way, those are my favorites",
+          "s": 0
+        }
       ]
     },
     {
       "q": "How do you feel about fatty foods like avocado, cheese, eggs, and meat?",
       "options": [
-        {"t": "Love them, I'd happily eat more", "s": 3},
-        {"t": "They're fine in moderation", "s": 1},
-        {"t": "I prefer low-fat foods", "s": 0}
+        {
+          "t": "Love them, I'd happily eat more",
+          "s": 3
+        },
+        {
+          "t": "They're fine in moderation",
+          "s": 1
+        },
+        {
+          "t": "I prefer low-fat foods",
+          "s": 0
+        }
       ]
     },
     {
       "q": "What's your main goal right now?",
       "options": [
-        {"t": "Steadier energy and/or weight loss", "s": 3},
-        {"t": "General health and feeling better", "s": 2},
-        {"t": "Fueling intense endurance training", "s": 0}
+        {
+          "t": "Steadier energy and/or weight loss",
+          "s": 3
+        },
+        {
+          "t": "General health and feeling better",
+          "s": 2
+        },
+        {
+          "t": "Fueling intense endurance training",
+          "s": 0
+        }
       ]
     },
     {
       "q": "How much of your food do you prepare at home?",
       "options": [
-        {"t": "Most of my meals", "s": 3},
-        {"t": "About half", "s": 1},
-        {"t": "I mostly eat out or grab convenience food", "s": 0}
+        {
+          "t": "Most of my meals",
+          "s": 3
+        },
+        {
+          "t": "About half",
+          "s": 1
+        },
+        {
+          "t": "I mostly eat out or grab convenience food",
+          "s": 0
+        }
       ]
     },
     {
       "q": "Any medical conditions that affect diet (kidney/liver issues, pregnancy, etc.)?",
       "options": [
-        {"t": "None that I know of", "s": 3},
-        {"t": "I'm not sure", "s": 1},
-        {"t": "Yes, I have something to consider", "s": 0}
+        {
+          "t": "None that I know of",
+          "s": 3
+        },
+        {
+          "t": "I'm not sure",
+          "s": 1
+        },
+        {
+          "t": "Yes, I have something to consider",
+          "s": 0
+        }
       ]
     },
     {
       "q": "How do you usually handle the first week of a big change?",
       "options": [
-        {"t": "I push through the rough patch", "s": 3},
-        {"t": "I need to ease in gradually", "s": 1},
-        {"t": "I tend to give up quickly", "s": 0}
+        {
+          "t": "I push through the rough patch",
+          "s": 3
+        },
+        {
+          "t": "I need to ease in gradually",
+          "s": 1
+        },
+        {
+          "t": "I tend to give up quickly",
+          "s": 0
+        }
       ]
     }
   ],
   "results": [
     {
-      "min": 0, "max": 7,
+      "min": 0,
+      "max": 7,
       "title": "Keto might not be your easiest path right now",
       "body": "Based on your answers, a strict ketogenic diet could feel like an uphill battle, and that's completely okay. A gentler low-carb or Mediterranean approach might fit your tastes and routine better while still improving your energy and health. If keto still interests you, start by simply cutting back on added sugar and refined carbs before going all in.",
       "cta": "Explore lower-carb basics"
     },
     {
-      "min": 8, "max": 14,
+      "min": 8,
+      "max": 14,
       "title": "Keto could work well for you, with a plan",
       "body": "You have several traits that line up nicely with keto, along with a few areas that would need some planning. The people who succeed on keto in your situation usually start with a clear meal plan and a stocked kitchen so they're never caught without a keto-friendly option. Ease in over a week or two rather than going cold turkey.",
       "cta": "See a beginner keto meal plan"
     },
     {
-      "min": 15, "max": 21,
+      "min": 15,
+      "max": 21,
       "title": "You're a strong keto candidate",
       "body": "Your habits, goals, and food preferences all point toward keto being a great fit. You're likely to adapt quickly and feel the energy and appetite benefits within the first couple of weeks. Start by learning which foods to lean on and which to avoid, then build a simple repeatable rotation of meals you enjoy.",
       "cta": "Browse the keto food database"
     }
   ],
-  "disclaimer": "This quiz is for general education and fun, not medical advice. Talk to your doctor before making major dietary changes, especially if you have a health condition."
+  "disclaimer": "This quiz is for general education and fun, not medical advice. Talk to your doctor before making major dietary changes, especially if you have a health condition.",
+  "url": "/is-keto-right-for-you/"
 }
