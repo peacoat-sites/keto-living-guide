@@ -1,5 +1,5 @@
 ---
-title: "Keto Meal Plan On A Budget"
+title: "Eat Keto Without Breaking the Bank"
 date: 2026-05-27T03:12:55.060131+00:00
 draft: false
 description: "Discover how to follow a keto diet without breaking the bank. Get our budget-friendly keto meal plan with simple, affordable recipes and smart shopping tips."
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've probably seen those beautifully photographed keto meal plans: wild-caught salmon, grass-fed ribeyes, organic avocado everything. And if you're like most people I've worked with, your first reaction isn't inspiration. It's frustration. Because that costs a fortune, and nobody told you keto was supposed to be a luxury diet. Here's the thing: it doesn't have to be. Some of the most metabolically effective keto foods are also some of the cheapest foods in any grocery store. The disconnect between how keto gets marketed and how it can actually be lived is real, and it's worth talking about honestly.
 

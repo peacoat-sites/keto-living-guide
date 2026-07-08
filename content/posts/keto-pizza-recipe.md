@@ -1,5 +1,5 @@
 ---
-title: "Keto Pizza Recipe"
+title: "Cauliflower Crust Pizza That Actually Tastes Good"
 date: 2026-06-19T15:52:58.313152+00:00
 draft: false
 description: "Make a delicious keto pizza with a crispy low-carb crust, melted cheese, and all your favorite toppings. Easy recipe ready in under 30 minutes!"
@@ -23,7 +23,7 @@ faqs:
    a: "The store-bought options I've tried, including a few that charge $8-10 per crust, have mostly disappointed me on texture and flavor. The good ones are okay. Fathead is better, cheaper, and you know exactly what's in it. A batch costs maybe $3 in ingredients."
  - q: "Will this actually kick me out of ketosis?"
    a: "A well-made keto pizza with fathead crust almost certainly won't, assuming you're otherwise sticking to your carb targets. What does derail people is using a recipe that seems keto-friendly but has hidden carbs in the sauce or sausage. Read labels on processed toppings especially."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. I've had that conversation with clients more times than I can count. The truth is that bad keto pizza is genuinely bad. But a well-made version? It holds up. I make it for people who aren't on any kind of low-carb diet, and they eat it without complaint.

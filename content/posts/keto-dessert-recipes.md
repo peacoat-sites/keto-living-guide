@@ -1,5 +1,5 @@
 ---
-title: "Keto Dessert Recipes"
+title: "Keto Desserts That Actually Taste Good"
 date: 2026-05-23T04:09:02.514950+00:00
 draft: false
 description: "Discover easy, delicious keto dessert recipes that satisfy your sweet cravings while keeping carbs low. From brownies to cheesecake, find your new favorite trea"
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think keto means no desserts. Ever. That's wrong, and it's exactly why people bail in week two. You can make a chocolate lava cake with 4 grams of net carbs. A cheesecake that won't spike your blood sugar. Fat bombs that taste like actual candy. Keto baking has changed. Once you understand the few ingredient swaps that actually work, dessert's back on the menu.
 

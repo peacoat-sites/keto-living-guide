@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Science Explained"
+title: "How Ketosis Actually Works in Your Body"
 date: 2026-06-23T15:39:59.069182+00:00
 draft: false
 description: "Discover how the keto diet shifts your body into ketosis, burns fat for fuel, and impacts metabolism, hormones, and brain function backed by science."
@@ -23,7 +23,7 @@ faqs:
    a: "No, and this is one of the most persistent myths. Excess protein can be converted to glucose through gluconeogenesis, though the body is actually fairly reluctant to do this at typical protein intakes. The more practical concern is that protein is highly satiating and affects your calorie intake. Somewhere around 1.2-1.8g per kg of body weight is a reasonable range for most active adults."
  - q: "Do I have to stay on keto forever for the benefits to stick?"
    a: "Not necessarily. The metabolic improvements in insulin sensitivity and blood sugar can persist if you transition to a lower-carb whole-foods diet rather than reverting to processed carbohydrates. The weight, predictably, returns if eating patterns return to what caused the weight gain initially. Keto is a useful tool, not a permanent identity you have to adopt."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who start keto have already read approximately seventeen articles about it. They know the 70/25/5 macro split. They've heard about ketosis. And yet, within three weeks, they're eating Cheez-Its at 11pm and wondering what went wrong. I've seen this pattern so many times that I've stopped blaming the person and started blaming the explanation they were given.

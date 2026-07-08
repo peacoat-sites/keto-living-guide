@@ -1,5 +1,5 @@
 ---
-title: "Keto Meal Plan 1200 Calories"
+title: "1200-Calorie Keto Meal Plan: Eat Less, Lose More"
 date: 2026-06-12T15:52:03.178397+00:00
 draft: false
 description: "Discover a simple keto meal plan at 1200 calories to burn fat fast. Get easy low-carb recipes, shopping lists, and tips to kickstart your weight loss today."
@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 1,200 calories is a number that makes most dietitians wince a little. Not because it's always wrong, but because it gets thrown around so casually, applied to so many different bodies, and paired with approaches that make it much harder than it needs to be. Add keto on top of it, and you've got a combination that can either work really well or leave you exhausted, hungry, and frustrated within two weeks.
 

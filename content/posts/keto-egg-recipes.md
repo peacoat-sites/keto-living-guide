@@ -1,5 +1,5 @@
 ---
-title: "Keto Egg Recipes"
+title: "15 Easy Egg Recipes Perfect For Keto Diets"
 date: 2026-06-11T16:41:04.669202+00:00
 draft: false
 description: "Discover delicious keto egg recipes perfect for low-carb living. From fluffy omelets to baked dishes, these easy high-protein meals keep you full and in ketosis"
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Eggs are the most underrated macro on keto. Not because people ignore them, but because most people stop at scrambled eggs and a pat of butter and call it a day, which means they're leaving a genuinely versatile, cheap, and filling food doing about 10% of what it could.
 

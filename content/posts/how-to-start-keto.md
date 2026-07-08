@@ -1,5 +1,5 @@
 ---
-title: "How To Start Keto"
+title: "Your First Week On Keto: The Beginner's Roadmap"
 date: 2026-05-29T06:45:33.801579+00:00
 draft: false
 description: "Learn how to start keto with our beginner-friendly guide. Discover what to eat, foods to avoid, and simple tips to help you succeed on a ketogenic diet."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people quit keto within the first two weeks. Not because it doesn't work, but because they expect it to feel like every other low-calorie diet they've tried, get blindsided by fatigue and headaches around day three, and assume they're doing something wrong. They're not. That misery has a name, and once you understand what's actually happening inside your body during those first days, starting keto stops feeling like a gamble.
 

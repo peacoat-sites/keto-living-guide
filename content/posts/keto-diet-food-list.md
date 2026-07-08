@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Food List"
+title: "The Ultimate Keto Shopping Guide: 100+ Approved Foods"
 date: 2026-05-24T12:34:41.637194+00:00
 draft: false
 description: "Discover the ultimate keto diet food list. Learn which high-fat, low-carb foods to eat and avoid to stay in ketosis and reach your weight loss goals faster."

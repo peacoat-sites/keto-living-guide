@@ -1,5 +1,5 @@
 ---
-title: "Keto Dinner Recipes"
+title: "Easy Keto Dinners Ready in 30 Minutes or Less"
 date: 2026-05-28T04:24:04.244958+00:00
 draft: false
 description: "Discover easy and delicious keto dinner recipes perfect for low-carb living. From hearty meats to creamy sauces, enjoy satisfying meals that keep you in ketosis"
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-08
 ---
 Most people quit keto at dinner. Not breakfast, when eggs are easy. Not lunch, when a salad feels virtuous. It's 6pm, the family wants pasta, you're staring at a block of cheese, and something breaks. I've watched this happen with dozens of clients. The plan doesn't fail because keto is hard. It fails because nobody gave them real dinners that actually taste like dinner.
 

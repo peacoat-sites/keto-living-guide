@@ -1,5 +1,5 @@
 ---
-title: "Keto Alcohol Guide"
+title: "Which Alcoholic Drinks Won't Kick You Out of Ketosis"
 date: 2026-06-13T14:40:42.030465+00:00
 draft: false
 description: "Discover which alcoholic drinks fit your keto lifestyle. Learn low-carb alcohol options, what to avoid, and how drinking affects ketosis in our complete guide."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about [alcohol on keto](/how-to-start-keto/) than any article I'd read.
 

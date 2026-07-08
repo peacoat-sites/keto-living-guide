@@ -1,5 +1,5 @@
 ---
-title: "Keto Lunch Ideas"
+title: "15 Keto Lunches You Can Make in Under 30 Minutes"
 date: 2026-05-28T08:30:08.440417+00:00
 draft: false
 description: "Discover delicious keto lunch ideas that are easy to prepare and packed with protein and healthy fats. Perfect low-carb meals for weight loss and energy."
@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: it's 12:30 pm, you're hungry, your coworkers are ordering pizza, and you're staring into the fridge wondering if string cheese and leftover chicken count as lunch. Technically, yes. But you deserve better than that.
 

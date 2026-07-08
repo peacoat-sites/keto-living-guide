@@ -1,5 +1,5 @@
 ---
-title: "Easy Keto Meals"
+title: "30-Minute Keto Dinners That Actually Taste Good"
 date: 2026-05-24T14:46:59.461844+00:00
 draft: false
 description: "Easy keto meals that fit your busy lifestyle. Discover simple, delicious low-carb recipes, quick dinner ideas, and meal prep tips to stay in ketosis."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're already a little hungry and a little cranky, and you have zero interest in spending 45 minutes in the kitchen. Sound familiar? A lot of people abandon keto right at this exact moment. Not because the diet stopped working, but because they ran out of fast, satisfying ideas. The good news is that keto is actually one of the most meal-prep-friendly dietary approaches out there, and once you get a feel for the core building blocks, you can throw together a genuinely great dinner in 15 to 20 minutes flat.
 

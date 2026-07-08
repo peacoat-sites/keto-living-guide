@@ -1,5 +1,5 @@
 ---
-title: "Urine Ketone Strips Accuracy"
+title: "Do Keto Strips Really Work? The Accuracy Question"
 date: 2026-07-04T14:13:30.802102+00:00
 draft: false
 description: "Learn how accurate urine ketone strips really are, what affects their readings, and when to rely on them for tracking ketosis or managing diabetes."
@@ -23,7 +23,7 @@ faqs:
     a: "Urine strips are not recommended for therapeutic monitoring. Blood BHB testing is the standard because it gives you an actual concentration in mmol/L, which is what clinicians use to assess whether you're in the target therapeutic range. Talk to your care team about the right protocol."
   - q: "Do urine ketone strips expire, and does it matter?"
     a: "Yes, and yes. Expired strips or strips stored in humid conditions (like a bathroom medicine cabinet) give unreliable readings, often falsely low or negative. Check the expiration date and store them in a cool, dry place, ideally in their sealed container."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Urine ketone strips cost about $10 for 50 of them. That's not the problem. The problem is that millions of people are using them as their primary feedback tool on keto, and by the third or fourth week, those strips are quietly lying to them. Not maliciously. Just biochemically.

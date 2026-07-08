@@ -1,5 +1,5 @@
 ---
-title: "Keto Grocery List"
+title: "The Complete Keto Grocery List for Beginners"
 date: 2026-05-25T13:58:54.757297+00:00
 draft: false
 description: "Stock your kitchen for keto success with this complete grocery list covering proteins, healthy fats, low-carb veggies, dairy, and pantry staples to keep you in "
@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're standing in the grocery store, cart half-full, staring at a package of almond flour and trying to remember whether you already have some at home. You've got a mental list that made perfect sense at 7am but is now a fuzzy collection of "I think I need..." and "wasn't there something about electrolytes?" You leave spending more than you planned, get home, and realize you forgot heavy cream. Again.
 

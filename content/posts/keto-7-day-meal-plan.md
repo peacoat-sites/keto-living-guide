@@ -1,5 +1,5 @@
 ---
-title: "Keto 7 Day Meal Plan"
+title: "Your 7-Day Keto Meal Plan: Ready-To-Eat Recipes"
 date: 2026-05-28T09:49:49.166909+00:00
 draft: false
 description: "Discover our complete keto 7 day meal plan with easy recipes, shopping lists, and macros to help you start ketosis and lose weight fast. Get started today!"
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-08
 ---
 Most people quit keto in week one. Not because it doesn't work. They just open the fridge Monday morning with nothing planned, no prep, no clue what to eat that isn't cereal. That moment kills the whole thing. They're back to toast by Tuesday. A real meal plan removes that friction. You know what to eat, you've already bought it, and you're not making desperate decisions at 7am when you're not ready to make them.
 

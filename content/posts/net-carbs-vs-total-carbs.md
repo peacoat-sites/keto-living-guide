@@ -1,5 +1,5 @@
 ---
-title: "Net Carbs Vs Total Carbs"
+title: "Why Net Carbs Matter More Than Total Carbs on Keto"
 date: 2026-05-28T16:43:24.901281+00:00
 draft: false
 description: "Learn the difference between net carbs and total carbs, how to calculate them, and which method best supports your health and low-carb diet goals."
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks into keto, you've been diligent about staying under 20 grams of carbs per day, and then a friend tells you that you've been counting wrong the whole time. Maybe you've been tracking total carbs when you should be tracking net carbs, or vice versa. Suddenly a food that seemed off-limits looks fair game, and a snack you've been eating freely might be the reason you haven't hit ketosis yet. This single distinction causes more confusion among beginners than almost any other keto concept. Let's untangle it.
 

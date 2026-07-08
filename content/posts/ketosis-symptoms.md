@@ -1,5 +1,5 @@
 ---
-title: "Ketosis Symptoms"
+title: "Signs You're In Ketosis And What To Expect"
 date: 2026-05-22T08:42:31.546423+00:00
 draft: false
 description: "Discover the most common ketosis symptoms, from increased energy and mental clarity to bad breath and frequent urination, and learn what they mean for your heal"
@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You started eating keto three days ago, and something feels off. Your head is pounding, your mouth tastes like you've been chewing on pennies, and you're somehow both exhausted and weirdly energized at the same time. Before you Google your symptoms in a panic and convince yourself you have a rare metabolic disorder, take a breath. What you're experiencing is almost certainly your body crossing the threshold into ketosis, and most of it is completely normal. Some of it is even a good sign.
 

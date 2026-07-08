@@ -1,5 +1,5 @@
 ---
-title: "What Is The Keto Flu And How Long Does It Last"
+title: "Keto Flu: Why It Happens and When It Ends"
 date: 2026-06-01T15:34:56.142176+00:00
 draft: false
 description: "Discover what keto flu is, why it happens when starting a ketogenic diet, and how long symptoms typically last, plus tips to reduce discomfort fast."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You cut carbs four days ago. Your head's pounding. Your legs feel like concrete. You're snapping at someone for breathing too loud. You're starting to wonder if keto is brilliant or actively trying to kill you.
 

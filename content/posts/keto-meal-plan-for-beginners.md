@@ -1,5 +1,5 @@
 ---
-title: "Keto Meal Plan For Beginners"
+title: "Your First Week On Keto: A Simple Meal Plan"
 date: 2026-05-25T12:57:19.656061+00:00
 draft: false
 description: "Start your keto journey with our complete beginner meal plan. Learn easy recipes, macro ratios, and daily meal ideas to succeed on the ketogenic diet."
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.
 

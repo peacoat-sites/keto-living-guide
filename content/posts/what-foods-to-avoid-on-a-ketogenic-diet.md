@@ -1,5 +1,5 @@
 ---
-title: "What Foods To Avoid On A Ketogenic Diet"
+title: "Foods That Secretly Sabotage Your Ketogenic Diet"
 date: 2026-05-30T10:55:09.702704+00:00
 draft: false
 description: "Discover which foods to avoid on a ketogenic diet, including grains, sugar, and starchy vegetables, to stay in ketosis and maximize your fat-burning results."
@@ -21,7 +21,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. I've seen this play out dozens of times: a client cuts out bread and pasta, feels great for a week, then stalls completely. We dig into their food log and find a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.
 

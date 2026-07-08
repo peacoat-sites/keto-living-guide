@@ -1,5 +1,5 @@
 ---
-title: "What Is Keto Diet"
+title: "The Keto Diet Explained: How It Works and What to Eat"
 date: 2026-05-24T05:53:12.333989+00:00
 draft: false
 description: "Discover what the keto diet is, how it works, and its key benefits. Learn about foods to eat, avoid, and how this low-carb lifestyle can transform your health."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You ate a perfectly reasonable lunch, maybe a sandwich and some fruit, and two hours later you're face-down in the office snack bowl wondering why you can't stop thinking about food. That crash, that relentless hunger, that 3pm fog: it's not a willpower problem. It's a fuel problem. The ketogenic diet was built around solving exactly this, by switching the fuel your body runs on from sugar to fat. Here's what that actually means, and whether it might work for you.
 

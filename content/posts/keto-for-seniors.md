@@ -1,5 +1,5 @@
 ---
-title: "Keto For Seniors"
+title: "How Seniors Can Start Keto Safely and Successfully"
 date: 2026-07-06T16:03:39.887358+00:00
 draft: false
 description: "Discover how the keto diet can benefit seniors with improved energy, weight loss, and brain health. Learn safe tips to start keto after 60."

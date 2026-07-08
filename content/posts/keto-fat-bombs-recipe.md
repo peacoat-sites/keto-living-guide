@@ -1,5 +1,5 @@
 ---
-title: "Keto Fat Bombs Recipe"
+title: "Easy Keto Fat Bombs Ready in 10 Minutes"
 date: 2026-06-02T12:55:50.928476+00:00
 draft: false
 description: "Discover easy keto fat bombs recipes packed with healthy fats to keep you full, boost energy, and stay in ketosis. Perfect for low-carb snacking on the go!"
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most fat bomb recipes floating around keto blogs are essentially candy with a press release. Heavy cream, peanut butter, chocolate chips, a drizzle of something photogenic, and a macro count that's been optimistically rounded. If you've made a batch and found them either too sweet to feel like real food or not satisfying enough to justify the calories, you're not imagining things. The recipe wasn't designed around your hunger signals. It was designed around clicks.
 

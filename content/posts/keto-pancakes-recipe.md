@@ -1,5 +1,5 @@
 ---
-title: "Keto Pancakes Recipe"
+title: "Fluffy Keto Pancakes: The Easy Low-Carb Breakfast"
 date: 2026-07-03T14:54:32.627574+00:00
 draft: false
 description: "Learn how to make delicious keto pancakes with simple ingredients. Our easy recipe delivers fluffy, low-carb pancakes perfect for a ketogenic breakfast."
@@ -23,7 +23,7 @@ faqs:
     a: "Four eggs, two tablespoons of almond flour, one tablespoon of coconut oil (which has zero carbs), and a tiny bit of vanilla and sweetener comes to about 3.5 to 4 grams of net carbs per pancake, depending on which sweetener. The almond flour contributes most of them, and eggs are nearly zero. This assumes you're not loading them with a cup of syrup, which would blow that up."
   - q: "Do I need special keto pancake mix?"
     a: "No. Save your money. A box of keto pancake mix costs $8 to $12 and makes four to six batches. This recipe costs about two bucks in ingredients per batch and tastes better because you control it. The specialty stuff exists because marketing, not because you need it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first batch of keto pancakes I made was a disaster. Dense, eggy, tasted like I was eating a slightly sweet rubber mat. My wife took one bite, looked at me, and said nothing. That silence was worse than any criticism.

@@ -1,5 +1,5 @@
 ---
-title: "Keto Brain Fog"
+title: "Why Your Keto Diet Makes You Foggy (And How to Fix It)"
 date: 2026-06-07T14:31:52.489413+00:00
 draft: false
 description: "Struggling with keto brain fog? Discover why it happens, how long it lasts, and proven tips to clear mental cloudiness fast on your ketogenic diet journey."

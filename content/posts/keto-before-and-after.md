@@ -1,5 +1,5 @@
 ---
-title: "Keto Before And After"
+title: "Real Bodies, Real Results: Keto Diet Transformations"
 date: 2026-06-14T14:58:53.142696+00:00
 draft: false
 description: "Discover inspiring keto before and after transformations. Real weight loss stories, tips, and results to motivate your ketogenic diet journey starting today."

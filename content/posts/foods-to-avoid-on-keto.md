@@ -1,5 +1,5 @@
 ---
-title: "Foods To Avoid On Keto"
+title: "The Hidden Carbs Sabotaging Your Keto Diet"
 date: 2026-05-23T12:08:19.495491+00:00
 draft: false
 description: "Discover which foods to avoid on keto to stay in ketosis. Cut out sugar, grains, fruit, and starchy carbs to maximize fat burning and reach your health goals."
@@ -21,7 +21,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You followed the meal plan perfectly. Skipped the bread, passed on dessert, even turned down your coworker's birthday cake. But the scale hasn't budged in two weeks. So what's going wrong?
 

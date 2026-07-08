@@ -1,5 +1,5 @@
 ---
-title: "Keto Bodybuilding Meal Plan"
+title: "Build Muscle on Keto: The Complete Meal Plan"
 date: 2026-06-25T15:29:28.974168+00:00
 draft: false
 description: "Build muscle on keto with this complete bodybuilding meal plan. High fat, moderate protein meals designed to fuel workouts and maximize lean gains."
@@ -23,7 +23,7 @@ faqs:
    a: "Not in the way most people fear. Gluconeogenesis is regulated by demand, not just protein supply. Hitting 1 gram per pound of bodyweight won't prevent ketosis in an adapted individual. If you're constantly testing your ketones and they're low, look at total calories and hidden carbs before blaming protein."
  - q: "What's the biggest mistake people make on a keto bodybuilding plan?"
    a: "Underrating protein and overrating fat. Keto's identity as a 'high-fat diet' leads a lot of people to keep piling in butter and oil while protein sits at 100g a day or less. Fat is a fuel source here, not a building block. Muscle is built from protein. Get the protein right first, then fill remaining calories with fat."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. I've worked with clients who were genuinely lean and genuinely frustrated that they couldn't seem to add muscle no matter how dialed-in their training was, and nine times out of ten the problem was their food, specifically not enough protein and way too little attention to nutrient timing.

@@ -1,5 +1,5 @@
 ---
-title: "Keto For Type 2 Diabetes"
+title: "Reversing Type 2 Diabetes With Ketogenic Diet"
 date: 2026-05-29T01:49:29.282967+00:00
 draft: false
 description: "Discover how the keto diet may help manage type 2 diabetes by lowering blood sugar, improving insulin sensitivity, and supporting weight loss. Learn the benefit"
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your doctor calls with your A1C: 8.4 down to 5.9 in six months. Metformin cut in half. That was David, 54, one of my clients who ditched calorie restriction and started eating keto after years of spinning his wheels with blood sugar control. No magic involved. Just metabolic reality.
 

@@ -1,5 +1,5 @@
 ---
-title: "Keto Chicken Recipes"
+title: "Easy Keto Chicken Recipes for Every Weeknight"
 date: 2026-05-29T18:06:15.861492+00:00
 draft: false
 description: "Discover delicious keto chicken recipes perfect for low-carb diets. Easy, healthy meals with simple ingredients that help you stay in ketosis while enjoying fla"
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Chicken is the most purchased protein in the United States, with Americans eating roughly 100 pounds of it per year per person. Yet somehow, it's also the protein that people on keto complain about the most. "It's boring." "I always dry it out." "I've had grilled chicken four nights in a row and I want to quit everything." Sound familiar? Here's the thing: chicken and keto are genuinely a perfect match. The problem isn't the protein. It's the approach.
 

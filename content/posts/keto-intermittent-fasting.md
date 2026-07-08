@@ -1,5 +1,5 @@
 ---
-title: "Keto Intermittent Fasting"
+title: "Fasting And Keto: The Complete Beginner's Guide"
 date: 2026-05-24T08:36:36.540976+00:00
 draft: false
 description: "Discover how combining keto and intermittent fasting can accelerate fat loss, boost energy, and improve metabolic health. Learn the best strategies to get start"
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been eating keto for three weeks. The scale moved at first, then stalled. You're doing everything "right," but somewhere around 2pm you're eating your fourth handful of macadamia nuts because you're not sure if you're actually hungry or just bored or just doing the thing where you graze because the food is keto-approved and therefore fine. Sound familiar? That's the moment a lot of people start hearing about combining keto with intermittent fasting, usually from someone who swears it changed everything. The thing is, sometimes it actually does. But not for the reasons most people think, and not in the way most people try it.
 

@@ -1,5 +1,5 @@
 ---
-title: "How Much Protein Should I Eat On Keto"
+title: "The Protein Math: Getting Your Keto Macros Right"
 date: 2026-06-01T20:33:06.277074+00:00
 draft: false
 description: "Discover how much protein you should eat on keto to stay in ketosis, preserve muscle, and reach your goals. Get expert guidelines and easy daily intake tips."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most keto content tells you to keep protein "moderate" and stops there. That single vague word has probably cost more people their results than any other piece of dietary advice online. Some eat too little and lose muscle while the scale barely budges. Others eat more, panic about gluconeogenesis turning their steak into glucose, and cut back for no reason. The research on protein and ketosis is messier than either camp admits, and getting this number right is probably the most underrated lever in a keto diet.
 

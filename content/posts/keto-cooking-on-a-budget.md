@@ -1,5 +1,5 @@
 ---
-title: "Keto Cooking On A Budget"
+title: "Budget-Friendly Keto Meals That Don't Taste Cheap"
 date: 2026-06-21T14:58:55.758750+00:00
 draft: false
 description: "Eat keto without breaking the bank. Discover budget-friendly low-carb meals, smart shopping tips, and simple recipes to stay in ketosis for less."
@@ -12,7 +12,7 @@ author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 slug: "keto-cooking-on-a-budget"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people come to me after they've already blown their grocery budget once or twice trying to eat keto. They've bought the almond flour, the grass-fed everything, the fancy MCT oil, the $12 avocado oil mayo. Then they look at the receipt and quietly wonder if this diet is actually designed for people who make more money than they do.
 

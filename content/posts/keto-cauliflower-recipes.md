@@ -1,5 +1,5 @@
 ---
-title: "Keto Cauliflower Recipes"
+title: "Cauliflower Transforms Keto Cooking: 15 Creative Recipes"
 date: 2026-07-05T14:22:10.652132+00:00
 draft: false
 description: "Discover delicious keto cauliflower recipes that are low carb and satisfying. From cauliflower rice to pizza crusts, enjoy healthy meals without the guilt."

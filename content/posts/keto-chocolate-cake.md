@@ -1,5 +1,5 @@
 ---
-title: "Keto Chocolate Cake"
+title: "Decadent Keto Chocolate Cake That Actually Tastes Good"
 date: 2026-06-13T14:42:54.255596+00:00
 draft: false
 description: "Indulge in a rich, moist keto chocolate cake that satisfies your sweet cravings without the carbs. Easy low-carb recipe perfect for any occasion!"

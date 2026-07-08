@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Vegan"
+title: "Plant-Based Keto: Complete Guide to Vegan Fat Loss"
 date: 2026-06-05T12:22:54.912165+00:00
 draft: false
 description: "Discover how to combine keto and vegan diets successfully. Learn top plant-based fat sources, low-carb foods, and easy meal ideas to fuel your healthy lifestyle"
@@ -12,7 +12,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people quit vegan keto within two weeks. Not because it doesn't work, but because they've built their entire meal plan around tofu, hemp seeds, and coconut milk, gotten bored stupid, and decided they'd rather eat normally again. The diet itself is fine. The execution? Usually a disaster.
 

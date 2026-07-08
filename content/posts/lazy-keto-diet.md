@@ -1,5 +1,5 @@
 ---
-title: "Lazy Keto Diet"
+title: "Lazy Keto: Skip The Tracking, Keep The Results"
 date: 2026-05-21T13:30:23.363847+00:00
 draft: false
 description: "Discover how the lazy keto diet works, what you can eat, and how it differs from strict keto. A simple guide to effortless low-carb eating for beginners."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been tracking every gram of food for three weeks. Carbs, fat, protein, fiber, net carbs, calories. Your phone is full of barcode scans and your lunch break disappears into MyFitnessPal. You're doing everything right, and you're exhausted by it. If that sounds familiar, lazy keto exists for a reason, and it works better than most strict-keto advocates want to admit.
 

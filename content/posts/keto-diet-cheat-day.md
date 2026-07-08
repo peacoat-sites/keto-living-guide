@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Cheat Day"
+title: "How To Handle A Keto Cheat Day Without Derailing Progress"
 date: 2026-06-06T14:18:55.702373+00:00
 draft: false
 description: "Wondering if a keto diet cheat day will ruin your progress? Learn what really happens to your body, how to recover fast, and tips to stay on track."
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been strict for three weeks. Maybe four. The scale's been moving, your pants fit different, and then Saturday arrives with a birthday dinner, cake, and that voice in your head: *one day won't kill me.*
 

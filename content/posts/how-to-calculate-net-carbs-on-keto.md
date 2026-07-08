@@ -1,5 +1,5 @@
 ---
-title: "How To Calculate Net Carbs On Keto"
+title: "The Keto Carb Math: Calculate Net Carbs Like A Pro"
 date: 2026-06-01T20:30:46.678070+00:00
 draft: false
 description: "Learn how to calculate net carbs on keto by subtracting fiber and sugar alcohols from total carbs. Stay in ketosis with our simple step-by-step guide."
@@ -21,7 +21,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That figure, "total carbs", almost always overstates what your body actually processes. I've seen clients stall for weeks, convinced they were doing everything right, only to discover they were eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.
 

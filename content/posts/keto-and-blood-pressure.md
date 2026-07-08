@@ -1,5 +1,5 @@
 ---
-title: "Keto And Blood Pressure"
+title: "Lower Blood Pressure on Keto: What Science Shows"
 date: 2026-07-02T14:44:40.254676+00:00
 draft: false
 description: "Discover how a ketogenic diet may help lower blood pressure naturally. Learn the science, benefits, and tips for managing hypertension on keto."
@@ -23,7 +23,7 @@ faqs:
    a: "Sometimes, under medical supervision. I've seen clients go from two medications to none after sustained keto plus weight loss. But this requires physician oversight and proper monitoring. Don't taper medication on your own."
  - q: "How much salt should I eat on keto if I have high blood pressure?"
    a: "This is where standard advice gets it wrong. 'Low salt' is the default hypertension recommendation, but keto increases sodium excretion. Most people doing keto need more sodium than they think, even with high blood pressure. Aim for 2-3g of sodium daily and adjust based on symptoms and blood pressure readings, ideally with guidance from a clinician who understands low-carb physiology."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most coverage of keto and blood pressure picks one of two stories: "keto lowers blood pressure, full stop" or "all that saturated fat will kill you." Both are lazy. The actual picture is more specific, more interesting, and more useful.

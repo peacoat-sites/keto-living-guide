@@ -1,5 +1,5 @@
 ---
-title: "Keto Macros Calculator"
+title: "Calculate Your Perfect Keto Macros in Minutes"
 date: 2026-05-23T12:26:17.838654+00:00
 draft: false
 description: "Calculate your perfect keto macros with our free calculator. Get personalized fat, protein, and carb targets based on your goals, weight, and activity level."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been eating keto for three weeks, you feel pretty good, but the scale hasn't budged. You tweak your carbs, you cut out that nightly handful of nuts, and still nothing. Sound familiar? Nine times out of ten, when I dig into what a stalled client is actually eating, the problem isn't willpower or hidden carbs. It's macros that were never dialed in correctly to begin with. A keto macros calculator is the starting point most people skip, or rush through in two minutes without understanding what the numbers actually mean. Let's fix that.
 

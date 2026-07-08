@@ -1,5 +1,5 @@
 ---
-title: "Keto Coffee Drinks"
+title: "Best Keto Coffee Drinks To Keep You In Ketosis"
 date: 2026-06-14T14:56:59.038013+00:00
 draft: false
 description: "Discover the best keto coffee drinks to boost energy and support fat burning. From bulletproof to iced lattes, find delicious low-carb recipes you'll love."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most keto coffee content is a butter-in-a-blender fantasy that ignores what people actually want: something that tastes good, fits a real morning, and doesn't require a culinary degree or a $500 blender. Let's fix that.
 

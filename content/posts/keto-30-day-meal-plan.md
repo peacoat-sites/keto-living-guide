@@ -1,5 +1,5 @@
 ---
-title: "Keto 30 Day Meal Plan"
+title: "Your 30-Day Keto Meal Plan: Simple Recipes to Start"
 date: 2026-05-23T22:00:22.082371+00:00
 draft: false
 description: "Discover our complete keto 30 day meal plan with easy recipes, shopping lists, and expert tips to help you burn fat, lose weight, and stay on track effortlessly"
@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who try a 30-day keto meal plan spend the first week white-knuckling through hunger, the second week googling "keto plateau already?", and somewhere around day 18, they're eating plain chicken thighs over the sink because they ran out of ideas. The plan they downloaded looked great as a PDF. It just didn't survive contact with a real week.
 

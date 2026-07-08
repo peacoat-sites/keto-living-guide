@@ -1,5 +1,5 @@
 ---
-title: "Keto Vs Low Carb Diet Explained"
+title: "Why Keto and Low Carb Diets Aren't the Same Thing"
 date: 2026-06-01T15:37:24.178437+00:00
 draft: false
 description: "Discover the key differences between keto and low carb diets, how each affects your body, and which approach may work best for your health and weight loss goals"

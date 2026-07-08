@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Constipation"
+title: "Why Keto Causes Constipation And How To Fix It"
 date: 2026-06-06T14:20:51.842458+00:00
 draft: false
 description: "Struggling with keto diet constipation? Discover the common causes, simple dietary fixes, and expert tips to relieve constipation and stay on track with keto."
@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Nobody warns you about this part.
 

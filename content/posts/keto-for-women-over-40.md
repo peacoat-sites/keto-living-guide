@@ -1,5 +1,5 @@
 ---
-title: "Keto For Women Over 40"
+title: "Metabolism Over 40: Why Keto Works Differently For Women"
 date: 2026-05-29T14:30:55.256264+00:00
 draft: false
 description: "Discover how the keto diet can help women over 40 balance hormones, boost metabolism, lose weight, and feel their best through menopause and beyond."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're eating fewer than 1,400 calories a day, bread and pasta disappeared months ago, and the scale hasn't moved in six weeks. That sound about right? For plenty of women in their 40s and 50s, this is just life now. The stuff that worked at 28 doesn't work anymore. And no, it's not a willpower thing. Your body changed.
 

@@ -1,5 +1,5 @@
 ---
-title: "50 Grams Carbs Keto"
+title: "Staying In Ketosis With 50 Grams Of Carbs Daily"
 date: 2026-07-07T15:31:33.576112+00:00
 draft: false
 description: "Discover how 50 grams of carbs fits into a keto lifestyle. Learn which foods to eat, what to avoid, and how to stay in ketosis effectively."
@@ -23,7 +23,7 @@ faqs:
     a: "You can include fruit, but I'd suggest making it a smaller portion of your budget rather than the centerpiece. Berries are your best bet. A medium banana, for context, is about 24g net carbs, which is half your day in one snack with relatively little fiber per calorie compared to berries or vegetables."
   - q: "How long does it take to know if 50 grams is working for me?"
     a: "Give it at least three to four weeks of consistent eating before drawing conclusions. The first week is often messy as your body adjusts. If you're losing weight steadily, your energy is stable, and you don't feel constant hunger, it's working. If you're stalling after a month and a half of compliance, consider dropping to 35-40g and see if that changes things."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most of my clients come in having already tried keto once. They lasted two weeks, felt awful, and quit. And when I dig into what happened, a surprising number of them say something like: "I was trying to stay under 20 grams of carbs and I just couldn't do it. It felt insane."

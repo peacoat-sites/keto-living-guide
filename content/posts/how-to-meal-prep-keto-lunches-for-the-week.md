@@ -1,5 +1,5 @@
 ---
-title: "How To Meal Prep Keto Lunches For The Week"
+title: "Simple Keto Lunch Prep: 5 Days Of Meals In 2 Hours"
 date: 2026-05-31T11:08:41.608410+00:00
 draft: false
 description: "Plan a full week of keto lunches with ease. Discover simple meal prep tips, low-carb recipe ideas, and time-saving strategies to stay on track effortlessly."
@@ -21,7 +21,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You packed a sad desk salad on Monday, powered through it, and by Wednesday you were dropping $14 on a burrito bowl and telling yourself you'd "get back on track next week." I've seen this exact pattern with dozens of clients. It's not a willpower problem. It's a logistics problem, and it's completely fixable with about two hours on a Sunday.
 

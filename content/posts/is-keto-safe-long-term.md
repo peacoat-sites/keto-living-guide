@@ -1,5 +1,5 @@
 ---
-title: "Is Keto Safe Long Term"
+title: "The Long-Term Safety of Ketogenic Diets Explained"
 date: 2026-06-02T15:48:22.233927+00:00
 draft: false
 description: "Wondering if keto is safe long term? Discover what research says about the risks, benefits, and expert recommendations for following a ketogenic diet over time."
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me this have already been doing keto for three to six months. They've lost weight, they feel sharper, maybe their doctor mentioned their fasting glucose looked better. And now they're quietly worried they're doing something they'll regret in ten years.
 

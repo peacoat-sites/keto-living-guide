@@ -1,5 +1,5 @@
 ---
-title: "Exogenous Ketones"
+title: "Do Exogenous Ketones Actually Work For Keto?"
 date: 2026-06-19T15:51:03.817755+00:00
 draft: false
 description: "Exogenous ketones boost blood ketone levels without fasting. Learn how they work, their benefits, side effects, and whether they suit your goals."
@@ -23,7 +23,7 @@ faqs:
    a: "BHB salts have a distinctly salty, slightly chemical flavor that most brands try to mask with sweeteners and flavoring, with mixed results. Ketone esters taste far worse, often described as jet fuel or nail polish remover, and that's not an exaggeration. Some people get used to BHB salts; almost nobody fully enjoys esters. Mixing them into a smoothie or sparkling water with a strong flavor helps."
  - q: "Should I use a blood ketone meter alongside exogenous ketones?"
    a: "If you're experimenting seriously, yes. A blood ketone meter lets you see your actual response to a given dose rather than guessing. The Keto-Mojo GK+ is a solid choice and significantly cheaper per test than many alternatives. Just know that the number you're reading after taking exogenous ketones reflects the supplement, not your fat adaptation level."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people find [exogenous ketones](/keto-supplements-list/) after a rough week. They've been strict about carbs, they're waiting for the fog to lift, and someone in a Facebook group swears that a $60 tub of BHB salts fixed everything. You might be wondering if it's actually that simple, or if you're about to spend money on something that sounds too good to be true.

@@ -1,5 +1,5 @@
 ---
-title: "Keto Salmon Recipe"
+title: "Crispy Keto Salmon: Restaurant-Quality in 20 Minutes"
 date: 2026-06-04T12:23:17.662673+00:00
 draft: false
 description: "Discover a delicious keto salmon recipe packed with healthy fats and bold flavors. Easy to make, low carb, and perfect for a satisfying weeknight dinner."
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Salmon might be the single most forgiving fish you can cook on keto, and somehow people still manage to ruin it. I've watched clients spend $18 on a beautiful wild-caught fillet and turn it into a gray, chalky disappointment by overcooking it two minutes past done. So before we get to any actual recipe, I want to talk about the one thing that separates good keto salmon from great keto salmon: fat timing.
 

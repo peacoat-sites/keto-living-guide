@@ -1,5 +1,5 @@
 ---
-title: "Keto Nuts And Seeds"
+title: "The Best Keto Nuts And Seeds For Weight Loss"
 date: 2026-06-26T15:16:20.071238+00:00
 draft: false
 description: "Discover the best keto nuts and seeds to snack on, boost healthy fats, and stay in ketosis. Low carb, nutrient-dense options for your keto diet."
@@ -23,7 +23,7 @@ faqs:
    a: "Reasonable, not exceptional. Around 4 grams net carbs per ounce, which means a couple handfuls will add up faster than you'd expect. They're a solid option in moderation, especially as a salad topping or mixed into trail mix where you're not eating them as the primary snack."
  - q: "Why do some nuts cause digestive issues on keto?"
    a: "Nuts are high in fiber, fat, and for some people, compounds like phytic acid and tannins that can irritate the gut. Almonds are a common offender. If you're experiencing GI issues after eating nuts, try switching varieties, reducing quantity, or choosing roasted over raw (roasting breaks down some of the harder-to-digest compounds)."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about keto nuts hand you an alphabetical list with carb counts and call it done. That's fine as far as it goes, but it skips the stuff that actually matters: which nuts are worth eating regularly versus which ones you should treat like a condiment, why the package serving size is almost always a trap, and how easy it is to eat 40 grams of carbs thinking you're being careful.

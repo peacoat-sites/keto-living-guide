@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet For Runners"
+title: "How Runners Fuel Performance On Keto"
 date: 2026-06-08T16:40:37.785777+00:00
 draft: false
 description: "Discover how the keto diet can fuel your running performance, boost fat burning, and enhance endurance. Learn tips, benefits, and potential risks for runners."
@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most runners quit keto within three weeks. Not because keto failed them, but because nobody tells them what the first month actually feels like when you're running on fumes.
 

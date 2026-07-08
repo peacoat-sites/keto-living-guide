@@ -1,5 +1,5 @@
 ---
-title: "Keto Fruit List"
+title: "Fruits You Can Actually Eat on Keto"
 date: 2026-05-26T04:59:13.887947+00:00
 draft: false
 description: "Discover the best low-carb fruits for your keto diet. Our keto fruit list helps you enjoy sweet flavors while staying in ketosis and reaching your health goals."
@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You pick up a peach at the farmers market, and for a second you think: *it's fruit, it's natural, it can't be that bad.* Then you get home, look it up, and find out one medium peach has 13 grams of net carbs. On a strict keto diet, that's most of your daily carb budget in a single piece of fruit. Natural doesn't mean low-carb, and this is where a lot of people quietly blow their macros without realizing it.
 

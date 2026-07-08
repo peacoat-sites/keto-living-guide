@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Vegetarian"
+title: "Plant-Based Keto: The Complete Vegetarian Guide"
 date: 2026-06-02T15:50:38.963965+00:00
 draft: false
 description: "Discover how to combine the keto diet with a vegetarian lifestyle. Explore delicious low-carb plant-based meals, tips, and food lists to start your journey toda"
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume vegetarian keto is some fringe experiment cooked up by people who couldn't commit fully to either diet. I've heard that dismissal plenty of times. But I've also watched clients follow it consistently for months, improve their bloodwork, lose weight they'd been trying to lose for years, and feel genuinely good doing it. So let me tell you what actually makes it hard, what makes it work, and where most of the advice out there misses the point.
 

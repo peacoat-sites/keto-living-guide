@@ -1,5 +1,5 @@
 ---
-title: "Keto Cheesecake Recipe"
+title: "Creamy Keto Cheesecake Without The Carbs"
 date: 2026-06-29T16:29:01.376865+00:00
 draft: false
 description: "Make the perfect keto cheesecake with this easy low-carb recipe. Creamy, rich, and sugar-free with an almond flour crust. Only 4g net carbs per slice!"
@@ -23,7 +23,7 @@ faqs:
    a: "Allulose wins on texture, especially once the cheesecake is chilled. Erythritol can recrystallize in cold, high-fat environments, which creates a faint grittiness some people notice and some don't. If you already have a powdered erythritol blend at home, use it, it's fine. If you're buying specifically for this, get allulose."
  - q: "How many carbs are in a slice of keto cheesecake?"
    a: "Using this recipe with allulose and the almond-pecan crust, expect roughly 4-5 grams of net carbs per slice (1/12 of a 9-inch cake). This can vary by brand, so track your specific ingredients if precision matters to you."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My clients always assume cheesecake is off the table. They come in having done weeks of keto perfectly, and then someone brings a cheesecake to a birthday party and they either white-knuckle through it or eat a slice and feel like they've blown everything. I've had this exact conversation probably two hundred times.

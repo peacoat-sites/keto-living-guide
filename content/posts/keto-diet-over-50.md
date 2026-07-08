@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Over 50"
+title: "Keto After 50: How To Start And Succeed"
 date: 2026-06-04T12:21:09.533397+00:00
 draft: false
 description: "Discover how the keto diet can transform your health after 50. Learn key tips, benefits, and potential risks to help you lose weight and boost energy safely."
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.
 

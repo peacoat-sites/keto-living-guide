@@ -1,5 +1,5 @@
 ---
-title: "Keto Mental Clarity"
+title: "How Ketosis Sharpens Your Brain and Mental Focus"
 date: 2026-06-08T16:38:38.743251+00:00
 draft: false
 description: "Discover how the keto diet can boost mental clarity, sharpen focus, and enhance brain function by fueling your mind with ketones instead of glucose."
@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A lot of people come to keto for weight loss. But they stay for the brain.
 

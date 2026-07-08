@@ -1,5 +1,5 @@
 ---
-title: "Keto Vegetables List"
+title: "The Complete Keto Vegetables Guide: What To Eat"
 date: 2026-05-22T08:53:31.671993+00:00
 draft: false
 description: "Discover the best keto vegetables to eat on a low carb diet. Our complete list helps you stay in ketosis while enjoying nutritious, delicious veggies every day."
@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just committed to keto, you're standing in the produce section of the grocery store, and suddenly every vegetable you've ever eaten feels like a potential trap. Is that zucchini fine? What about carrots? And corn counts as a vegetable, right? This moment of produce-aisle paralysis is something I've heard from almost every client who starts a ketogenic diet. Most vegetables are not the enemy. The tricky part is knowing which ones are working with your goals and which ones are quietly blowing your carb budget before dinner even hits the table.
 

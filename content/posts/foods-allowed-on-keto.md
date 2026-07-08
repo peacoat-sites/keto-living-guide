@@ -1,5 +1,5 @@
 ---
-title: "Foods Allowed On Keto"
+title: "Your Complete Keto Food List: What You Can Actually Eat"
 date: 2026-05-23T18:30:00.129580+00:00
 draft: false
 description: "Discover which foods are allowed on keto. From healthy fats and proteins to low-carb veggies, learn what to eat to stay in ketosis and reach your goals."
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think cutting carbs means chicken breast and iceberg lettuce until they're miserable. Then they find out avocado exists, bacon is allowed, and heavy cream goes in coffee. Suddenly the whole thing looks edible. A well-stocked keto kitchen is actually surprisingly abundant. The problem is nobody tells you where the lines are drawn, so you either stall out or quit after eating one banana and deciding the diet's impossible. Let's fix that with a real breakdown of what you can eat, why it works, and how to actually cook it.
 

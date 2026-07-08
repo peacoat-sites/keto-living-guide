@@ -1,5 +1,5 @@
 ---
-title: "Keto Diet Side Effects"
+title: "What Actually Happens To Your Body On Keto"
 date: 2026-05-27T18:57:10.683717+00:00
 draft: false
 description: "Discover the most common keto diet side effects, from keto flu to nutrient deficiencies, and learn how to manage them safely for a healthier low-carb journey."
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You started keto on Monday. By Wednesday you feel like you got hit by a bus. Your head's pounding, your legs are heavy, and you're so foggy you had to read the same email three times. You're ready to quit.
 

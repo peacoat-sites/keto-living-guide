@@ -1,5 +1,5 @@
 ---
-title: "Keto At Chipotle"
+title: "Order Keto at Chipotle Without Blowing Your Macros"
 date: 2026-06-18T16:02:54.418852+00:00
 draft: false
 description: "Eating keto at Chipotle is easy with the right order. Discover the best low-carb bowls, proteins, and toppings to stay in ketosis without sacrificing flavor."
@@ -23,7 +23,7 @@ faqs:
    a: "It can be, depending on what's in it. The 'lifestyle bowls' they market include a 'keto' option that's essentially a salad bowl with their standard keto-friendly toppings. Check the specific build on the app before ordering because the exact configuration has changed at various points, and you want to verify what goes into it at your location."
  - q: "Can I have the fajita vegetables?"
    a: "Yes. Fajita veggies (peppers and onions, cooked in a small amount of oil) run about 5 grams of net carbs. They add bulk, flavor, and actual fiber. Include them."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume fast-casual Mexican food is basically off-limits on keto. I used to think the same thing. Then I started actually mapping out what Chipotle puts in each component, and what surprised me was just how keto-adaptable the menu is once you stop thinking about it as a burrito restaurant and start treating it as a protein-and-fat assembly station.
 

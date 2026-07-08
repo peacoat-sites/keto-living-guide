@@ -1,5 +1,5 @@
 ---
-title: "Keto Carbs Per Day Limit"
+title: "How Many Carbs Can You Eat on Keto Daily?"
 date: 2026-05-22T05:59:50.136971+00:00
 draft: false
 description: "Discover the ideal keto carbs per day limit to stay in ketosis. Learn how many grams of carbs you need to cut to burn fat and boost your results fast."
@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're four days into keto. You've ditched the bread and pasta, you're drowning yourself in water, and somehow you feel worse than before. The scale hasn't moved. You search "how many carbs per day on keto" and get three completely different answers: 20 grams, 50 grams, net carbs only. You close the tabs and eat a handful of almonds, suddenly paranoid that was a mistake.
 

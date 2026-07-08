@@ -1,5 +1,5 @@
 ---
-title: "Electrolytes On Keto"
+title: "Why Your Keto Diet Needs Strategic Electrolyte Planning"
 date: 2026-05-28T22:23:13.894029+00:00
 draft: false
 description: "Discover why electrolytes on keto matter, which minerals you need most, and how to prevent fatigue, cramps, and keto flu with simple daily strategies."
@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three days into keto, feeling pretty smug about ditching bread and pasta, and then something hits you: a throbbing headache that won't quit, shaky legs, and fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on "keto flu." Most articles tell you to just push through it. Here's what they leave out: what you're experiencing isn't actually a carb-withdrawal crisis. It's an electrolyte emergency, and you could've prevented almost all of it.
 

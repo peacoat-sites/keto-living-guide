@@ -1,5 +1,5 @@
 ---
-title: "Targeted Keto Diet"
+title: "Strategic Keto Eating: Maximize Results With Targeted Nutrition"
 date: 2026-05-25T11:17:36.088702+00:00
 draft: false
 description: "Discover how a targeted keto diet can boost your performance and energy. Learn when to eat carbs strategically while staying in ketosis and burning fat effectiv"
@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.
 

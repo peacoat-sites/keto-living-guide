@@ -1,5 +1,5 @@
 ---
-title: "Keto Meal Prep Ideas"
+title: "7 Keto Meals You Can Prep in One Hour"
 date: 2026-05-26T18:17:08.010689+00:00
 draft: false
 description: "Discover easy keto meal prep ideas to save time and stay on track. Simple recipes, shopping lists, and storage tips for successful ketogenic dieting."
@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: it's 7 p.m. on a Wednesday, you're exhausted, and you open the fridge to find absolutely nothing keto-friendly ready to eat. You're staring down a block of cheese and some lunch meat, desperately improvising. Twenty minutes later you've caved and ordered pizza. Sound familiar? This is the scenario that derails more keto dieters than any craving ever could. The fix isn't willpower. It's preparation.
 
