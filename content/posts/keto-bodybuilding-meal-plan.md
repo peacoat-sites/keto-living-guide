@@ -3,7 +3,7 @@ title: "Keto Bodybuilding Meal Plan"
 date: 2026-06-25T15:29:28.974168+00:00
 draft: false
 description: "Build muscle on keto with this complete bodybuilding meal plan. High fat, moderate protein meals designed to fuel workouts and maximize lean gains."
-image: "https://images.pexels.com/photos/29145201/pexels-photo-29145201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29145201.jpg"
 categories: ["health"]
 tags: ["keto", "bodybuilding", "meal", "plan"]
 author: "Diana Walsh"

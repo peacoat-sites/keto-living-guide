@@ -3,7 +3,7 @@ title: "Electrolytes On Keto"
 date: 2026-05-28T22:23:13.894029+00:00
 draft: false
 description: "Discover why electrolytes on keto matter, which minerals you need most, and how to prevent fatigue, cramps, and keto flu with simple daily strategies."
-image: "https://images.pexels.com/photos/4720515/pexels-photo-4720515.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4720515.jpg"
 categories: ["basics"]
 tags: ["electrolytes", "keto"]
 slug: "electrolytes-on-keto"

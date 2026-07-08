@@ -3,7 +3,7 @@ title: "Keto for Treatment-Resistant Depression: What the New Science Says"
 date: 2026-07-02T14:42:57.057177+00:00
 draft: false
 description: "Discover how the ketogenic diet may help treatment-resistant depression. Explore the latest science on keto's impact on brain health, mood, and mental wellness."
-image: "https://images.pexels.com/photos/106877/pexels-photo-106877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/106877.jpg"
 categories: ["trending"]
 tags: ["keto", "treatment-resistant", "depression:", "what", "science"]
 author: "Mark Chen"

@@ -3,7 +3,7 @@ title: "Keto Leafy Greens"
 date: 2026-06-28T14:25:36.760028+00:00
 draft: false
 description: "Discover the best keto leafy greens to boost nutrition, stay in ketosis, and add flavor to your low-carb meals. Learn which greens fit your macros."
-image: "https://images.pexels.com/photos/7456546/pexels-photo-7456546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7456546.jpg"
 categories: ["basics"]
 tags: ["keto", "leafy", "greens"]
 author: "Ryan Park"

@@ -3,7 +3,7 @@ title: "Keto Plus Semaglutide: What New Research Actually Shows"
 date: 2026-07-06T16:05:47.688611+00:00
 draft: false
 description: "Discover what the latest research reveals about combining keto diet with semaglutide for weight loss, including benefits, risks, and expert insights to guide yo"
-image: "https://images.pexels.com/photos/8669957/pexels-photo-8669957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8669957.jpg"
 categories: ["trending"]
 tags: ["keto", "plus", "semaglutide:", "what", "research"]
 author: "Emma Lawson"

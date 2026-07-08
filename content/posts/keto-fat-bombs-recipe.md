@@ -3,7 +3,7 @@ title: "Keto Fat Bombs Recipe"
 date: 2026-06-02T12:55:50.928476+00:00
 draft: false
 description: "Discover easy keto fat bombs recipes packed with healthy fats to keep you full, boost energy, and stay in ketosis. Perfect for low-carb snacking on the go!"
-image: "https://images.pexels.com/photos/5846193/pexels-photo-5846193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5846193.jpg"
 categories: ["recipes"]
 tags: ["keto", "bombs", "recipe"]
 slug: "keto-fat-bombs-recipe"

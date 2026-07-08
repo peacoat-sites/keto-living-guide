@@ -3,7 +3,7 @@ title: "Keto Fast Food Options"
 date: 2026-05-28T12:36:14.398700+00:00
 draft: false
 description: "Discover the best keto fast food options to keep you on track. From bunless burgers to grilled chicken, enjoy low-carb meals without sacrificing taste or conven"
-image: "https://images.pexels.com/photos/1137473/pexels-photo-1137473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1137473.jpg"
 categories: ["meal planning"]
 tags: ["keto", "fast", "food", "options"]
 slug: "keto-fast-food-options"

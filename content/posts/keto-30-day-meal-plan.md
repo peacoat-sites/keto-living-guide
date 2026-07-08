@@ -3,7 +3,7 @@ title: "Keto 30 Day Meal Plan"
 date: 2026-05-23T22:00:22.082371+00:00
 draft: false
 description: "Discover our complete keto 30 day meal plan with easy recipes, shopping lists, and expert tips to help you burn fat, lose weight, and stay on track effortlessly"
-image: "https://images.pexels.com/photos/13689977/pexels-photo-13689977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13689977.jpg"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan"]
 slug: "keto-30-day-meal-plan"

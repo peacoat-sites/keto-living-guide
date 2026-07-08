@@ -3,7 +3,7 @@ title: "Keto Cheesecake Recipe"
 date: 2026-06-29T16:29:01.376865+00:00
 draft: false
 description: "Make the perfect keto cheesecake with this easy low-carb recipe. Creamy, rich, and sugar-free with an almond flour crust. Only 4g net carbs per slice!"
-image: "https://images.pexels.com/photos/37766352/pexels-photo-37766352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37766352.jpg"
 categories: ["recipes"]
 tags: ["keto", "cheesecake", "recipe"]
 author: "Dr. Sarah Mitchell"

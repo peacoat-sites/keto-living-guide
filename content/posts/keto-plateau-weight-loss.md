@@ -3,7 +3,7 @@ title: "Keto Plateau Weight Loss"
 date: 2026-05-26T13:05:34.083901+00:00
 draft: false
 description: "Stuck on a keto plateau? Discover proven strategies to break through stalled weight loss, reignite fat burning, and get back on track with your ketogenic goals."
-image: "https://images.pexels.com/photos/6975476/pexels-photo-6975476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6975476.jpg"
 categories: ["weight loss"]
 tags: ["keto", "plateau", "weight", "loss"]
 slug: "keto-plateau-weight-loss"

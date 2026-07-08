@@ -3,7 +3,7 @@ title: "How To Test For Ketosis At Home"
 date: 2026-06-11T16:38:49.850071+00:00
 draft: false
 description: "Discover the easiest ways to test for ketosis at home using urine strips, blood meters, or breath analyzers and find out which method suits you best."
-image: "https://images.pexels.com/photos/6823611/pexels-photo-6823611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6823611.jpg"
 categories: ["Ketosis"]
 tags: ["test", "ketosis", "home"]
 slug: "how-to-test-for-ketosis-at-home"

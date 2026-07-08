@@ -3,7 +3,7 @@ title: "Keto as Anorexia Nervosa Therapy: What a New Clinical Trial Found"
 date: 2026-06-21T15:01:04.712496+00:00
 draft: false
 description: "Researchers tested the ketogenic diet as a therapy for anorexia nervosa. Discover what a new clinical trial found about its safety, feasibility, and potential b"
-image: "https://images.pexels.com/photos/16845479/pexels-photo-16845479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16845479.jpg"
 categories: ["trending"]
 tags: ["keto", "anorexia", "nervosa", "therapy:", "what"]
 author: "Emma Lawson"

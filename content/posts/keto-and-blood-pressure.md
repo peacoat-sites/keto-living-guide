@@ -3,7 +3,7 @@ title: "Keto And Blood Pressure"
 date: 2026-07-02T14:44:40.254676+00:00
 draft: false
 description: "Discover how a ketogenic diet may help lower blood pressure naturally. Learn the science, benefits, and tips for managing hypertension on keto."
-image: "https://images.pexels.com/photos/7446776/pexels-photo-7446776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7446776.jpg"
 categories: ["health"]
 tags: ["keto", "blood", "pressure"]
 author: "Dr. Sarah Mitchell"

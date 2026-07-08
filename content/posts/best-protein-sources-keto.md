@@ -3,7 +3,7 @@ title: "Best Protein Sources Keto"
 date: 2026-05-29T04:27:51.493356+00:00
 draft: false
 description: "Discover the best protein sources for a keto diet. From meat and fish to eggs and dairy, fuel your body while staying in ketosis with these top picks."
-image: "https://images.pexels.com/photos/5507634/pexels-photo-5507634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5507634.jpg"
 categories: ["basics"]
 tags: ["best", "protein", "sources", "keto"]
 slug: "best-protein-sources-keto"

@@ -3,7 +3,7 @@ title: "Keto Coffee Drinks"
 date: 2026-06-14T14:56:59.038013+00:00
 draft: false
 description: "Discover the best keto coffee drinks to boost energy and support fat burning. From bulletproof to iced lattes, find delicious low-carb recipes you'll love."
-image: "https://images.pexels.com/photos/11348524/pexels-photo-11348524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11348524.jpg"
 categories: ["basics"]
 tags: ["keto", "coffee", "drinks"]
 slug: "keto-coffee-drinks"

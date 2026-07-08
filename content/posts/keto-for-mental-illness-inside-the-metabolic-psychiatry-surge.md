@@ -3,7 +3,7 @@ title: "Keto for Mental Illness: Inside the Metabolic Psychiatry Surge"
 date: 2026-06-29T16:26:28.704729+00:00
 draft: false
 description: "Explore how the ketogenic diet is transforming mental health treatment. Discover the science behind metabolic psychiatry and its promising results for depressio"
-image: "https://images.pexels.com/photos/34415654/pexels-photo-34415654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34415654.jpg"
 categories: ["trending"]
 tags: ["keto", "mental", "illness:", "inside", "metabolic"]
 author: "Mark Chen"

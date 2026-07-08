@@ -3,7 +3,7 @@ title: "Keto Dessert Recipes"
 date: 2026-05-23T04:09:02.514950+00:00
 draft: false
 description: "Discover easy, delicious keto dessert recipes that satisfy your sweet cravings while keeping carbs low. From brownies to cheesecake, find your new favorite trea"
-image: "https://images.pexels.com/photos/45245/cake-dessert-wedding-cupcake-45245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/45245.jpg"
 categories: ["recipes"]
 tags: ["keto", "dessert", "recipes"]
 slug: "keto-dessert-recipes"

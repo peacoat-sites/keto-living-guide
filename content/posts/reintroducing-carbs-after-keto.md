@@ -3,7 +3,7 @@ title: "Reintroducing Carbs After Keto"
 date: 2026-06-30T15:15:47.003384+00:00
 draft: false
 description: "Learn how to reintroduce carbs after keto without weight gain or digestive issues. Follow our step-by-step plan to transition off keto successfully."
-image: "https://images.pexels.com/photos/14365854/pexels-photo-14365854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14365854.jpg"
 categories: ["health"]
 tags: ["reintroducing", "carbs", "after", "keto"]
 author: "Jake Torres"

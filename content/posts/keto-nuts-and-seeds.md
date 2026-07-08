@@ -3,7 +3,7 @@ title: "Keto Nuts And Seeds"
 date: 2026-06-26T15:16:20.071238+00:00
 draft: false
 description: "Discover the best keto nuts and seeds to snack on, boost healthy fats, and stay in ketosis. Low carb, nutrient-dense options for your keto diet."
-image: "https://images.pexels.com/photos/4753637/pexels-photo-4753637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4753637.jpg"
 categories: ["basics"]
 tags: ["keto", "nuts", "seeds"]
 author: "Dr. Sarah Mitchell"

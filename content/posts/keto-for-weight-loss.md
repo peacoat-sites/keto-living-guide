@@ -3,7 +3,7 @@ title: "Keto For Weight Loss"
 date: 2026-05-27T01:52:18.395257+00:00
 draft: false
 description: "Discover how the ketogenic diet can help you lose weight fast. Learn the science behind keto, what to eat, and tips to start your fat-burning journey today."
-image: "https://images.pexels.com/photos/7991940/pexels-photo-7991940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7991940.jpg"
 categories: ["weight loss"]
 tags: ["keto", "weight", "loss"]
 slug: "keto-for-weight-loss"

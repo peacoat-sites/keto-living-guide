@@ -3,7 +3,7 @@ title: "Keto Tracker Apps"
 date: 2026-06-09T15:42:55.389885+00:00
 draft: false
 description: "Discover the best keto tracker apps to monitor your macros, track net carbs, and stay on top of your ketogenic diet goals with ease and precision."
-image: "https://images.pexels.com/photos/7568295/pexels-photo-7568295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7568295.jpg"
 categories: ["tools"]
 tags: ["keto", "tracker", "apps"]
 slug: "keto-tracker-apps"

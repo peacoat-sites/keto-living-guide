@@ -3,7 +3,7 @@ title: "Keto Pizza Recipe"
 date: 2026-06-19T15:52:58.313152+00:00
 draft: false
 description: "Make a delicious keto pizza with a crispy low-carb crust, melted cheese, and all your favorite toppings. Easy recipe ready in under 30 minutes!"
-image: "https://images.pexels.com/photos/16203831/pexels-photo-16203831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16203831.jpg"
 categories: ["recipes"]
 tags: ["keto", "pizza", "recipe"]
 author: "Diana Walsh"

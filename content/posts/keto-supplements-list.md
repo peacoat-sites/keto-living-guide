@@ -3,7 +3,7 @@ title: "Keto Supplements List"
 date: 2026-05-28T15:10:50.874738+00:00
 draft: false
 description: "Discover the best keto supplements to boost your results. Our complete list covers electrolytes, MCT oil, exogenous ketones, and more for optimal ketosis."
-image: "https://images.pexels.com/photos/12955610/pexels-photo-12955610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12955610.jpg"
 categories: ["supplements"]
 tags: ["keto", "supplements", "list"]
 slug: "keto-supplements-list"

@@ -3,7 +3,7 @@ title: "How To Become Fat Adapted"
 date: 2026-06-10T16:26:24.563896+00:00
 draft: false
 description: "Learn what it means to become fat adapted, how long it takes, and the key dietary steps to shift your body from burning sugar to burning fat for fuel efficientl"
-image: "https://images.pexels.com/photos/33814341/pexels-photo-33814341.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33814341.jpg"
 categories: ["basics"]
 tags: ["become", "adapted"]
 slug: "how-to-become-fat-adapted"

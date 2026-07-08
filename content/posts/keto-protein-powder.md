@@ -3,7 +3,7 @@ title: "Keto Protein Powder"
 date: 2026-06-07T14:33:35.951614+00:00
 draft: false
 description: "Discover the best keto protein powders to support low-carb goals. Compare top picks, key ingredients, and tips to boost fat burning while hitting your protein t"
-image: "https://images.pexels.com/photos/10994727/pexels-photo-10994727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10994727.jpg"
 categories: ["supplements"]
 tags: ["keto", "protein", "powder"]
 slug: "keto-protein-powder"

@@ -3,7 +3,7 @@ title: "Keto Diet for Mental Illness: What the New Science Actually Shows"
 date: 2026-06-17T16:26:39.873086+00:00
 draft: false
 description: "Discover what recent research reveals about the ketogenic diet and mental health, including its potential effects on depression, bipolar disorder, schizophrenia"
-image: "https://images.pexels.com/photos/11091976/pexels-photo-11091976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11091976.jpg"
 categories: ["trending"]
 tags: ["keto", "diet", "mental", "illness:", "what"]
 author: "Mark Chen"

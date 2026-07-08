@@ -3,7 +3,7 @@ title: "Keto May Reduce Pancreatic Stress in Type 2 Diabetes"
 date: 2026-06-23T15:37:42.459253+00:00
 draft: false
 description: "Discover how a ketogenic diet may help reduce pancreatic stress in type 2 diabetes, supporting better blood sugar control and improved metabolic health naturall"
-image: "https://images.pexels.com/photos/6823615/pexels-photo-6823615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6823615.jpg"
 categories: ["trending"]
 tags: ["keto", "reduce", "pancreatic", "stress", "type"]
 author: "Mark Chen"

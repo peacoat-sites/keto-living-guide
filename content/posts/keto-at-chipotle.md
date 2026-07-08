@@ -3,7 +3,7 @@ title: "Keto At Chipotle"
 date: 2026-06-18T16:02:54.418852+00:00
 draft: false
 description: "Eating keto at Chipotle is easy with the right order. Discover the best low-carb bowls, proteins, and toppings to stay in ketosis without sacrificing flavor."
-image: "https://images.pexels.com/photos/12507877/pexels-photo-12507877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12507877.jpg"
 categories: ["meal planning"]
 tags: ["keto", "chipotle"]
 author: "Jake Torres"

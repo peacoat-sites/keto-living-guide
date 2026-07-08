@@ -3,7 +3,7 @@ title: "Keto Diet Cheat Day"
 date: 2026-06-06T14:18:55.702373+00:00
 draft: false
 description: "Wondering if a keto diet cheat day will ruin your progress? Learn what really happens to your body, how to recover fast, and tips to stay on track."
-image: "https://images.pexels.com/photos/4628466/pexels-photo-4628466.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4628466.jpg"
 categories: ["basics"]
 tags: ["keto", "diet", "cheat"]
 slug: "keto-diet-cheat-day"

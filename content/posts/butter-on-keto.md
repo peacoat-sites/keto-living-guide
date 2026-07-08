@@ -3,7 +3,7 @@ title: "Butter On Keto"
 date: 2026-06-09T15:44:36.286576+00:00
 draft: false
 description: "Discover why butter is a keto superfood! High in healthy fats and nearly zero carbs, learn how to use butter to fuel ketosis and enhance your low-carb meals."
-image: "https://images.pexels.com/photos/7965889/pexels-photo-7965889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7965889.jpg"
 categories: ["basics"]
 tags: ["butter", "keto"]
 slug: "butter-on-keto"

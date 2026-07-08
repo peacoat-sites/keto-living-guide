@@ -3,7 +3,7 @@ title: "Keto Brain Fog"
 date: 2026-06-07T14:31:52.489413+00:00
 draft: false
 description: "Struggling with keto brain fog? Discover why it happens, how long it lasts, and proven tips to clear mental cloudiness fast on your ketogenic diet journey."
-image: "https://images.pexels.com/photos/8560845/pexels-photo-8560845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8560845.jpg"
 categories: ["health"]
 tags: ["keto", "brain"]
 slug: "keto-brain-fog"

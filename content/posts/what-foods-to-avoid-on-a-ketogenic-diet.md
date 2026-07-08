@@ -3,7 +3,7 @@ title: "What Foods To Avoid On A Ketogenic Diet"
 date: 2026-05-30T10:55:09.702704+00:00
 draft: false
 description: "Discover which foods to avoid on a ketogenic diet, including grains, sugar, and starchy vegetables, to stay in ketosis and maximize your fat-burning results."
-image: "https://images.pexels.com/photos/11789292/pexels-photo-11789292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11789292.jpg"
 categories: ["Diet Basics"]
 tags: ["what", "foods", "avoid", "ketogenic", "diet"]
 slug: "what-foods-to-avoid-on-a-ketogenic-diet"

@@ -3,7 +3,7 @@ title: "Keto Can Restore Pancreas Function in Type 2 Diabetes Without Big Weight
 date: 2026-07-05T14:20:01.736936+00:00
 draft: false
 description: "Discover how a ketogenic diet may restore pancreatic function in type 2 diabetes, even without significant weight loss, offering new hope for millions worldwide"
-image: "https://images.pexels.com/photos/6823744/pexels-photo-6823744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6823744.jpg"
 categories: ["trending"]
 tags: ["keto", "restore", "pancreas", "function", "type"]
 author: "Mark Chen"

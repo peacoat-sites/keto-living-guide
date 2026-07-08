@@ -3,7 +3,7 @@ title: "Keto Mental Clarity"
 date: 2026-06-08T16:38:38.743251+00:00
 draft: false
 description: "Discover how the keto diet can boost mental clarity, sharpen focus, and enhance brain function by fueling your mind with ketones instead of glucose."
-image: "https://images.pexels.com/photos/19825318/pexels-photo-19825318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19825318.jpg"
 categories: ["health"]
 tags: ["keto", "mental", "clarity"]
 slug: "keto-mental-clarity"

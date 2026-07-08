@@ -3,7 +3,7 @@ title: "Keto Snacks List"
 date: 2026-05-23T15:54:04.320980+00:00
 draft: false
 description: "Discover the best keto-friendly snacks to keep you satisfied while staying in ketosis. Low-carb, high-fat snack ideas for weight loss success."
-image: "https://images.pexels.com/photos/8793939/pexels-photo-8793939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8793939.jpg"
 categories: ["recipes"]
 tags: ["keto", "snacks", "list"]
 slug: "keto-snacks-list"

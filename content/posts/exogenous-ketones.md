@@ -3,7 +3,7 @@ title: "Exogenous Ketones"
 date: 2026-06-19T15:51:03.817755+00:00
 draft: false
 description: "Exogenous ketones boost blood ketone levels without fasting. Learn how they work, their benefits, side effects, and whether they suit your goals."
-image: "https://images.pexels.com/photos/4378523/pexels-photo-4378523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4378523.jpg"
 categories: ["supplements"]
 tags: ["exogenous", "ketones"]
 author: "Ryan Park"

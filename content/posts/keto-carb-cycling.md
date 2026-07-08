@@ -3,7 +3,7 @@ title: "Keto Carb Cycling"
 date: 2026-06-20T14:56:48.171049+00:00
 draft: false
 description: "Learn how keto carb cycling works, its benefits for fat loss and performance, and how to implement strategic carb refeeds on a ketogenic diet."
-image: "https://images.pexels.com/photos/9760205/pexels-photo-9760205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9760205.jpg"
 categories: ["basics"]
 tags: ["keto", "carb", "cycling"]
 author: "Dr. Sarah Mitchell"

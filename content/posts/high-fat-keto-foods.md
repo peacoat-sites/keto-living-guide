@@ -3,7 +3,7 @@ title: "High Fat Keto Foods"
 date: 2026-06-15T17:34:16.340248+00:00
 draft: false
 description: "Discover the best high fat keto foods to fuel your low carb lifestyle. From avocados to fatty meats, boost ketosis with these delicious nutrient-rich options."
-image: "https://images.pexels.com/photos/5092568/pexels-photo-5092568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5092568.jpg"
 categories: ["basics"]
 tags: ["high", "keto", "foods"]
 author: "Jake Torres"

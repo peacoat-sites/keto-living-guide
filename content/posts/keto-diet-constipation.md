@@ -3,7 +3,7 @@ title: "Keto Diet Constipation"
 date: 2026-06-06T14:20:51.842458+00:00
 draft: false
 description: "Struggling with keto diet constipation? Discover the common causes, simple dietary fixes, and expert tips to relieve constipation and stay on track with keto."
-image: "https://images.pexels.com/photos/7227647/pexels-photo-7227647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7227647.jpg"
 categories: ["health"]
 tags: ["keto", "diet", "constipation"]
 slug: "keto-diet-constipation"

@@ -3,7 +3,7 @@ title: "Keto May Reverse Pancreatic Stress in Type 2 Diabetes"
 date: 2026-06-18T16:05:07.000648+00:00
 draft: false
 description: "Discover how a ketogenic diet may help reverse pancreatic stress in type 2 diabetes, supporting better blood sugar control and improved insulin function natural"
-image: "https://images.pexels.com/photos/2383008/pexels-photo-2383008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2383008.jpg"
 categories: ["trending"]
 tags: ["keto", "reverse", "pancreatic", "stress", "type"]
 author: "Emma Lawson"

@@ -3,7 +3,7 @@ title: "Keto Egg Recipes"
 date: 2026-06-11T16:41:04.669202+00:00
 draft: false
 description: "Discover delicious keto egg recipes perfect for low-carb living. From fluffy omelets to baked dishes, these easy high-protein meals keep you full and in ketosis"
-image: "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/162712.jpg"
 categories: ["recipes"]
 tags: ["keto", "recipes"]
 slug: "keto-egg-recipes"

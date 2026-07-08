@@ -3,7 +3,7 @@ title: "Keto Intermittent Fasting"
 date: 2026-05-24T08:36:36.540976+00:00
 draft: false
 description: "Discover how combining keto and intermittent fasting can accelerate fat loss, boost energy, and improve metabolic health. Learn the best strategies to get start"
-image: "https://images.pexels.com/photos/48770/business-time-clock-clocks-48770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/48770.jpg"
 categories: ["health"]
 tags: ["keto", "intermittent", "fasting"]
 slug: "keto-intermittent-fasting"

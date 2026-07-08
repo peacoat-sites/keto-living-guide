@@ -3,7 +3,7 @@ title: "Keto Diet Dairy Free"
 date: 2026-06-16T17:38:02.131654+00:00
 draft: false
 description: "Discover delicious keto diet dairy free meals and snacks. Learn what to eat, what to avoid, and how to thrive on a dairy free ketogenic lifestyle."
-image: "https://images.pexels.com/photos/15913500/pexels-photo-15913500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15913500.jpg"
 categories: ["basics"]
 tags: ["keto", "diet", "dairy", "free"]
 author: "Diana Walsh"

@@ -3,7 +3,7 @@ title: "Keto Cooking On A Budget"
 date: 2026-06-21T14:58:55.758750+00:00
 draft: false
 description: "Eat keto without breaking the bank. Discover budget-friendly low-carb meals, smart shopping tips, and simple recipes to stay in ketosis for less."
-image: "https://images.pexels.com/photos/13376599/pexels-photo-13376599.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13376599.jpg"
 categories: ["meal planning"]
 tags: ["keto", "cooking", "budget"]
 author: "Jake Torres"

@@ -3,7 +3,7 @@ title: "Dirty Keto Vs Clean Keto"
 date: 2026-05-28T00:50:59.841562+00:00
 draft: false
 description: "Discover the key differences between dirty keto and clean keto diets. Learn which approach suits your health goals, lifestyle, and helps you achieve lasting res"
-image: "https://images.pexels.com/photos/35041653/pexels-photo-35041653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35041653.jpg"
 categories: ["basics"]
 tags: ["dirty", "keto", "clean", "keto"]
 slug: "dirty-keto-vs-clean-keto"

@@ -3,7 +3,7 @@ title: "Keto Diet Benefits"
 date: 2026-05-26T02:01:22.246811+00:00
 draft: false
 description: "Discover the top keto diet benefits, from rapid weight loss and improved energy to better blood sugar control. Learn how going keto can transform your health to"
-image: "https://images.pexels.com/photos/16134559/pexels-photo-16134559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16134559.jpg"
 categories: ["basics"]
 tags: ["keto", "diet", "benefits"]
 slug: "keto-diet-benefits"

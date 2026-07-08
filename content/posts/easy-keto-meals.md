@@ -3,7 +3,7 @@ title: "Easy Keto Meals"
 date: 2026-05-24T14:46:59.461844+00:00
 draft: false
 description: "Easy keto meals that fit your busy lifestyle. Discover simple, delicious low-carb recipes, quick dinner ideas, and meal prep tips to stay in ketosis."
-image: "https://images.pexels.com/photos/3298057/pexels-photo-3298057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3298057.jpg"
 categories: ["recipes"]
 tags: ["easy", "keto", "meals"]
 slug: "easy-keto-meals"

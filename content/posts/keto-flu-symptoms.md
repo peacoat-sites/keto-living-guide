@@ -3,7 +3,7 @@ title: "Keto Flu Symptoms"
 date: 2026-05-26T06:18:33.492742+00:00
 draft: false
 description: "Discover the most common keto flu symptoms, why they happen, and how to ease discomfort when starting a ketogenic diet. Feel better faster with these tips."
-image: "https://images.pexels.com/photos/6285326/pexels-photo-6285326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6285326.jpg"
 categories: ["basics"]
 tags: ["keto", "symptoms"]
 slug: "keto-flu-symptoms"

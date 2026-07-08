@@ -3,7 +3,7 @@ title: "Keto Diet Side Effects"
 date: 2026-05-27T18:57:10.683717+00:00
 draft: false
 description: "Discover the most common keto diet side effects, from keto flu to nutrient deficiencies, and learn how to manage them safely for a healthier low-carb journey."
-image: "https://images.pexels.com/photos/3808819/pexels-photo-3808819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3808819.jpg"
 categories: ["health"]
 tags: ["keto", "diet", "side", "effects"]
 slug: "keto-diet-side-effects"

@@ -3,7 +3,7 @@ title: "New Studies Clash on Long-Term Keto: What the Science Actually Says"
 date: 2026-06-15T17:36:56.564374+00:00
 draft: false
 description: "Conflicting research on long-term keto diets has experts divided. We break down the latest studies to reveal what the science actually says about safety and res"
-image: "https://images.pexels.com/photos/7845367/pexels-photo-7845367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7845367.jpg"
 categories: ["trending"]
 tags: ["studies", "clash", "long-term", "keto:", "what"]
 author: "Emma Lawson"

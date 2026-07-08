@@ -3,7 +3,7 @@ title: "Keto Apps Best"
 date: 2026-06-05T12:21:01.742959+00:00
 draft: false
 description: "Discover the best keto apps to track macros, plan meals, and stay on track with your diet. Find the perfect app to support your ketogenic lifestyle today."
-image: "https://images.pexels.com/photos/270283/pexels-photo-270283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/270283.jpg"
 categories: ["tools"]
 tags: ["keto", "apps", "best"]
 slug: "keto-apps-best"

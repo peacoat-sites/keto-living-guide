@@ -3,7 +3,7 @@ title: "Keto Diet And Inflammation"
 date: 2026-06-12T15:49:39.261647+00:00
 draft: false
 description: "Discover how the keto diet may reduce chronic inflammation, the science behind ketones and inflammatory markers, and tips to optimize your results for better he"
-image: "https://images.pexels.com/photos/9486816/pexels-photo-9486816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9486816.jpg"
 categories: ["health"]
 tags: ["keto", "diet", "inflammation"]
 slug: "keto-diet-and-inflammation"

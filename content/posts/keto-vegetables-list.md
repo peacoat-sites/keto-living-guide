@@ -3,7 +3,7 @@ title: "Keto Vegetables List"
 date: 2026-05-22T08:53:31.671993+00:00
 draft: false
 description: "Discover the best keto vegetables to eat on a low carb diet. Our complete list helps you stay in ketosis while enjoying nutritious, delicious veggies every day."
-image: "https://images.pexels.com/photos/3159251/pexels-photo-3159251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3159251.jpg"
 categories: ["basics"]
 tags: ["keto", "vegetables", "list"]
 slug: "keto-vegetables-list"

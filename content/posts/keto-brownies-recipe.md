@@ -3,7 +3,7 @@ title: "Keto Brownies Recipe"
 date: 2026-06-28T14:28:50.859166+00:00
 draft: false
 description: "Make fudgy keto brownies with almond flour and sugar-free chocolate. Low carb, gluten-free, and ready in 30 minutes for a guilt-free dessert."
-image: "https://images.pexels.com/photos/17488681/pexels-photo-17488681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17488681.jpg"
 categories: ["recipes"]
 tags: ["keto", "brownies", "recipe"]
 author: "Diana Walsh"

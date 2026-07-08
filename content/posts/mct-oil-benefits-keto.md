@@ -3,7 +3,7 @@ title: "Mct Oil Benefits Keto"
 date: 2026-05-23T19:39:48.996233+00:00
 draft: false
 description: "MCT oil benefits keto: boost ketone production, increase energy, improve mental clarity, and support weight loss. Discover how MCTs enhance your ketogenic diet."
-image: "https://images.pexels.com/photos/8101512/pexels-photo-8101512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8101512.jpg"
 categories: ["supplements"]
 tags: ["benefits", "keto"]
 slug: "mct-oil-benefits-keto"

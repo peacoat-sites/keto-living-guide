@@ -3,7 +3,7 @@ title: "Keto Beef Jerky"
 date: 2026-06-22T17:19:17.563483+00:00
 draft: false
 description: "Make delicious keto beef jerky at home with simple ingredients and bold flavors. Low carb, high protein snack perfect for your ketogenic lifestyle."
-image: "https://images.pexels.com/photos/16148045/pexels-photo-16148045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16148045.jpg"
 categories: ["snacks"]
 tags: ["keto", "beef", "jerky"]
 author: "Diana Walsh"

@@ -3,7 +3,7 @@ title: "Best Keto Frozen Meals"
 date: 2026-06-22T17:17:16.600278+00:00
 draft: false
 description: "Discover the best keto frozen meals that are low carb, high fat, and delicious. Save time without breaking ketosis with our top picks."
-image: "https://images.pexels.com/photos/18897265/pexels-photo-18897265.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18897265.jpg"
 categories: ["products"]
 tags: ["best", "keto", "frozen", "meals"]
 author: "Ryan Park"

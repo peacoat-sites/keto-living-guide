@@ -3,7 +3,7 @@ title: "Keto For Type 2 Diabetes"
 date: 2026-05-29T01:49:29.282967+00:00
 draft: false
 description: "Discover how the keto diet may help manage type 2 diabetes by lowering blood sugar, improving insulin sensitivity, and supporting weight loss. Learn the benefit"
-image: "https://images.pexels.com/photos/6823517/pexels-photo-6823517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6823517.jpg"
 categories: ["health"]
 tags: ["keto", "type", "diabetes"]
 slug: "keto-for-type-2-diabetes"

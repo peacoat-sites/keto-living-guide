@@ -3,7 +3,7 @@ title: "Keto Diet Shows Promise for Treatment-Resistant Depression"
 date: 2026-06-20T14:55:08.206123+00:00
 draft: false
 description: "Discover how the ketogenic diet may help treat treatment-resistant depression, offering new hope for those who haven't responded to traditional antidepressant t"
-image: "https://images.pexels.com/photos/34415578/pexels-photo-34415578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34415578.jpg"
 categories: ["trending"]
 tags: ["keto", "diet", "shows", "promise", "treatment-resistant"]
 author: "Mark Chen"

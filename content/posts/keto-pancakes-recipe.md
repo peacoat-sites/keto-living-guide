@@ -3,7 +3,7 @@ title: "Keto Pancakes Recipe"
 date: 2026-07-03T14:54:32.627574+00:00
 draft: false
 description: "Learn how to make delicious keto pancakes with simple ingredients. Our easy recipe delivers fluffy, low-carb pancakes perfect for a ketogenic breakfast."
-image: "https://images.pexels.com/photos/600618/pexels-photo-600618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/600618.jpg"
 categories: ["recipes"]
 tags: ["keto", "pancakes", "recipe"]
 author: "Jake Torres"

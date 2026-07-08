@@ -3,7 +3,7 @@ title: "Keto Chocolate Cake"
 date: 2026-06-13T14:42:54.255596+00:00
 draft: false
 description: "Indulge in a rich, moist keto chocolate cake that satisfies your sweet cravings without the carbs. Easy low-carb recipe perfect for any occasion!"
-image: "https://images.pexels.com/photos/10249461/pexels-photo-10249461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10249461.jpg"
 categories: ["recipes"]
 tags: ["keto", "chocolate", "cake"]
 slug: "keto-chocolate-cake"

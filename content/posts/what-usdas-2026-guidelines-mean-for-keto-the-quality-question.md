@@ -3,7 +3,7 @@ title: "What USDA's 2026 Guidelines Mean for Keto: The Quality Question"
 date: 2026-07-03T14:56:24.668650+00:00
 draft: false
 description: "USDA's 2026 dietary guidelines could reshape keto diets. Explore how new quality standards affect fat sources, protein choices, and long-term ketogenic sustaina"
-image: "https://images.pexels.com/photos/8696479/pexels-photo-8696479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8696479.jpg"
 categories: ["trending"]
 tags: ["what", "usda's", "2026", "guidelines", "mean"]
 author: "Emma Lawson"

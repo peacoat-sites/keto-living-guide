@@ -3,7 +3,7 @@ title: "Best Fats On Keto"
 date: 2026-06-27T14:16:11.930875+00:00
 draft: false
 description: "Discover the best fats to eat on keto for energy and fat loss. From avocado to butter, learn which healthy fats fuel ketosis most effectively."
-image: "https://images.pexels.com/photos/1253619/pexels-photo-1253619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1253619.jpg"
 categories: ["basics"]
 tags: ["best", "fats", "keto"]
 author: "Jake Torres"

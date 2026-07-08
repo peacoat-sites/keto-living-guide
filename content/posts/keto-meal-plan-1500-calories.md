@@ -3,7 +3,7 @@ title: "Keto Meal Plan 1500 Calories"
 date: 2026-07-01T15:22:48.510028+00:00
 draft: false
 description: "Follow this keto meal plan for 1500 calories a day to lose weight, stay in ketosis, and enjoy delicious low-carb meals for breakfast, lunch, and dinner."
-image: "https://images.pexels.com/photos/6995260/pexels-photo-6995260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6995260.jpg"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "1500", "calories"]
 author: "Ryan Park"

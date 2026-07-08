@@ -3,7 +3,7 @@ title: "Targeted Keto Diet"
 date: 2026-05-25T11:17:36.088702+00:00
 draft: false
 description: "Discover how a targeted keto diet can boost your performance and energy. Learn when to eat carbs strategically while staying in ketosis and burning fat effectiv"
-image: "https://images.pexels.com/photos/17898140/pexels-photo-17898140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17898140.jpg"
 categories: ["basics"]
 tags: ["targeted", "keto", "diet"]
 slug: "targeted-keto-diet"

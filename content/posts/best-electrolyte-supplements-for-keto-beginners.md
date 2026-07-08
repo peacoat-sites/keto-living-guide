@@ -3,7 +3,7 @@ title: "Best Electrolyte Supplements For Keto Beginners"
 date: 2026-06-25T15:27:05.517863+00:00
 draft: false
 description: "Discover the best electrolyte supplements for keto beginners to prevent fatigue and keto flu. Stay balanced with top picks for sodium, magnesium, and potassium."
-image: "https://images.pexels.com/photos/17820711/pexels-photo-17820711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17820711.jpg"
 categories: ["Supplements"]
 tags: ["best", "electrolyte", "supplements", "keto", "beginners"]
 author: "Ryan Park"

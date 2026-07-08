@@ -3,7 +3,7 @@ title: "Keto Diet While Breastfeeding"
 date: 2026-07-01T15:24:55.156948+00:00
 draft: false
 description: "Discover what you need to know about following a keto diet while breastfeeding, including safety tips, risks, and how to meet your nutritional needs."
-image: "https://images.pexels.com/photos/21073558/pexels-photo-21073558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21073558.jpg"
 categories: ["health"]
 tags: ["keto", "diet", "while", "breastfeeding"]
 author: "Diana Walsh"

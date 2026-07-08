@@ -3,7 +3,7 @@ title: "Keto Cauliflower Recipes"
 date: 2026-07-05T14:22:10.652132+00:00
 draft: false
 description: "Discover delicious keto cauliflower recipes that are low carb and satisfying. From cauliflower rice to pizza crusts, enjoy healthy meals without the guilt."
-image: "https://images.pexels.com/photos/4963456/pexels-photo-4963456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4963456.jpg"
 categories: ["recipes"]
 tags: ["keto", "cauliflower", "recipes"]
 author: "Dr. Sarah Mitchell"

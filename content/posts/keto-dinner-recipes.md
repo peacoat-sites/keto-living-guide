@@ -3,7 +3,7 @@ title: "Keto Dinner Recipes"
 date: 2026-05-28T04:24:04.244958+00:00
 draft: false
 description: "Discover easy and delicious keto dinner recipes perfect for low-carb living. From hearty meats to creamy sauces, enjoy satisfying meals that keep you in ketosis"
-image: "https://images.pexels.com/photos/1309595/pexels-photo-1309595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1309595.jpg"
 categories: ["recipes"]
 tags: ["keto", "dinner", "recipes"]
 slug: "keto-dinner-recipes"

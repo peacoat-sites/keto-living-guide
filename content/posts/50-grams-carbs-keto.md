@@ -3,7 +3,7 @@ title: "50 Grams Carbs Keto"
 date: 2026-07-07T15:31:33.576112+00:00
 draft: false
 description: "Discover how 50 grams of carbs fits into a keto lifestyle. Learn which foods to eat, what to avoid, and how to stay in ketosis effectively."
-image: "https://images.pexels.com/photos/9213861/pexels-photo-9213861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9213861.jpg"
 categories: ["basics"]
 tags: ["grams", "carbs", "keto"]
 author: "Diana Walsh"

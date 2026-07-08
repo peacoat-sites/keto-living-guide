@@ -3,7 +3,7 @@ title: "Keto Diet Vegetarian"
 date: 2026-06-02T15:50:38.963965+00:00
 draft: false
 description: "Discover how to combine the keto diet with a vegetarian lifestyle. Explore delicious low-carb plant-based meals, tips, and food lists to start your journey toda"
-image: "https://images.pexels.com/photos/33323285/pexels-photo-33323285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33323285.jpg"
 categories: ["basics"]
 tags: ["keto", "diet", "vegetarian"]
 slug: "keto-diet-vegetarian"

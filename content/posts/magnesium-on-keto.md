@@ -3,7 +3,7 @@ title: "Magnesium On Keto"
 date: 2026-06-02T12:54:03.218573+00:00
 draft: false
 description: "Discover how magnesium on keto can prevent deficiency, reduce cramps, and boost energy. Learn the best food sources and supplement tips for keto dieters."
-image: "https://images.pexels.com/photos/7526048/pexels-photo-7526048.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7526048.jpg"
 categories: ["supplements"]
 tags: ["magnesium", "keto"]
 slug: "magnesium-on-keto"

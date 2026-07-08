@@ -3,7 +3,7 @@ title: "Keto Alcohol Guide"
 date: 2026-06-13T14:40:42.030465+00:00
 draft: false
 description: "Discover which alcoholic drinks fit your keto lifestyle. Learn low-carb alcohol options, what to avoid, and how drinking affects ketosis in our complete guide."
-image: "https://images.pexels.com/photos/6366/alcohol-bottles-drinks-party.jpg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6366.jpg"
 categories: ["basics"]
 tags: ["keto", "alcohol", "guide"]
 slug: "keto-alcohol-guide"

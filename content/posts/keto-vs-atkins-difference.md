@@ -3,7 +3,7 @@ title: "Keto Vs Atkins Difference"
 date: 2026-06-16T17:35:46.564535+00:00
 draft: false
 description: "Discover the key differences between keto and Atkins diets, including carb limits, phases, flexibility, and which low-carb plan best fits your health goals."
-image: "https://images.pexels.com/photos/6025677/pexels-photo-6025677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6025677.jpg"
 categories: ["basics"]
 tags: ["keto", "atkins", "difference"]
 author: "Ryan Park"

@@ -3,7 +3,7 @@ title: "Keto Chicken Recipes"
 date: 2026-05-29T18:06:15.861492+00:00
 draft: false
 description: "Discover delicious keto chicken recipes perfect for low-carb diets. Easy, healthy meals with simple ingredients that help you stay in ketosis while enjoying fla"
-image: "https://images.pexels.com/photos/36202022/pexels-photo-36202022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36202022.jpg"
 categories: ["recipes"]
 tags: ["keto", "chicken", "recipes"]
 slug: "keto-chicken-recipes"

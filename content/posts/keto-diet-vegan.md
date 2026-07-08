@@ -3,7 +3,7 @@ title: "Keto Diet Vegan"
 date: 2026-06-05T12:22:54.912165+00:00
 draft: false
 description: "Discover how to combine keto and vegan diets successfully. Learn top plant-based fat sources, low-carb foods, and easy meal ideas to fuel your healthy lifestyle"
-image: "https://images.pexels.com/photos/142520/pexels-photo-142520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/142520.jpg"
 categories: ["basics"]
 tags: ["keto", "diet", "vegan"]
 slug: "keto-diet-vegan"

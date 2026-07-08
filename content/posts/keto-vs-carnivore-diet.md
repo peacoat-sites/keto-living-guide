@@ -3,7 +3,7 @@ title: "Keto Vs Carnivore Diet"
 date: 2026-07-07T15:29:36.425664+00:00
 draft: false
 description: "Compare keto vs carnivore diet to find which fits your goals. Explore differences in food choices, benefits, and results for weight loss and health."
-image: "https://images.pexels.com/photos/7936728/pexels-photo-7936728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7936728.jpg"
 categories: ["basics"]
 tags: ["keto", "carnivore", "diet"]
 author: "Ryan Park"

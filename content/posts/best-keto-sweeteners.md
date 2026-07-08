@@ -3,7 +3,7 @@ title: "Best Keto Sweeteners"
 date: 2026-05-25T10:34:01.115444+00:00
 draft: false
 description: "Discover the best keto sweeteners to satisfy your sweet tooth without spiking blood sugar. Compare top low-carb options and find the perfect sugar substitute fo"
-image: "https://images.pexels.com/photos/6545619/pexels-photo-6545619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6545619.jpg"
 categories: ["basics"]
 tags: ["best", "keto", "sweeteners"]
 slug: "best-keto-sweeteners"

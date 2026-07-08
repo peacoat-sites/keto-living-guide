@@ -3,7 +3,7 @@ title: "Keto Meal Plan On A Budget"
 date: 2026-05-27T03:12:55.060131+00:00
 draft: false
 description: "Discover how to follow a keto diet without breaking the bank. Get our budget-friendly keto meal plan with simple, affordable recipes and smart shopping tips."
-image: "https://images.pexels.com/photos/10574817/pexels-photo-10574817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10574817.jpg"
 categories: ["meal planning"]
 tags: ["keto", "meal", "plan", "budget"]
 slug: "keto-meal-plan-on-a-budget"

@@ -3,7 +3,7 @@ title: "Keto For Seniors"
 date: 2026-07-06T16:03:39.887358+00:00
 draft: false
 description: "Discover how the keto diet can benefit seniors with improved energy, weight loss, and brain health. Learn safe tips to start keto after 60."
-image: "https://images.pexels.com/photos/6928667/pexels-photo-6928667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6928667.jpg"
 categories: ["weight loss"]
 tags: ["keto", "seniors"]
 author: "Jake Torres"

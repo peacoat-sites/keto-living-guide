@@ -3,7 +3,7 @@ title: "Blood Ketone Levels Chart"
 date: 2026-06-17T16:28:46.581483+00:00
 draft: false
 description: "Understand blood ketone levels with our easy-to-read chart. Learn what normal, optimal, and high ketone ranges mean for ketosis, fasting, and metabolic health."
-image: "https://images.pexels.com/photos/5469040/pexels-photo-5469040.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5469040.jpg"
 categories: ["basics"]
 tags: ["blood", "ketone", "levels", "chart"]
 author: "Dr. Sarah Mitchell"

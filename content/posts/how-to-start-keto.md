@@ -3,7 +3,7 @@ title: "How To Start Keto"
 date: 2026-05-29T06:45:33.801579+00:00
 draft: false
 description: "Learn how to start keto with our beginner-friendly guide. Discover what to eat, foods to avoid, and simple tips to help you succeed on a ketogenic diet."
-image: "https://images.pexels.com/photos/3757743/pexels-photo-3757743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3757743.jpg"
 categories: ["basics"]
 tags: ["start", "keto"]
 slug: "how-to-start-keto"
