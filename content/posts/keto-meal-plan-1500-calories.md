@@ -14,23 +14,23 @@ slug: "keto-meal-plan-1500-calories"
 affiliate_disclosure: false
 faqs:
  - q: "How many net carbs should I eat on a 1,500-calorie keto plan?"
-   a: "Most people stay in ketosis reliably at 20–25g net carbs per day, though some can go up to 30–35g and still maintain it. If you're not sure where your threshold is, start at 20g and test with urine strips (Keto-Mojo is a more accurate blood meter if you want to invest around $60)."
+   a: "Most people stay in ketosis reliably at 20-25g net carbs per day, though some can go up to 30-35g and still maintain it. If you're not sure where your threshold is, start at 20g and test with urine strips (Keto-Mojo is a more accurate blood meter if you want to invest around $60)."
  - q: "Will 1,500 calories on keto cause muscle loss?"
-   a: "Not if you're eating adequate protein (90–110g daily for most people) and doing some resistance training a few times a week. Keto is actually reasonably muscle-sparing compared to low-fat calorie restriction, partly because higher fat intake maintains testosterone levels better than low-fat diets do."
+   a: "Not if you're eating adequate protein (90-110g daily for most people) and doing some resistance training a few times a week. Keto is actually reasonably muscle-sparing compared to low-fat calorie restriction, partly because higher fat intake maintains testosterone levels better than low-fat diets do."
  - q: "Why am I not losing weight on 1,500 calories keto?"
    a: "The most common reasons are underestimated portion sizes (especially fats), hidden carbs in condiments and processed foods, or cortisol and poor sleep interfering with fat loss. Track strictly with a food scale for two weeks before concluding the calories aren't working."
  - q: "Is 1,500 calories too low for someone who exercises regularly?"
-   a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750–2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
+   a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750-2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
  - q: "Do I need to use MCT oil on a 1,500-calorie keto plan?"
    a: "No, it's optional. MCT oil (like Bulletproof Brain Octane at around $25 for 16oz on Amazon, site may earn a commission) can help some people get into ketosis faster initially, but it adds calories that count toward your daily total. At 1,500 calories, I'd rather people use those fat grams for whole food sources that carry more micronutrients."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Fifteen hundred calories on keto isn't some magic number, but it's close to where a lot of people actually land when they're losing weight steadily without feeling like they're starving. If you've been bouncing between "eat less" advice that leaves you miserable and keto plans that feel like a butter-fueled free-for-all, you might be wondering if there's a middle ground that actually works. There is. And it's more straightforward than most meal-plan articles make it sound.
 
 Let me be honest about where most people are when they find this article. You've probably already tried keto once, or you're on it now and not seeing the results you expected. You're eating fat, keeping carbs low, and still not losing weight the way you thought you would. Or you've lost some weight but you're not sure if you're eating too much, too little, or something in between. Calories on keto are a real variable, even if a lot of keto influencers would rather not talk about it.
 
-Here's what I tell people in that situation: keto changes your hormonal environment in ways that genuinely make it easier to eat less without suffering. But "easier" doesn't mean automatic. At 1,500 calories, most women with moderate activity levels will lose weight consistently. Most men will too, though some larger or more active guys need to sit closer to 1,800–2,000 to avoid the kind of fatigue that makes the whole thing unsustainable. Know which category you're in before you commit to a number.
+Here's what I tell people in that situation: keto changes your hormonal environment in ways that genuinely make it easier to eat less without suffering. But "easier" doesn't mean automatic. At 1,500 calories, most women with moderate activity levels will lose weight consistently. Most men will too, though some larger or more active guys need to sit closer to 1,800-2,000 to avoid the kind of fatigue that makes the whole thing unsustainable. Know which category you're in before you commit to a number.
 
 ## Why 1,500 Calories Works Differently on Keto Than on Other Diets
 
@@ -48,7 +48,7 @@ The catch is that you still need to be paying attention to what you're eating. F
 | Man B | 45 | 5'10" | 210 lbs | 30 min daily walk | 1,500 | 1,750 | 6 weeks | 8 lbs | Fatigue resolved at higher calories |
 | Woman A (plateau) | 38 | 5'4" | 185 lbs | Sedentary office | 1,500 | 1,500 | 3 weeks → resumed loss | - | Untracked almond butter identified and removed |
 
-The macro split I'd recommend for most people at 1,500 calories: roughly 110–120g fat, 90–100g protein, and 20–25g net carbs. That's about 65–70% fat, 25% protein, 5–10% carbs. Protein on the lower end can work for lighter individuals; bump it closer to 110–120g if you're active or over 170 lbs.
+The macro split I'd recommend for most people at 1,500 calories: roughly 110-120g fat, 90-100g protein, and 20-25g net carbs. That's about 65-70% fat, 25% protein, 5-10% carbs. Protein on the lower end can work for lighter individuals; bump it closer to 110-120g if you're active or over 170 lbs.
 
 Here's a concrete day that hits those numbers without requiring gourmet cooking:
 
@@ -74,7 +74,7 @@ Scenario: Same woman from scenario one, six months in. Hit a three-week plateau.
 
 At 1,500 calories, especially in the first month, electrolytes become critical. Keto causes your kidneys to excrete sodium at a higher rate, which pulls magnesium and potassium with it. The fatigue, headaches, and muscle cramps people blame on "keto flu" are, in my experience, almost always electrolyte depletion. Not some inherent flaw in the diet.
 
-Here's what I tell people: add 2,000–3,000mg of sodium daily, either through salted food or a supplement like LMNT (about $45 for 30 packets, available on Amazon, and the site may earn a commission on purchases). Add 300–400mg of magnesium glycinate at night (it also helps sleep). Potassium you can often cover through food if you're eating avocado, leafy greens, and salmon regularly, but some people need a supplement.
+Here's what I tell people: add 2,000-3,000mg of sodium daily, either through salted food or a supplement like LMNT (about $45 for 30 packets, available on Amazon, and the site may earn a commission on purchases). Add 300-400mg of magnesium glycinate at night (it also helps sleep). Potassium you can often cover through food if you're eating avocado, leafy greens, and salmon regularly, but some people need a supplement.
 
 At 1,500 calories, there's less room for error because you're eating less food overall. Every bite matters a bit more nutritionally. I don't say that to be alarming; I say it because it's the one area where people on lower-calorie keto consistently underdo it.
 

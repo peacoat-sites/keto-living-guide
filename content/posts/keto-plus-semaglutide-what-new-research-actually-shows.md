@@ -12,7 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-plus-semaglutide-what-new-research-actually-shows"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most GLP-1 coverage in 2026 follows a predictable arc: drug works, people lose weight, results are impressive. What that coverage keeps skipping is the compositional problem. Semaglutide doesn't just shrink fat. Studies have consistently shown that up to 40% of the weight lost on GLP-1 agonists alone can come from lean body mass, including skeletal muscle. Lose 25 kilograms on Ozempic and you may have lost 10 of them from muscle. That's not a footnote. That's a metabolic liability that worsens long-term outcomes, increases fall risk in older adults, and sets the stage for weight regain the moment the prescription stops.
@@ -76,7 +76,7 @@ The research is early, the signal is interesting, and the mechanism makes biolog
 ## Sources
 
 - [Personalized Combination of a Ketogenic Diet and Low-Dose Semaglutide for Cardiometabolic Health (MDPI)](https://www.mdpi.com/2075-4426/16/6/313) (June 12, 2026)
-- [Beyond GLP-1 Agonists: An Adaptive Ketogenic–Mediterranean Protocol to Counter Metabolic Adaptation (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12389659/) (June 2026)
+- [Beyond GLP-1 Agonists: An Adaptive Ketogenic-Mediterranean Protocol to Counter Metabolic Adaptation (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12389659/) (June 2026)
 - [Ozempic and Keto Diet: Is It Safe To Combine The Two? (Revitalize Weight Loss)](https://revitalizeweightloss.com/blog/can-you-do-keto-on-ozempic/) (April 22, 2025)
 - [UCSF Ketogenic Diet Clinical Trials for 2026](https://clinicaltrials.ucsf.edu/ketogenic-diet) (May 4, 2026)
 

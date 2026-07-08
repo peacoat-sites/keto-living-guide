@@ -23,7 +23,7 @@ faqs:
     a: "It's a solid source of vitamin C (about 77% of the daily value per cup), vitamin K, and folate. It also contains sulforaphane, a compound that's gotten some research attention for potential anti-inflammatory properties, though the research is preliminary and I wouldn't overstate it."
   - q: "What's the best way to store cauliflower to keep it fresh longer?"
     a: "Keep it unwashed in the refrigerator, ideally stem-side down or in a loose plastic bag. A whole head usually lasts 4-5 days. If you've already riced or cut it, store it in an airtight container and use it within 2-3 days, or freeze it in a single layer on a baking sheet before transferring to a bag."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Cauliflower gets more credit than it deserves on keto. There, I said it.
@@ -130,6 +130,6 @@ Cauliflower tortillas. I've tried three different versions. They tear every time
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199) — Professional-grade DIY home security system with optional 24/7 monitoring — top way to qualify for insurance discounts.
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
+- **[Ring Alarm 8-Piece Security Kit](https://www.amazon.com/dp/B07K1379PQ/?tag=contentportfo-20)** (~$199), Professional-grade DIY home security system with optional 24/7 monitoring, top way to qualify for insurance discounts.
 

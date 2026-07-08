@@ -23,7 +23,7 @@ faqs:
     a: "With some caution, yes. The main risk is that combining fasting with keto can make hitting daily protein targets harder, and muscle preservation matters a lot at this stage. If you do fast, compress your eating window rather than cutting overall calories, and prioritize protein in every meal you eat. Skipping breakfast and eating a protein-poor lunch is probably the worst pattern for muscle health."
   - q: "What's the minimum carb level seniors need to aim for?"
     a: "There's no universal number. Many older adults get substantial metabolic benefit staying under 75-100g net carbs without going into strict ketosis. Strict keto (under 20g) isn't required for most goals and is harder to sustain. Start more moderate, see how your labs and energy respond over 8-12 weeks, then adjust from there with your doctor's input."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume keto is a young person's diet. High-intensity, aggressive, maybe a little reckless. Something you'd try at 32, not 72.
@@ -121,6 +121,6 @@ Worked example: A 74-year-old client in my practice (male, sedentary, pre-diabet
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

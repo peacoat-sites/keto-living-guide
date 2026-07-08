@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people tank on keto in the first two weeks, but not because the diet is too hard. They walk into a grocery store completely lost, grab some avocados and bacon, go home, and eat an 80-gram carb dinner without realizing it. A solid food list isn't just convenience. It's the difference between actually hitting ketosis and eating a weird, unsatisfying version of your old diet.
 
@@ -137,7 +137,7 @@ High-fat and nutrient-dense, but portions matter.
 |---|---|---|
 | Macadamia nuts | 1.5g | Best keto nut |
 | Pecans | 1.2g | Great in salads |
-| Brazil nuts | 1.3g | Limit to 3–4 daily (selenium) |
+| Brazil nuts | 1.3g | Limit to 3-4 daily (selenium) |
 | Walnuts | 2g | High in omega-3 |
 | Almonds | 3g | Easy to overeat |
 | Pistachios | 5g | Watch portions |
