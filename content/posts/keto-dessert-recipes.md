@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Most people think keto means no desserts. Ever. That's wrong, and it's exactly why people bail in week two. You can make a chocolate lava cake with 4 grams of net carbs. A cheesecake that won't spike your blood sugar. Fat bombs that taste like actual candy. Keto baking has changed. Once you understand the few ingredient swaps that actually work, dessert's back on the menu.
 
@@ -76,6 +76,15 @@ Fat bombs aren't baked. They're a chilled confection built around something fatt
 A peanut butter chocolate version: mix 1/2 cup of natural peanut butter, 4 oz softened cream cheese, 2 tablespoons powdered monk fruit sweetener, and 1/4 cup melted coconut oil. Dip or drizzle with melted 85% dark chocolate. Freeze in silicone molds for 30 minutes. Each bomb has about 1 to 2 grams of net carbs and 12 to 14 grams of fat.
 
 ## A Comparison of Keto Sweeteners for Baking
+
+| Sweetener | Net Carbs | Sweetness vs Sugar | Best Used For | Watch Out For |
+|---|---|---|---|---|
+| Erythritol | 0g | 70% | Cookies, crusts | Cooling sensation, crystallizes |
+| Allulose | 0g | 70% | Caramel, brownies, cookies | Slight browning at high heat |
+| Monk Fruit | 0g | 150-200% | Drinks, frostings | Can be bitter in large amounts |
+| Swerve (blend) | 0g | 100% | Most baking | Similar to erythritol |
+| Stevia | 0g | 200-300% | Drinks, light baking | Very bitter at high amounts |
+| Xylitol | 0g net (but 2.4 cal/g) | 100% | Most baking | Toxic to dogs, GI issues |
 
 Pick the wrong sweetener and you'll ruin the recipe. Here's what actually matters:
 

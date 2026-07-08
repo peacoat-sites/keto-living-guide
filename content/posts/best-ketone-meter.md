@@ -23,6 +23,7 @@ faqs:
    a: "Yes, for practical dietary purposes. It's FDA-cleared and has performed well in independent accuracy comparisons. Just remember that a consistent reading trend matters more than any single number, and don't compare your Keto-Mojo readings directly against someone using a Precision Xtra without accounting for the calibration differences."
  - q: "Do I need to test ketones at all if I'm feeling good on keto?"
    a: "Honestly, no. If you're eating the right foods, maintaining your carb target, and feeling the expected effects (steady energy, reduced hunger, mental clarity), the meter is optional. It's a useful diagnostic tool, not a scorecard. Some of my most successfully keto-adapted clients barely test anymore."
+lastmod: 2026-07-07
 ---
 
 Most people buying a ketone meter don't realize they're about to spend real money on a device where the brand matters enormously, and not always in the ways the product pages suggest. I went deep on this after a reader emailed me frustrated that her readings seemed wildly inconsistent compared to her training partner using a different device. They were eating nearly identical meals. Same fasting window. Completely different numbers. That's not user error. That's a calibration and methodology problem baked into the products themselves.
@@ -31,13 +32,21 @@ Let me tell you what I actually found.
 
 ## Blood vs. Breath vs. Urine: Settle This First
 
-Before you even think about specific meters, you need to decide what you're actually measuring. Urine strips (Smackfat, Ketostix) measure acetoacetate, not beta-hydroxybutyrate (BHB), which is the primary ketone your body runs on. They're cheap, around $10-15 for a big bottle, but they're a rough signal at best. After the first few weeks of keto, your kidneys stop excreting as much acetoacetate because your body gets efficient at using it. So the strips look lighter over time, people think they've fallen out of ketosis, and they haven't. I've seen this derail clients more times than I can count.
+Before you even think about specific meters, you need to decide what you're actually measuring. [Urine strips (Smackfat, Ketostix)](/urine-ketone-strips-accuracy/) measure acetoacetate, not beta-hydroxybutyrate (BHB), which is the primary ketone your body runs on. They're cheap, around $10-15 for a big bottle, but they're a rough signal at best. After the first few weeks of keto, your kidneys stop excreting as much acetoacetate because your body gets efficient at using it. So the strips look lighter over time, people think they've fallen out of ketosis, and they haven't. I've seen this derail clients more times than I can count.
 
 Breath meters measure acetone, a different ketone. Better than urine, honestly, because acetone tracks BHB reasonably well over time, and you never pay for test strips. The Biosense (around $200 as of this year) is the best breath device on the market for serious users. It uses a clinical acetone measurement unit called ACEs rather than arbitrary numbers, and the research behind it is more rigorous than competitors. What surprised me was how well it correlated with blood BHB for people who had been keto-adapted for at least four to six weeks. For newer keto dieters, the correlation is messier.
 
 Blood meters measure BHB directly. Most accurate. Most invasive. Ongoing strip costs add up. That's the real tradeoff.
 
 ## Blood Ketone Meters: What the Comparison Actually Looks Like
+
+| Meter Type | Measures | Cost | Accuracy | Best For |
+| --- | --- | --- | --- | --- |
+| Urine Strips (Ketostix) | Acetoacetate | $10-15/bottle | Rough signal; unreliable after keto-adaptation | Budget option; not recommended long-term |
+| Breath (Biosense) | Acetone | ~$200 | Good correlation with BHB after 4-6 weeks keto-adapted | Ongoing use without strip costs |
+| Blood: Keto-Mojo GK+ Duo | BHB + glucose | $1.00-1.30/ketone strip | ±0.5 mmol/L tolerance; slightly lower than Precision Xtra | Most people; dual glucose/ketone; app integration |
+| Blood: Precision Xtra | BHB | $2.50-4.00/strip | ±0.5 mmol/L tolerance; gold standard in research | Research reference; clinical validation |
+| Continuous: Sibio KS1 | Interstitial fluid ketones | High sensor cost | Lags behind fingerstick blood testing | Trend data; early adopters only |
 
 The two meters you'll see recommended most are the **Keto-Mojo GK+ Duo** and the **Precision Xtra** from Abbott. I've used both. Here's my honest take.
 

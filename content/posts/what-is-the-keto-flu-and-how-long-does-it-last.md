@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 You cut carbs four days ago. Your head's pounding. Your legs feel like concrete. You're snapping at someone for breathing too loud. You're starting to wonder if keto is brilliant or actively trying to kill you.
 
@@ -57,11 +57,19 @@ What keto flu is NOT: proof the diet isn't working, evidence you need carbs to f
 
 ## How Long Keto Flu Actually Lasts
 
+| Timeline | Symptoms | Electrolyte Status | Notes |
+| --- | --- | --- | --- |
+| Days 1-2 | Often minimal | Depletion beginning | Some feel energized as blood sugar stabilizes |
+| Days 3-5 | Peak symptoms (headache, fatigue, brain fog) | Worst depletion | Ketone production ramping but inefficient |
+| Days 6-10 | Acute symptoms lifting | Recovering | Headache and severe fatigue usually resolve |
+| Weeks 2-4 | Lower exercise tolerance, occasional fatigue, mood variability | Normalizing | Broader adaptation phase, not acute crisis |
+| 4-6 weeks | Full fat adaptation for most | Stable | Energy typically improves past pre-keto baseline |
+
 Here's where most keto writing gives false hope. "Keto flu lasts 3-5 days" gets repeated constantly, and for some people that's true. For others, it undershoots.
 
 More honest breakdown:
 
-**Days 1-2:** Often fine. Insulin is dropping, glycogen stores are depleting, but you haven't hit bottom yet. Some people feel oddly energized as blood sugar stabilizes.
+**Days 1-2:** Often fine. Insulin is dropping, glycogen stores are depleting, but [you haven't hit bottom yet](/how-to-test-for-ketosis-at-home/). Some people feel oddly energized as blood sugar stabilizes.
 
 **Days 3-5:** Peak symptoms. This is when you question all your choices. Electrolyte depletion is worst, ketone production is ramping but not yet efficient, and your brain is caught between metabolisms.
 

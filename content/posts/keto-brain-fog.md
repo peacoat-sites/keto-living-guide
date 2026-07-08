@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 Most people blame keto brain fog on the diet itself. That framing is almost always wrong, and it keeps people from fixing the actual problem.
 
@@ -55,6 +55,13 @@ Here's what surprised me when I dug into the research: a huge chunk of this spec
 
 ## The Electrolyte Problem (And Why It's Underestimated)
 
+| Electrolyte | Recommended Daily Intake (Adaptation Phase) | Food/Supplement Example | Approx. Cost |
+| --- | --- | --- | --- |
+| Sodium | 2,000-4,000 mg | Kettle & Fire bone broth (500 mg/cup) | ~$4.17/cup (6-pack $25) |
+| Magnesium | 300-400 mg | Pure Encapsulations Magnesium Glycinate | ~$0.33/day (90-day $30) |
+| Potassium | Food sources (avocado, leafy greens, salmon) | No supplement needed for healthy kidneys | Included in food budget |
+| Electrolyte Powder (Alternative) | Balanced formula | LMNT (unsweetened) | ~$1.50/packet (30-pack $45) |
+
 Most keto people, even experienced ones, don't get enough electrolytes. The usual advice is "get your sodium," so they sprinkle salt on their eggs and figure they're done. Usually not enough, especially the first two weeks.
 
 Here's what I actually tell clients to do.
@@ -73,7 +80,7 @@ If you go the electrolyte powder route, check the label. A lot of popular option
 
 This is where I see people get truly stuck. First week's done, electrolytes are handled, and they're still foggy at week three or four. Usually it's one of three things at that point.
 
-**Calories are too low.** Keto kills appetite so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. I've had clients clear persistent brain fog just by adding a tablespoon of almond butter or an extra ounce of cheese at each meal.
+**Calories are too low.** [Keto kills appetite](/keto-mental-clarity/) so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. I've had clients clear persistent brain fog just by adding a tablespoon of almond butter or an extra ounce of cheese at each meal.
 
 **You're not actually in ketosis.** Hidden carbs are everywhere. Dressings, deli meats, sauces. If you're not testing, you're guessing. A Keto-Mojo blood ketone meter (about $50 upfront, plus strips) gives you an answer in 10 seconds. Urine strips are cheap but unreliable after the first few weeks.
 

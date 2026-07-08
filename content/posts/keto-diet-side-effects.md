@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 You started keto on Monday. By Wednesday you feel like you got hit by a bus. Your head's pounding, your legs are heavy, and you're so foggy you had to read the same email three times. You're ready to quit.
 
@@ -50,9 +50,16 @@ Beyond electrolytes, your gut bacteria shift when the fiber and prebiotic conten
 - Dizziness when standing up (orthostatic hypotension)
 - Heart palpitations or a racing sensation
 
-The palpitations one tends to scare people, and reasonably so. But in otherwise healthy individuals, this is almost always a potassium or magnesium deficit triggering minor electrical dysregulation. If you have a pre-existing heart condition, talk to your doctor before starting keto. For everyone else, addressing electrolytes usually resolves it within 24 to 48 hours.
+The palpitations one tends to scare people, and reasonably so. But in otherwise healthy individuals, this is almost always a potassium or magnesium deficit triggering minor electrical dysregulation. If you have a [pre-existing heart condition](/keto-and-blood-pressure/), talk to your doctor before starting keto. For everyone else, addressing electrolytes usually resolves it within 24 to 48 hours.
 
 ### Step-by-Step Electrolyte Protocol for Keto Flu Relief
+
+| Electrolyte | Daily Target | Best Food Sources | Supplement Form | Notes |
+| --- | --- | --- | --- | --- |
+| Sodium | 3,000-5,000 mg | Broth, salted foods | Electrolyte packets (e.g., LMNT) | 1,000 mg per packet, no sugar |
+| Potassium | 3,500-4,700 mg | Avocados (~700 mg each), leafy greens, salmon | Potassium chloride or citrate | Max 3,500 mg from supplements alone |
+| Magnesium | 300-500 mg | Above-ground vegetables | Magnesium glycinate or malate | Most absorbable forms, least GI upset |
+| Hydration | To thirst, lean toward more | Water | - | Target: pale yellow urine |
 
 1. **Sodium:** Target 3,000 to 5,000 mg per day from food and supplementation. Salt your food aggressively. Drink a cup of broth (chicken, beef, or bone broth) once or twice daily. A quality electrolyte supplement like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) provides 1,000 mg sodium per packet without sugar, which makes it easy to hit targets. *(This site may earn a commission on qualifying purchases.)*
 2. **Potassium:** Aim for 3,500 to 4,700 mg daily. Avocados (one medium avocado has around 700 mg), leafy greens, and salmon are your best food sources on keto. If you're using a supplement, look for potassium chloride or potassium citrate, staying under 3,500 mg from supplements alone.
@@ -64,7 +71,7 @@ The palpitations one tends to scare people, and reasonably so. But in otherwise 
 
 Your gut is going to have opinions about keto. Which opinion it expresses depends on what your previous diet looked like.
 
-**Constipation** is common when people cut out grains and fruits without replacing their fiber. Magnesium deficiency worsens it. Load up on fibrous above-ground vegetables (broccoli, zucchini, asparagus, leafy greens), consider a tablespoon of psyllium husk daily, and make sure your magnesium intake is where it needs to be. Adequate fat intake also keeps things moving; constipation sometimes shows up in people who went low-carb but are still fear eating fat.
+**Constipation** is common when people cut out grains and fruits without replacing their fiber. [Magnesium deficiency worsens it](/keto-diet-constipation/). Load up on fibrous above-ground vegetables (broccoli, zucchini, asparagus, leafy greens), consider a tablespoon of psyllium husk daily, and make sure your magnesium intake is where it needs to be. Adequate fat intake also keeps things moving; constipation sometimes shows up in people who went low-carb but are still fear eating fat.
 
 **Diarrhea** is the opposite problem, and it shows up more often than people expect. Adding large amounts of MCT oil or heavy cream quickly can overwhelm your digestive system. MCT oil in particular, start with half a teaspoon and work up over two weeks rather than dumping a tablespoon into your coffee on day one. [Sports Research MCT Oil](https://www.amazon.com/s?k=sports+research+mct+oil&tag=contentportfo-20) comes with a graduated pump that makes dosing easy. *(This site may earn a commission on qualifying purchases.)*
 

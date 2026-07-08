@@ -23,11 +23,17 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Maria stepped on the scale every Monday morning for three months. Salads, calorie counting, five days of cardio a week. The needle barely moved. She was eating around 1,400 calories a day and stuck at 185 pounds until she switched to keto. Six weeks later, she'd dropped 14 pounds. Magic? No. A fluke? Also no. What actually changed was *how her body was burning fuel*, and for a lot of people who've hit a wall, that shift makes all the difference.
 
 ## What Keto Actually Does to Your Body (The Short, Honest Version)
+
+| Metric | Initial State | After 6 Weeks on Keto | Change |
+| --- | --- | --- | --- |
+| Weight | 185 lbs | 171 lbs | -14 lbs |
+| Diet Approach | Calorie counting (1,400 cal/day) + cardio | Keto (carbs <20-50g net) | Metabolic shift |
+| Timeline | 3 months (minimal progress) | 6 weeks | Accelerated results |
 
 Keto isn't built on vibes. There's real metabolic science here, and understanding the basics helps when things get hard.
 

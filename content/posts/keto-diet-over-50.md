@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.
 
@@ -40,6 +40,13 @@ The good news is that ketogenic diets show real promise specifically for the met
 What doesn't change: you still need to eat enough food. I cannot tell you how many clients over 50 come to me eating 1,100 calories a day because they've conflated "low carb" with "as little food as possible." That's a fast road to muscle loss, fatigue, and a metabolism that genuinely does slow down in response to under-eating.
 
 ## Protein: the variable most people get wrong
+
+| Metric | Standard Keto (General) | Keto Over 50 |
+| --- | --- | --- |
+| Protein Target | 0.6-0.8 g per lb lean body mass | 1.0-1.2 g per lb lean body mass |
+| Adaptation Period | 2-4 weeks | 4-6 weeks |
+| Initial Carb Range (transition) | 20 g daily | 50-60 g daily |
+| Key Electrolyte Concern | Mild depletion | Amplified by medications & existing deficiency |
 
 Most keto guidance for general audiences recommends moderate protein, somewhere around 0.6 to 0.8 grams per pound of lean body mass. That's fine in your 30s. After 50, that number is almost certainly too low.
 
@@ -63,9 +70,9 @@ For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+
 
 The keto "adaptation" phase (those first two to four weeks where you feel exhausted and foggy before your body learns to run on fat) tends to run longer after 50. Plan for four to six weeks rather than two. This isn't a sign something's wrong. It's just physiology.
 
-Sleep disruption is common in this transition and is often worse for women in menopause. Keto can actually improve sleep quality once you're adapted, but getting there can be rough. Keeping carbs slightly higher (50 to 60 grams rather than 20) during the first few weeks can ease the transition without derailing the metabolic shift entirely. You can tighten things down later.
+Sleep disruption is common in this transition and is often worse for [women in menopause](/keto-for-women-over-40/). Keto can actually improve sleep quality once you're adapted, but getting there can be rough. Keeping carbs slightly higher (50 to 60 grams rather than 20) during the first few weeks can ease the transition without derailing the metabolic shift entirely. You can tighten things down later.
 
-Here's where I push back on standard keto advice, though: for anyone with a history of disordered eating, the rigidity of strict keto can be a trigger. I've seen this come up more in women over 50 than in any other group, partly because diet culture has followed many of them for decades. If that resonates at all, work with a dietitian one-on-one rather than going it alone.
+Here's where I push back on standard keto advice, though: for anyone with a history of disordered eating, the rigidity of strict keto can be a trigger. I've seen this come up more in women over 50 than in any other group, partly because diet culture has followed many of them for decades. If that resonates at all, [work with a dietitian one-on-one](/keto-for-seniors/) rather than going it alone.
 
 ## Movement matters more than it did before
 

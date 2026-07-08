@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 You've been eating keto for three weeks, you feel pretty good, but the scale hasn't budged. You tweak your carbs, you cut out that nightly handful of nuts, and still nothing. Sound familiar? Nine times out of ten, when I dig into what a stalled client is actually eating, the problem isn't willpower or hidden carbs. It's macros that were never dialed in correctly to begin with. A keto macros calculator is the starting point most people skip, or rush through in two minutes without understanding what the numbers actually mean. Let's fix that.
 
@@ -31,7 +31,7 @@ You've been eating keto for three weeks, you feel pretty good, but the scale has
 
 Macronutrients are fat, protein, and carbohydrates. On a standard ketogenic diet, the classic breakdown looks roughly like this: 70-75% of calories from fat, 20-25% from protein, and 5% or less from carbohydrates. For most people, that 5% translates to somewhere between 20 and 50 grams of net carbs per day.
 
-Here's what gets lost in that textbook description, though. Those percentages describe what a ketogenic eating pattern tends to look like in practice, not a rigid formula you must hit exactly every single day. The real goal is to keep carbohydrates low enough that your liver starts producing ketone bodies from fat, pushing your body into a metabolic state called nutritional ketosis.
+Here's what gets lost in that textbook description, though. Those percentages describe what a ketogenic eating pattern tends to look like in practice, not a rigid formula you must hit exactly every single day. The real goal is to keep carbohydrates low enough that your liver starts producing ketone bodies from fat, pushing your body into a metabolic state called [nutritional ketosis](/how-long-to-enter-ketosis/).
 
 Protein is where people get confused most often. Keto has a reputation for being a high-fat diet (which it is), but many beginners take that to mean protein should be kept low. Wrong call. Protein preserves your muscle mass while you're in a calorie deficit, keeps you full, and has the highest thermic effect of any macronutrient, meaning your body burns more calories just digesting it. The sweet spot for most active people is 0.7 to 1.0 grams of protein per pound of lean body mass, not total body weight.
 
@@ -50,6 +50,13 @@ A good calculator takes several inputs and spits out personalized gram targets, 
 Once the calculator has calories and your protein target locked in, fat fills the remaining calories. Because fat provides 9 calories per gram (versus 4 for both protein and carbs), even a moderate fat intake in grams produces a large chunk of your daily calories. That's why keto "feels" like a high-fat diet even when absolute gram amounts might surprise you.
 
 ## Running the Numbers: A Step-by-Step Example
+
+| Component | Sarah's Target | Calculation | Purpose |
+| --- | --- | --- | --- |
+| Daily Calories | 1,639 | TDEE (2,049) × 0.80 | 20% deficit for sustainable fat loss |
+| Protein | 95g | Lean body mass (119 lbs) × 0.8 g/lb | Preserves muscle during deficit |
+| Net Carbs | 25g | Ketosis threshold | Maintains nutritional ketosis |
+| Fat | 129g | Remaining calories ÷ 9 cal/g | Fills calorie gap after protein & carbs |
 
 Let me walk through a real-world calculation so the math clicks rather than just sitting as an abstract concept.
 

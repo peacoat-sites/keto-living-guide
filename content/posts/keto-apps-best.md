@@ -12,9 +12,9 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
-Most people pick a keto app the same way they pick a Netflix show: scroll for two minutes, grab something popular, and wonder why it's not working for them three weeks later. I did exactly that when I first started tracking macros, and I spent an embarrassing amount of time logging food in an app that wasn't even designed with low-carb eating in mind.
+Most people pick a keto app the same way they pick a Netflix show: scroll for two minutes, grab something popular, and wonder why it's not working for them three weeks later. I did exactly that when I first started [tracking macros](/keto-tracker-apps/), and I spent an embarrassing amount of time logging food in an app that wasn't even designed with low-carb eating in mind.
 
 Here's what I've learned after years of recommending tracking tools to clients: there's no single "best keto app," and most roundups pretend there is. The app that keeps a busy nurse on track looks nothing like what works for a retired teacher with time to cook elaborate meals. What I can do is tell you what I actually found when I went deep on this, what the apps get right, where they quietly fail, and which ones are genuinely worth your money.
 
@@ -38,7 +38,7 @@ The better keto-specific apps organize your dashboard around fat, protein, and n
 
 ## The Apps Worth Knowing About
 
-**Carb Manager** is what I recommend most often to new clients, and not just because it's popular. It's genuinely built for low-carb eating specifically. The free version covers most of what beginners need: net carb tracking, macro breakdowns, a solid barcode scanner, and meal logging. Premium ($40/year or $8/month if you pay monthly) adds deeper analytics, fasting tracking, blood ketone logging, and recipe analysis. Most people don't need premium for the first few months. Start free.
+**Carb Manager** is what I recommend most often to new clients, and not just because it's popular. It's genuinely built for low-carb eating specifically. The free version covers most of what beginners need: net carb tracking, macro breakdowns, a solid barcode scanner, and meal logging. Premium ($40/year or $8/month if you pay monthly) adds deeper analytics, fasting tracking, [blood ketone logging](/best-ketone-meter/), and recipe analysis. Most people don't need premium for the first few months. Start free.
 
 **Cronometer** is what I personally use for clients doing keto for therapeutic reasons, metabolic health, or who care about micronutrients. It's less polished than Carb Manager but tracks what others ignore: selenium, choline, B vitamins, the full mineral panel. If you want to know whether you're getting enough magnesium from food (most people aren't), Cronometer will show you. The Gold version runs about $45/year. Worth it if you're detail-oriented.
 

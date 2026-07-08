@@ -12,10 +12,18 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-as-mental-health-treatment-what-the-new-research-actually-shows"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 When RFK Jr. stood up in February 2026 and told the world that a ketogenic diet could *cure* schizophrenia, the backlash was immediate and predictable. Psychiatrists and pharmacists pushed back hard, calling his statement a dramatic overreach of what the science actually supports. And they weren't wrong to push back. But here's what's getting lost in the noise: there genuinely is something happening in this space. The research is real, it's accelerating, and it's coming from places like Stanford, Harvard, and JAMA Psychiatry, not fringe wellness blogs. The honest conversation is more nuanced than either "RFK is right" or "this is dangerous quackery," and it's worth having.
 
 ## What the Actual Research Shows (and Doesn't)
+
+| Study | Population | Duration | Outcome Measure | Result | Study Type |
+| --- | --- | --- | --- | --- | --- |
+| Sethi et al. (Stanford) | 21 adults with bipolar disorder or schizophrenia | 4 months | Clinical Global Impression severity scores | 31% improvement overall; 32% drop in BPRS (schizophrenia subgroup) | Pilot |
+| Ohio State University | Students | ≥10 weeks | Depression symptoms | ~70% decrease | Controlled trial |
+| Meta-analysis (St. Michael's/University of Toronto) | Multiple studies on depression and anxiety | Various | Systematic review | Consistent direction of evidence | Meta-analysis |
+| Standard antidepressants + counseling | Depression patients | Typical course | Response rate | ~50% | Clinical benchmark |
 
 I'll be honest, when I first started digging into the metabolic psychiatry literature, I expected to find a thin stack of small pilot studies propped up by enthusiast researchers. What I found was more interesting than that, and also more complicated.
 
@@ -41,9 +49,9 @@ This isn't a new idea. The ketogenic diet has been used as a treatment for refra
 
 ## What This Means If You're Actually Dealing With Mental Illness
 
-I want to be direct here, because this is a topic where false hope does real damage. If you or someone you care about has schizophrenia, bipolar disorder, or treatment-resistant depression, the current evidence does not support replacing psychiatric care with a ketogenic diet. The Delphi consensus paper makes this point explicitly: KMT is being studied as a complement to existing treatment, not a substitute.
+I want to be direct here, because this is a topic where false hope does real damage. If you or someone you care about has schizophrenia, bipolar disorder, or [treatment-resistant depression](/keto-diet-shows-promise-for-treatment-resistant-depression/), the current evidence does not support replacing psychiatric care with a ketogenic diet. The Delphi consensus paper makes this point explicitly: KMT is being studied as a complement to existing treatment, not a substitute.
 
-What the research does suggest is that metabolic health and mental health are more tightly linked than psychiatry has historically recognized. If you're in treatment for a serious mental illness and also dealing with metabolic issues, including weight gain from antipsychotics, insulin resistance, or metabolic syndrome, there may be real reasons to have a conversation with your care team about nutrition's role in your overall treatment plan. That conversation should happen with your psychiatrist and a registered dietitian who understands both psychiatric medications and ketogenic protocols. The dietary demands here are not casual, and the interactions with psychiatric medication are real enough to require professional oversight.
+What the research does suggest is that [metabolic health and mental health](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/) are more tightly linked than psychiatry has historically recognized. If you're in treatment for a serious mental illness and also dealing with metabolic issues, including weight gain from antipsychotics, insulin resistance, or metabolic syndrome, there may be real reasons to have a conversation with your care team about nutrition's role in your overall treatment plan. That conversation should happen with your psychiatrist and a registered dietitian who understands both psychiatric medications and ketogenic protocols. The dietary demands here are not casual, and the interactions with psychiatric medication are real enough to require professional oversight.
 
 The research is genuinely exciting. The mechanistic story is plausible. And the field is moving faster than most people realize. But we're at the "fund more rigorous trials" stage, not the "we have a cure" stage, and the difference between those two things matters enormously when real people are making real decisions about serious illness.
 

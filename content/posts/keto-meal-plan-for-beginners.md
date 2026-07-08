@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.
 
@@ -40,6 +40,12 @@ The real reason a meal plan matters so much in this phase: decision fatigue is b
 ---
 
 ## The Macro Framework: What You're Actually Eating
+
+| Macro | Percentage of Daily Calories | Example (1,800 cal/day) |
+|-------|------------------------------|------------------------|
+| Fat | 70-75% | 140-150g |
+| Protein | 20-25% | 90-110g |
+| Net Carbs | 5-10% | 20-25g |
 
 Before we get to specific meals, let's be clear about the numbers.
 

@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 You cleaned up your diet, cut the carbs, started losing weight, and then somewhere around week two you woke up at 3am with a calf cramp so savage it left you limping the next morning. Welcome to one of keto's least glamorous rites of passage. Most people blame dehydration. A few blame electrolytes in some vague, hand-wavy way. What surprised me, when I actually dug into the physiology here, is how specifically magnesium is the culprit behind so many of keto's most common complaints, and how badly the standard advice undershoots what people actually need.
 
@@ -41,7 +41,7 @@ The symptom list here is frustratingly broad, which is part of why magnesium def
 
 **Muscle cramps and twitching** are the most dramatic. The calf cramp at 3am is the classic presentation, but eye twitches (called myokymia) and general muscle tension are also common. Magnesium is essential for muscle relaxation. Without enough, muscles contract more easily and struggle to release.
 
-**Sleep disruption** is underappreciated. Magnesium plays a role in regulating GABA, an inhibitory neurotransmitter that quiets the nervous system. Low magnesium can mean lighter sleep, more wakefulness, and that wired-but-tired feeling that some people wrongly attribute to keto adaptation itself.
+**Sleep disruption** is underappreciated. Magnesium plays a role in regulating GABA, an inhibitory neurotransmitter that quiets the nervous system. Low magnesium can mean lighter sleep, more wakefulness, and that wired-but-tired feeling that some people wrongly attribute to [keto adaptation itself](/exogenous-ketones/).
 
 **Constipation** is another one. Keto can already slow things down for some people due to changes in fiber intake and gut microbiome. Magnesium deficiency makes it worse because the mineral draws water into the intestines and supports smooth muscle contraction. This is actually the mechanism behind magnesium-based laxatives.
 
@@ -50,6 +50,15 @@ The symptom list here is frustratingly broad, which is part of why magnesium def
 If you're experiencing two or more of these during keto adaptation, magnesium is worth taking seriously before assuming it's just "the keto flu."
 
 ## Not All Magnesium Supplements Are Equal
+
+| Form | Bioavailability | Best For | Notes |
+|---|---|---|---|
+| Magnesium oxide | Low (~4%) | Nothing really | Cheap, widely sold, poorly absorbed |
+| Magnesium citrate | Moderate-high | General supplementation, constipation | Good starting point for most people |
+| Magnesium glycinate | High | Sleep, anxiety, sensitive stomachs | Least likely to cause loose stools |
+| Magnesium malate | Moderate-high | Muscle function, fatigue | Often used by athletes |
+| Magnesium threonate | High (brain-specific) | Cognitive support | Newer research, more expensive |
+| Magnesium chloride (topical) | Variable | Sore muscles (transdermal) | Useful adjunct, not a full replacement |
 
 This is where I'll be honest: the supplement aisle is a disaster of poorly labeled products, and most people default to the cheapest option, which is usually magnesium oxide. That's a problem.
 

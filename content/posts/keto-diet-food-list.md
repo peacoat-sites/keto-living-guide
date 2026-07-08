@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 Most people tank on keto in the first two weeks, but not because the diet is too hard. They walk into a grocery store completely lost, grab some avocados and bacon, go home, and eat an 80-gram carb dinner without realizing it. A solid food list isn't just convenience. It's the difference between actually hitting ketosis and eating a weird, unsatisfying version of your old diet.
 
@@ -53,7 +53,7 @@ Protein on keto is straightforward. Unprocessed whole-animal proteins are almost
 - Breaded or marinated proteins from the meat case
 - Flavored canned fish with added sauces
 
-On protein amounts: keto isn't carnivore, and it's not low-protein either. You need adequate protein to keep muscle, especially if you're training. Aim for 0.7 to 1 gram per pound of lean body mass.
+On protein amounts: keto isn't carnivore, and it's not low-protein either. You need [adequate protein to keep muscle](/best-protein-sources-keto/), especially if you're training. Aim for 0.7 to 1 gram per pound of lean body mass.
 
 ## Fats: Your New Primary Fuel Source
 
@@ -111,6 +111,19 @@ Some people hear "keto" and cut all vegetables. Mistake. Vegetables deliver fibe
 One practical rule: above-ground vegetables tend to be lower carb. Below-ground vegetables tend to be starchy. It's not perfect, but it's a solid heuristic at a farmers market when you're unsure.
 
 ## Dairy, Nuts, Fruits, and the Sneaky Carb Sources
+
+| Nut/Seed | Net Carbs per 1 oz | Notes |
+|---|---|---|
+| Macadamia nuts | 1.5g | Best keto nut |
+| Pecans | 1.2g | Great in salads |
+| Brazil nuts | 1.3g | Limit to 3-4 daily (selenium) |
+| Walnuts | 2g | High in omega-3 |
+| Almonds | 3g | Easy to overeat |
+| Pistachios | 5g | Watch portions |
+| Cashews | 8g | Not ideal for strict keto |
+| Pumpkin seeds | 1.3g | Good for snacking |
+| Chia seeds | 1g | Excellent fiber |
+| Sunflower seeds | 3.5g | Fine in moderation |
 
 These four categories are where keto dieters accidentally blow their carb budget.
 

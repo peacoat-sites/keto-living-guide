@@ -12,10 +12,20 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-reverse-pancreatic-stress-in-type-2-diabetes"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Most dietary interventions for type 2 diabetes just manage symptoms. Lower blood sugar through restriction, weight loss, or both. What they rarely do is fix the underlying problem, the insulin-producing beta cells that have been grinding under chronic stress for years. A new clinical trial suggests keto might actually repair that damage. If it holds up, this changes how we think about diet and T2D.
 
 ## What the UAB Trial Actually Found
+
+| Aspect | UAB Trial (Keto) | UAB Trial (Low-Fat Control) | Key Difference |
+| --- | --- | --- | --- |
+| Duration | 12 weeks | 12 weeks | Same |
+| Diet Type | Ketogenic | Low-fat | Controlled comparison |
+| Weight Loss Prescription | Weight-maintaining | Weight-maintaining | Confounding variable removed |
+| Primary Outcome (PICP) | Significantly reduced | Minimal reduction | Keto superior |
+| Sample Size | ~26 participants | ~25 participants | Total n=51 |
+| Participant Demographics | Mostly women (71%), ages 55-62 | Mostly women (71%), ages 55-62 | Matched groups |
 
 On April 21, 2026, researchers at the University of Alabama at Birmingham published results in the *Journal of the Endocrine Society* from a 12-week trial led by Marian Yurchishin, M.S. Fifty-one adults with type 2 diabetes, mostly women (71%), ages 55 to 62, were assigned to either a ketogenic diet or a low-fat control diet. Here's the unusual part: both groups were prescribed weight-maintaining diets. The researchers specifically designed out large weight loss as a confounding variable.
 
@@ -33,7 +43,7 @@ The PICP reduction didn't require dramatic weight loss. That matters because a c
 
 ## The Counterpoint You Shouldn't Skip
 
-A January 2026 study from the University of Utah, published in *Science Advances*, adds a wrinkle. In mice on long-term ketogenic diets, researchers found fatty liver disease and impaired glucose response when carbohydrates were reintroduced. The finding has sparked serious debate about how long someone should stay on keto, and whether cycling on and off creates its own metabolic problems.
+A January 2026 study from the University of Utah, published in *Science Advances*, adds a wrinkle. In mice on [long-term ketogenic diets](/new-studies-clash-on-long-term-keto-what-the-science-actually-says/), researchers found fatty liver disease and impaired glucose response when carbohydrates were reintroduced. The finding has sparked serious debate about how long someone should stay on keto, and whether cycling on and off creates its own metabolic problems.
 
 Animal data doesn't translate directly to humans. But it's not nothing either. Fatty liver is already a concern in metabolic disease, and the reintroduction problem matters in real life: most people don't stay on keto indefinitely. If coming off the diet carries its own risks, that changes the calculus. Especially for patients who use keto as a short-term reset rather than a permanent lifestyle.
 

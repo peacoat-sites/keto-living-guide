@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 You pick up a peach at the farmers market, and for a second you think: *it's fruit, it's natural, it can't be that bad.* Then you get home, look it up, and find out one medium peach has 13 grams of net carbs. On a strict keto diet, that's most of your daily carb budget in a single piece of fruit. Natural doesn't mean low-carb, and this is where a lot of people quietly blow their macros without realizing it.
 
@@ -38,6 +38,25 @@ Fructose is metabolized almost entirely in the liver. Unlike glucose, it doesn't
 The real kicker is that carb counts in fruit vary wildly. Raspberries and avocados (yes, avocado is botanically a fruit) are keto-friendly. Mangoes and grapes are essentially sugar delivery systems wrapped in skin. The difference between the best and worst choices here is roughly 20 grams of net carbs per serving. That's not a rounding error.
 
 ## The Keto Fruit Tier List: Ranked by Net Carbs Per Serving
+
+| Fruit | Net Carbs per 100g | Tier | Key Notes |
+| --- | --- | --- | --- |
+| Avocado | 1.8g | Tier 1 | High in monounsaturated fat and potassium |
+| Raspberries | 5.4g | Tier 1 | High fiber, strong antioxidant profile |
+| Blackberries | 4.9g | Tier 1 | Similar to raspberries |
+| Strawberries | 5.7g | Tier 1 | Manageable in 1/2-cup portions |
+| Lemons/Limes | Minimal | Tier 2 | Mostly used for juice and zest |
+| Cantaloupe | 7.9g | Tier 2 | Higher water content |
+| Peaches | 8.4g | Tier 2 | One small peach ≈ 12-13g net carbs |
+| Plums | 10g | Tier 2 | One small plum ≈ 7-8g net carbs |
+| Blueberries | 12g | Tier 3 | 1/4 cup goes fast |
+| Cherries | 12.8g | Tier 3 | Easy to overeat |
+| Apples | 12.8g | Tier 3 | Medium apple ≈ 20-25g net carbs |
+| Oranges | 11.8g | Tier 3 | One orange ≈ 17g net carbs |
+| Grapes | 17g | Tier 4 | Avoid on strict keto |
+| Mangoes | 13.4g | Tier 4 | Half a mango ≈ 25g+ net carbs |
+| Bananas | 20g | Tier 4 | Medium banana ≈ 24g net carbs |
+| Dried Fruit | Varies | Tier 4 | Avoid on strict keto |
 
 Not all "keto fruit lists" are created equal. Most just dump a spreadsheet on you without context. Here's a ranked breakdown by net carbs per 100g serving, which lets you compare apples to apples regardless of fruit size.
 

@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Three days into keto. Eggs, bacon, salad, nothing else. Your head is pounding, your legs feel like wet cement, and you just snapped at your coworker over something you can't even remember. You probably have keto flu, and as miserable as it feels, it's actually a sign that something real is happening inside your body.
 
@@ -66,15 +66,21 @@ For most people, the worst symptoms peak around days 2 through 4 and begin fadin
 
 A smaller group, maybe 20 to 30 percent from what I see, has a rougher experience. Symptoms linger for two weeks or more. This usually happens when they're not replacing electrolytes, not eating enough fat (a common beginner mistake), or have metabolic factors like insulin resistance that slow the transition.
 
-Full fat adaptation, where your body runs efficiently on fat and ketones without residual sluggishness, takes 4 to 12 weeks. The keto flu is just the acute opening phase.
+Full [fat adaptation](/how-to-become-fat-adapted/), where your body runs efficiently on fat and ketones without residual sluggishness, takes 4 to 12 weeks. The keto flu is just the acute opening phase.
 
 Age, fitness level, how high-carb your previous diet was, and your individual biochemistry all influence how hard keto flu hits you and how long it sticks.
 
 ## How to Treat Keto Flu: A Step-by-Step Approach
 
+| Electrolyte | Daily Target on Keto | Good Keto Sources | Notes |
+| --- | --- | --- | --- |
+| Sodium | 3,000-5,000 mg | Broth (800-1,000 mg/cup), salted foods, salt in water | Higher than standard guidelines due to elevated excretion |
+| Potassium | 3,000-4,000 mg | Avocados (~700 mg each), leafy greens, salmon | Avoid high-dose supplements without medical supervision |
+| Magnesium | 300-500 mg | Magnesium glycinate or magnesium malate forms preferred | Better absorption; magnesium oxide may cause digestive issues |
+
 You don't have to just wait it out. Most of the misery is directly addressable. Here's what I recommend to clients, in priority order.
 
-**Step 1: Fix your electrolytes immediately.**
+**Step 1: [Fix your electrolytes](/electrolytes-on-keto/) immediately.**
 
 This is the single most impactful thing you can do. Don't wait until you feel bad, start the day you begin keto.
 
@@ -84,7 +90,7 @@ This is the single most impactful thing you can do. Don't wait until you feel ba
 
 A dedicated electrolyte supplement helps. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is popular in the keto community because it's high in sodium and free of sugar, though any electrolyte product without added sugar or maltodextrin works. *(This site may earn a commission on qualifying purchases.)*
 
-**Step 2: Eat enough fat.**
+**Step 2: [Eat enough fat](/best-fats-on-keto/).**
 
 Keto flu gets worse when people cut carbs but under-eat fat. Your body needs a fuel source. If it's not getting glucose and it's not getting dietary fat, it's just starving. Aim for fat to make up 65 to 75 percent of your calories. That means butter on your vegetables, full-fat dairy if you tolerate it, olive oil on everything, and fatty cuts of meat over lean ones.
 

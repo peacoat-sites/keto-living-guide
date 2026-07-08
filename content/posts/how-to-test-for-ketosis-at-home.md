@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 Most people test for ketosis at home and walk away more confused than they started. Not because they're doing it wrong, necessarily. Because they're using the wrong tool for what they're actually trying to figure out.
 
@@ -43,7 +43,7 @@ Let me fix that.
 
 Three ways exist to test for ketosis at home: urine strips, breath meters, and blood ketone meters. They measure different things. Different accuracy. And the one most beginners grab, the urine strips? It becomes unreliable the fastest.
 
-**Urine strips** detect acetoacetate, a ketone your kidneys excrete. They're cheap (Smackfat and Perfect Keto both sell 100-strip bottles for around $10-12), dead simple to use, and they work fine in the early weeks. Here's the catch: after a few weeks of keto, your body adapts. It gets better at using ketones. You excrete less of them. A person who's been keto for months can be running strong blood ketones and still get a pale pink or totally negative urine strip reading. I've watched people bail on keto in week six because their strips "stopped working" and they assumed they'd fallen out of ketosis. They hadn't. That's the frustrating part.
+**Urine strips** detect acetoacetate, a ketone your kidneys excrete. They're cheap (Smackfat and Perfect Keto both sell 100-strip bottles for around $10-12), dead simple to use, and they work fine in the early weeks. Here's the catch: after a few weeks of keto, your body adapts. It gets better at using ketones. You excrete less of them. A person who's been keto for months can be running strong blood ketones and still get a pale pink or totally negative urine strip reading. I've watched people bail on [keto in week six](/what-is-the-keto-flu-and-how-long-does-it-last/) because their strips "stopped working" and they assumed they'd fallen out of ketosis. They hadn't. That's the frustrating part.
 
 **Breath meters** measure acetone in your exhaled breath. The BIOSENSE costs about $189 and is probably the most popular right now. There's also the Ketonix, which has been around longer. Neither needs consumables, which wins points if you're testing consistently over months. Accuracy falls somewhere between strips and blood testing. A 2020 study in the *Journal of Breath Research* found breath acetone correlated reasonably well with blood BHB levels during fasting and nutritional ketosis. My honest read: they're a solid middle option, especially if finger sticks make you uncomfortable.
 

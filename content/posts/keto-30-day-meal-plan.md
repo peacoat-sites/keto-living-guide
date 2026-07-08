@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Most people who try a 30-day keto meal plan spend the first week white-knuckling through hunger, the second week googling "keto plateau already?", and somewhere around day 18, they're eating plain chicken thighs over the sink because they ran out of ideas. The plan they downloaded looked great as a PDF. It just didn't survive contact with a real week.
 
@@ -33,7 +33,7 @@ That's the problem this article is going to fix.
 
 ## Why Most 30-Day Keto Plans Fail Before Day 10
 
-The typical keto meal plan gives you 30 days of recipes and calls it a day. What it doesn't give you is a framework for what actually derails people: meal fatigue, insufficient fat intake, the keto flu hitting on day 3, and the complete absence of a strategy for weekends, travel, or eating with other humans.
+The typical keto meal plan gives you 30 days of recipes and calls it a day. What it doesn't give you is a framework for what actually derails people: meal fatigue, insufficient fat intake, the keto flu hitting on day 3, and the complete absence of a strategy for weekends, travel, or [eating with other humans](/keto-fast-food-options/).
 
 The research on ketogenic diets is legitimately promising for weight loss, blood sugar regulation, and appetite control, especially in the first 3 to 6 months. But a clinical trial has a dietitian keeping people on track. You have a grocery store and a Tuesday night.
 
@@ -85,7 +85,7 @@ You now know what you like, what your body responds to, and where you tend to fa
 
 ## The Practical Weekly Shopping Framework
 
-Forget the 30-day shopping list that requires you to buy 47 ingredients at once. Instead, use a repeating anchor framework.
+Forget the [30-day shopping list](/keto-grocery-list/) that requires you to buy 47 ingredients at once. Instead, use a repeating anchor framework.
 
 | Category | Weekly Staples | Rotating Options |
 |---|---|---|

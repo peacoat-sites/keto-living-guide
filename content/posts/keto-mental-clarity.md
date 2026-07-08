@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 A lot of people come to keto for weight loss. But they stay for the brain.
 
@@ -54,6 +54,14 @@ When insulin drops, your kidneys excrete sodium at a higher rate. Sodium and pot
 Don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
 
 ## Once You're Adapted: What Mental Clarity Actually Looks Like
+
+| Electrolyte | Daily Range | Notes |
+| --- | --- | --- |
+| Sodium | 2,000-3,000 mg | Additional intake; from food, broth, or supplement |
+| Potassium | 1,000-3,500 mg | Critical for neuronal function alongside sodium |
+| Magnesium (glycinate form) | 300-500 mg | Gentler on digestion than magnesium oxide |
+| MCT Oil | Start with 1 teaspoon | Converts to ketones faster than other fats; increase cautiously |
+| Typical mental clarity onset | Weeks 3-6 | Post-adaptation period; transition fog usually resolves by day 7 |
 
 Past the transition, around weeks three to six for most people, something shifts. I want to be specific about what this tends to mean in practice, because "mental clarity" is a vague phrase that gets thrown around a lot.
 

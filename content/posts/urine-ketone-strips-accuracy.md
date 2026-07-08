@@ -23,6 +23,7 @@ faqs:
     a: "Urine strips are not recommended for therapeutic monitoring. Blood BHB testing is the standard because it gives you an actual concentration in mmol/L, which is what clinicians use to assess whether you're in the target therapeutic range. Talk to your care team about the right protocol."
   - q: "Do urine ketone strips expire, and does it matter?"
     a: "Yes, and yes. Expired strips or strips stored in humid conditions (like a bathroom medicine cabinet) give unreliable readings, often falsely low or negative. Check the expiration date and store them in a cool, dry place, ideally in their sealed container."
+lastmod: 2026-07-07
 ---
 
 Urine ketone strips cost about $10 for 50 of them. That's not the problem. The problem is that millions of people are using them as their primary feedback tool on keto, and by the third or fourth week, those strips are quietly lying to them. Not maliciously. Just biochemically.
@@ -63,9 +64,15 @@ The strip did its job. Nobody needed a blood meter for that.
 
 ## Where Blood Meters Actually Win
 
+| Tool | Primary Ketone Measured | Cost (Meter) | Cost per Test | Best Use Case |
+| --- | --- | --- | --- | --- |
+| Urine Strips | Acetoacetate | ~$10-12/50 | ~$0.20 | First 2 weeks of keto, quick sanity checks |
+| Blood Meter (Keto-Mojo) | Beta-hydroxybutyrate (BHB) | ~$60 | ~$1-1.50 | Therapeutic ketosis, metabolic disease tracking, precision monitoring |
+| Breath Meter (Biosense) | Acetone | ~$200 | $0 (no strips) | General ketone tracking without recurring costs |
+
 If you're using ketosis therapeutically, meaning for epilepsy management, metabolic disease, or serious fat loss tracking, the precision gap matters. Blood ketone meters like the Keto-Mojo (currently around $60 for the meter, roughly $1-1.50 per test strip) measure BHB directly from a finger stick. That's the number that matters clinically. The target range for nutritional ketosis is typically 0.5-3.0 mmol/L BHB. Your urine strip can't tell you whether you're at 0.6 or 2.4. That's a meaningful difference if you're trying to hit a therapeutic window.
 
-I'll be honest: I thought blood meters were overkill for most people for years. I recommended urine strips almost universally. Then I started using a Keto-Mojo with a small group of clients tracking metabolic health markers, and the feedback quality was genuinely different. One client who was getting "large" on urine strips was actually running at 0.8 mmol/L, perfectly fine but not the high-ketosis state she thought she was in. Another client showing "trace" on urine strips was at 1.4 mmol/L in the blood. The strips had the ranking almost backwards.
+I'll be honest: I thought [blood meters](/best-ketone-meter/) were overkill for most people for years. I recommended urine strips almost universally. Then I started using a Keto-Mojo with a small group of clients tracking metabolic health markers, and the feedback quality was genuinely different. One client who was getting "large" on urine strips was actually running at 0.8 mmol/L, perfectly fine but not the high-ketosis state she thought she was in. Another client showing "trace" on urine strips was at 1.4 mmol/L in the blood. The strips had the ranking almost backwards.
 
 That changed how I counsel people who have specific therapeutic goals. For general low-carb maintenance? Urine strips are fine. For precision? They're not the right tool.
 

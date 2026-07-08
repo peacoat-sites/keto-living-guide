@@ -23,6 +23,7 @@ faqs:
    a: "Sometimes, under medical supervision. I've seen clients go from two medications to none after sustained keto plus weight loss. But this requires physician oversight and proper monitoring. Don't taper medication on your own."
  - q: "How much salt should I eat on keto if I have high blood pressure?"
    a: "This is where standard advice gets it wrong. 'Low salt' is the default hypertension recommendation, but keto increases sodium excretion. Most people doing keto need more sodium than they think, even with high blood pressure. Aim for 2-3g of sodium daily and adjust based on symptoms and blood pressure readings, ideally with guidance from a clinician who understands low-carb physiology."
+lastmod: 2026-07-07
 ---
 
 Most coverage of keto and blood pressure picks one of two stories: "keto lowers blood pressure, full stop" or "all that saturated fat will kill you." Both are lazy. The actual picture is more specific, more interesting, and more useful.
@@ -35,7 +36,7 @@ Let's fix that.
 
 ## Why Keto Can Lower Blood Pressure (And Why It's Not Magic)
 
-The most reliable pathway is insulin and water weight. High insulin levels signal the kidneys to retain sodium. Lower insulin (which happens quickly on keto, usually within days) means the kidneys start excreting sodium instead of hoarding it. More sodium out, less fluid retained, less pressure on vessel walls.
+The most reliable pathway is [insulin and water weight](/keto-and-insulin-resistance/). High insulin levels signal the kidneys to retain sodium. Lower insulin (which happens quickly on keto, usually within days) means the kidneys start excreting sodium instead of hoarding it. More sodium out, less fluid retained, less pressure on vessel walls.
 
 A 2020 meta-analysis in *Nutrients* looking at low-carb diets across 17 trials found average systolic reductions of around 4-5 mmHg and diastolic reductions of 3-4 mmHg. That's modest but real. For someone sitting at 138/88, that can mean the difference between "watch and wait" and "here's your prescription."
 
@@ -79,6 +80,14 @@ The worked example here is consistent: **Patient on antihypertensive starts keto
 
 ## What the Research Actually Shows (As of Mid-2026)
 
+| Scenario | Systolic Change | Diastolic Change | Timeline | Notes |
+| --- | --- | --- | --- | --- |
+| Low-carb diet (meta-analysis average) | -4-5 mmHg | -3-4 mmHg | Varies | 17 trials; modest but real effect |
+| Weight loss (10 lbs) | -5-7 mmHg | - | Varies | Average across hypertension trials |
+| Electrolyte depletion (acute) | +5-20 mmHg (spike) | Variable | Days 3-5 | Paradoxical; resolves with supplementation |
+| Patient on antihypertensive + keto | -15-20 mmHg | - | 3-4 weeks | Requires medication adjustment; physician supervision needed |
+| Controlled keto (isolated from weight loss) | -2-3 mmHg | - | Varies | Smaller effect size in controlled trials |
+
 The evidence base as of July 2026 is genuinely positive for keto's effect on blood pressure, but it comes with caveats that the popular coverage consistently glosses over.
 
 The strongest data comes from studies combining low-carb eating with meaningful weight loss. When you can't separate the two, it's hard to know how much is "keto specifically" versus "losing 15 pounds." A few well-designed trials have tried to control for this, and the results suggest keto has some blood-pressure benefit beyond weight loss alone, probably through the insulin-sodium pathway. But the effect size is smaller in those controlled studies, maybe 2-3 mmHg systolic.
@@ -95,7 +104,7 @@ Get a decent home monitor before you start. The Omron Platinum ([available on Am
 
 Plan your electrolytes from day one, not after you get symptoms. The sodium-potassium-magnesium triad is non-negotiable.
 
-If you're on blood pressure medication, tell your doctor you're starting keto and schedule a check-in at the 3-4 week mark. If they don't know what keto is or wave it off, push for the appointment anyway and bring your home monitoring data.
+If you're on [blood pressure medication](/keto-for-type-2-diabetes/), tell your doctor you're starting keto and schedule a check-in at the 3-4 week mark. If they don't know what keto is or wave it off, push for the appointment anyway and bring your home monitoring data.
 
 Don't expect linear results. Week one and two are often weird: electrolytes fluctuating, water weight shifting, your body recalibrating. Give it a full month before drawing conclusions.
 

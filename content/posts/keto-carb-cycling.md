@@ -23,6 +23,7 @@ faqs:
    a: "The research is thinner than the popular coverage suggests. There's solid evidence for carbohydrate periodization in athletes, and reasonable mechanistic evidence for leptin-related benefits of periodic refeeds. But most carb cycling protocols haven't been studied directly in long-term randomized trials. It's a reasonable practice with legitimate rationale, not a proven protocol with a robust evidence base behind it."
  - q: "What should I eat on a high-carb day?"
    a: "Prioritize whole food carbohydrate sources: white rice, sweet potatoes, oats, fruit. Keep fat low on these days since you're temporarily running on glucose and excess dietary fat has nowhere useful to go. This isn't a license to eat everything you've been avoiding for weeks. The goal is a clean, moderate refeed, not a celebration."
+lastmod: 2026-07-07
 ---
 
 Most articles about keto carb cycling spend 800 words telling you it's "the best of both worlds" before getting around to explaining how it actually works. That framing is wrong, and it sets people up to do this badly.
@@ -43,6 +44,15 @@ One thing that's often glossed over: most people who think they're "carb cycling
 
 ## Who Actually Benefits From It
 
+| Situation | Carb Cycling Benefit | Recommendation |
+| --- | --- | --- |
+| High-intensity athletes (2+ days/week) | Supports glycogen replenishment for explosive performance | Likely beneficial |
+| Strict keto 3+ months with plateau | May elevate leptin temporarily | Consider if genuine stall, not normal fluctuation |
+| Struggling with strict keto adherence | Improves psychological sustainability | Useful if it prevents diet abandonment |
+| First 6-8 weeks of keto | Extends adaptation period | Not recommended |
+| Significant metabolic dysfunction | Complicates insulin control | Not recommended |
+| Cannot moderate carb intake reliably | High risk of overconsumption | Not recommended |
+
 Here's my honest take after working with clients on this for years: carb cycling is most useful for a specific subset of people, and it's oversold to everyone else.
 
 The people who genuinely benefit:
@@ -53,7 +63,7 @@ People who've been strict keto for three or more months and hit a genuine platea
 
 People who are miserable eating strict keto long-term and are considering quitting entirely. Planned flexibility beats rigid restriction that ends in abandonment. If one higher-carb day per week keeps someone eating well the other six, that's a better outcome than perfect keto for eight weeks followed by a complete collapse.
 
-People who probably shouldn't bother: anyone in the first six to eight weeks of keto (you're still adapting, introducing carbs just extends that painful process), anyone with significant metabolic dysfunction who needs clear insulin control, and anyone who honestly can't eat 150g of carbs without it turning into 400g. That last group is larger than people want to admit.
+People who probably shouldn't bother: anyone in the first six to eight weeks of keto (you're [still adapting](/how-to-become-fat-adapted/), introducing carbs just extends that painful process), anyone with significant metabolic dysfunction who needs clear insulin control, and anyone who honestly can't eat 150g of carbs without it turning into 400g. That last group is larger than people want to admit.
 
 ## How to Structure It
 

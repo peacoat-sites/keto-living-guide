@@ -12,10 +12,25 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you follow the keto world at all, you've probably seen the headlines this week. A peer-reviewed trial just found that a ketogenic diet significantly reduced core symptoms of anorexia nervosa in adult women, with 72% of completers scoring in a "recovered or normal" range by the end of the intervention. The reaction in clinical nutrition circles has been, to put it mildly, a lot. Anorexia nervosa is one of the most treatment-resistant psychiatric conditions we know of, and it carries the highest mortality rate of any eating disorder. The idea that a high-fat diet, of all things, could move the needle is genuinely surprising, and it deserves a careful look rather than either breathless enthusiasm or reflexive dismissal.
 
 ## What the Trial Actually Did (and Didn't Do)
+
+| Aspect | Trial Details |
+| --- | --- |
+| Lead Researcher | Dr. Guido Frank, UC San Diego School of Medicine |
+| Publication | Nature's *Communications Medicine*, June 2026 |
+| Sample Size | 22 women aged 18-45 |
+| Inclusion Criteria | History of anorexia nervosa, BMI >17.5 |
+| Intervention Duration | 14 weeks |
+| Macronutrient Target | 70% fat, 20% protein, 10% carbohydrates |
+| Weight Goal | Maintenance (no caloric restriction) |
+| Completion Rate | 18 of 22 (82%) |
+| Primary Outcome | 72% of completers in "recovered or normal" range |
+| Statistical Significance | p < 0.001 (intent-to-treat analysis) |
+| Follow-Up Trial | NCT06000774 (60 participants, partial hospital and intensive outpatient) |
 
 The study, led by Dr. Guido Frank at UC San Diego School of Medicine and published in Nature's *Communications Medicine* in June 2026, enrolled 22 women aged 18 to 45 who had a history of anorexia nervosa and a BMI above 17.5. That last detail matters. These weren't acutely medically compromised patients at dangerously low body weights. The intervention was a 14-week ketogenic plan targeting 70% fat, 20% protein, and 10% carbohydrates.
 
@@ -27,7 +42,7 @@ What the trial didn't do: it had no control group, it was small, and the partici
 
 The mechanism being proposed here is more interesting than "keto suppresses appetite," which would be entirely the wrong effect for this population anyway. The hypothesis, based on Frank's broader research into the neurobiology of anorexia, centers on brain glucose metabolism. People with anorexia nervosa show altered glucose uptake in areas of the brain involved in reward processing, anxiety regulation, and body image perception. The thinking is that ketone bodies may provide an alternative energy substrate that bypasses some of that disrupted glucose signaling.
 
-I've worked with clients long enough to know that the metabolic effects of ketosis aren't just about weight. People consistently report changes in mood stability, anxiety, and cognitive clarity when they're in sustained nutritional ketosis, and those effects are real even if we don't fully understand the mechanisms. Whether those same mechanisms are therapeutic in a clinical eating disorder context is a different and much harder question. But it's a scientifically coherent one. The fact that UCSD has already launched a larger follow-up trial (NCT06000774) targeting 60 anorexia nervosa participants across partial hospital and intensive outpatient settings, with a separate arm for bulimia nervosa, suggests the research team sees enough signal here to invest serious resources.
+I've worked with clients long enough to know that the [metabolic effects of ketosis](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/) aren't just about weight. People consistently report changes in mood stability, anxiety, and cognitive clarity when they're in sustained nutritional ketosis, and those effects are real even if we don't fully understand the mechanisms. Whether those same mechanisms are therapeutic in a clinical eating disorder context is a different and much harder question. But it's a scientifically coherent one. The fact that UCSD has already launched a larger follow-up trial (NCT06000774) targeting 60 anorexia nervosa participants across partial hospital and intensive outpatient settings, with a separate arm for bulimia nervosa, suggests the research team sees enough signal here to invest serious resources.
 
 ## The Counterintuitive Part Deserves Honest Attention
 

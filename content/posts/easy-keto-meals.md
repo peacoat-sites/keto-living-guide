@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's 6:30 PM on a Tuesday, you just got home from work, you're already a little hungry and a little cranky, and you have zero interest in spending 45 minutes in the kitchen. Sound familiar? A lot of people abandon keto right at this exact moment. Not because the diet stopped working, but because they ran out of fast, satisfying ideas. The good news is that keto is actually one of the most meal-prep-friendly dietary approaches out there, and once you get a feel for the core building blocks, you can throw together a genuinely great dinner in 15 to 20 minutes flat.
 
@@ -47,11 +47,19 @@ If you're brand new to this way of eating, it helps to start by understanding [w
 
 ## The 5 Easiest Keto Meal Templates
 
+| Meal Template | Protein Example | Cook Time | Key Vegetables | Carb Target |
+| --- | --- | --- | --- | --- |
+| Sheet Pan Dinner | Salmon fillets, chicken thighs, Italian sausage | 20-25 min | Broccoli, zucchini, bell peppers | Under 10 g net carbs |
+| Skillet Scramble | Bacon, sausage, eggs (3-4) | 10-12 min | Spinach, mushrooms | Under 5 g net carbs |
+| Big Salad with Protein | Grilled steak, rotisserie chicken, canned tuna | 10-15 min | Romaine, cucumber, cherry tomatoes | Under 8 g net carbs |
+| Lettuce Wrap | Ground beef (seasoned) | 12 min | Butter lettuce, shredded cheese | Under 5 g net carbs |
+| Cauliflower Rice Bowl | Leftover protein, fried egg | 8-10 min | Frozen riced cauliflower | Under 7 g net carbs |
+
 Forget hunting for a new recipe every single night. Templates are more powerful. A template is a repeatable structure you can fill with different ingredients depending on what's in your fridge.
 
 **The Sheet Pan Dinner:** Pick a protein (salmon fillets, chicken thighs, Italian sausage), toss with olive oil and seasoning, scatter low-carb vegetables around it (broccoli, zucchini, bell peppers), roast at 425°F for 20 to 25 minutes. Done. One pan, minimal cleanup, endlessly variable.
 
-**The Skillet Scramble:** Eggs are one of the most keto-friendly foods on the planet. Melt butter in a pan, add diced bacon or sausage, throw in some spinach or mushrooms, crack in 3 to 4 eggs, scramble together. Season with salt, pepper, and hot sauce if you like heat. This works for breakfast, lunch, or dinner. Don't let the word "scramble" confuse you into thinking it's only a morning option.
+**The [Skillet Scramble](/keto-egg-recipes/):** Eggs are one of the most keto-friendly foods on the planet. Melt butter in a pan, add diced bacon or sausage, throw in some spinach or mushrooms, crack in 3 to 4 eggs, scramble together. Season with salt, pepper, and hot sauce if you like heat. This works for breakfast, lunch, or dinner. Don't let the word "scramble" confuse you into thinking it's only a morning option.
 
 **The Big Salad with a Real Protein:** A bowl of romaine, cucumber, and cherry tomatoes with grilled steak, shredded rotisserie chicken, or canned tuna. Dress it with olive oil and red wine vinegar or a full-fat Caesar. Croutons are gone, but you won't miss them once the protein is generous enough.
 

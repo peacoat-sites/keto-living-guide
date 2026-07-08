@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Most people who start keto quit within the first week. Not because the diet doesn't work, but because they feel absolutely terrible and have no idea why. The headache hits on day two. By day four, their legs feel like concrete. They're irritable, exhausted, and wondering if they've made a terrible mistake. Here's the thing: that suffering is real, but it's also almost entirely preventable if you know what's actually happening inside your body and what to do about it.
 
@@ -43,7 +43,13 @@ Here's something beginners get wrong constantly: keto is not just a high-protein
 
 ## The Keto Flu and How to Actually Prevent It
 
-The "keto flu" isn't a real flu. It's a collection of symptoms, headache, fatigue, brain fog, muscle cramps, irritability, that stem from two things: electrolyte loss and the psychological shift of removing foods that may have been central to your daily routine for years.
+| Electrolyte | Daily Target | Food Sources | Supplement Option |
+| --- | --- | --- | --- |
+| Sodium | 2,000-4,000 mg | Salt, broth | Salt to water |
+| Potassium | 3,500-4,700 mg | Avocados, leafy greens, salmon | Electrolyte supplement |
+| Magnesium | 300-500 mg | Various foods | Magnesium glycinate or malate |
+
+The "keto flu" isn't a real flu. It's a collection of symptoms, headache, fatigue, brain fog, muscle cramps, irritability, that stem from two things: [electrolyte loss](/electrolytes-on-keto/) and the psychological shift of removing foods that may have been central to your daily routine for years.
 
 When glycogen breaks down, it releases water. A lot of it. You'll urinate significantly more in the first week, and with that water goes sodium, potassium, and magnesium. These minerals regulate nerve function, muscle contraction, and hydration. Let them drop and you feel awful. This isn't a metabolic problem. It's a mineral deficiency problem.
 

@@ -12,6 +12,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-for-treatment-resistant-depression-what-the-new-science-says"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 For years, psychiatrists have been quietly warning that roughly 30% of people with major depression don't respond adequately to antidepressants. That's not a fringe statistic. It's been sitting in the literature for decades, largely without a satisfying answer. So when a randomized clinical trial out of the University of Oxford landed in *JAMA Psychiatry* on February 4, 2026, showing that a ketogenic diet outperformed a plant-based control diet in reducing depression symptoms among treatment-resistant patients, it didn't just generate headlines. It forced a genuine conversation about whether metabolic intervention belongs in the psychiatrist's toolkit.
 
@@ -45,7 +46,7 @@ And it's worth being clear about who this research is targeting. These trials fo
 
 ## What This Means If You're Considering It
 
-If you or someone you care about is dealing with treatment-resistant depression or serious mental illness, this research is worth bringing to your treatment team. That's the honest practical takeaway. A psychiatrist who's current on the literature will know about the Oxford trial and the metabolic psychiatry framework. If they don't, that's a conversation worth having.
+If you or someone you care about is dealing with treatment-resistant depression or serious mental illness, this research is worth bringing to your treatment team. That's the honest practical takeaway. A psychiatrist who's current on the literature will know about the Oxford trial and the [metabolic psychiatry framework](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/). If they don't, that's a conversation worth having.
 
 What I'd push back on is the instinct to try this independently as a substitute for professional mental health care. The trials showing benefit are using keto as an add-on to existing treatment, not a replacement. They're also doing it with monitoring, including labs and clinical oversight, because ketogenic diets affect electrolytes, lipids, kidney function, and medication metabolism. In psychiatric populations specifically, those interactions need professional eyes on them.
 

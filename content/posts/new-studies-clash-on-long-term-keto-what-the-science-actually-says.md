@@ -12,6 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "new-studies-clash-on-long-term-keto-what-the-science-actually-says"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 You've probably seen the headlines this spring bouncing in different directions. One week, keto's fixing your pancreas. The next, it's destroying your liver. If you've been low-carb for a while, or you're thinking about it for blood sugar control, the whiplash is real. I've had clients text me photos of contradictory articles asking which one's true, and the honest answer is: both kind of, and that's exactly the problem.
 
@@ -43,6 +44,12 @@ Taken together, all three studies paint a picture that experienced clinicians ha
 
 ## Why This Conflict Keeps Happening
 
+| Study | Publication | Date | Model | Key Finding | Duration |
+| --- | --- | --- | --- | --- | --- |
+| Journal of the Endocrine Society | Journal of the Endocrine Society | April 21, 2026 | Human (type 2 diabetes) | Improved beta-cell function; lower proinsulin-to-C-peptide ratio | 3 months |
+| University of Utah Health | Science Advances | January 2026 | Mouse | Hyperlipidemia, liver dysfunction, impaired insulin secretion (especially males) | Extended period |
+| Virginia Tech | Nature Communications | February 2026 | Mouse (hyperglycemic) | Lowered blood sugar, restored exercise adaptation | Not specified |
+
 A JAMA paper titled "The Ketogenic Diet for Obesity and Diabetes: Enthusiasm Outpaces Evidence" made exactly this argument years ago, and it's still being cited in fresh 2026 research because the underlying tension hasn't resolved. We have a diet that produces measurable short-term improvements in blood sugar, insulin sensitivity, and sometimes weight, paired with a long-term evidence base that's thin, mixed, and largely extrapolated from animal models or short human trials.
 
 Part of the problem is that "ketogenic diet" isn't one thing. Fat sources vary. Protein levels vary. Whether someone's eating whole foods or processed keto products matters. Baseline metabolic health matters. Duration matters. A three-month trial in people with type 2 diabetes and a multi-month mouse study using standardized high-fat feed are measuring genuinely different things and calling them both "keto."
@@ -51,7 +58,7 @@ I've seen people treat keto as a permanent state and others use it as a short re
 
 ## What This Means If You're Deciding Right Now
 
-If you have type 2 diabetes and you're considering a ketogenic diet under medical supervision, the April 2026 human data is legitimately encouraging for short-term beta-cell outcomes. That's a real finding from real people. Talk to your doctor or a registered dietitian who knows your full picture, including your liver enzymes and lipid panel, before and during.
+If you have type 2 diabetes and you're considering a ketogenic diet under medical supervision, the April 2026 human data is legitimately encouraging for [short-term beta-cell outcomes](/keto-can-restore-pancreas-function-in-type-2-diabetes-without-big-weig/). That's a real finding from real people. Talk to your doctor or a registered dietitian who knows your full picture, including your liver enzymes and lipid panel, before and during.
 
 If you've been doing keto for more than a year, the Utah findings are a reason to get bloodwork done, not a reason to panic. Liver function tests and a full lipid panel are reasonable monitoring tools. If your numbers are trending the wrong direction, that's information worth having.
 

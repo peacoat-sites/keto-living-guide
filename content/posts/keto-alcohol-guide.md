@@ -23,9 +23,9 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
-Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about alcohol on keto than any article I'd read.
+Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about [alcohol on keto](/how-to-start-keto/) than any article I'd read.
 
 Here's the honest version of what you need to know.
 
@@ -40,6 +40,19 @@ There's also the insulin question. Alcohol itself doesn't spike insulin the way 
 One more thing: you'll almost certainly get drunk faster on keto. Lower glycogen stores, less food in the gut, and a changed metabolic state all add up. I've watched this surprise people repeatedly. A glass of wine that barely touched you before might hit noticeably harder now. Plan accordingly.
 
 ## The Drinks That Actually Work
+
+| Drink Type | Serving Size | Net Carbs | Notes |
+| --- | --- | --- | --- |
+| Vodka, gin, tequila, whiskey, bourbon, scotch, rum (unflavored) | 1.5 oz | 0g | ~96-100 calories |
+| Dry red wine (Cabernet, Pinot Noir, Merlot) | 5 oz | 3-4g | Restaurant pours often larger |
+| Dry white wine (Sauvignon Blanc, unoaked Chardonnay) | 5 oz | 3-4g | Check labels; "dry" not always regulated |
+| Champagne / Brut sparkling wine | 4 oz | 2-3g | Good for celebrations |
+| Michelob Ultra | 12 oz | 2.6g | Light beer option |
+| Bud Select 55 | 12 oz | 1.9g | Light beer option |
+| Corona Premier | 12 oz | 2.6g | Light beer option |
+| Regular IPA | 12 oz | 15-20g | Not keto-friendly |
+| Piña colada | typical serving | 40g+ | Avoid |
+| Regular tonic water | 12 oz | ~20g | Wipes out daily carb budget in one drink |
 
 Let me be direct. The best alcohol choices on keto are ones with zero sugar and zero (or near-zero) carbs. That narrows the field but doesn't eliminate it.
 

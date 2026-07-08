@@ -23,13 +23,20 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Your fasting insulin just came back at 28 µIU/mL. Normal is under 10. Your blood sugar looks fine on paper, but your body's been quietly working overtime for years, pumping out insulin just to keep glucose in check. That gap between normal blood sugar and sky-high insulin is exactly where insulin resistance lives, and a lot of people spend a decade there before anyone gives them a real explanation.
 
 If that sounds familiar, or if you've been told you're "pre-diabetic," carry weight around your midsection, crash hard after meals, or can't lose weight no matter how little you eat, then understanding how a ketogenic diet works with insulin resistance might be the most useful thing you read this year.
 
 ## What Insulin Resistance Actually Means (And Why It Matters)
+
+| Metric | Normal Range | Early Insulin Resistance | Significant Insulin Resistance |
+| --- | --- | --- | --- |
+| Fasting Insulin | Under 10 µIU/mL | - | - |
+| Fasting Glucose | Under 100 mg/dL | Over 100 mg/dL | Over 100 mg/dL |
+| Hemoglobin A1C | Under 5.7% | 5.7-6.4% | 5.7-6.4% |
+| HOMA-IR Score | Under 1.9 | 1.9-2.9 | Above 2.9 |
 
 Insulin is a hormone your pancreas produces. Its main job is to act like a key, unlocking your cells so glucose can get inside and be used for energy. Insulin resistance means the lock is broken. Your cells stop responding normally to insulin's signal, so your pancreas compensates by cranking out more and more of it.
 
@@ -45,7 +52,7 @@ Carbohydrates are the primary driver of insulin secretion. Protein raises insuli
 
 When carb intake drops low enough, your liver starts producing ketone bodies, primarily beta-hydroxybutyrate (BHB), from fatty acids. Your brain and muscles can use these ketones directly for fuel. You bypass the need for glucose and, critically, the need for large amounts of insulin. Fasting insulin levels can drop meaningfully within days of starting a ketogenic diet.
 
-One 2017 study published in *Nutrition & Metabolism* found that adults with type 2 diabetes following a ketogenic diet reduced their fasting insulin by an average of 30 percent within 10 weeks, while simultaneously reducing or eliminating diabetes medications.
+One 2017 study published in *Nutrition & Metabolism* found that adults with [type 2 diabetes](/keto-for-type-2-diabetes/) following a ketogenic diet reduced their fasting insulin by an average of 30 percent within 10 weeks, while simultaneously reducing or eliminating diabetes medications.
 
 The mechanism isn't magic. It's just removing the stimulus. If you want lower insulin, stop asking your pancreas to produce so much of it at every meal.
 
@@ -67,7 +74,7 @@ Here's what a realistic day of eating actually looks like when your goal is lowe
 
 **Step 1: Anchor meals to fat and protein, not carbs.**
 
-Breakfast doesn't have to exist if you're not hungry. Many people with insulin resistance do well with intermittent fasting (a 16:8 window is a good start) because skipping breakfast reduces the total number of daily insulin spikes to two instead of three or four. If you do eat breakfast, think 3-egg scramble cooked in butter with avocado and a handful of spinach. No toast. No fruit. No orange juice.
+Breakfast doesn't have to exist if you're not hungry. Many people with insulin resistance do well with [intermittent fasting](/keto-intermittent-fasting/) (a 16:8 window is a good start) because skipping breakfast reduces the total number of daily insulin spikes to two instead of three or four. If you do eat breakfast, think 3-egg scramble cooked in butter with avocado and a handful of spinach. No toast. No fruit. No orange juice.
 
 **Step 2: Build lunch around a real food base.**
 

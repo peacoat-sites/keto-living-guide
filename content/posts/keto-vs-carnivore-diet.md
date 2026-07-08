@@ -23,6 +23,7 @@ faqs:
     a: "If you're including organ meats, especially liver, a few times per week, the gaps are smaller than you'd think. The main risks are vitamin C (manageable with raw liver), folate, and certain antioxidants. If you're doing strict carnivore without variety, it's worth running bloodwork every 3 to 6 months. This isn't optional; it's just responsible."
   - q: "How long should I try one of these before deciding if it's working?"
     a: "Four weeks is enough to assess basic tolerability and initial weight response. Twelve weeks is the minimum to assess metabolic changes meaningfully. I'd caution against switching or quitting before the 30-day mark, since the adaptation period on both diets includes a rough stretch that many people mistake for the diet not working."
+lastmod: 2026-07-07
 ---
 
 Most people come to me after they've already done keto for a while. They've lost some weight, felt pretty good for a stretch, and then hit a wall. Or they've heard about carnivore from someone at the gym, or stumbled into a rabbit hole of YouTube videos featuring guys eating nothing but ribeyes, and now they're wondering: is that actually better? Should I have been doing that all along?
@@ -33,13 +34,23 @@ Let me be direct about where I stand before we get into this: both approaches ha
 
 ## What Each Diet Actually Is (Without the Marketing Spin)
 
-Keto, in clinical terms, is a high-fat, very low-carbohydrate diet designed to push the body into ketosis, a metabolic state where fat becomes the primary fuel source. The standard threshold is roughly 20-50 grams of net carbs per day, though I've seen people maintain ketosis at 60g and others fall out at 30g. It varies by individual. What keto allows is everything low-carb: meat, fish, eggs, cheese, non-starchy vegetables, nuts, olive oil, avocados. The carb limit is the defining constraint, not the food list.
+Keto, in clinical terms, is a high-fat, very low-carbohydrate diet designed to push the body into [ketosis](/how-long-to-enter-ketosis/), a metabolic state where fat becomes the primary fuel source. The standard threshold is roughly 20-50 grams of net carbs per day, though I've seen people maintain ketosis at 60g and others fall out at 30g. It varies by individual. What keto allows is everything low-carb: meat, fish, eggs, cheese, non-starchy vegetables, nuts, olive oil, avocados. The carb limit is the defining constraint, not the food list.
 
 Carnivore is different in structure, even if it overlaps on mechanism. It eliminates all plant foods entirely. Meat, fish, eggs, and animal fats only, with dairy sitting in a contested gray zone depending on who you ask. Some strict adherents do beef and water, full stop. Carnivore almost always produces ketosis as a side effect, but that's not the point. The point is eliminating every plant-derived compound: fiber, oxalates, lectins, phytates, polyphenols, all of it.
 
 Here's what I tell people who are confused about the relationship between the two: carnivore is a subset of keto by macros, but the philosophy is completely different. Keto says "limit carbs." Carnivore says "remove plants." Those are not the same argument.
 
 ## Who Actually Does Well on Each
+
+| Aspect | Keto | Carnivore |
+| --- | --- | --- |
+| Carb Limit | 20-50g net carbs/day (individual variation) | 0g (all plant foods eliminated) |
+| Allowed Foods | Meat, fish, eggs, cheese, non-starchy vegetables, nuts, oils, avocados | Meat, fish, eggs, animal fats; dairy contested |
+| Primary Goal | Achieve ketosis via carb restriction | Eliminate all plant compounds (fiber, oxalates, lectins, phytates, polyphenols) |
+| Social Flexibility | More navigable in restaurants and travel | Significantly harder to sustain socially |
+| Common Micronutrient Concern | Magnesium and potassium depletion | Vitamin C (mitigated by beef liver: ~27mg per 3oz raw) |
+| Research Status | Well-established clinical outcomes | Limited RCTs; compelling case reports and mechanistic evidence |
+| Best For | Blood sugar management; flexible eating; vegetable enjoyment | Unresolved autoimmune/gut issues; simplified food choice |
 
 This is where I'll be specific, because generalizing here is useless.
 
@@ -49,7 +60,7 @@ Carnivore tends to show up as a serious option for two groups: people with unres
 
 The autoimmune angle is where carnivore's claims get interesting. The hypothesis is that plant compounds like oxalates and lectins drive inflammation in susceptible individuals. The research here is still thin, as of mid-2026 I'm not aware of any large randomized controlled trials specifically testing carnivore against standard low-carb for autoimmune outcomes. What we have is a lot of compelling case reports, some small studies, and strong mechanistic arguments. I'm not dismissing it. But I'd be misrepresenting the evidence if I said it was proven.
 
-One thing I've seen repeatedly in my own practice: clients who've done clean keto for 90 days and still have joint pain or skin flares often report significant improvement when they try carnivore for 30 days. Whether that's oxalate reduction, gut microbiome changes, or just caloric simplification, I can't say with certainty.
+One thing I've seen repeatedly in my own practice: clients who've done [clean keto](/dirty-keto-vs-clean-keto/) for 90 days and still have joint pain or skin flares often report significant improvement when they try carnivore for 30 days. Whether that's oxalate reduction, gut microbiome changes, or just caloric simplification, I can't say with certainty.
 
 ## The Nutrition Concerns (They're Real, but Manageable)
 

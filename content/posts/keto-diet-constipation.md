@@ -23,13 +23,13 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Nobody warns you about this part.
 
 You start keto, you're feeling pretty good, the scale is moving, and then around day four or five you realize you haven't been to the bathroom in three days. You're eating plenty. You don't feel sick exactly. You just feel... stopped up. And when you go searching for answers, most of what you find is either breezy ("just drink more water!") or buried in contradictory advice about fiber that makes your head spin.
 
-I've seen this trip up more new keto dieters than anything else, including the keto flu. And I've watched people quietly quit because of it, which is a shame, because it's almost always fixable.
+I've seen this trip up more new keto dieters than anything else, including the [keto flu](/keto-diet-side-effects/). And I've watched people quietly quit because of it, which is a shame, because it's almost always fixable.
 
 Here's what's actually going on, and what to do about it.
 
@@ -60,6 +60,13 @@ Let's skip straight to what moves the needle.
 **Movement.** Not a magic fix, but genuinely useful. Even a 20-minute walk after meals can stimulate intestinal motility. I realize this feels like advice from your grandmother, but your grandmother wasn't wrong.
 
 ## The Fiber Supplement Question
+
+| Supplement | Type | Starting Dose | Speed | Best For | Cost |
+| --- | --- | --- | --- | --- | --- |
+| Magnesium Glycinate | Mineral | 200-300mg before bed | Slower | Gentle absorption, less cramping | Varies |
+| Magnesium Citrate | Mineral | 200-300mg before bed | Faster | Quick relief | ~$25-30 per 16oz |
+| Psyllium Husk | Fiber | 1 teaspoon in water | Moderate | Budget-friendly, well-researched | ~$10-12 per pound |
+| Inulin/FOS | Prebiotic Fiber | Varies | Moderate | Gut bacteria support | Varies |
 
 If you're going to use a fiber supplement, psyllium husk is the most researched option and it's cheap. Metamucil is just psyllium husk with some flavoring. You can buy straight psyllium husk powder for a fraction of the cost, around $10-$12 for a pound, and it has essentially zero net carbs. Mix a teaspoon into water and drink it quickly before it gels.
 

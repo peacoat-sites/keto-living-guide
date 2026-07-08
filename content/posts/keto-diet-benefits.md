@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Most people who end up going keto don't do it because they read a study. They do it because something stopped working. The scale hasn't moved in six weeks. They're tired after lunch every single day. Their doctor mentioned their fasting glucose is "trending up." That was the moment for a lot of my clients, and it might be yours too. The keto diet gets a lot of hype and a fair amount of eye-rolls, but underneath both reactions there's a real body of evidence worth understanding before you decide whether this way of eating makes sense for you.
 
@@ -31,11 +31,19 @@ Most people who end up going keto don't do it because they read a study. They do
 
 Keto isn't just "low carb." It's a metabolic shift. When you cut carbohydrates to roughly 20-50 grams of net carbs per day, your liver runs low on glycogen and starts converting fatty acids into ketone bodies, primarily beta-hydroxybutyrate (BHB). Your brain, which normally runs almost entirely on glucose, begins using BHB as its primary fuel instead.
 
-This state is called nutritional ketosis, and it typically shows up 2-4 days into carb restriction, though that timeline varies depending on your activity level and what you ate before. You can confirm it with a blood ketone meter (anything above 0.5 mmol/L counts) or urine test strips, though strips become less reliable the longer you've been keto.
+This state is called nutritional ketosis, and it typically shows up 2-4 days into carb restriction, though that timeline varies depending on your activity level and what you ate before. You can confirm it with a [blood ketone meter](/blood-ketone-levels-chart/) (anything above 0.5 mmol/L counts) or urine test strips, though strips become less reliable the longer you've been keto.
 
 Why does any of this matter? Because the metabolic machinery that gets switched on in ketosis does more than just burn fat. Ketones act as signaling molecules, not just fuel. BHB, specifically, has been shown to inhibit a protein complex called the NLRP3 inflammasome, which plays a role in inflammation. That's one reason the benefits of keto extend well beyond simple calorie burning.
 
 ## Fat Loss: Why Keto Often Works When Other Diets Don't
+
+| Timeframe | Expected Result | Notes |
+| --- | --- | --- |
+| Days 2-4 | Entry into nutritional ketosis | Blood ketone meter reads >0.5 mmol/L; varies by activity level and prior diet |
+| Weeks 1-2 | 8-12 pounds weight loss | Includes significant water weight from glycogen depletion |
+| Weeks 3+ | 1-2 pounds per week fat loss | Steady fat loss after initial water weight phase |
+| Weeks 2-3 | Mental clarity improvement | Typically after keto flu resolves |
+| 12 months | Weight loss advantage narrows | Short-term advantage over low-fat diets diminishes by 1-year mark |
 
 Keto's weight loss reputation is real. A 2020 meta-analysis published in *Obesity Reviews* found that very low-carbohydrate diets produced significantly greater fat loss than low-fat diets in the short term, though the differences tend to narrow around the 12-month mark. That's an honest caveat worth keeping in mind.
 
@@ -93,7 +101,7 @@ Eggs, ground beef, chicken thighs, salmon, cheese, full-fat Greek yogurt (check 
 
 **Step 5: Handle electrolytes aggressively**
 
-Add salt to your food liberally, eat potassium-rich foods like avocado and leafy greens, and consider a magnesium glycinate supplement at night. Most keto flu symptoms are electrolyte issues, not some inherent reaction to ketosis.
+Add salt to your food liberally, eat potassium-rich foods like avocado and leafy greens, and consider a magnesium glycinate supplement at night. Most [keto flu](/electrolytes-on-keto/) symptoms are electrolyte issues, not some inherent reaction to ketosis.
 
 **Step 6: Test your ketones**
 

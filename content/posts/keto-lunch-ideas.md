@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's 12:30 pm, you're hungry, your coworkers are ordering pizza, and you're staring into the fridge wondering if string cheese and leftover chicken count as lunch. Technically, yes. But you deserve better than that.
 
@@ -52,6 +52,19 @@ Here's the structure:
 Mix freely. Tuna plus arugula plus olive oil and capers. Ground beef plus cauliflower rice plus cheddar and sour cream. Chicken thigh plus romaine plus Caesar. None of these need recipes. They need a stocked fridge.
 
 ## 10 Specific Keto Lunch Ideas Worth Rotating
+
+| Lunch Idea | Main Protein | Base | Fat Finisher | Approx. Net Carbs | Prep Time |
+| --- | --- | --- | --- | --- | --- |
+| Tuna Salad Lettuce Cups | Canned tuna | Romaine/butter lettuce | Mayo, lemon, capers | <3g | 4 min |
+| Egg Salad Bowl | Hard-boiled eggs | Sliced cucumber or bowl | Mayo, mustard | ~1g | 5 min |
+| BLT Salad | Bacon | Romaine, cherry tomatoes | Mayo dressing | ~4g | 10 min |
+| Cauliflower Rice Burrito Bowl | Ground beef/chicken | Cauliflower rice | Cheddar, sour cream, avocado | ~5g | 15 min |
+| Deli Meat Roll-Ups | Turkey/salami | Pickles | Cream cheese/guacamole | <2g | 5 min |
+| Salmon and Avocado Bowl | Canned/leftover salmon | Greens | Olive oil, avocado | ~3g | 5 min |
+| Keto Cobb Salad | Bacon, chicken, eggs | Romaine | Blue cheese, ranch, avocado | ~4g | 15 min |
+| Zucchini Noodle Chicken Alfredo | Rotisserie chicken | Spiralized zucchini | Cream, butter, parmesan | ~4g | 12 min |
+| Bacon and Egg Fried Cauliflower Rice | Bacon, eggs | Cauliflower rice | Sesame oil, soy sauce | ~3g | 10 min |
+| Charcuterie Lunch Plate | Deli meats, eggs | Celery | Cheese, nuts, almond butter | ~4g | 5 min |
 
 Let's get concrete. Ten lunches that work, organized loosely from simplest to slightly more involved.
 

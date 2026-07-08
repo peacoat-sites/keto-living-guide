@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 1,200 calories is a number that makes most dietitians wince a little. Not because it's always wrong, but because it gets thrown around so casually, applied to so many different bodies, and paired with approaches that make it much harder than it needs to be. Add keto on top of it, and you've got a combination that can either work really well or leave you exhausted, hungry, and frustrated within two weeks.
 
@@ -32,6 +32,18 @@ If you're here, you're probably trying to lose weight steadily without going too
 Here's what I want to be upfront about: 1,200 calories is a genuine floor for most adults, not a target to aim below. The research on very low calorie intake, particularly for women, consistently shows muscle loss, metabolic adaptation, and micronutrient deficiencies when people go under this number for extended periods. So if you find you're not hungry enough to hit 1,200 on keto (which happens, because fat and protein are filling), pay attention to that. Don't treat hunger signals as optional on a plan this low.
 
 ## What 1,200 Calories Actually Looks Like on Keto
+
+| Component | Daily Target | At 1,200 Calories | Notes |
+| --- | --- | --- | --- |
+| Sodium | 2,000-3,000 mg | Difficult via food alone | Requires aggressive salting and/or supplementation |
+| Potassium | 1,000 mg | Difficult via food alone | Electrolyte supplementation recommended |
+| Magnesium | 300 mg | Difficult via food alone | Magnesium glycinate supplement suggested |
+| Fat | 93-100 g | ~70-75% of calories | 9 cal/g; portions add up quickly |
+| Protein | 60-75 g | ~20-25% of calories | 4 cal/g; supports satiety |
+| Net Carbs | 20-25 g | <5% of calories | Maintains ketosis |
+| Example meal: Breakfast | ~330 cal | 2 eggs + 1 tsp butter + ½ avocado | |
+| Example meal: Lunch | ~350 cal | 4 oz salmon + salad + olive oil dressing | |
+| Example meal: Dinner | ~380 cal | 4 oz chicken thigh + zucchini + pesto | |
 
 The macros you're working with are tighter than most keto calculators suggest. A typical split of 70-75% fat, 20-25% protein, and under 5% carbs translates to roughly 93-100g fat, 60-75g protein, and 20-25g net carbs. That's workable. What it doesn't leave room for is the "keto-friendly" processed snacks that eat up 200-300 calories without doing much for satiety or nutrition.
 

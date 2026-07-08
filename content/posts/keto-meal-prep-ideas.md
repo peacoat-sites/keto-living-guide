@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's 7 p.m. on a Wednesday, you're exhausted, and you open the fridge to find absolutely nothing keto-friendly ready to eat. You're staring down a block of cheese and some lunch meat, desperately improvising. Twenty minutes later you've caved and ordered pizza. Sound familiar? This is the scenario that derails more keto dieters than any craving ever could. The fix isn't willpower. It's preparation.
 
@@ -85,6 +85,15 @@ Something like an egg muffin bake: whisk 8 eggs with heavy cream, diced bacon, c
 By now the chicken's been in the slow cooker for about 80 minutes (not fully done yet, but you'll let it continue). Use this time to assemble full meal containers, portion nuts into snack bags, and label everything with dates. Pull the chicken later, shred it, and refrigerate in a large container.
 
 ## Keto Meal Prep Ideas by Meal Type
+
+| Meal | Prep-Friendly Option | Macros (approx.) | Storage |
+|------|----------------------|------------------|----------|
+| Breakfast | Egg muffin cups with bacon and cheese | 250 cal, 18g fat, 14g protein, 1g carb | 5 days fridge |
+| Breakfast | Greek yogurt (full-fat) with pecans | 200 cal, 16g fat, 9g protein, 5g carb | 4 days fridge |
+| Lunch | Shredded chicken over cauliflower rice | 380 cal, 22g fat, 34g protein, 6g carb | 4 days fridge |
+| Lunch | Taco beef lettuce cups with cheese | 340 cal, 24g fat, 28g protein, 4g carb | 4 days fridge |
+| Dinner | Baked salmon with roasted broccoli | 420 cal, 28g fat, 38g protein, 5g carb | 3 days fridge |
+| Dinner | Stuffed bell peppers (ground beef + cream cheese) | 390 cal, 26g fat, 32g protein, 6g carb | 4 days fridge |
 
 | Meal | Prep-Friendly Option | Macros (approx.) | Storage |
 |------|----------------------|------------------|---------|

@@ -23,6 +23,7 @@ faqs:
    a: "The store-bought options I've tried, including a few that charge $8-10 per crust, have mostly disappointed me on texture and flavor. The good ones are okay. Fathead is better, cheaper, and you know exactly what's in it. A batch costs maybe $3 in ingredients."
  - q: "Will this actually kick me out of ketosis?"
    a: "A well-made keto pizza with fathead crust almost certainly won't, assuming you're otherwise sticking to your carb targets. What does derail people is using a recipe that seems keto-friendly but has hidden carbs in the sauce or sausage. Read labels on processed toppings especially."
+lastmod: 2026-07-07
 ---
 
 Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. I've had that conversation with clients more times than I can count. The truth is that bad keto pizza is genuinely bad. But a well-made version? It holds up. I make it for people who aren't on any kind of low-carb diet, and they eat it without complaint.
@@ -30,6 +31,12 @@ Most keto pizza attempts fail in the same way: someone follows a popular recipe,
 The difference almost always comes down to the crust choice and how you handle moisture. That's where most recipes gloss over the part that actually matters.
 
 ## The Crust Debate: Fathead vs. Cauliflower vs. Chicken
+
+| Crust Type | Primary Ingredients | Net Carbs per Slice | Texture Profile | Best For |
+| --- | --- | --- | --- | --- |
+| Fathead | Mozzarella, cream cheese, almond flour, egg | 3-5g | Chewy, bread-like | Beginners, bread experience |
+| Cauliflower | Riced cauliflower, egg, parmesan, mozzarella | Lower | Fork-and-knife, vegetable notes | Vegetable preference |
+| Chicken | Ground or canned chicken, egg, parmesan | Lowest | Protein-forward, satisfying | Highest protein needs |
 
 There are three crust types worth your time. Everything else (almond flour alone, egg-only crusts, cloud bread bases) ranges from mediocre to genuinely unpleasant.
 

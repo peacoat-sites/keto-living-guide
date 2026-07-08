@@ -23,6 +23,7 @@ faqs:
    a: "No, and this is one of the most persistent myths. Excess protein can be converted to glucose through gluconeogenesis, though the body is actually fairly reluctant to do this at typical protein intakes. The more practical concern is that protein is highly satiating and affects your calorie intake. Somewhere around 1.2-1.8g per kg of body weight is a reasonable range for most active adults."
  - q: "Do I have to stay on keto forever for the benefits to stick?"
    a: "Not necessarily. The metabolic improvements in insulin sensitivity and blood sugar can persist if you transition to a lower-carb whole-foods diet rather than reverting to processed carbohydrates. The weight, predictably, returns if eating patterns return to what caused the weight gain initially. Keto is a useful tool, not a permanent identity you have to adopt."
+lastmod: 2026-07-07
 ---
 
 Most people who start keto have already read approximately seventeen articles about it. They know the 70/25/5 macro split. They've heard about ketosis. And yet, within three weeks, they're eating Cheez-Its at 11pm and wondering what went wrong. I've seen this pattern so many times that I've stopped blaming the person and started blaming the explanation they were given.
@@ -31,11 +32,18 @@ The standard "keto science" write-up tells you *what* happens but not *why it ac
 
 ## What your body is actually doing when it runs on ketones
 
+| Ketone Level (mmol/L) | Nutritional State | Key Characteristics |
+| --- | --- | --- |
+| 0.5-1.5 | Light Ketosis | Minimal ketone production; may not trigger full appetite suppression or metabolic benefits |
+| 1.5-3.0 | Nutritional Ketosis | Therapeutic range for most documented benefits; appetite suppression and insulin sensitivity improvements most pronounced |
+| 3.0+ | Deep Ketosis | Higher ketone availability; typically achieved after several weeks of adaptation |
+| 0.0-0.5 | Pre-Ketosis | Insufficient carbohydrate restriction; physiological state similar to fed metabolism |
+
 Your liver has been making ketones your entire life. Small amounts, usually while you sleep, when glycogen stores dip overnight. What keto does is extend and deepen that state by keeping carbohydrate intake low enough (typically under 20-50g net carbs daily) that your liver ramps up ketone production significantly.
 
 The three ketone bodies are beta-hydroxybutyrate (BHB), acetoacetate, and acetone. BHB is the main one that circulates in blood and gets used as fuel. It crosses the blood-brain barrier easily, which is part of why a lot of people report that surprisingly clear-headed feeling after the first couple weeks. That's real. The brain runs well on BHB.
 
-Here's something most people don't realize: ketosis is not a binary switch. You can have blood ketones at 0.5 mmol/L (the low end of nutritional ketosis) or at 3.0 mmol/L, and both technically count. The difference matters because a lot of the benefits researchers have documented, including appetite suppression and improved insulin sensitivity, are dose-dependent. Running at 0.6 mmol/L because you're sneaking half a banana isn't the same physiological state as running at 2.0 mmol/L. If you want to actually test where you are, blood ketone meters (the Keto-Mojo Gen 3 is around $60 and the strips are cheaper than most competitors) are far more accurate than urine strips, which become useless after the first few weeks of adaptation.
+Here's something most people don't realize: ketosis is not a binary switch. You can have blood ketones at 0.5 mmol/L (the low end of nutritional ketosis) or at 3.0 mmol/L, and both technically count. The difference matters because a lot of the benefits researchers have documented, including appetite suppression and improved insulin sensitivity, are dose-dependent. Running at 0.6 mmol/L because you're sneaking half a banana isn't the same physiological state as running at 2.0 mmol/L. If you want to actually test where you are, [blood ketone meters](/blood-ketone-levels-chart/) (the Keto-Mojo Gen 3 is around $60 and the strips are cheaper than most competitors) are far more accurate than urine strips, which become useless after the first few weeks of adaptation.
 
 ## The insulin mechanism, and why it's slightly oversold
 
@@ -49,9 +57,9 @@ I've had clients who genuinely believed they could eat 3,500 calories of cheese,
 
 The "keto flu" is real and it lasts roughly 3-14 days for most people. Fatigue, brain fog, irritability, sometimes headaches. A lot of this is electrolyte loss, not fat adaptation itself. When insulin drops, your kidneys excrete sodium much more aggressively, and magnesium and potassium follow. If you're not replacing these, you'll feel terrible regardless of how perfectly you're eating.
 
-The actual fat adaptation process, meaning the full upregulation of fat-burning enzymes and mitochondrial changes that let you perform athletically and cognitively on ketones, takes 4-12 weeks. This is longer than most people expect. At week two you might feel great. At week four during a hard workout you might feel like garbage again as your body recalibrates how it handles exercise intensity. This is normal. It's not a sign keto isn't working.
+The actual [fat adaptation process](/how-to-become-fat-adapted/), meaning the full upregulation of fat-burning enzymes and mitochondrial changes that let you perform athletically and cognitively on ketones, takes 4-12 weeks. This is longer than most people expect. At week two you might feel great. At week four during a hard workout you might feel like garbage again as your body recalibrates how it handles exercise intensity. This is normal. It's not a sign keto isn't working.
 
-A practical note: sodium supplementation matters more than most keto content admits. Aim for 3-5g of sodium daily during adaptation, which is more than standard dietary advice and frankly more than feels intuitive. Something like LMNT packets (about $1.50 each, which adds up, but the sodium content is actually correct unlike most "electrolyte" drinks) or just salting your food aggressively and adding a cup of broth daily will make the transition dramatically more tolerable.
+A practical note: [sodium supplementation](/electrolytes-on-keto/) matters more than most keto content admits. Aim for 3-5g of sodium daily during adaptation, which is more than standard dietary advice and frankly more than feels intuitive. Something like LMNT packets (about $1.50 each, which adds up, but the sodium content is actually correct unlike most "electrolyte" drinks) or just salting your food aggressively and adding a cup of broth daily will make the transition dramatically more tolerable.
 
 ## What the research actually shows keto is good for
 

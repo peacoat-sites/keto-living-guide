@@ -12,12 +12,19 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-diet-for-mental-illness-what-the-new-science-actually-shows"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you searched "keto and mental health" in early February 2026, you were part of something bigger. RFK Jr. claimed on February 4th that a ketogenic diet could "cure" schizophrenia. Search traffic spiked. Debates exploded. Then in June, Scientific American ran a major feature on keto as a potential treatment for anorexia, schizophrenia, and depression. Suddenly this wasn't fringe anymore. Maybe you're wondering if there's something real here, or if it's just diet hype wearing a lab coat. Fair question. The answer is messier and more interesting than either camp wants to admit.
 
 ## The Research Is Real, and It's More Promising Than You'd Expect
 
-Start with the study that probably matters most right now. In February 2026, a randomized controlled trial from the University of Oxford, published in *JAMA Psychiatry*, enrolled 88 adults with treatment-resistant depression (people who hadn't responded adequately to at least one antidepressant). After six weeks, the keto group's PHQ-9 depression scores dropped by 10.5 points compared to 8.3 points in the control group. That's a clinically meaningful gap, not statistical noise. A 10-point drop on the PHQ-9 is the difference between moderate and minimal depression for many people.
+| Condition | Sample Size | Duration | Key Metric | Result | Study Type |
+| --- | --- | --- | --- | --- | --- |
+| Treatment-Resistant Depression | 88 adults | 6 weeks | PHQ-9 score change | Keto: -10.5 pts vs Control: -8.3 pts | Randomized Controlled Trial |
+| Schizophrenia or Bipolar Disorder | 23 patients | 4 months | BPRS score reduction | 32% reduction | Pilot Trial |
+| Anorexia Nervosa | Not specified | Not specified | Recovery/normal range | 72% | Clinical study |
+
+Start with the study that probably matters most right now. In February 2026, a randomized controlled trial from the University of Oxford, published in *JAMA Psychiatry*, enrolled 88 adults with [treatment-resistant depression](/keto-diet-shows-promise-for-treatment-resistant-depression/) (people who hadn't responded adequately to at least one antidepressant). After six weeks, the keto group's PHQ-9 depression scores dropped by 10.5 points compared to 8.3 points in the control group. That's a clinically meaningful gap, not statistical noise. A 10-point drop on the PHQ-9 is the difference between moderate and minimal depression for many people.
 
 Context matters. This was short. The sample was small. "Treatment-resistant" populations vary wildly. And the control diet wasn't a junk-food free-for-all either, so we're not comparing clean eating to pure chaos. A well-designed RCT showing that kind of signal in such a difficult population isn't nothing though. It's actually significant.
 
@@ -25,13 +32,13 @@ A pilot trial of 23 patients with schizophrenia or bipolar disorder found a 32% 
 
 ## What the Anorexia Data Tells Us (and Why It's Surprising)
 
-The UC San Diego School of Medicine finding surprised me most. Published in June 2026, their study of anorexia nervosa participants found that 72% scored in the recovered or normal range after following a ketogenic diet. That's striking for a condition with historically brutal treatment outcomes.
+The UC San Diego School of Medicine finding surprised me most. Published in June 2026, their study of [anorexia nervosa participants](/keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/) found that 72% scored in the recovered or normal range after following a ketogenic diet. That's striking for a condition with historically brutal treatment outcomes.
 
 A high-fat, low-carb diet for a disorder defined by severe food restriction seems backwards. It is a legitimate concern, and researchers are asking it too. The working hypothesis: ketosis itself might reduce the obsessive cognitive patterns and anxiety driving restriction behaviors. The brain runs efficiently on ketones. Some evidence suggests metabolic state influences mood and compulsive thinking. But I'll be direct. The mechanisms are still unclear, and anorexia is life-threatening. Nobody should try this outside close clinical supervision. This is research worth watching, not a home experiment.
 
 ## Why "Metabolic Psychiatry" Is Getting Serious Traction
 
-Metabolic psychiatry, which treats mental illness partly as a disorder of brain energy metabolism, has circulated in academic circles for years. What's changed in 2026 is the research base catching up to the theory.
+[Metabolic psychiatry](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/), which treats mental illness partly as a disorder of brain energy metabolism, has circulated in academic circles for years. What's changed in 2026 is the research base catching up to the theory.
 
 The brain consumes roughly 20% of the body's total energy despite being only about 2% of its mass. In schizophrenia, bipolar disorder, and major depression, there's accumulating evidence of impaired glucose metabolism in key brain regions. Ketones offer an alternative fuel source that bypasses some of those glucose-metabolism problems. That's biologically plausible. You can't say that for most diet-disease theories.
 

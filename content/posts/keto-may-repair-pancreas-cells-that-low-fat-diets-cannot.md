@@ -12,6 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-may-repair-pancreas-cells-that-low-fat-diets-cannot"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Picture this: you're a type 2 diabetic who's already tried cutting fat, counting calories, and losing weight the conventional way. Your A1C comes down a little, your doctor says "keep it up," but something deeper isn't changing. Your pancreas is still struggling. The cells that make insulin, the beta cells, are still under stress. And nobody has a great answer for that part.
 
@@ -22,6 +23,16 @@ Researchers at the University of Alabama at Birmingham enrolled 51 adults, aged 
 That's not a small finding. It suggests keto is doing something to the pancreas itself, through a mechanism that has nothing to do with dropping pounds.
 
 ## What the Beta-Cell Finding Actually Means
+
+| Aspect | Ketogenic Diet Group | Low-Fat Diet Group |
+| --- | --- | --- |
+| Participant Count | ~26 (51 total, randomly assigned) | ~25 (51 total, randomly assigned) |
+| Age Range | 55-62 years | 55-62 years |
+| Duration | 12 weeks | 12 weeks |
+| Weight Change | Weight-maintaining | Weight-maintaining |
+| Beta-Cell Function Improvement (PICP) | Significantly greater improvement | No significant improvement |
+| Participants Showing Measurable Beta-Cell Improvement | 56% | Not specified |
+| Primary Outcome Measure | Proinsulin-to-C-peptide ratio (PICP) | Proinsulin-to-C-peptide ratio (PICP) |
 
 Most people, even those deep into the low-carb world, haven't heard of the proinsulin-to-C-peptide ratio. It's worth understanding because it tells you something weight loss numbers can't.
 

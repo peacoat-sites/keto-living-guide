@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Most keto content tells you to keep protein "moderate" and stops there. That single vague word has probably cost more people their results than any other piece of dietary advice online. Some eat too little and lose muscle while the scale barely budges. Others eat more, panic about gluconeogenesis turning their steak into glucose, and cut back for no reason. The research on protein and ketosis is messier than either camp admits, and getting this number right is probably the most underrated lever in a keto diet.
 
@@ -53,6 +53,12 @@ One tool that makes this dramatically easier is a [kitchen scale](https://www.am
 
 ## Step-by-Step: Setting Your Protein Target Without Overthinking It
 
+| Activity Level | Multiplier | Daily Protein Target |
+| --- | --- | --- |
+| Sedentary/Light Activity | 0.7g per pound | 0.7 × goal weight |
+| Moderate Activity (3-4x/week exercise) | 0.85-1.0g per pound | 0.85-1.0 × goal weight |
+| Heavy Training, Athletic Performance, or Over 50 | 1.0-1.2g per pound | 1.0-1.2 × goal weight |
+
 Here's a practical process that takes less than ten minutes:
 
 **Step 1: Determine your goal weight or lean mass.**
@@ -76,7 +82,7 @@ Log your actual intake against your target. Adjust based on how you feel, how hu
 
 Let's settle this directly. Yes, eating an enormous protein load in a single sitting can temporarily suppress ketones. So can stress, poor sleep, and not exercising. Ketosis is not a binary on/off switch that you manage by obsessing over grams.
 
-In practice, I've worked with clients eating 150-160g of protein daily who maintain consistent ketone readings of 0.5-1.5 mmol/L, which is the range considered nutritional ketosis. I've also seen people eating 80g who never get there because their carb intake is inconsistently managed. Protein is rarely the variable that makes or breaks ketosis for most people.
+In practice, I've worked with clients eating 150-160g of protein daily who maintain consistent ketone readings of 0.5-1.5 mmol/L, which is the range considered nutritional ketosis. I've also seen people eating 80g who never get there because their [carb intake is inconsistently managed](/how-to-calculate-net-carbs-on-keto/). Protein is rarely the variable that makes or breaks ketosis for most people.
 
 Where this becomes more relevant is in therapeutic contexts, specifically epilepsy management or certain cancer protocols, where ketone levels are being used medicinally and need to hit specific targets. If that's your situation, you're working with a physician who should be guiding your macros precisely. For everyone else, the fear of protein bumping you out of ketosis is largely overcorrected.
 

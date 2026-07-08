@@ -12,6 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-plus-semaglutide-what-new-research-actually-shows"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Most GLP-1 coverage in 2026 follows a predictable arc: drug works, people lose weight, results are impressive. What that coverage keeps skipping is the compositional problem. Semaglutide doesn't just shrink fat. Studies have consistently shown that up to 40% of the weight lost on GLP-1 agonists alone can come from lean body mass, including skeletal muscle. Lose 25 kilograms on Ozempic and you may have lost 10 of them from muscle. That's not a footnote. That's a metabolic liability that worsens long-term outcomes, increases fall risk in older adults, and sets the stage for weight regain the moment the prescription stops.
@@ -19,6 +20,16 @@ Most GLP-1 coverage in 2026 follows a predictable arc: drug works, people lose w
 A case series published June 12, 2026 in *Personalized Medicine* took that problem seriously and tested a direct intervention against it. The results are worth understanding carefully, not because they're definitive, but because they're specific in ways the broader conversation usually isn't.
 
 ## What the June 2026 Data Actually Shows
+
+| Metric | Keto + Low-Dose Semaglutide (6 months) | Standard Semaglutide Alone (estimated) |
+| --- | --- | --- |
+| Mean Total Weight Loss | 21.9 kg | Similar total, varies by dosing |
+| Fat Mass Loss (% of total) | 92% | ~60-75% |
+| Skeletal Muscle Loss | 1.2 kg average | 4-8 kg (estimated) |
+| Visceral Fat Reduction | 37.0% mean | Not specified |
+| Fasting Insulin Decline | 15.6 µIU/mL mean | Not specified |
+| Semaglutide Dosing | ≤1.0 mg/week | 1.0-2.4 mg/week (standard) |
+| Study Design | Case series, supervised | Randomized controlled trials |
 
 The MDPI study combined a whole-food ketogenic diet with low-dose semaglutide at or below 1.0 mg per week, run as a 6-month clinician-supervised program. Mean total weight loss was 21.9 kg. Of that, 92% was fat mass. Skeletal muscle loss averaged only 1.2 kg across participants.
 
@@ -44,7 +55,7 @@ Semaglutide commonly causes nausea, constipation, and slowed gastric emptying. A
 
 The appetite suppression is the other issue. Both strategies independently reduce hunger. Combined, caloric intake can drop low enough that micronutrient intake becomes seriously inadequate. Electrolytes, B vitamins, magnesium, and potassium are already attention-requiring on keto. Add semaglutide-driven appetite suppression and getting enough food to cover those bases becomes an active clinical management problem, not a background concern.
 
-There's also the question of who shouldn't try this combination. Anyone with a history of disordered eating, significant GI motility issues, or a history of pancreatitis should not be experimenting here without direct clinical supervision. The 2026 *Personalized Medicine* study was supervised by clinicians. That context matters and shouldn't get stripped out when people read headlines and self-prescribe.
+There's also the question of who shouldn't try this combination. Anyone with a history of [disordered eating](/keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/), significant GI motility issues, or a history of pancreatitis should not be experimenting here without direct clinical supervision. The 2026 *Personalized Medicine* study was supervised by clinicians. That context matters and shouldn't get stripped out when people read headlines and self-prescribe.
 
 ## Where the Research Is Heading
 
@@ -54,7 +65,7 @@ The practical implication is that better evidence is probably 18 to 36 months aw
 
 ## What This Means If You're Currently on Semaglutide
 
-The lean mass preservation angle is legitimate. If you're on a GLP-1 drug and losing weight, the composition of that weight loss matters, both for long-term metabolic health and for how you feel and function. Protein intake and resistance training are the best-supported tools for lean mass preservation during caloric restriction. A well-formulated ketogenic diet with adequate protein may add another layer of protection, if the June 2026 data hold up in larger trials.
+The lean mass preservation angle is legitimate. If you're on a GLP-1 drug and losing weight, the composition of that weight loss matters, both for [long-term metabolic health](/keto-and-heart-health-what-two-conflicting-2026-studies-actually-show/) and for how you feel and function. Protein intake and resistance training are the best-supported tools for lean mass preservation during caloric restriction. A well-formulated ketogenic diet with adequate protein may add another layer of protection, if the June 2026 data hold up in larger trials.
 
 But the practical decision of whether to combine keto with semaglutide isn't one to make based on a case series and an article. Dosing adjustments, GI management, electrolyte monitoring, and exit strategy all require someone with clinical context about your specific situation. Talk to a physician or registered dietitian who actually knows GLP-1 protocols, not just keto in isolation.
 

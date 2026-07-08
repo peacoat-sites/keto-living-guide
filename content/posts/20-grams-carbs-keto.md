@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 Most people starting keto land on 20 grams of net carbs per day because someone told them to. A blog post, a Reddit thread, a friend who lost 40 pounds. And it works, at least at first, so nobody asks where the number actually came from. What surprises me, even after years of working with clients on this, is how few people understand *why* 20 grams became the default, what the research actually says about it, and whether that specific number is doing them any favors or just creating unnecessary misery.
 
@@ -41,6 +41,16 @@ So why does 20 persist? Because it works as a starting point for most people. It
 
 ## What Actually Happens to Your Body Around 20 Grams
 
+| Metric | Amount | Notes |
+| --- | --- | --- |
+| Liver glycogen stores | 80-100 grams | Depletes in 12-48 hours on very low-carb diet |
+| Muscle glycogen stores | 300-500 grams | Varies by body size; not easily converted to blood glucose |
+| Ketosis onset (clinical definition) | 0.5+ mmol/L | Standard threshold for measurable ketone levels |
+| Keto adaptation period | 2-4 weeks | Time for meaningful cognitive adaptation to ketones |
+| Net carbs in 1 cup cooked broccoli | ~4 grams | Common low-carb vegetable reference |
+| Net carbs in 2 cups raw spinach | <1 gram | Leafy green vegetable reference |
+| Virta Health patient average | ~30 grams | Real-world ketogenic diet study data (maintains ketosis) |
+
 Your liver stores roughly 80 to 100 grams of glycogen. Muscles hold more, somewhere around 300 to 500 grams depending on your size, but muscle glycogen isn't easily converted back to blood glucose the way liver glycogen is. When you eat very few carbs, your liver glycogen depletes over 12 to 48 hours, blood glucose drops, insulin falls, and your liver starts converting fatty acids into ketone bodies: beta-hydroxybutyrate, acetoacetate, and acetone.
 
 Your brain, which normally runs almost exclusively on glucose, adapts to use beta-hydroxybutyrate as fuel. This adaptation takes time.
@@ -53,7 +63,7 @@ One thing I want to be clear about: net carbs, not total carbs, is what you're c
 
 I'll be honest: I've recommended the 20-gram threshold to most of my new keto clients, even knowing the individual variation exists. Here's why it makes sense as a starting point.
 
-The keto adaptation process is genuinely uncomfortable for many people. The brain fog, fatigue, and irritability of early keto aren't just inconvenient, they can cause people to abandon the approach before they've given it a real trial. Starting at 20 grams maximizes the speed of ketosis onset, which typically means the adaptation symptoms resolve faster. You get to the functional side of keto more quickly.
+The [keto adaptation process](/how-to-become-fat-adapted/) is genuinely uncomfortable for many people. The brain fog, fatigue, and irritability of early keto aren't just inconvenient, they can cause people to abandon the approach before they've given it a real trial. Starting at 20 grams maximizes the speed of ketosis onset, which typically means the adaptation symptoms resolve faster. You get to the functional side of keto more quickly.
 
 There's also a behavioral argument. When you're learning a new dietary pattern, simplicity reduces decision fatigue. Twenty grams is a hard constraint that forces you to learn what's actually in your food. I've had clients who thought they were eating keto but were regularly hitting 40 or 50 grams because they didn't realize how many carbs were hiding in salad dressings, certain nuts, or sauces. The strict 20-gram rule exposes those gaps fast.
 

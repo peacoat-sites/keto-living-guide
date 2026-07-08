@@ -23,6 +23,7 @@ faqs:
    a: "Not in the way most people fear. Gluconeogenesis is regulated by demand, not just protein supply. Hitting 1 gram per pound of bodyweight won't prevent ketosis in an adapted individual. If you're constantly testing your ketones and they're low, look at total calories and hidden carbs before blaming protein."
  - q: "What's the biggest mistake people make on a keto bodybuilding plan?"
    a: "Underrating protein and overrating fat. Keto's identity as a 'high-fat diet' leads a lot of people to keep piling in butter and oil while protein sits at 100g a day or less. Fat is a fuel source here, not a building block. Muscle is built from protein. Get the protein right first, then fill remaining calories with fat."
+lastmod: 2026-07-07
 ---
 
 Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. I've worked with clients who were genuinely lean and genuinely frustrated that they couldn't seem to add muscle no matter how dialed-in their training was, and nine times out of ten the problem was their food, specifically not enough protein and way too little attention to nutrient timing.
@@ -41,6 +42,16 @@ Best sources: eggs, ground beef (80/20 hits both protein and fat targets well), 
 
 ## Building the actual meal structure
 
+| Nutrient | Daily Target (Training Day) | Daily Target (Rest Day) |
+| --- | --- | --- |
+| Calories | ~2,600 | ~2,300-2,400 |
+| Protein | 190g | 190g |
+| Fat | 200g | ~170-185g |
+| Net Carbs | <30g | <30g |
+| Sodium | 3,000-5,000mg | - |
+| Potassium | 3,500mg | - |
+| Magnesium | 400-500mg | - |
+
 Here's what a training-day meal plan looks like for someone at roughly 185 pounds trying to build lean muscle on keto, targeting about 2,600 calories, 190g protein, 200g fat, and under 30g net carbs:
 
 **Meal 1 (Pre-training, about 90 minutes before):**
@@ -55,7 +66,7 @@ This is where I'd concentrate the most protein. 8 oz salmon or 8 oz chicken thig
 A simple meal: 6 oz ribeye or burger patty, a handful of macadamia nuts, some full-fat cheese. Keep it practical. You don't need to cook everything from scratch. Investing in a decent set of [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers+keto&tag=contentportfo-20) saves an enormous amount of daily decision fatigue. *(Commission disclosure applies.)*
 
 **Meal 4 (Evening):**
-Casein protein or cottage cheese with a tablespoon of almond butter before bed. Slow-digesting protein through the night actually matters for muscle protein synthesis. It's not mandatory, but if you're serious about building, this is an easy habit.
+Casein protein or cottage cheese with a tablespoon of almond butter before bed. Slow-digesting protein through the night actually matters for [muscle protein synthesis](/keto-diet-and-inflammation/). It's not mandatory, but if you're serious about building, this is an easy habit.
 
 On rest days, drop calories by roughly 200-300 and pull fat intake back slightly. Protein stays the same. Don't overthink rest days.
 
@@ -65,11 +76,11 @@ This deserves its own section because I cannot count the number of bodybuilders 
 
 You need more than most keto electrolyte products provide. I'd target at least 3,000-5,000mg sodium daily on training days, 3,500mg potassium, and 400-500mg magnesium. A product like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) covers the sodium side well. For magnesium, a separate magnesium glycinate supplement before bed is worth it, and it tends to help sleep quality too. *(Commission disclosure applies.)*
 
-Don't try to white-knuckle through the adaptation period without addressing this. The "keto flu" in athletes is almost always an electrolyte problem, not an inevitable rite of passage.
+Don't try to white-knuckle through the adaptation period without addressing this. The "[keto flu](/keto-diet-side-effects/)" in athletes is almost always an electrolyte problem, not an inevitable rite of passage.
 
 ## The creatine question
 
-Take it. Creatine monohydrate is one of the most studied supplements in sports nutrition and it's particularly useful on keto because glycogen depletion reduces your muscles' capacity for short, explosive efforts. Five grams daily, no loading phase required. It'll cause a small bump in scale weight from water retention in muscle tissue, which confuses people who are simultaneously tracking fat loss. Don't let it.
+Take it. Creatine monohydrate is one of the most studied supplements in sports nutrition and it's particularly useful on keto because [glycogen depletion](/keto-diet-for-runners/) reduces your muscles' capacity for short, explosive efforts. Five grams daily, no loading phase required. It'll cause a small bump in scale weight from water retention in muscle tissue, which confuses people who are simultaneously tracking fat loss. Don't let it.
 
 ## Tracking and adjusting
 

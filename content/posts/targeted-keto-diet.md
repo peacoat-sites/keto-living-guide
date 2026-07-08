@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.
 
@@ -71,6 +71,14 @@ Your post-workout meal should be keto-standard: protein and fat, no additional c
 Some people lose ketosis with their TKD carbs and return to it within a few hours. Others maintain low-level ketosis throughout. A blood ketone meter gives you actual information rather than guesswork. It's not required, but it's useful when you're dialing in. A reliable [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20) takes the speculation out of it. *(This site may earn a commission on qualifying purchases.)*
 
 ## TKD vs. Standard Keto vs. Cyclical Keto: A Quick Comparison
+
+| Feature | Standard Keto | Targeted Keto (TKD) | Cyclical Keto (CKD) |
+|---|---|---|---|
+| Daily carb limit | 20-50g net | 20-50g + 15-50g pre-workout | 20-50g weekdays, 150-300g+ on carb days |
+| Best for | General health, fat loss, low-to-moderate activity | High-intensity training, athletes | Advanced athletes, bodybuilders |
+| Ketosis maintenance | Consistent | Mostly maintained | Interrupted weekly |
+| Complexity | Low | Moderate | High |
+| Adaptation period needed | Yes | Yes (4-6 weeks SKD first) | Yes (significant) |
 
 | Feature | Standard Keto | Targeted Keto (TKD) | Cyclical Keto (CKD) |
 |---|---|---|---|

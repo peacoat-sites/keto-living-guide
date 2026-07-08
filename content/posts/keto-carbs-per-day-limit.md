@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 You're four days into keto. You've ditched the bread and pasta, you're drowning yourself in water, and somehow you feel worse than before. The scale hasn't moved. You search "how many carbs per day on keto" and get three completely different answers: 20 grams, 50 grams, net carbs only. You close the tabs and eat a handful of almonds, suddenly paranoid that was a mistake.
 
@@ -59,6 +59,13 @@ If you're serious about tracking, get a kitchen scale. Eyeballing portions is wh
 
 ## How to Find Your Personal Carb Threshold
 
+| Method | Precision | Reliability | Best Use Case |
+| --- | --- | --- | --- |
+| Urine Ketone Strips | Rough estimate | Unreliable after a few weeks | Initial ketosis verification |
+| Blood Ketone Meter | Precise (mmol/L reading) | Consistent over time | Ongoing threshold testing |
+| Total Carb Counting | Conservative baseline | Reliable for beginners | Starting phase (20-25g) |
+| Net Carb Counting | Flexible approach | Variable by individual | After established ketosis |
+
 Most articles skip this because it requires patience. But if you want to stop guessing, here's the actual process.
 
 **Step 1: Start at 20 grams of total carbs for two to three weeks.**
@@ -83,7 +90,7 @@ Twenty grams from spinach and broccoli hits differently than 20 from a maltitol 
 
 Carb count is the main lever, but it's not the only one. I've worked with people who obsessively counted carbs and still couldn't stay in ketosis. Usually one of these was the culprit.
 
-**Hidden carbs in "keto" products.** Packaged keto bars, low-carb wraps, and specialty snacks are notorious. Read the full ingredient list. Some products are legitimately solid. Others are marketing with a nutrition label slapped on.
+**Hidden carbs in "keto" products.** Packaged keto bars, [low-carb wraps, and specialty snacks](/best-keto-sweeteners/) are notorious. Read the full ingredient list. Some products are legitimately solid. Others are marketing with a nutrition label slapped on.
 
 **Too much protein (the real issue, not the myth).** You've probably heard that excess protein converts to glucose and tanks ketosis. The reality is more complex. Gluconeogenesis is demand-driven, not supply-driven. Moderate to high protein doesn't automatically kill ketosis. But very high protein combined with very low fat can shift your metabolism toward glucose. It's about overall context, not gram counts.
 

@@ -23,13 +23,13 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 You've just committed to keto, you're standing in the produce section of the grocery store, and suddenly every vegetable you've ever eaten feels like a potential trap. Is that zucchini fine? What about carrots? And corn counts as a vegetable, right? This moment of produce-aisle paralysis is something I've heard from almost every client who starts a ketogenic diet. Most vegetables are not the enemy. The tricky part is knowing which ones are working with your goals and which ones are quietly blowing your carb budget before dinner even hits the table.
 
 ## Why Vegetables Matter More on Keto Than You Might Think
 
-A lot of people come to keto thinking vegetables are just filler. They load up on bacon and cheese, treat vegetables as an afterthought, and then wonder why they feel foggy, constipated, or crampy by week two. Vegetables are where you get potassium, magnesium, folate, and fiber on a ketogenic diet. Without them, you're running a micronutrient deficit that shows up fast.
+A lot of people come to keto thinking vegetables are just filler. They load up on bacon and cheese, treat vegetables as an afterthought, and then wonder why they feel foggy, constipated, or crampy by week two. Vegetables are where you get [potassium, magnesium, folate, and fiber](/electrolytes-on-keto/) on a ketogenic diet. Without them, you're running a micronutrient deficit that shows up fast.
 
 The goal of a well-formulated ketogenic diet is to keep net carbs low enough to maintain ketosis, typically between 20 and 50 grams of net carbs per day depending on the individual. Net carbs are calculated by subtracting fiber from total carbohydrates, because fiber doesn't spike blood sugar or trigger an insulin response the way digestible carbs do. This is why fiber-rich vegetables can actually be your best friend on keto. A cup of raw spinach has about 1 gram of net carbs. You could eat a serious amount of spinach and barely register it in your daily count.
 
@@ -82,6 +82,36 @@ These are the genuinely starchy vegetables that can kick you out of ketosis if y
 **Parsnips** and **plantains** round out the list. Parsnips look like pale carrots but are much starchier, around 19 grams of net carbs per cup cooked. Plantains are over 30 grams per cup.
 
 ## A Quick-Reference Comparison: Net Carbs at a Glance
+
+| Vegetable | Serving Size | Net Carbs (g) | Category |
+| --- | --- | --- | --- |
+| Spinach (raw) | 1 cup | 1 | Green Light |
+| Arugula (raw) | 1 cup | 1-3 | Green Light |
+| Kale (raw) | 1 cup | 1-3 | Green Light |
+| Broccoli (raw, chopped) | 1 cup | 4 | Green Light |
+| Cauliflower (raw) | 1 cup | 3-4 | Green Light |
+| Zucchini (sliced) | 1 cup | 3 | Green Light |
+| Cucumber (sliced) | 1 cup | 2 | Green Light |
+| Celery | 1 stalk | 1 | Green Light |
+| Asparagus | 5 spears | 2 | Green Light |
+| Bell pepper, green (raw) | ½ cup | 4 | Green Light |
+| Bell pepper, red or yellow (raw) | ½ cup | 5-6 | Green Light |
+| Mushrooms (raw) | 1 cup | 2 | Green Light |
+| Green beans (cooked) | 1 cup | 4 | Green Light |
+| Eggplant (cooked, cubed) | 1 cup | 5 | Green Light |
+| Avocado | ½ fruit | 2 | Green Light |
+| Tomato, medium | 1 medium | 5 | Caution Zone |
+| Onion, raw | ¼ cup | 3 | Caution Zone |
+| Onion, sautéed | 1 cup | 10-12 | Caution Zone |
+| Winter squash (cooked) | ½ cup | 8-10 | Caution Zone |
+| Beets (cooked) | ½ cup | 8 | Caution Zone |
+| Carrot, medium raw | 1 carrot | 5 | Caution Zone |
+| Carrot, cooked | 1 cup | 11 | Caution Zone |
+| Potato, medium | 1 potato | 30-37 | Red Light |
+| Sweet potato (cooked) | ½ cup | 20 | Red Light |
+| Corn, medium ear | 1 ear | 25 | Red Light |
+| Parsnip (cooked) | 1 cup | 19 | Red Light |
+| Plantain | 1 cup | 30+ | Red Light |
 
 This is the kind of table I wish someone had handed me when I first started working with keto clients. All figures are approximate and based on standard serving sizes.
 

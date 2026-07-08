@@ -21,7 +21,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. I've seen this play out dozens of times: a client cuts out bread and pasta, feels great for a week, then stalls completely. We dig into their food log and find a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.
 
@@ -29,13 +29,30 @@ Most people who "try keto and fail" didn't actually fail because they lacked wil
 
 Let's start with the foods everyone knows to avoid, because even here there are details worth paying attention to.
 
-Bread, pasta, rice, and cereals are the obvious targets. But the numbers matter. A single cup of cooked white rice contains around 45 grams of net carbs. One medium flour tortilla is 22 to 26 grams depending on brand. A standard bagel can hit 50 grams before you've added anything to it. On a strict ketogenic diet, most people aim to stay under 20 to 25 grams of net carbs per day. One bagel puts you at twice that ceiling.
+Bread, pasta, rice, and cereals are the obvious targets. But the numbers matter. A single cup of cooked white rice contains around 45 grams of [net carbs](/keto-food-database/). One medium flour tortilla is 22 to 26 grams depending on brand. A standard bagel can hit 50 grams before you've added anything to it. On a strict ketogenic diet, most people aim to stay under 20 to 25 grams of net carbs per day. One bagel puts you at twice that ceiling.
 
 What surprises people is how quickly the "light" versions of these foods add up. Whole wheat bread is often marketed as healthier, and from a fiber-and-nutrient standpoint it is. But it's not meaningfully lower in net carbs than white bread. Don't let the health halo fool you.
 
 Sugary drinks are another category people mentally know but still underestimate in practice. A 12-ounce can of regular Coke has 39 grams of sugar. Orange juice, often treated as practically a health supplement, comes in at around 26 grams per cup. Sports drinks like Gatorade sit at 21 grams per 12 ounces. And then there's the stuff we don't think of as sweet: a 16-ounce oat milk latte from a popular chain can carry 30 or more grams of carbs depending on what's in the milk and whether there's any flavoring.
 
 ## The "Healthy" Foods That Will Kick You Out of Ketosis
+
+| Food | Serving Size | Net Carbs (grams) |
+| --- | --- | --- |
+| White rice (cooked) | 1 cup | 45 |
+| Flour tortilla | 1 medium | 22-26 |
+| Bagel | 1 standard | 50 |
+| Banana | 1 medium | 24 |
+| Apple | 1 large | 23 |
+| Grapes | 1 cup | 26 |
+| Raspberries | ½ cup | 3.5 |
+| Blueberries | 1 cup | 17 |
+| Black beans | 1 cup | 29 |
+| Sweet potato | 1 medium | 20-23 |
+| Carrots | ½ cup | 8 |
+| Dairy milk | 8 oz | 12 |
+| Plain Greek yogurt | 1 serving | 8-10 |
+| Ketchup | 1 tbsp | 4 |
 
 This is where things get genuinely counterintuitive. Honestly, this is where I find the most interesting conversations with clients.
 
@@ -57,7 +74,7 @@ I'll be honest: this category causes more stalls and frustrations than any other
 
 **Medications and supplements.** What surprised me when I first researched this deeply was how often people overlook their chewable vitamins, gummy supplements, or liquid medications. Many contain dextrose, maltodextrin, or corn syrup as a base. If you're taking multiple chewable supplements per day, you could be adding 5 to 10 grams of carbs without realizing it. This doesn't mean stop taking prescribed medications. But it's worth reading labels.
 
-**Protein bars and "low-carb" packaged foods.** This deserves its own space. The keto food market has exploded, and not all of it is honest. Some products labeled "keto-friendly" or "low net carbs" use sugar alcohols like maltitol, which affects blood sugar in a way more similar to regular sugar than manufacturers like to admit. Erythritol and allulose are better options. If you're buying packaged keto snacks, flip them over and read the ingredient list, not just the net carb count on the front.
+**Protein bars and "low-carb" packaged foods.** This deserves its own space. The keto food market has exploded, and not all of it is honest. Some products labeled "[keto-friendly](/is-keto-right-for-you/)" or "low net carbs" use sugar alcohols like maltitol, which affects blood sugar in a way more similar to regular sugar than manufacturers like to admit. Erythritol and allulose are better options. If you're buying packaged keto snacks, flip them over and read the ingredient list, not just the net carb count on the front.
 
 **Nuts.** Nuts are a good keto snack in controlled portions, but "controlled" is doing a lot of work in that sentence. Cashews are the biggest offender at around 8.5 grams of net carbs per ounce. Pistachios are close behind at about 5 grams per ounce. Almonds and macadamias are much more keto-friendly (around 1.5 to 2 grams per ounce), but even those can add up fast when you're eating from a large bag while working.
 

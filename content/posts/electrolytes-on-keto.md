@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 You're three days into keto, feeling pretty smug about ditching bread and pasta, and then something hits you: a throbbing headache that won't quit, shaky legs, and fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on "keto flu." Most articles tell you to just push through it. Here's what they leave out: what you're experiencing isn't actually a carb-withdrawal crisis. It's an electrolyte emergency, and you could've prevented almost all of it.
 
@@ -33,11 +33,17 @@ Cut carbs below roughly 20-50 grams per day, and your body burns through its gly
 
 There's a second mechanism too. Insulin levels plummet on keto. That matters because insulin tells your kidneys to hold onto sodium. Lower insulin means your kidneys switch to excretion mode. You can lose several grams of sodium in a single day through urine alone, especially in those first two weeks.
 
-Low sodium triggers more fluid loss. Low potassium affects how your muscles contract and how your heart beats. Low magnesium becomes muscle cramps, terrible sleep, and anxiety. These aren't vague symptoms you can handwave. They're actual physiological events, and they're why so many people quit keto before they even reach ketosis.
+Low sodium triggers more fluid loss. Low potassium affects how your muscles contract and how your heart beats. Low magnesium becomes muscle cramps, terrible sleep, and anxiety. These aren't vague symptoms you can handwave. They're actual physiological events, and they're why so many people quit keto [before they even reach ketosis](/how-long-to-enter-ketosis/).
 
-I've had clients convinced that keto "just doesn't work for my body," when the real problem was they were running on 400mg of sodium a day when they needed 3,000-5,000mg. That's the difference between feeling terrible and feeling fine.
+I've had clients convinced that keto "just doesn't work for my body," when the real problem was they were running on 400mg of sodium a day [when they needed 3,000-5,000mg](/best-protein-sources-keto/). That's the difference between feeling terrible and feeling fine.
 
 ## The Big Three: Sodium, Potassium, and Magnesium
+
+| Electrolyte | Daily Target | Key Food Sources | Supplement Form (if needed) |
+| --- | --- | --- | --- |
+| Sodium | 3,000-5,000 mg | Table salt, sea salt, bone broth, pickles, cured olives | Salt (not typically supplemented) |
+| Potassium | 3,500-4,700 mg | Avocados, salmon, Swiss chard, pork | Food-based only (FDA caps OTC at 99 mg/dose) |
+| Magnesium | 300-420 mg | Pumpkin seeds, spinach, almonds, dark chocolate (85%+ cacao) | Magnesium glycinate or magnesium malate |
 
 These three minerals do almost all the work. Each one deserves its own breakdown.
 

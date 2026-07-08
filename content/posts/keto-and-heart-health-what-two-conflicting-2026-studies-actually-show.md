@@ -12,8 +12,9 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "keto-and-heart-health-what-two-conflicting-2026-studies-actually-show"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
-The keto community is having a genuinely uncomfortable week. A large observational study dropped June 4, 2026 in *Scientific Reports*, analyzing 43,776 American adults from NHANES data spanning 2001 to 2018, and found that people eating a ketogenic dietary pattern had a 24% lower risk of all-cause mortality (HR = 0.76, 95% CI 0.63–0.90, P = 0.003) with no corresponding spike in cardiovascular deaths. Good news, right? Except that five months earlier, a University of Utah Health team published findings in *Science Advances* showing that long-term keto caused fatty liver disease, wrecked lipid profiles, and seriously compromised insulin function in mice, with male subjects sustaining the worst liver damage. Both studies are real. Both matter. Neither one cancels the other out, and that's exactly the problem.
+The keto community is having a genuinely uncomfortable week. A large observational study dropped June 4, 2026 in *Scientific Reports*, analyzing 43,776 American adults from NHANES data spanning 2001 to 2018, and found that people eating a ketogenic dietary pattern had a 24% lower risk of all-cause mortality (HR = 0.76, 95% CI 0.63–0.90, P = 0.003) with no corresponding spike in cardiovascular deaths. Good news, right? Except that five months earlier, a University of Utah Health team published findings in *Science Advances* showing that long-term keto caused fatty liver disease, wrecked lipid profiles, and seriously [compromised insulin function](/keto-can-restore-pancreas-function-in-type-2-diabetes-without-big-weig/) in mice, with male subjects sustaining the worst liver damage. Both studies are real. Both matter. Neither one cancels the other out, and that's exactly the problem.
 
 ## What the NHANES Study Actually Measured (and What It Didn't)
 
@@ -30,6 +31,11 @@ After extended time on keto, when animals were reintroduced to even small amount
 This matters for humans because most people don't stay on keto forever. They cycle on and off, they travel, they have holidays, they quit and restart. If long-term keto blunts your capacity to process glucose, those transitions aren't neutral metabolic pauses; they might be the most dangerous periods.
 
 ## Why the Contradiction Exists (and Won't Be Resolved Quickly)
+
+| Study | Type | Sample | Key Finding | Population |
+| --- | --- | --- | --- | --- |
+| NHANES (June 2026, *Scientific Reports*) | Observational | 43,776 American adults | 24% lower all-cause mortality (HR = 0.76, 95% CI 0.63-0.90) | Diverse U.S. population, 2001-2018 |
+| University of Utah (Jan 2026, *Science Advances*) | Mechanistic/Animal | Mice | Fatty liver, compromised glucose tolerance, impaired insulin response | Extended ketogenic diet exposure |
 
 The r/ketoscience subreddit has been threading these two studies against each other in real time, and the honest answer is that they're not as contradictory as they look. They're measuring different things over different timeframes in different organisms. The NHANES analysis captures population-level mortality patterns in people who eat a certain way. The Utah study captures what happens physiologically inside a body running on near-zero carbohydrates for an extended stretch. Both can be true simultaneously.
 

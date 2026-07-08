@@ -12,6 +12,7 @@ author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 slug: "keto-cooking-on-a-budget"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Most people come to me after they've already blown their grocery budget once or twice trying to eat keto. They've bought the almond flour, the grass-fed everything, the fancy MCT oil, the $12 avocado oil mayo. Then they look at the receipt and quietly wonder if this diet is actually designed for people who make more money than they do.
 
@@ -22,6 +23,16 @@ Here's what I tell people in that situation: the expensive version of keto is a 
 You don't need that layer. Let me show you what actually works.
 
 ## The Protein Problem (and How to Solve It Cheaply)
+
+| Protein Source | Approximate Cost/lb | Fat Content | Cook Time | Best For |
+| --- | --- | --- | --- | --- |
+| Chicken breast (boneless) | $2-4 | Low | 20-30 min | Quick meals |
+| Chicken thighs (bone-in, skin-on) | $1-2 | High | 30-45 min | Budget keto |
+| Whole chicken | ~$1.29 | High | 60-90 min | Best per-pound value |
+| Pork shoulder | $2-4 | High | 180+ min (slow cook) | Batch cooking |
+| Beef chuck | $2-4 | High | 180+ min (slow cook) | Batch cooking |
+| Eggs (per dozen) | <$4 | High | 5-15 min | Versatile, portable |
+| Canned sardines/mackerel (per can) | ~$2 | High | Ready-to-eat | High omega-3s |
 
 Protein is where most keto budgets break down. People default to chicken breasts and ground beef, which are fine, but they're not even close to the most economical options. The cuts that save you real money are the ones that take longer to cook.
 

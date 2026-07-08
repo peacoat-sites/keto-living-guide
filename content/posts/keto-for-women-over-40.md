@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 You're eating fewer than 1,400 calories a day, bread and pasta disappeared months ago, and the scale hasn't moved in six weeks. That sound about right? For plenty of women in their 40s and 50s, this is just life now. The stuff that worked at 28 doesn't work anymore. And no, it's not a willpower thing. Your body changed.
 
@@ -56,6 +56,15 @@ I've worked with hundreds of women in this age bracket. The changes they notice 
 Not every woman gets dramatic results. Thyroid function, sleep quality, stress, gut health, and genetics all matter. But the science behind why keto fits perimenopausal physiology is actually solid.
 
 ## How to Actually Start: A Step-by-Step Approach for Women Over 40
+
+| Macro Target | Daily Amount | Notes |
+| --- | --- | --- |
+| Net Carbs | 20-25 g | To reliably enter ketosis |
+| Protein | 0.7-1.0 g per lb of lean body mass | Essential for preventing sarcopenia; calculate from lean mass, not total weight |
+| Fat | 60-70% of calories | Adjust upward for satiety |
+| Sodium | 3,000-5,000 mg | Compensate for kidney dump when insulin drops |
+| Magnesium | 300-400 mg | Glycinate form absorbs best |
+| Potassium | 3,000-4,500 mg | From whole foods: avocado, salmon, spinach |
 
 Forget "just cut carbs and wing it." Women in perimenopause need a more intentional approach.
 

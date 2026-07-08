@@ -23,6 +23,7 @@ faqs:
    a: "Only with direct guidance from your neurologist or specialist. The therapeutic ketogenic diet for epilepsy management is a clinical protocol, not a lifestyle diet, and reintroduction decisions there are genuinely high-stakes. This article isn't written for that context."
  - q: "What if I feel better on carbs than I did on keto?"
    a: "Then you feel better on carbs. Keto isn't physiologically superior for every person. Some people thrive on it for years; others do better at moderate carb intake. The goal is to find what actually works for your body, not to defend a dietary identity."
+lastmod: 2026-07-07
 ---
 
 Most people approach reintroducing carbs after keto like they're defusing a bomb. One wrong move and they're convinced they'll gain back every pound overnight. I'll be honest: I used to tell clients something close to that, framing reintroduction as this ultra-delicate process requiring military precision. Then I actually looked at the data more carefully, and what surprised me was how much the typical advice in keto communities is shaped by fear rather than physiology.
@@ -42,6 +43,12 @@ You're probably thinking: fine, but what about actual fat gain? That requires a 
 ---
 
 ## A Reintroduction Protocol That Actually Makes Sense
+
+| Week | Net Carbs Added | Total Daily Net Carbs | Food Focus | Expected Outcome |
+| --- | --- | --- | --- | --- |
+| Week 1 | +20-30g | ~50-60g | High-fiber sources (lentils, sweet potato, berries, oats) | Track energy and digestion; avoid refined carbs |
+| Week 2 | +20-30g | ~60-90g | Continue quality sources | Moderate low-carb range; assess tolerance |
+| Week 3+ | Gradual or hold | 80-120g (or target) | Flexible carb sources | Find personal threshold for sustained results |
 
 I've run clients through a few different approaches over the years. The one that produces the least chaos goes something like this:
 
@@ -73,7 +80,7 @@ A glycemic index isn't a perfect tool, but it's a useful rough guide here. Lenti
 
 ## The Blood Sugar Reality Check
 
-Here's where I have to be straight with you: if you've been on keto for more than a few months, there's reasonable evidence that your acute insulin response may be temporarily blunted. This is sometimes called "physiological insulin resistance," and it's distinct from pathological insulin resistance. Your muscles have downregulated their glucose transporters somewhat because they haven't needed them much.
+Here's where I have to be straight with you: if you've been on keto for more than a few months, there's reasonable evidence that your acute insulin response may be temporarily blunted. This is sometimes called "[physiological insulin resistance](/keto-and-insulin-resistance/)," and it's distinct from pathological insulin resistance. Your muscles have downregulated their glucose transporters somewhat because they haven't needed them much.
 
 The research here is genuinely mixed on how long this lasts and how clinically significant it is for most people. Some studies suggest it normalizes within a week or two of reintroducing carbohydrates. Others suggest the transition period can stretch longer in people who were keto for six months or more. I don't have clean numbers on this because the long-term reintroduction studies are sparse, as of June 2026 this is still an understudied area.
 

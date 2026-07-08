@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. I've heard this moment described by clients more times than I can count, and it reveals something most keto guides skip: drinks can silently wreck your carb count until they actually do.
 
@@ -68,7 +68,7 @@ Mixers are often the bigger problem anyway. Tonic water has roughly 22 grams of 
 
 ## Diet Sodas and Zero-Sugar Drinks: The Nuanced Truth
 
-Diet sodas like Diet Coke, Zevia, and sparkling waters with artificial sweeteners are technically zero carbs. Many keto dieters use them regularly without issue.
+Diet sodas like Diet Coke, Zevia, and sparkling waters with [artificial sweeteners](/best-keto-sweeteners/) are technically zero carbs. Many keto dieters use them regularly without issue.
 
 The research on whether artificial sweeteners affect insulin response or gut microbiome composition is genuinely mixed. Some small studies suggest certain sweeteners may trigger a modest insulin response in some individuals. Others show no effect. I won't tell you they're harmless for certain, because the data isn't there yet. What I can tell you is that I've worked with plenty of people who drink diet soda daily and stay in ketosis comfortably, and others who seem to stall until they cut it out.
 

@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 You're stuck on the highway, forty minutes from home, blood sugar crashing, and the only exits for the next ten miles are a McDonald's and a Taco Bell. If you've been doing keto for more than a week, you've probably lived this exact moment. And if your first instinct was "I'm just going to ruin it today," I want to challenge that directly. Fast food on keto isn't the dietary minefield most people assume it is. The menus have changed, the customization options are real, and with about sixty seconds of mental prep, you can walk out of almost any drive-through without torching your macros.
 
@@ -72,6 +72,17 @@ What surprised me is how many keto eaters have the right instincts but make one 
 A food scale helps at home, but in the real world, knowing standard portion sizes is what saves you. After a few months of careful tracking with a [food scale](https://www.amazon.com/s?k=food+scale+for+keto&tag=contentportfo-20), you'll develop actual intuition.
 
 ## The Hidden Carb Sources Nobody Talks About
+
+| Item | Typical Net Carbs | Keto-Safe? |
+|------|------------------|------------|
+| McDonald's Big Mac Sauce (per serving) | ~3g | Borderline |
+| Subway Honey Mustard Sauce | ~10g | No |
+| Taco Bell Seasoned Beef | ~4g (per serving) | Caution |
+| Chick-fil-A Polynesian Sauce | ~13g | No |
+| Panera Fuji Apple Dressing | ~12g | No |
+| Five Guys Ketchup (one packet) | ~3g | Limit |
+| Chipotle Corn Salsa | ~9g | No |
+| Chipotle Tomatillo Red Salsa | ~2g | Yes |
 
 Here's what actually sneaks past people:
 

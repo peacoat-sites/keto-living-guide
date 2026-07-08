@@ -23,13 +23,20 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 You ate a perfectly reasonable lunch, maybe a sandwich and some fruit, and two hours later you're face-down in the office snack bowl wondering why you can't stop thinking about food. That crash, that relentless hunger, that 3pm fog: it's not a willpower problem. It's a fuel problem. The ketogenic diet was built around solving exactly this, by switching the fuel your body runs on from sugar to fat. Here's what that actually means, and whether it might work for you.
 
 ---
 
 ## What the Ketogenic Diet Actually Is
+
+| Macronutrient | Percentage of Calories | Notes |
+| --- | --- | --- |
+| Fat | 70-75% | Primary energy source |
+| Protein | 20-25% | Supports muscle and satiety |
+| Carbohydrates | 5-10% | Typically 20-50g net carbs/day |
+| Ketone Range (Blood) | 0.5-3.0 mmol/L | Therapeutic nutritional ketosis |
 
 Keto is a high-fat, very low-carbohydrate eating pattern that shifts your body's primary energy source from glucose (sugar) to ketones (molecules made from fat). The typical macronutrient breakdown is roughly 70-75% of calories from fat, 20-25% from protein, and 5-10% from carbohydrates. In practical terms, that usually means keeping net carbs under 20-50 grams per day.
 

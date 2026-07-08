@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 Most runners quit keto within three weeks. Not because keto failed them, but because nobody tells them what the first month actually feels like when you're running on fumes.
 
@@ -43,6 +43,14 @@ So before you decide whether keto makes sense for your running, you need to be h
 
 ## The Honest Breakdown: Who This Works For and Who It Doesn't
 
+| Runner Type | Keto Suitability | Key Consideration |
+| --- | --- | --- |
+| Ultra-runners, trail runners (conversational pace) | Well-suited | Fat-adaptation research most relevant; performance at moderate intensities |
+| 5K/10K PR chasers, structured speed work (2-3x/week) | Not recommended | Evidence of performance impairment at high intensities |
+| Competitive marathon with time goals | Not recommended | Trade-offs outweigh benefits for goal-driven training |
+| Body composition focus (running secondary) | Well-suited | Primary goal aligns with keto's strength |
+| Long-run focused (90+ minutes) | Moderately suitable | Fuel needs vary; adaptation period critical |
+
 Ultra-runners. Trail runners moving at conversational pace for hours. Runners whose primary goal is body composition with running as a secondary priority. People who genuinely don't care about their 5K time. These runners often do very well on strict keto, and the fat-adaptation research is most relevant to them.
 
 Runners chasing PRs at 5K or 10K, runners doing structured speed work two or three times a week, runners training for a competitive marathon with time goals: I'd steer most of you away from strict keto. The evidence that it helps at those intensities is thin. The evidence that it hurts is there. You'd probably do better with a moderate low-carb approach (100-150g of carbs on hard training days) than dropping to ketogenic levels.
@@ -59,7 +67,7 @@ Electrolytes are non-negotiable, and most people undershoot them badly. On keto,
 
 Slow down. This is hard for runners. You may need to drop your easy pace by 60 to 90 seconds per mile for a while. Your aerobic base will build. Trying to maintain pre-keto paces during adaptation is like trying to drive your car hard while the fuel system is being reconfigured.
 
-Prioritize sleep and protein. Your recovery capacity takes a hit during adaptation. Research supports 1.6 to 2.2g of protein per kilogram of bodyweight for endurance athletes, and I'd lean toward the top of that range during adaptation.
+Prioritize sleep and protein. Your [recovery capacity takes a hit](/keto-brain-fog/) during adaptation. Research supports 1.6 to 2.2g of protein per kilogram of bodyweight for endurance athletes, and I'd lean toward the top of that range during adaptation.
 
 A kitchen scale is quietly one of the most useful investments you'll make. Eyeballing macros doesn't work on keto, especially with protein, which converts to glucose through gluconeogenesis and can kick you out of ketosis. The [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=contentportfo-20) runs about $25 and will save you weeks of wondering why your ketones are low.
 

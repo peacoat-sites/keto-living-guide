@@ -23,6 +23,7 @@ faqs:
     a: "Four eggs, two tablespoons of almond flour, one tablespoon of coconut oil (which has zero carbs), and a tiny bit of vanilla and sweetener comes to about 3.5 to 4 grams of net carbs per pancake, depending on which sweetener. The almond flour contributes most of them, and eggs are nearly zero. This assumes you're not loading them with a cup of syrup, which would blow that up."
   - q: "Do I need special keto pancake mix?"
     a: "No. Save your money. A box of keto pancake mix costs $8 to $12 and makes four to six batches. This recipe costs about two bucks in ingredients per batch and tastes better because you control it. The specialty stuff exists because marketing, not because you need it."
+lastmod: 2026-07-07
 ---
 
 The first batch of keto pancakes I made was a disaster. Dense, eggy, tasted like I was eating a slightly sweet rubber mat. My wife took one bite, looked at me, and said nothing. That silence was worse than any criticism.
@@ -48,6 +49,14 @@ Heat a nonstick skillet over medium-low heat. Use butter to coat it, not oil. Bu
 Cook for about 90 seconds on the first side until the bottom is golden. I mean actually golden, not pale. The Maillard reaction is your friend here. Flip gently, then 60 seconds on the other side. The second side cooks faster.
 
 ## Why Almond Flour Over Everything Else
+
+| Flour Type | Taste | Texture | Moisture Handling | Cost per Batch | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Almond flour | Neutral, slightly buttery | Best consistency | Retains moisture well | ~$0.25 | Recommended; prevents dryness |
+| Coconut flour | Varies | Chalky if too much used | Absorbs excess moisture | Lower | Requires half the amount; creates thin pancakes |
+| Flax | - | - | - | - | Tested but not recommended |
+| Keto-specific blend | - | - | - | - | Tested but not recommended |
+| Crushed pork rinds | - | - | - | - | Not recommended |
 
 I tested this with five different flours over the course of six months: almond, coconut, flax, a keto-specific flour blend, and even crushed pork rinds (that was weird, skip it). Almond flour gave the best taste and texture consistency. It has a neutral, slightly buttery flavor, and the fat content keeps the pancakes from drying out like they do with coconut flour, which absorbs way too much moisture and turns them chalky.
 

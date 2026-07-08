@@ -21,7 +21,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
 You packed a sad desk salad on Monday, powered through it, and by Wednesday you were dropping $14 on a burrito bowl and telling yourself you'd "get back on track next week." I've seen this exact pattern with dozens of clients. It's not a willpower problem. It's a logistics problem, and it's completely fixable with about two hours on a Sunday.
 
@@ -85,6 +85,18 @@ Glass containers beat plastic. [Glass meal prep containers with locking lids](ht
 This setup gives you proteins and vegetables for four to five lunches. The actual hands-on cooking time is under 90 minutes, with maybe 20 minutes of active work. The rest is just oven time.
 
 ## What Holds Well, What Doesn't: A Practical Guide
+
+| Food | Holds well (4-5 days)? | Notes |
+|------|----------------------|-------|
+| Roasted chicken thighs | Yes | Better than breasts; fat prevents drying out |
+| Ground beef/sausage | Yes | Reheat with a splash of water to prevent dryness |
+| Hard-boiled eggs | Yes, unpeeled | Peeled eggs dry out faster; keep shells on |
+| Roasted broccoli/cauliflower | Yes | Slight softening, still good |
+| Zucchini noodles | No | Gets watery fast; slice fresh or prep day-of |
+| Avocado | No | Buy whole, slice day-of; sprinkle lemon juice |
+| Spinach (raw) | Yes, if kept dry | Keep dressing separate until serving |
+| Cauliflower rice (cooked) | Yes | Reheat in dry pan or microwave uncovered |
+| Cream-based sauces | 3-4 days | Don't freeze well |
 
 Not everything survives four days in the fridge, and finding this out the hard way on a Thursday is demoralizing.
 

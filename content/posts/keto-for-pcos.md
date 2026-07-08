@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 You've probably done the research. You know your diagnosis, you've heard that diet matters, and somewhere along the way someone mentioned keto. Maybe your doctor brought it up, maybe you found it in a forum at 11pm while trying to make sense of why losing weight feels so much harder for you than it does for everyone else. If that sounds familiar, you're not imagining things, and you're not alone. PCOS affects roughly 1 in 10 women of reproductive age, and the metabolic component of this condition makes standard dietary advice genuinely less effective for many people who have it.
 
@@ -31,7 +31,7 @@ You've probably done the research. You know your diagnosis, you've heard that di
 
 Here's what I tell people when they first come to me with a PCOS diagnosis: this is not just a hormone problem. It's a metabolic problem that shows up as a hormone problem.
 
-Up to 70% of women with PCOS have some degree of insulin resistance, even those who are lean. When your cells don't respond efficiently to insulin, your pancreas compensates by producing more of it. That excess insulin then stimulates the ovaries to produce more androgens, particularly testosterone. Those elevated androgens drive the symptoms most people recognize: irregular cycles, acne, excess facial or body hair, and the kind of stubborn fat storage around the abdomen that doesn't respond the way it should to calorie restriction alone.
+Up to 70% of women with PCOS have some degree of [insulin resistance](/keto-and-insulin-resistance/), even those who are lean. When your cells don't respond efficiently to insulin, your pancreas compensates by producing more of it. That excess insulin then stimulates the ovaries to produce more androgens, particularly testosterone. Those elevated androgens drive the symptoms most people recognize: irregular cycles, acne, excess facial or body hair, and the kind of stubborn fat storage around the abdomen that doesn't respond the way it should to calorie restriction alone.
 
 This is why a low-fat, moderate-carb diet that works fine for a friend without PCOS may leave you spinning your wheels. It's not willpower. It's biology.
 
@@ -53,13 +53,19 @@ What the research doesn't yet tell us: the ideal carb threshold, whether keto is
 
 ## Keto vs. Low-Carb: Which Approach Makes Sense for PCOS?
 
+| Approach | Daily Net Carbs | Best For | Watch Out For |
+|---|---|---|---|
+| Strict Keto | Under 20-30g | Significant insulin resistance, rapid symptom improvement goal | Hard to sustain long-term, social friction, needs electrolyte attention |
+| Moderate Low-Carb | 50-100g | Most women with PCOS, especially those new to carb reduction | Still requires label-reading; won't induce ketosis |
+| Low-Glycemic (not low-carb) | 130g+ but low-GI foods | Mild insulin resistance, preference for dietary flexibility | Slower results, requires understanding of glycemic index |
+
 You might be wondering whether you need to go full keto (under 20-50g net carbs daily) or whether a more moderate low-carb approach would give you similar benefits with less restriction.
 
 Here's the practical answer: for many women with PCOS, strict ketosis isn't necessary. The metabolic improvements seem to track with insulin reduction, and you can meaningfully reduce insulin without being in ketosis every day of your life.
 
 | Approach | Daily Net Carbs | Best For | Watch Out For |
 |---|---|---|---|
-| Strict Keto | Under 20-30g | Significant insulin resistance, rapid symptom improvement goal | Hard to sustain long-term, social friction, needs electrolyte attention |
+| Strict Keto | Under 20-30g | Significant insulin resistance, rapid symptom improvement goal | Hard to sustain [long-term](/is-keto-safe-long-term/), social friction, needs electrolyte attention |
 | Moderate Low-Carb | 50-100g | Most women with PCOS, especially those new to carb reduction | Still requires label-reading; won't induce ketosis |
 | Low-Glycemic (not low-carb) | 130g+ but low-GI foods | Mild insulin resistance, preference for dietary flexibility | Slower results, requires understanding of glycemic index |
 

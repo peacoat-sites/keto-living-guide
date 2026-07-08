@@ -23,6 +23,7 @@ faqs:
     a: "With some caution, yes. The main risk is that combining fasting with keto can make hitting daily protein targets harder, and muscle preservation matters a lot at this stage. If you do fast, compress your eating window rather than cutting overall calories, and prioritize protein in every meal you eat. Skipping breakfast and eating a protein-poor lunch is probably the worst pattern for muscle health."
   - q: "What's the minimum carb level seniors need to aim for?"
     a: "There's no universal number. Many older adults get substantial metabolic benefit staying under 75-100g net carbs without going into strict ketosis. Strict keto (under 20g) isn't required for most goals and is harder to sustain. Start more moderate, see how your labs and energy respond over 8-12 weeks, then adjust from there with your doctor's input."
+lastmod: 2026-07-07
 ---
 
 Most people assume keto is a young person's diet. High-intensity, aggressive, maybe a little reckless. Something you'd try at 32, not 72.
@@ -41,11 +42,17 @@ Switching to a fat-based fuel system sidesteps a lot of that. Ketones don't requ
 
 There's also emerging research on ketones and neurological function. Ketone bodies, particularly beta-hydroxybutyrate, appear to serve as an alternative fuel for neurons that have become less efficient at using glucose, which is a pattern seen in early Alzheimer's pathology. I want to be careful here: the research is promising but not conclusive. A 2021 meta-analysis in *Nutrients* found cognitive benefits in some populations using ketogenic protocols, but study sizes were small and follow-up periods short. I wouldn't tell anyone keto prevents dementia. But the mechanistic rationale is real and worth watching.
 
-For weight management, keto's appetite-suppressing effect (from ketone signaling and reduced ghrelin) can be especially useful for seniors who struggle with overeating despite needing fewer total calories than they did at 50. That's a genuinely hard problem, and satiety-promoting diets help.
+For [weight management](/keto-for-weight-loss/), keto's appetite-suppressing effect (from ketone signaling and reduced ghrelin) can be especially useful for seniors who struggle with overeating despite needing fewer total calories than they did at 50. That's a genuinely hard problem, and satiety-promoting diets help.
 
 ---
 
 ## The Part Everyone Glosses Over: Protein
+
+| Age Group | Protein Target (g/kg body weight/day) | Carb Approach | Primary Goal |
+| --- | --- | --- | --- |
+| Under 65 | 0.8 (minimum guideline) | Standard keto (5% carbs) | Ketosis maintenance |
+| 65+ | 1.2-1.6 | Moderate low-carb (50-75g net carbs) | Muscle preservation + metabolic health |
+| 65+ with anabolic resistance | 1.2-1.6 | Moderate low-carb (50-75g net carbs) | Lean mass recovery + fat loss |
 
 This is where most keto advice written for general audiences fails older adults completely, and it's the thing I push hardest on with my 65-and-up clients.
 
@@ -55,7 +62,7 @@ Older adults experience something called anabolic resistance, meaning their musc
 
 Here's the catch: pushing protein that high on keto can bump some people out of ketosis through gluconeogenesis. In practice, I've found this matters less than the theoretical model suggests, especially for people who aren't doing strict therapeutic keto but rather a moderate low-carb approach (under 50-75g net carbs). If the goal is metabolic health and weight management rather than strict clinical ketosis, hitting protein targets should be the priority. Don't sacrifice muscle to keep your ketone meter happy.
 
-Worked example: Margaret, a 71-year-old retired teacher from Phoenix, came to me eating roughly 60g protein/day on a self-designed keto plan. She'd lost weight but also muscle. I shifted her target to 100g protein minimum, kept carbs under 50g, didn't stress ketosis itself. Over four months she gained back measurable grip strength and her DEXA showed lean mass improvement alongside continued fat loss.
+Worked example: Margaret, a 71-year-old retired teacher from Phoenix, came to me eating roughly 60g protein/day on a self-designed keto plan. She'd lost weight but also muscle. I shifted her target to 100g protein minimum, kept carbs under 50g, didn't stress ketosis itself. Over four months she gained back measurable grip strength and her DEXA showed lean mass improvement alongside [continued fat loss](/how-fast-keto-weight-loss/).
 
 ---
 

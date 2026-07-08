@@ -23,11 +23,18 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's 7 a.m., day four of your keto diet, and you're dragging yourself to the kitchen wondering why you don't feel the mental clarity everyone promised. You've been eating the right foods, keeping carbs under 20 grams, but something still feels off. A lot of people in that exact spot get told to "add MCT oil." But nobody explains *why* it works, how much to use, or what it actually does inside your body. That gap is what this article closes.
 
 ## What MCT Oil Actually Is (And Why Keto Makes It Special)
+
+| MCT Type | Carbon Chain Length | Ketone Conversion Speed | Best Use |
+|----------|-------------------|------------------------|----------|
+| Caproic Acid (C6) | 6 carbons | Very fast | Rare in supplements |
+| Caprylic Acid (C8) | 8 carbons | Fastest | Primary choice for keto |
+| Capric Acid (C10) | 10 carbons | Fast | Good alternative to C8 |
+| Lauric Acid (C12) | 12 carbons | Slower (LCT-like) | Less effective for rapid ketones |
 
 MCT stands for medium-chain triglycerides. These are a specific type of saturated fat found naturally in coconut oil, palm kernel oil, and dairy fat. The "medium-chain" part refers to the length of the fatty acid chain. Long-chain triglycerides (LCTs), which make up most dietary fat, have 13 to 21 carbon atoms. MCTs have between 6 and 12.
 
@@ -72,7 +79,7 @@ MCT oil is easy to add into a keto routine once you know the rules. The biggest 
 
 2. Use MCT oil in salad dressings. Mix 2 tablespoons olive oil with 1 tablespoon MCT oil, a squeeze of lemon, salt, and herbs. This dilutes the MCT slightly and makes GI issues much less likely.
 
-3. Add MCT oil powder (not liquid) to recipes where you need something that mixes without separating. MCT powder works well in keto baking, protein shakes, and even soups.
+3. Add [MCT oil powder](/keto-supplements-list/) (not liquid) to recipes where you need something that mixes without separating. MCT powder works well in keto baking, protein shakes, and even soups.
 
 4. If you're doing intermittent fasting alongside keto, take MCT oil during your fasting window. It keeps ketone levels elevated without significantly spiking insulin, which technically keeps you in a metabolically fasted state for most practical purposes.
 

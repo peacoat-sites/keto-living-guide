@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.
 
@@ -63,7 +63,7 @@ A food scale like the [Etekcity Digital Kitchen Scale](https://www.amazon.com/s?
 
 Most people expect a straight line downward. Weight loss doesn't work that way on any diet, and keto is no exception.
 
-Your metabolism adapts. As you lose weight, your body requires fewer calories to sustain that lower weight. A 220-pound person burns more calories at rest than a 180-pound version of the same person. So the deficit that was producing steady loss at first gradually shrinks, and weight loss slows. This is adaptive thermogenesis, and it's your body doing exactly what it evolved to do.
+Your metabolism adapts. As you lose weight, your body requires fewer calories to sustain that lower weight. A 220-pound person burns more calories at rest than a 180-pound version of the same person. So the deficit that was producing steady loss at first gradually shrinks, and [weight loss slows](/keto-plateau-weight-loss/). This is adaptive thermogenesis, and it's your body doing exactly what it evolved to do.
 
 Hormonal factors matter too. Thyroid function, cortisol levels, and sleep quality all influence how quickly you lose fat. Chronic stress alone can stall weight loss through elevated cortisol, which pushes your body toward storing fat, especially around the midsection.
 

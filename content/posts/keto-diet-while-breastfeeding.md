@@ -23,6 +23,7 @@ faqs:
    a: "Once you've fully weaned or significantly reduced nursing sessions, your body's metabolic demands shift back closer to baseline and strict keto becomes a more reasonable option. If you're still exclusively breastfeeding a newborn or young infant, that's not the time to experiment with 20g carb days."
  - q: "Do I need to take any extra supplements on low-carb while breastfeeding?"
    a: "Yes, and more than on keto alone. You'll want to continue your prenatal vitamin, pay close attention to electrolytes (sodium, potassium, magnesium), make sure you're getting enough choline and iodine, and watch omega-3 intake. Iodine in particular gets missed on low-carb diets that cut out dairy and grains, and it's important for infant brain development."
+lastmod: 2026-07-07
 ---
 
 Three days into strict keto after my second delivery, I hit a wall that had nothing to do with carb cravings. My milk supply tanked, I felt dizzy every time I stood up, and I was more exhausted than the newborn haze alone could explain. I thought I was doing everything right. I wasn't.
@@ -39,7 +40,7 @@ Here's what I know for certain: breast milk composition is remarkably resilient.
 
 What's less settled is the carbohydrate question. Human milk naturally contains lactose, and your body synthesizes that lactose from glucose. Theoretically, severe carbohydrate restriction could affect milk volume, though the evidence here is genuinely mixed. I've seen this play out both ways in my practice. Some clients breastfeed comfortably on 50 grams of net carbs per day. Others see a supply dip at anything under 100 grams.
 
-What I have not seen solid clinical research on, and I'll be direct about this, is strict ketogenic diets (under 20-30g carbs/day) in exclusively breastfeeding women over an extended period. Most studies look at weight loss broadly in postpartum women or at ketogenic diets in non-lactating adults. The specific overlap is thin. Anyone telling you the data is conclusive either way is overselling what we have.
+What I have not seen solid clinical research on, and I'll be direct about this, is [strict ketogenic diet](/is-keto-safe-long-term/)s (under 20-30g carbs/day) in exclusively breastfeeding women over an extended period. Most studies look at weight loss broadly in postpartum women or at ketogenic diets in non-lactating adults. The specific overlap is thin. Anyone telling you the data is conclusive either way is overselling what we have.
 
 There's one thing the research does support clearly: caloric restriction in breastfeeding women is associated with reduced milk supply. The Academy of Nutrition and Dietetics currently recommends an additional 330-400 calories per day above pre-pregnancy needs during lactation. Strict keto often reduces appetite significantly, which means many women accidentally undereating without realizing it.
 
@@ -49,7 +50,7 @@ There's one thing the research does support clearly: caloric restriction in brea
 
 Most healthy adults doing keto don't develop ketoacidosis. Their bodies maintain enough insulin response to keep ketones in a safe range. But lactation changes the metabolic picture.
 
-There are documented case reports, including one published in the journal *Diabetes Care*, of non-diabetic breastfeeding women developing starvation ketoacidosis. It's rare, but it's not theoretical. The mechanism makes sense: breastfeeding already places a significant glucose demand on the body, and when you combine that with very low carbohydrate intake and caloric restriction, some women tip into a state their non-lactating counterparts wouldn't.
+There are documented case reports, including one published in the journal *Diabetes Care*, of non-diabetic breastfeeding women developing [starvation ketoacidosis](/keto-diet-side-effects/). It's rare, but it's not theoretical. The mechanism makes sense: breastfeeding already places a significant glucose demand on the body, and when you combine that with very low carbohydrate intake and caloric restriction, some women tip into a state their non-lactating counterparts wouldn't.
 
 Symptoms to take seriously: nausea, vomiting, rapid breathing, confusion, and extreme fatigue that feels different from ordinary new-mom tired. If you experience those together, that's a call your doctor or an ER visit. Not a "wait and see."
 
@@ -58,6 +59,12 @@ I want to be careful not to catastrophize here because for the vast majority of 
 ---
 
 ## What I Actually Recommend to Clients
+
+| Approach | Carb Range | Calorie Target | Supply Risk | Weight Loss | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Strict Keto | 20-30g/day | Variable (often too low) | Higher; caloric restriction associated with reduced supply | Faster, but unsustainable | Limited clinical evidence in lactating women; risk of starvation ketoacidosis |
+| Moderate Low-Carb | 100-130g/day | 1,800-2,000+ | Lower; aligns with Academy of Nutrition & Dietetics guidance | Steady; sustainable | Recommended approach; maintains milk composition; meets protein needs |
+| Standard Postpartum | 150-200g/day | 2,200-2,500+ | Minimal | Slower | Baseline; provides additional 330-400 calories above pre-pregnancy needs |
 
 My practical position, as of July 2026 and consistent with what most lactation-informed dietitians I respect are saying: a moderate low-carb approach is likely fine for most breastfeeding women. A strict ketogenic diet with the goal of getting into deep ketosis is a different conversation and carries more unknowns.
 

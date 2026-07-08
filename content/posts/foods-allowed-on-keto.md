@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Most people think cutting carbs means chicken breast and iceberg lettuce until they're miserable. Then they find out avocado exists, bacon is allowed, and heavy cream goes in coffee. Suddenly the whole thing looks edible. A well-stocked keto kitchen is actually surprisingly abundant. The problem is nobody tells you where the lines are drawn, so you either stall out or quit after eating one banana and deciding the diet's impossible. Let's fix that with a real breakdown of what you can eat, why it works, and how to actually cook it.
 
@@ -59,7 +59,7 @@ Avoid margarine, most vegetable and seed oils (soybean, corn, canola, sunflower)
 
 ## Proteins: Quality Over Quantity
 
-Protein on keto is moderate, not unlimited. This surprises people. Excess protein can theoretically convert to glucose through gluconeogenesis, though how much this kicks you out of ketosis varies considerably by person. A reasonable target for most people is 0.6 to 1.0 grams of protein per pound of lean body mass per day.
+Protein on keto is moderate, not unlimited. This surprises people. Excess protein can theoretically convert to glucose through gluconeogenesis, though how much this kicks you out of [ketosis varies considerably by person](/how-long-to-enter-ketosis/). A reasonable target for most people is 0.6 to 1.0 grams of protein per pound of lean body mass per day.
 
 **Meat and poultry:**
 
@@ -80,6 +80,17 @@ Full-fat versions only. Cheese (cheddar, brie, gouda, mozzarella, parmesan), ful
 ---
 
 ## Vegetables: Which Ones Make the Cut
+
+| Food | Net Carbs | Notes |
+| --- | --- | --- |
+| Large egg | 0.4g | Per egg; 6g protein, 5g fat |
+| Raw spinach | 1g | Per cup |
+| Medium banana | 24g | Per fruit |
+| Milk | 12g | Per cup |
+| Shrimp | 1g | Per 3-ounce serving |
+| Heavy whipping cream | 0.4g | Per tablespoon |
+| Tomatoes | 3g | Per half cup, net carbs |
+| Raw spinach | ~1g | Per cup |
 
 This is where a lot of beginners stumble. Not all vegetables are equal, and some that seem healthy, like peas, corn, and sweet potatoes, will use up your daily carb budget in a single small serving.
 

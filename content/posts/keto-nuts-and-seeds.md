@@ -23,15 +23,32 @@ faqs:
    a: "Reasonable, not exceptional. Around 4 grams net carbs per ounce, which means a couple handfuls will add up faster than you'd expect. They're a solid option in moderation, especially as a salad topping or mixed into trail mix where you're not eating them as the primary snack."
  - q: "Why do some nuts cause digestive issues on keto?"
    a: "Nuts are high in fiber, fat, and for some people, compounds like phytic acid and tannins that can irritate the gut. Almonds are a common offender. If you're experiencing GI issues after eating nuts, try switching varieties, reducing quantity, or choosing roasted over raw (roasting breaks down some of the harder-to-digest compounds)."
+lastmod: 2026-07-07
 ---
 
 Most articles about keto nuts hand you an alphabetical list with carb counts and call it done. That's fine as far as it goes, but it skips the stuff that actually matters: which nuts are worth eating regularly versus which ones you should treat like a condiment, why the package serving size is almost always a trap, and how easy it is to eat 40 grams of carbs thinking you're being careful.
 
-Let me be more specific. A quarter-cup of cashews has roughly 9 grams of net carbs. That's a meaningful chunk of most people's daily budget, eaten in about forty-five seconds standing at the kitchen counter. Cashews aren't poison, but they get marketed as a keto nut because they're a nut, and that framing is doing a lot of heavy lifting.
+Let me be more specific. A quarter-cup of cashews has roughly 9 grams of net carbs. That's a meaningful chunk of most people's [daily budget](/keto-carbs-per-day-limit/), eaten in about forty-five seconds standing at the kitchen counter. Cashews aren't poison, but they get marketed as a keto nut because they're a nut, and that framing is doing a lot of heavy lifting.
 
 The gap between "technically low-carb" and "actually works well for keto" is where most people quietly stall.
 
 ## The Tier That Actually Earns a Regular Spot
+
+| Nut/Seed | Net Carbs (per ounce) | Best Use | Tier |
+| --- | --- | --- | --- |
+| Pecans | ~1g | Regular snacking | Top |
+| Macadamias | ~1.5g | Regular snacking | Top |
+| Brazil nuts | ~1.2g | Regular snacking | Top |
+| Walnuts | ~2g | Regular snacking | Top |
+| Almonds | ~2.5g | Regular snacking | Secondary |
+| Hemp seeds | ~1g | Protein supplement, snacking | Top |
+| Flaxseeds (ground) | ~0g | Baking, fiber | Top |
+| Chia seeds | ~2g | Puddings, liquid-based | Secondary |
+| Pine nuts | ~2.7g | Salad topping, pesto | Secondary |
+| Pumpkin seeds | ~4g | Accent, not bulk snacking | Middle |
+| Sunflower seeds | ~4g | Accent, not bulk snacking | Middle |
+| Pistachios | ~5g | Limit/avoid | Problematic |
+| Sesame seeds | ~1g (per tablespoon) | Tahini, dressings | Top |
 
 Pecans are the best nut for keto. I'll say that plainly: about 1 gram of net carbs per ounce, loaded with fat, reasonably satisfying. Macadamias are neck and neck, with about 1.5 grams net per ounce and the highest fat content of any nut. Brazil nuts come in around 1.2 grams net. These three work because the carb count is low enough that normal human portion drift doesn't wreck you.
 
@@ -59,7 +76,7 @@ Roasted and salted nuts are also worth scrutinizing. Some commercial roasting pr
 
 ## Seeds as the Underrated Half of This Category
 
-Seeds get less attention than nuts in keto circles, which is a mistake. Pound for pound, they're often lower in carbs and more nutritionally concentrated. Hemp seeds in particular are one of the few plant foods with a complete amino acid profile, which matters if you're eating low-carb and not eating a lot of meat.
+Seeds get less attention than nuts in keto circles, which is a mistake. Pound for pound, they're often lower in carbs and more nutritionally concentrated. Hemp seeds in particular are one of the few plant foods with a [complete amino acid profile](/best-protein-sources-keto/), which matters if you're eating low-carb and not eating a lot of meat.
 
 Flaxseed meal is genuinely useful for keto baking. It acts as a binder, adds fiber, and brings the net carb count of baked goods down considerably. I use it in crackers and as a partial flour substitute. [Anthony's Organic Flaxseed Meal](https://www.amazon.com/s?k=anthony%27s+organic+flaxseed+meal&tag=contentportfo-20) is what I reach for.
 

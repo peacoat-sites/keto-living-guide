@@ -23,11 +23,12 @@ faqs:
    a: "The adjustment phase is the most acute period, but most people who stay on keto long-term find they feel better with some ongoing sodium supplementation, especially if they exercise. Your kidneys continue to excrete sodium at higher rates than on a higher-carb diet. It doesn't have to be a daily supplement forever, many people just salt their food liberally and that's enough once they're adapted."
  - q: "What's the fastest fix if I'm feeling terrible right now?"
    a: "Make a cup of warm broth, a product like Kettle & Fire beef broth has around 580 mg of sodium per cup, and the warmth seems to help people feel better quickly. Add a pinch of NoSalt if you have it. Drink it slowly. Most people feel noticeably better within an hour."
+lastmod: 2026-07-07
 ---
 
 If you've made it about a week into keto and you feel like you got hit by a truck, you're not imagining it. The fatigue, the headaches, the muscle cramps that wake you at 3am, that's not your body rejecting low-carb eating. That's electrolyte depletion, and it's one of the most predictable and fixable things in all of nutrition.
 
-Here's what's happening: when you drop carbs, your insulin levels fall, your kidneys shift into a different mode, and you start flushing sodium, potassium, and magnesium at a much faster rate than you did before. Most people lose several pounds of water in the first week, and all those minerals go with it. The "keto flu" isn't some mysterious metabolic punishment. It's mostly just salt deficiency with a side of magnesium.
+Here's what's happening: when you drop carbs, your insulin levels fall, your kidneys shift into a different mode, and you start flushing sodium, potassium, and magnesium at a much faster rate than you did before. Most people lose several pounds of water in the first week, and all those minerals go with it. The "[keto flu](/electrolytes-on-keto/)" isn't some mysterious metabolic punishment. It's mostly just salt deficiency with a side of magnesium.
 
 I've worked with a lot of beginners who come in convinced they need to push through the misery as some kind of rite of passage. They don't. And the fix is usually cheap and fast.
 
@@ -42,6 +43,14 @@ Potassium is trickier to supplement because high-dose potassium pills are actual
 Magnesium deficiency tends to show up a bit later, usually as leg cramps, poor sleep, or that low-grade anxious feeling. It's also one of the most common deficiencies in the general population before keto even starts.
 
 ## The Supplements I Actually Recommend
+
+| Supplement | Sodium (mg) | Potassium (mg) | Magnesium (mg) | Cost Per Serving | Notes |
+| --- | --- | --- | --- | --- | --- |
+| LMNT | 1,000 | 200 | 60 | $1.50 | Designed for keto; no sugar or artificial sweeteners |
+| Nuun Sport (1 tablet) | 300 | - | - | $0.70-$0.80 | Use 2 tablets during early keto phase |
+| Table salt in water (¼ tsp) | 500-600 | - | - | <$0.01 | Most budget-friendly option |
+| Potassium chloride (¼ tsp NoSalt/Nu-Salt) | - | 650 | - | <$0.01 | Use in food or savory drinks |
+| Magnesium glycinate | - | - | 200-400 | Varies | Take before bed; preferred form for absorption |
 
 **LMNT** (Elemental Labs) is the one I point most beginners toward first. Each packet has 1,000 mg sodium, 200 mg potassium, and 60 mg magnesium, with no sugar and no artificial sweeteners. It's expensive, roughly $45 for a box of 30 packets, which works out to $1.50 per serving, but the electrolyte profile is actually designed for people on low-carb diets, not for endurance athletes carb-loading before a marathon. The flavors are good. Citrus salt and raspberry salt are the ones clients come back to most. (You can find LMNT on [Amazon](https://www.amazon.com/s?k=LMNT+electrolytes) -- the site may earn a commission on purchases.)
 

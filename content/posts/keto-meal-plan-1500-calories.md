@@ -23,6 +23,7 @@ faqs:
    a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750–2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
  - q: "Do I need to use MCT oil on a 1,500-calorie keto plan?"
    a: "No, it's optional. MCT oil (like Bulletproof Brain Octane at around $25 for 16oz on Amazon, site may earn a commission) can help some people get into ketosis faster initially, but it adds calories that count toward your daily total. At 1,500 calories, I'd rather people use those fat grams for whole food sources that carry more micronutrients."
+lastmod: 2026-07-07
 ---
 
 Fifteen hundred calories on keto isn't some magic number, but it's close to where a lot of people actually land when they're losing weight steadily without feeling like they're starving. If you've been bouncing between "eat less" advice that leaves you miserable and keto plans that feel like a butter-fueled free-for-all, you might be wondering if there's a middle ground that actually works. There is. And it's more straightforward than most meal-plan articles make it sound.
@@ -40,6 +41,12 @@ That's not just theory. In my experience working with clients, the first week is
 The catch is that you still need to be paying attention to what you're eating. Fat is calorie-dense: 9 calories per gram versus 4 for protein and carbs. It's genuinely easy to eat 2,200+ keto calories thinking you're being reasonable, especially if you're adding tablespoons of olive oil to everything, eating a handful of macadamia nuts absentmindedly, or using heavy cream in your coffee twice a day. I made this mistake myself in my first extended stint on keto. I was doing everything "right" by keto rules and wondering why the scale wasn't moving. Turned out I was averaging around 2,100 calories without realizing it. Tracking for two weeks fixed that faster than any other adjustment.
 
 ## What a Real 1,500-Calorie Keto Day Looks Like
+
+| Scenario | Age | Height | Weight | Activity Level | Starting Calories | Adjusted Calories | Duration | Weight Lost | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Woman A | 38 | 5'4" | 185 lbs | Sedentary office | 1,800 | 1,500 | 8 weeks | 11 lbs | No hunger after week two |
+| Man B | 45 | 5'10" | 210 lbs | 30 min daily walk | 1,500 | 1,750 | 6 weeks | 8 lbs | Fatigue resolved at higher calories |
+| Woman A (plateau) | 38 | 5'4" | 185 lbs | Sedentary office | 1,500 | 1,500 | 3 weeks → resumed loss | - | Untracked almond butter identified and removed |
 
 The macro split I'd recommend for most people at 1,500 calories: roughly 110–120g fat, 90–100g protein, and 20–25g net carbs. That's about 65–70% fat, 25% protein, 5–10% carbs. Protein on the lower end can work for lighter individuals; bump it closer to 110–120g if you're active or over 170 lbs.
 

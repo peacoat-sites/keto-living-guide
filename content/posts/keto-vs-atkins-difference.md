@@ -23,6 +23,7 @@ faqs:
    a: "Neither program officially requires calorie counting, and there's real evidence that carb restriction naturally reduces appetite in many people. That said, I've seen plenty of clients who stall on both approaches until they pay attention to total food intake. Not counting calories is a starting point, not a guarantee."
  - q: "Can you switch between keto and Atkins?"
    a: "Functionally, yes. If you're doing strict keto and want to experiment with a higher carb threshold, you're essentially moving toward an Atkins-style approach. Going the other direction means tightening carb and protein limits to maintain deeper ketosis. There's no metabolic harm in transitioning between the two, though expect some adjustment time (and possible water weight fluctuation) as your glycogen stores shift."
+lastmod: 2026-07-07
 ---
 Most people treat "keto" and "Atkins" as synonyms. I did too, for a while. Then I actually sat down with both the original Dr. Robert Atkins books, the Atkins 20 and Atkins 40 guidelines, and the clinical literature on ketogenic diets, and I'll be honest: they're related but they're not the same thing, and conflating them leads to real confusion about why something "isn't working."
 
@@ -30,13 +31,24 @@ Here's the short version: Atkins is a commercial weight-loss program that happen
 
 ## Where They Came From (And Why That History Matters)
 
-Dr. Robert Atkins published *Dr. Atkins' Diet Revolution* in 1972. His core idea was straightforward: restrict carbs, lose weight. The original program had an induction phase (under 20g net carbs daily) followed by a structured reintroduction of carbs. The modern commercial version has splintered into Atkins 20, Atkins 40, and Atkins 100, each named for the daily net carb target. At 40g or 100g of net carbs per day, you're not maintaining ketosis for most people.
+Dr. Robert Atkins published *Dr. Atkins' Diet Revolution* in 1972. His core idea was straightforward: restrict carbs, lose weight. The original program had an induction phase (under [20g net carbs](/20-grams-carbs-keto/) daily) followed by a structured reintroduction of carbs. The modern commercial version has splintered into Atkins 20, Atkins 40, and Atkins 100, each named for the daily net carb target. At 40g or 100g of net carbs per day, you're not maintaining ketosis for most people.
 
 Ketogenic diets have an older lineage. Mayo Clinic physicians were using them in the 1920s to treat epilepsy in children. The wellness version you see today is borrowed from that clinical research, but with a consumer twist: it typically targets 20-50g of total carbs per day with explicit attention to staying in ketosis, not just losing weight.
 
 When I compared the origin stories directly, here's what stood out: Atkins took ketogenic science and repackaged it as a weight-loss system. Keto in its medical form was never about weight loss at all. From day one, they had different purposes.
 
 ## The Macros Look Similar. The Targets Are Not.
+
+| Aspect | Ketogenic Diet | Atkins Diet |
+| --- | --- | --- |
+| **Fat (% of calories)** | 70-75% | Varies by phase |
+| **Protein (% of calories)** | 20-25% | Higher, less restricted |
+| **Carbs (% of calories)** | 5% or less | Increases by phase |
+| **Total Carbs Daily** | Under 50g | 20g (induction) to 100g (phase 4) |
+| **Net Carbs Daily** | 20-30g | 20g (induction) to 100g (phase 4) |
+| **Primary Goal** | Achieve & maintain ketosis | Weight loss via carb restriction |
+| **Ketosis Measurement** | Explicitly tracked (0.5-3.0 mmol/L) | Not built into plan |
+| **Origin** | Medical (epilepsy treatment, 1920s) | Commercial weight-loss program (1972) |
 
 Both are low-carb. Both favor fat and protein over carbohydrates. The specifics, though? That's where things matter.
 
@@ -48,7 +60,7 @@ Someone following Atkins 40 with 40g net carbs and a generous steak at dinner pr
 
 ## The Biggest Difference Most People Miss
 
-Keto is defined by an outcome: you're in ketosis or you're not. You can actually measure it. A blood ketone meter like the Keto-Mojo gives you a real number (nutritional ketosis sits roughly at 0.5-3.0 mmol/L). Urine strips (Smackfat and Perfect Keto both make them, around $10-12 for 100 strips) aren't precise but work fine for beginners figuring out what foods move the needle.
+Keto is defined by an outcome: you're in ketosis or you're not. You can actually measure it. A [blood ketone meter](/blood-ketone-levels-chart/) like the Keto-Mojo gives you a real number (nutritional ketosis sits roughly at 0.5-3.0 mmol/L). Urine strips (Smackfat and Perfect Keto both make them, around $10-12 for 100 strips) aren't precise but work fine for beginners figuring out what foods move the needle.
 
 Atkins is defined by behavior. Follow the plan. Hit your carb targets for your phase. Trust the structure. There's no ketosis verification built in, and at higher tiers, there's not supposed to be.
 

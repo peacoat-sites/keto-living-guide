@@ -12,7 +12,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Most people quit vegan keto within two weeks. Not because it doesn't work, but because they've built their entire meal plan around tofu, hemp seeds, and coconut milk, gotten bored stupid, and decided they'd rather eat normally again. The diet itself is fine. The execution? Usually a disaster.
 
@@ -22,7 +22,16 @@ But harder doesn't mean impossible. Or even miserable.
 
 ## What You're Actually Working With
 
-Vegan keto macros typically look like 70-75% fat, 20-25% protein, and 5% or less from net carbs. On an 1,800-calorie day, that's roughly 140g fat, 90-100g protein, and under 25g net carbs. The fat is doable on a plant-based diet. The protein is where things get genuinely messy.
+| Protein Source | Protein (per serving) | Net Carbs (per serving) | Serving Size | Notes |
+| --- | --- | --- | --- | --- |
+| Tempeh | 19g | 5-7g | 3.5 oz | Fermented, takes on flavor well |
+| Firm Tofu | 8-10g | ~0g | 3.5 oz | Neutral flavor, versatile |
+| Seitan | High | Low | Varies | Pure wheat gluten; unsuitable for celiac/gluten sensitivity |
+| Hemp Seeds | 10g | ~0g | 3 tablespoons | Contains omega-3s |
+| Edamame | 8g | 5g | ½ cup | Use sparingly, track carbs |
+| MCT Oil | 0g | 0g | 1 tablespoon | 14g fat, converts to ketones quickly |
+
+Vegan keto macros typically look like [70-75% fat, 20-25% protein](/keto-carbs-per-day-limit/), and 5% or less from net carbs. On an 1,800-calorie day, that's roughly 140g fat, 90-100g protein, and under 25g net carbs. The fat is doable on a plant-based diet. The protein is where things get genuinely messy.
 
 Most high-protein plant foods come loaded with carbs. Lentils give you 30g net carbs per half cup cooked. Black beans sit right there too. Chickpeas are worse. These are basically off limits. You lose the easiest legume-based proteins almost entirely.
 
@@ -38,7 +47,7 @@ You'll combine protein sources across most meals to hit your targets. That's not
 
 ## Fat Sources: Where Vegan Keto Actually Shines
 
-This is where plant-based and keto genuinely overlap. Avocados, full-fat coconut milk, olive oil, nuts, nut butters, MCT oil. These work without fussing.
+This is where [plant-based and keto genuinely overlap](/best-fats-on-keto/). Avocados, full-fat coconut milk, olive oil, nuts, nut butters, MCT oil. These work without fussing.
 
 A tablespoon of [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) gives you 14g fat and basically zero carbs, and it converts to ketones faster than most other dietary fats. It's not magic, but it really does help hit fat targets without eating volume. Start with a teaspoon if you're new to it. More than that too fast and you'll regret every decision.
 
@@ -48,7 +57,7 @@ Here's where I'll push back: too much vegan keto content relies on processed nut
 
 ## The Nutrient Gaps Nobody Talks About Enough
 
-Standard vegan diets already run short on B12, vitamin D, zinc, and long-chain omega-3s (EPA and DHA, not just the ALA in flax). Vegan keto makes some of this worse by eliminating legumes and fortified grains that usually fill these gaps.
+Standard vegan diets already run short on B12, vitamin D, zinc, and [long-chain omega-3s (EPA and DHA](/best-keto-sweeteners/), not just the ALA in flax). Vegan keto makes some of this worse by eliminating legumes and fortified grains that usually fill these gaps.
 
 B12 supplementation isn't optional. The research here isn't ambiguous: plant foods don't contain meaningful B12. A methylcobalamin supplement or a solid multivitamin has to be part of your routine.
 

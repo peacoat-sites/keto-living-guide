@@ -23,12 +23,30 @@ faqs:
    a: "It can be, depending on what's in it. The 'lifestyle bowls' they market include a 'keto' option that's essentially a salad bowl with their standard keto-friendly toppings. Check the specific build on the app before ordering because the exact configuration has changed at various points, and you want to verify what goes into it at your location."
  - q: "Can I have the fajita vegetables?"
    a: "Yes. Fajita veggies (peppers and onions, cooked in a small amount of oil) run about 5 grams of net carbs. They add bulk, flavor, and actual fiber. Include them."
+lastmod: 2026-07-07
 ---
 Most people assume fast-casual Mexican food is basically off-limits on keto. I used to think the same thing. Then I started actually mapping out what Chipotle puts in each component, and what surprised me was just how keto-adaptable the menu is once you stop thinking about it as a burrito restaurant and start treating it as a protein-and-fat assembly station.
 
 Let me be honest, though: there are a few common ordering mistakes that will quietly blow your carb budget before you even realize it. I've seen clients come in convinced they'd been eating keto at Chipotle for weeks, and when we went through their actual order line-by-line, they were hitting 40-50 grams of net carbs without the tortilla. We fixed it in about five minutes. This article is that conversation.
 
 ## The Actual Numbers (And Where People Go Wrong)
+
+| Chipotle Component | Net Carbs per Serving | Keto Status |
+| --- | --- | --- |
+| Flour burrito tortilla | 48g | Skip |
+| Rice | 40g | Skip |
+| Black/pinto beans | 22-23g | Skip (strict) or half-portion (relaxed) |
+| Corn salsa | 26g | Skip |
+| Fresh tomato salsa | 4g | Include |
+| Tomatillo green-chili salsa | 4g | Include |
+| Sofritas (tofu) | 9g | Avoid (highest-carb protein) |
+| Fajita vegetables | 5g | Include |
+| Chicken, steak, or carnitas | 0-1g | Include |
+| Barbacoa | 2g | Include |
+| Guacamole | 8g | Include |
+| Cheese | 0g | Include |
+| Sour cream | ~0g | Include |
+| Queso blanco | 3-4g | Include (optional) |
 
 The tortilla is the obvious cut. A Chipotle flour burrito tortilla has around 48 grams of net carbs on its own. Skip it, and you've just given yourself a lot of room to build a genuinely satisfying bowl.
 

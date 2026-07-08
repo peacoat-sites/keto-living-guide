@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 You're standing in front of the pantry at 3 p.m., hunger kicking in, and everything you reach for has more carbs than your entire daily budget. Sound familiar? This is the moment that breaks most keto dieters, not the meals, but the snacks. The good news: there are dozens of satisfying, genuinely delicious options that won't touch your ketosis. This guide lays them all out, organized by category, so you can stop guessing and start snacking with confidence.
 
@@ -36,6 +36,21 @@ But keto snacking isn't just about removing carbs. It's about replacing them wit
 Here's something worth saying: not everyone on keto actually needs snacks. Once you're fat-adapted (usually after several weeks), many people find they can comfortably eat two meals a day without feeling desperate between them. But if you're new to the diet or just having a high-activity day, having reliable snack options ready matters. Still figuring out where you are in the process? Check out our guide on [how long it takes to enter ketosis](/how-long-to-enter-ketosis/).
 
 ## The Master Keto Snacks List (By Category)
+
+| Snack Category | Net Carbs per Serving | Key Benefit |
+| --- | --- | --- |
+| Macadamia nuts | ~2g per ounce | Highest fat, lowest carb nut |
+| Pecans | ~1g per ounce | Rich, buttery flavor |
+| Almonds | ~3g per ounce | Convenient, widely available |
+| Walnuts | ~2g per ounce | High in ALA omega-3s |
+| String cheese | 0-1g per piece | Zero prep, portable |
+| Hard-boiled eggs | ~0.6g per large egg | High protein, satisfying |
+| Pepperoni slices | 0g | Zero carb, shelf-stable |
+| Pork rinds | 0g | Crunchy alternative to chips |
+| Celery sticks | ~1.5g per cup | Minimal carbs, great vehicle |
+| Cucumber slices | ~2g per cup | Crisp, refreshing |
+| Bell pepper strips | ~4g per half cup | Satisfies crunch craving |
+| Dark chocolate (90%) | ~4g per 2 squares | Indulgent dessert option |
 
 ### Meat and Protein-Based Snacks
 

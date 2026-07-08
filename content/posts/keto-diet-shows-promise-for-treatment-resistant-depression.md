@@ -12,10 +12,17 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-diet-shows-promise-for-treatment-resistant-depression"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 For a long time, the conversation around ketogenic diets and mental health lived in a corner of the internet populated by biohackers and testimonial threads. Researchers were skeptical, psychiatrists were largely uninterested, and anyone suggesting that what you eat could move the needle on serious depression was easy to dismiss. That's changing fast, and a paper published in *JAMA Psychiatry* on February 4, 2026 is probably the single biggest reason why.
 
 ## What the JAMA Psychiatry Trial Actually Found
+
+| Metric | Keto Group | Plant-Based Control Group |
+|--------|-----------|-------------------------|
+| Improvement on 27-point depression scale (6 weeks) | 10.5 points | 8.3 points |
+| Real-world clinically meaningful improvement rate | 71% | - |
+| Real-world full remission rate (PHQ-9 < 5) | 47% | - |
 
 I'll be honest: when I first heard that a randomized clinical trial was comparing keto to a plant-based control diet for treatment-resistant depression, I expected the results to be modest, probably within the noise. They weren't, quite.
 
@@ -29,7 +36,7 @@ What surprised me most, digging into this, is that the mechanism researchers are
 
 The working hypothesis is that ketones, specifically beta-hydroxybutyrate, serve as an alternative fuel source for brain cells that have become impaired in their ability to use glucose efficiently. Glucose hypometabolism and mitochondrial dysfunction are increasingly implicated in the pathophysiology of major depressive disorder, particularly in people whose depression doesn't respond to standard treatment. If your neurons can't efficiently run on glucose, giving them a different energy substrate might allow them to function better.
 
-This isn't a fringe idea anymore. The Delphi consensus paper published in *Frontiers in Nutrition* in January 2026, authored by researchers from Harvard, Stanford, and the University of Edinburgh, formalized best-practice guidelines for using what they're calling "ketogenic metabolic therapy" (KMT) in serious mental illness. The fact that those institutions put their names on a consensus document about this signals a meaningful shift in how the field is treating the underlying science.
+This isn't a fringe idea anymore. The Delphi consensus paper published in *Frontiers in Nutrition* in January 2026, authored by researchers from Harvard, Stanford, and the University of Edinburgh, formalized best-practice guidelines for using what they're calling "[ketogenic metabolic therapy](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/)" (KMT) in serious mental illness. The fact that those institutions put their names on a consensus document about this signals a meaningful shift in how the field is treating the underlying science.
 
 Dr. Shebani Sethi at Stanford Medicine has been doing the hardest work of building credibility here. Her team's earlier pilot trial showed a 31% average improvement on clinical global impression scores across patients with schizophrenia and bipolar disorder. That pilot work helped justify the larger trials now underway.
 

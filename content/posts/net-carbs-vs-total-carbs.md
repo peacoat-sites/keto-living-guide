@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 You're three weeks into keto, you've been diligent about staying under 20 grams of carbs per day, and then a friend tells you that you've been counting wrong the whole time. Maybe you've been tracking total carbs when you should be tracking net carbs, or vice versa. Suddenly a food that seemed off-limits looks fair game, and a snack you've been eating freely might be the reason you haven't hit ketosis yet. This single distinction causes more confusion among beginners than almost any other keto concept. Let's untangle it.
 
@@ -52,6 +52,15 @@ Flip it the other way. If you're counting net carbs and leaning heavily on proce
 The practical reality: net carbs works when the fiber and sugar alcohols in your diet are genuinely non-impactful. Total carbs is more conservative and less likely to trip you up, especially if you're new to keto or not hitting ketosis despite thinking you're compliant.
 
 ## The Sugar Alcohol Problem (and Why Erythritol Is the Exception)
+
+| Sugar Alcohol | Glycemic Index | Calories/gram | Subtract from carbs? |
+|---|---|---|---|
+| Erythritol | 0 | 0.2 | Yes, fully |
+| Xylitol | 13 | 2.4 | Partially (subtract half) |
+| Sorbitol | 9 | 2.6 | Partially (subtract half) |
+| Maltitol | 35 | 2.1 | No, count fully |
+| Isomalt | 9 | 2.0 | Partially |
+| Mannitol | 0 | 1.6 | Yes, mostly |
 
 Not all sugar alcohols behave the same way, and treating them as interchangeable is where a lot of keto math fails. Here's what matters:
 

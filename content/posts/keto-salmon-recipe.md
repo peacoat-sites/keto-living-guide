@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 Salmon might be the single most forgiving fish you can cook on keto, and somehow people still manage to ruin it. I've watched clients spend $18 on a beautiful wild-caught fillet and turn it into a gray, chalky disappointment by overcooking it two minutes past done. So before we get to any actual recipe, I want to talk about the one thing that separates good keto salmon from great keto salmon: fat timing.
 
@@ -72,6 +72,13 @@ Same sear as above. After removing the fish, add a minced shallot to the pan and
 The cream sauce adds roughly 15g fat and about 2g net carbs per serving. Totally reasonable. Just watch your shallot quantity, shallots have more sugar than people realize, and one large shallot can push you over low-carb limits faster than expected.
 
 ## A Note on Fish Quality and What Actually Matters
+
+| Salmon Type | Price Range | Omega-3/Omega-6 Ratio | Texture | Best For |
+| --- | --- | --- | --- | --- |
+| Wild-caught sockeye/king | $12+ per pound | Better | Firmer | Hard sear, premium quality |
+| Farmed Norwegian/Scottish Atlantic | $6-$8 less per pound | Standard | Good | Budget-conscious meals |
+| Frozen wild-caught (Trader Joe's) | $10-$12 per pound | Better | Good | Weeknight cooking |
+| Pre-marinated/pre-seasoned | Variable | N/A | N/A | Avoid-hidden carbs, markup |
 
 Wild-caught vs. farmed is a real distinction here, not just marketing. Wild-caught sockeye has a better omega-3 to omega-6 ratio and a firmer texture that holds up better to a hard sear. But good farmed Atlantic salmon (specifically Norwegian or Scottish farmed, which tend to be cleaner operations) is fine and usually $6 to $8 less per pound at Costco or Whole Foods. Frozen wild-caught from Trader Joe's, around $10 to $12 a pound, is genuinely good and what I use on weeknights when I'm not being precious about it.
 

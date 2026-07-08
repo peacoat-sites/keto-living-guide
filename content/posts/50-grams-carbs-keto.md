@@ -23,6 +23,7 @@ faqs:
     a: "You can include fruit, but I'd suggest making it a smaller portion of your budget rather than the centerpiece. Berries are your best bet. A medium banana, for context, is about 24g net carbs, which is half your day in one snack with relatively little fiber per calorie compared to berries or vegetables."
   - q: "How long does it take to know if 50 grams is working for me?"
     a: "Give it at least three to four weeks of consistent eating before drawing conclusions. The first week is often messy as your body adjusts. If you're losing weight steadily, your energy is stable, and you don't feel constant hunger, it's working. If you're stalling after a month and a half of compliance, consider dropping to 35-40g and see if that changes things."
+lastmod: 2026-07-07
 ---
 
 Most of my clients come in having already tried keto once. They lasted two weeks, felt awful, and quit. And when I dig into what happened, a surprising number of them say something like: "I was trying to stay under 20 grams of carbs and I just couldn't do it. It felt insane."
@@ -59,6 +60,18 @@ That's not a dramatic transformation story. It's a realistic one, and realistic 
 
 ## How to Structure 50 Grams Without Wasting Them
 
+| Carb Source | Serving Size | Net Carbs (g) |
+| --- | --- | --- |
+| Cup of blueberries | 1 cup | ~17 |
+| Small apple | 1 medium | ~21 |
+| Roasted butternut squash | 1 serving | varies |
+| Raspberries | 0.5 cup | ~5-7 |
+| Blackberries | 0.5 cup | ~5-7 |
+| Almonds | 1 oz | ~3-4 |
+| Small sweet potato | 1 small | ~17-20 |
+| Lentils | 0.5 cup | ~9-10 |
+| Corn | 1 cob | ~17 |
+
 This is where most people go wrong when they have a higher carb budget: they spend it badly.
 
 Fifty grams of net carbs from processed foods, a bit of oat milk here, a "keto" granola bar there (check those labels, many are 15-20g per serving), and a few tablespoons of barbecue sauce will get you to your limit fast, spike your blood sugar, and likely knock you out of ketosis without you realizing it. You get the drawbacks of both worlds.
@@ -78,7 +91,7 @@ A kitchen scale makes this way less annoying in the long run. I've been using an
 
 ## The Electrolyte Issue Doesn't Go Away at 50g
 
-A lot of people assume that relaxing the carb limit means they don't need to worry as much about electrolytes. Wrong. You're still eating low enough carbs to keep insulin suppressed enough that your kidneys are excreting sodium faster than usual. The keto flu symptoms (headache, fatigue, muscle cramps) can absolutely still hit you at 50g if you're not salting your food aggressively and supplementing magnesium.
+A lot of people assume that relaxing the carb limit means they don't need to worry as much about [electrolyte](/electrolytes-on-keto/)s. Wrong. You're still eating low enough carbs to keep insulin suppressed enough that your kidneys are excreting sodium faster than usual. The keto flu symptoms (headache, fatigue, muscle cramps) can absolutely still hit you at 50g if you're not salting your food aggressively and supplementing magnesium.
 
 I recommend LMNT packets to a lot of my clients. They're salty (1,000mg sodium per serving, which sounds alarming but is appropriate here), they have no sugar, and the flavors are actually decent. At about $45 for a box of 30, they're not cheap, but cheaper than the number of times I've seen someone quit keto because they thought they "just felt terrible" when they were actually just sodium-depleted.
 

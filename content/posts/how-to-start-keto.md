@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-
+lastmod: 2026-07-07
 ---
 Most people quit keto within the first two weeks. Not because it doesn't work, but because they expect it to feel like every other low-calorie diet they've tried, get blindsided by fatigue and headaches around day three, and assume they're doing something wrong. They're not. That misery has a name, and once you understand what's actually happening inside your body during those first days, starting keto stops feeling like a gamble.
 
@@ -47,7 +47,7 @@ The research here is solid for specific outcomes. A 2022 meta-analysis in *Nutri
 
 Days one and two usually feel fine. Day three hits like a wall.
 
-The keto flu is real. As glycogen depletes, your kidneys flush water and electrolytes fast. Sodium, potassium, and magnesium drop sharply. You get headaches, fatigue, brain fog, muscle cramps, and irritability. It's uncomfortable. It's also temporary and almost entirely preventable with the right electrolyte strategy.
+The keto flu is real. As glycogen depletes, your kidneys flush water and electrolytes fast. Sodium, potassium, and magnesium drop sharply. You get headaches, fatigue, brain fog, muscle cramps, and irritability. It's uncomfortable. It's also temporary and almost entirely preventable with the right [electrolyte strategy](/electrolytes-on-keto/).
 
 **Here's how to handle your first week:**
 

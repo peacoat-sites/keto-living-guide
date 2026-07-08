@@ -12,6 +12,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-for-mental-illness-inside-the-metabolic-psychiatry-surge"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 When RFK Jr. stood up in February 2026 and announced that a ketogenic diet could "cure schizophrenia," the backlash was swift and predictable. Clinicians pushed back hard, calling it an overstatement of preliminary evidence. Headlines got loud. And somewhere in all of that noise, a genuinely interesting story got buried: the science behind using ketogenic therapy for serious mental illness is moving faster than most people realize, and the researchers doing this work are at places like Harvard, Stanford, and the University of Edinburgh.
 
@@ -39,7 +40,7 @@ The consensus covers things like patient selection criteria, how to manage the d
 
 ## What the Trials Will Actually Tell Us
 
-The piece that's genuinely exciting right now is timing. A University of Maryland clinical trial on ketogenic diet and mental health (NCT07116226) was actively enrolling as of April 2026, with completion estimated for July 2026. Results could be available before the end of this year. That trial, conducted with more rigor than the early pilot work, will give researchers a cleaner look at what's actually happening, and give clinicians something firmer to stand on.
+The piece that's genuinely exciting right now is timing. A University of Maryland clinical trial on [ketogenic diet and mental health](/keto-diet-for-mental-illness-what-the-new-science-actually-shows/) (NCT07116226) was actively enrolling as of April 2026, with completion estimated for July 2026. Results could be available before the end of this year. That trial, conducted with more rigor than the early pilot work, will give researchers a cleaner look at what's actually happening, and give clinicians something firmer to stand on.
 
 You might be wondering: why does this trial matter more than what's already out there? The pilot data from Sethi's study, while compelling, lacks a control arm. Without a comparison group, it's hard to separate the effect of the diet from the effect of increased clinical attention, structured support, and the general metabolic improvements that tend to come with any meaningful dietary change. Larger, controlled trials are what move a therapy from "promising" to "practice-ready."
 

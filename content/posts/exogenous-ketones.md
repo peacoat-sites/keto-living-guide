@@ -23,13 +23,20 @@ faqs:
    a: "BHB salts have a distinctly salty, slightly chemical flavor that most brands try to mask with sweeteners and flavoring, with mixed results. Ketone esters taste far worse, often described as jet fuel or nail polish remover, and that's not an exaggeration. Some people get used to BHB salts; almost nobody fully enjoys esters. Mixing them into a smoothie or sparkling water with a strong flavor helps."
  - q: "Should I use a blood ketone meter alongside exogenous ketones?"
    a: "If you're experimenting seriously, yes. A blood ketone meter lets you see your actual response to a given dose rather than guessing. The Keto-Mojo GK+ is a solid choice and significantly cheaper per test than many alternatives. Just know that the number you're reading after taking exogenous ketones reflects the supplement, not your fat adaptation level."
+lastmod: 2026-07-07
 ---
 
-Most people find exogenous ketones after a rough week. They've been strict about carbs, they're waiting for the fog to lift, and someone in a Facebook group swears that a $60 tub of BHB salts fixed everything. You might be wondering if it's actually that simple, or if you're about to spend money on something that sounds too good to be true.
+Most people find [exogenous ketones](/keto-supplements-list/) after a rough week. They've been strict about carbs, they're waiting for the fog to lift, and someone in a Facebook group swears that a $60 tub of BHB salts fixed everything. You might be wondering if it's actually that simple, or if you're about to spend money on something that sounds too good to be true.
 
 Here's the short answer: exogenous ketones are real, they work in a narrow technical sense, and they're wildly oversold. Let me explain what I mean by both halves of that.
 
 ## What Exogenous Ketones Actually Are
+
+| Form | Blood BHB Elevation | Cost per Serving | Best Use Case |
+| --- | --- | --- | --- |
+| BHB Salts | 0.5-1.0 mmol/L | $2-8 | Ketosis transition, fasted workouts |
+| Ketone Esters | 3+ mmol/L | $30-40 | Elite endurance performance, research |
+| MCT Oil | Indirect elevation | $0.50-2 | Substrate for endogenous ketone production |
 
 Your liver makes ketones when carbohydrate intake drops low enough and fat is being oxidized. That's endogenous ketone production. Exogenous ketones are ketones you consume from outside the body, and they raise blood ketone levels regardless of what you've been eating. You don't have to be in any particular metabolic state. Drink a serving of beta-hydroxybutyrate (BHB) salts and your blood will show elevated ketones within about 30 to 60 minutes.
 
@@ -37,7 +44,7 @@ That's genuinely interesting physiology. The question is what it actually gets y
 
 The two forms you'll encounter most often are BHB salts and ketone esters. BHB salts are BHB bound to a mineral, usually sodium, potassium, calcium, or magnesium. They're the ones in most consumer products, including brands like Perfect Keto, Pruvit's Keto//OS, and HVMN's older formulations. Ketone esters are a different beast: they raise ketones higher, faster, and they taste genuinely awful. A few grams of ketone ester can push blood BHB above 3 mmol/L where typical salts might get you to 0.5 to 1.0 mmol/L. Esters are used in some research settings and endurance sports contexts but they're expensive (sometimes $30 to $40 per serving) and not what most people are buying.
 
-MCT oil is sometimes grouped here, but it's not technically an exogenous ketone. It raises ketones indirectly by giving your liver the substrate to make them. Worth knowing the distinction. (If you're interested in MCT oil, look for C8-dominant products like Bulletproof Brain Octane or Sports Research MCT Oil, which tend to produce a faster ketone response than blended MCT oils.)
+[MCT oil](/mct-oil-benefits-keto/) is sometimes grouped here, but it's not technically an exogenous ketone. It raises ketones indirectly by giving your liver the substrate to make them. Worth knowing the distinction. (If you're interested in MCT oil, look for C8-dominant products like Bulletproof Brain Octane or Sports Research MCT Oil, which tend to produce a faster ketone response than blended MCT oils.)
 
 ## What the Research Actually Shows
 
@@ -72,7 +79,7 @@ What I'd skip: using them as a daily supplement with no specific purpose, buying
 - on exogenous ketones involves either animals or very specific human performance
 
 
-The supplement space here is messy. A lot of BHB salt products contain more sodium than the label emphasizes, which matters if you're already getting plenty from food. Some products use cheap blends where the BHB content per serving is lower than it looks. And the GI distress from higher doses of BHB salts is real. I've had clients work up to full servings gradually and that helps, but some people just don't tolerate them well.
+The supplement space here is messy. A lot of BHB salt products contain more [sodium than the label emphasizes](/magnesium-on-keto/), which matters if you're already getting plenty from food. Some products use cheap blends where the BHB content per serving is lower than it looks. And the GI distress from higher doses of BHB salts is real. I've had clients work up to full servings gradually and that helps, but some people just don't tolerate them well.
 
 Ketone esters, if you want to explore them, HVMN currently makes one of the more accessible versions at around $3 to $4 per serving in bulk. It's still expensive for regular use, but the dose-response is more reliable than salts.
 

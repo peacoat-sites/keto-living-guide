@@ -21,7 +21,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 You followed the meal plan perfectly. Skipped the bread, passed on dessert, even turned down your coworker's birthday cake. But the scale hasn't budged in two weeks. So what's going wrong?
 
@@ -29,7 +29,35 @@ Nine times out of ten, when I look at someone's food diary, the culprit is somet
 
 ## The Carb Budget: Why Even Small Amounts Matter
 
-Let's start with the rule. A standard ketogenic diet keeps net carbohydrates between 20 and 50 grams per day. Net carbs are total carbs minus fiber (and for some people, sugar alcohols). Your body doesn't store much glucose, so once you hit your threshold, insulin rises, ketone production slows, and you're running on carbs instead of fat.
+| Food | Serving Size | Net Carbs (g) |
+| --- | --- | --- |
+| Whole wheat bread | 1 slice | 12-15 |
+| Brown rice | 1 cup cooked | 40 |
+| Quinoa | 1 cup cooked | 34 |
+| Medium baked potato | 1 medium | 33 |
+| Medium banana | 1 medium | 24 |
+| Grapes | 1 cup | 26 |
+| Mango | 1 medium | ~50 |
+| Orange juice | 8 oz | 26 |
+| Raspberries | ½ cup | 5-7 |
+| Blackberries | ½ cup | 5-7 |
+| Strawberries | ½ cup | 8-9 |
+| Blueberries | ½ cup | 9 |
+| Avocado | ½ avocado | 2 |
+| Ketchup | 1 tbsp | 4 |
+| Teriyaki sauce | 2 tbsp | 10-15 |
+| Skim milk | 1 cup | 12 |
+| Flavored yogurt | 1 serving | 20-30 |
+| Greek yogurt (full-fat) | ½ cup | 6-7 |
+| Oat milk | 1 cup | 16 |
+| Unsweetened almond milk | 1 cup | 1-2 |
+| Black beans | 1 cup cooked | 26 |
+| Edamame | 1 cup in pod | 11 |
+| Beer | 1 can | 12-15 |
+| Sweet wine (Riesling/Moscato) | 1 glass | 5-10 |
+| Margarita mix | standard serving | 25 |
+
+Let's start with the rule. A standard ketogenic diet keeps net carbohydrates between 20 and 50 grams per day. Net carbs are total carbs minus fiber (and for some people, [sugar alcohols](/best-keto-sweeteners/)). Your body doesn't store much glucose, so once you hit your threshold, insulin rises, ketone production slows, and you're running on carbs instead of fat.
 
 This is why portion size matters so much on keto. Two tablespoons of peanut butter? Fine. Half a jar? That's 30 grams of carbs. Your day's done.
 

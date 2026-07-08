@@ -23,6 +23,7 @@ faqs:
    a: "Jerky itself isn't a common culprit for stalls, but hidden sugars in commercial jerky can add up and keep you from maintaining deep ketosis. If you've hit a stall, it's worth auditing your jerky brand's actual carb content per the serving size you're eating, not the serving size listed."
  - q: "What's the difference between beef jerky and meat sticks for keto purposes?"
    a: "Mostly format and fat content. Meat sticks like Chomps or EPIC bars tend to have a higher fat content from added ingredients or fattier cuts. Traditional sliced jerky is usually leaner. Neither is inherently better; it comes down to whether you're using it as a protein snack or want something more satiating with more fat."
+lastmod: 2026-07-07
 ---
 
 Most articles about keto beef jerky spend three paragraphs telling you jerky is "a great high-protein snack" before getting to anything useful. You already know that. What they bury, or skip entirely, is the one thing that actually matters: most commercial jerky is loaded with enough sugar and maltodextrin to knock you out of ketosis, and the "keto-friendly" labels on store shelves are doing some real creative math.
@@ -38,6 +39,14 @@ Net carbs are your number. Total carbs minus fiber. Fiber in jerky is usually ze
 Protein and fat ratio matters more than most people think. Lean jerky made from top round is high protein, low fat. If you're eating keto and tracking macros, that's fine. If you're eating it as a fat source expecting to stay satiated, you'll be disappointed. Jerky isn't butter. It keeps you occupied; it doesn't keep you full the way fat does.
 
 ## The Brands Worth Buying (and One I'd Skip)
+
+| Brand | Net Carbs per Serving | Key Features | Price Point |
+| --- | --- | --- | --- |
+| Chomps | 1g | Grass-fed, no sugar added, clean ingredients | ~$1.25/stick |
+| Epic Provisions (beef jerky) | 1-2g | Original salt & pepper flavor | Premium |
+| Krave | 6-9g | Marketed as premium, multiple high-carb flavors | Premium |
+| Great Value (Walmart) | 2g | Budget option, original flavor only | ~50% less than premium |
+| Homemade (from recipe) | 0g | Full control, significant cost savings | ~$1.25-1.75/oz finished |
 
 I've worked through a lot of these with clients, and the landscape has improved meaningfully in the last few years. A few brands actually get it right.
 

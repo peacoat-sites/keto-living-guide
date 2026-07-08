@@ -23,13 +23,20 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 Your doctor calls with your A1C: 8.4 down to 5.9 in six months. Metformin cut in half. That was David, 54, one of my clients who ditched calorie restriction and started eating keto after years of spinning his wheels with blood sugar control. No magic involved. Just metabolic reality.
 
 Type 2 diabetes boils down to one thing: your body stopped listening to insulin properly. Glucose piles up in your bloodstream, your pancreas panics and dumps out more insulin, and the whole system spirals. So a diet that cuts carbs dramatically? That's not fringe thinking. That's addressing the actual problem. And the science backing it up is genuinely compelling.
 
 ## What Keto Actually Does to Blood Sugar
+
+| Metric | Starting | After 6 Months | Change |
+| --- | --- | --- | --- |
+| A1C | 8.4% | 5.9% | -2.5% |
+| Medications | Multiple | Metformin halved | Reduced |
+| Study A1C (2018, n=349) | 7.6% | 6.3% | -1.3% |
+| Medication adjustment rate | - | 60% reduced/eliminated ≥1 drug | - |
 
 Drop below 20 to 50 grams of net carbs daily and something shifts fast. Your blood glucose stabilizes without the constant flood of dietary sugar. Insulin demand plummets. Your liver starts converting fat into ketone bodies, which your brain and muscles burn as fuel instead. You've essentially switched what your body runs on.
 
@@ -39,7 +46,7 @@ The mechanism goes beyond just eating less sugar. Lower carbs mean fewer blood s
 
 ## The Insulin Resistance Connection
 
-Insulin resistance is the core problem. Your muscle cells and liver cells stopped responding to insulin's signal, so your pancreas overcompensates, pumping out more. Chronically high insulin then drives fat storage, hunger, and inflammation. It's a trap.
+[Insulin resistance](/keto-and-insulin-resistance/) is the core problem. Your muscle cells and liver cells stopped responding to insulin's signal, so your pancreas overcompensates, pumping out more. Chronically high insulin then drives fat storage, hunger, and inflammation. It's a trap.
 
 Keto breaks the cycle differently. Without carbs, your body doesn't need much insulin at all. Insulin levels tank. And here's the interesting part: lower insulin actually restores sensitivity over time. It's like a receptor that's been hammered by constant stimulation finally getting a chance to recover. Studies show measurable improvements in HOMA-IR (insulin resistance) after just 8 to 12 weeks on a real ketogenic diet.
 

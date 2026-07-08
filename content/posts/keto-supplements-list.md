@@ -23,15 +23,21 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-
+lastmod: 2026-07-07
 ---
-You're three days into keto, you feel like you got hit by a truck, and someone in a Facebook group just told you to "take some electrolytes." Great advice, but which ones? How much? And while you're at it, what about all those other supplements people keep mentioning: MCT oil, exogenous ketones, magnesium glycinate, digestive enzymes? The supplement aisle (and the internet) can feel overwhelming fast. Let me cut through the noise.
+You're three days into keto, you feel like you got hit by a truck, and someone in a Facebook group just told you to "take some electrolytes." Great advice, but which ones? How much? And while you're at it, what about all those other supplements people keep mentioning: [MCT oil](/mct-oil-benefits-keto/), exogenous ketones, magnesium glycinate, digestive enzymes? The supplement aisle (and the internet) can feel overwhelming fast. Let me cut through the noise.
 
 Here's the honest truth: keto doesn't *require* supplements. A well-planned ketogenic diet built around real food can cover most of your nutritional bases. But the transition phase is legitimately rough for many people, and a few targeted supplements can make the difference between quitting on day four and actually reaching fat adaptation. I've coached clients who powered through without a single pill, and I've coached clients for whom magnesium alone was the difference that kept them going. Context matters.
 
 This guide covers what the research actually says, what I recommend most often in practice, and what you can almost certainly skip.
 
 ## The Electrolytes: Your First Priority on Keto
+
+| Electrolyte | Daily Target | Best Food Sources | Supplemental Form Notes |
+| --- | --- | --- | --- |
+| Sodium | 3,000-5,000 mg | Salt, broth | Food sources preferred; supplement as needed |
+| Potassium | 3,000-4,500 mg | Avocados, salmon, leafy greens, pork | Capped at 99 mg/tablet (US); food sources primary |
+| Magnesium | 300-400 mg | Leafy greens, nuts, seeds | Glycinate & malate absorb well; oxide causes diarrhea; citrate has mild laxative effect |
 
 This is the big one. If you only take one category of supplements on keto, make it electrolytes.
 
@@ -41,7 +47,7 @@ Here's why. When you cut carbohydrates, insulin levels drop. Lower insulin signa
 
 **Potassium:** Target 3,000 to 4,500 mg daily. Avocados (about 900 mg each), salmon, leafy greens, and pork all help here. Supplemental potassium in pill form is capped at 99 mg per tablet in the US due to safety regulations around cardiac risk at high doses, so food sources are genuinely your best route. That said, a quality electrolyte drink that includes potassium can bridge the gap on days when your diet is lighter.
 
-**Magnesium:** This one is almost universally underdone, even outside of keto. Roughly 45 to 50 percent of Americans don't meet daily magnesium needs from food, and keto dieters lose even more through urine. Supplementing 300 to 400 mg daily is reasonable for most adults. The form matters a lot here. Magnesium glycinate and magnesium malate absorb well and are gentle on digestion. Magnesium oxide (the cheap stuff in most drugstore multivitamins) absorbs poorly and can cause diarrhea. Magnesium citrate absorbs decently but has a mild laxative effect, which some people find useful and others find annoying.
+**Magnesium:** This one is almost universally underdone, even outside of keto. Roughly 45 to 50 percent of Americans don't meet daily magnesium needs from food, and keto dieters lose even more through urine. Supplementing 300 to 400 mg daily is reasonable for most adults. The form matters a lot here. [Magnesium glycinate and magnesium malate](/magnesium-on-keto/) absorb well and are gentle on digestion. Magnesium oxide (the cheap stuff in most drugstore multivitamins) absorbs poorly and can cause diarrhea. Magnesium citrate absorbs decently but has a mild laxative effect, which some people find useful and others find annoying.
 
 A good electrolyte supplement that combines sodium, potassium, and magnesium can simplify all of this. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is popular in the keto community for a reason: it's unsweetened, has solid sodium ratios, and doesn't contain the sugars or artificial dyes you'll find in most sports drinks. *(This site may earn a commission on purchases.)*
 
@@ -69,7 +75,7 @@ Beyond electrolytes, a few specific micronutrients deserve attention on keto.
 
 Exogenous ketones, usually sold as beta-hydroxybutyrate (BHB) salts or esters, are externally supplied ketones you drink rather than produce yourself. They raise blood ketone readings quickly and are marketed aggressively as a way to "get into ketosis instantly."
 
-Here's the honest picture. Exogenous ketones genuinely raise blood BHB levels. That part isn't in dispute. What they don't do is create the metabolic state of fat adaptation. Your body isn't burning stored fat to produce those ketones; you drank them. If you eat 200 grams of carbs and then drink exogenous ketones, your ketone meter will show a number, but your metabolism is not in ketosis in any meaningful sense.
+Here's the honest picture. Exogenous ketones genuinely raise blood BHB levels. That part isn't in dispute. What they don't do is create the metabolic state of fat adaptation. Your body isn't burning stored fat to produce those ketones; you drank them. If you eat 200 grams of carbs and then drink [exogenous ketones](/exogenous-ketones/), your ketone meter will show a number, but your metabolism is not in ketosis in any meaningful sense.
 
 Where I think they have legitimate value: Athletes doing targeted carbohydrate intake (adding carbs around hard training sessions) who want to restore ketosis more quickly afterward. People who have been fat-adapted for months and had an unavoidable high-carb meal (holiday, travel, social situation) and want to accelerate the return to ketosis. Cognitive performance research, where some studies have shown BHB esters improving certain measures of mental performance acutely.
 

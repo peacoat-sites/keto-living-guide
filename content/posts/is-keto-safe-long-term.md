@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 Most people who ask me this have already been doing keto for three to six months. They've lost weight, they feel sharper, maybe their doctor mentioned their fasting glucose looked better. And now they're quietly worried they're doing something they'll regret in ten years.
 
@@ -48,7 +48,7 @@ What I can tell you is what the research does show, what I've seen working with 
 
 The data we do have is mostly encouraging. Two-year clinical trials, including some funded by the NIH, show that well-formulated ketogenic diets don't wreck lipids for most people, improve insulin sensitivity, and don't appear to damage kidney function in people without pre-existing kidney disease. A 2020 study in *Frontiers in Endocrinology* followed 349 patients through a medically supervised ketogenic program for two years and found sustained improvements in weight, HbA1c, and triglycerides, with no significant adverse events.
 
-For people with type 2 diabetes, the evidence actually holds up pretty well. Virta Health published follow-up data out to five years showing that many participants maintained substantial weight loss and reduced their medication burden significantly.
+For people with [type 2 diabetes](/keto-for-type-2-diabetes/), the evidence actually holds up pretty well. Virta Health published follow-up data out to five years showing that many participants maintained substantial weight loss and reduced their medication burden significantly.
 
 But here's what gets glossed over: nearly all the positive long-term data comes from supervised programs. People with regular check-ins, lab monitoring, and dietary guidance. Not people doing keto based on a Reddit thread and some YouTube videos.
 

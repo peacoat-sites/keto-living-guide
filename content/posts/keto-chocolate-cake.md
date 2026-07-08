@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 Most keto chocolate cake recipes will lie to you. Not maliciously, just optimistically. They'll show you a glossy photo of something that looks like it came out of a bakery, and then you'll follow the instructions exactly and end up with a dense, eggy disc that tastes vaguely of almond flour and disappointment. I've tested probably two dozen variations over the years, made the classic mistakes, and figured out what separates the ones worth making from the ones worth forgetting.
 
@@ -32,7 +32,7 @@ So what can keto chocolate cake actually be? And what can't it?
 <div class="value-module">
  <div class="vm-head">Keto Flour & Sweetener Comparison</div>
  <div class="vm-body">
- <p class="vm-intro">This table summarizes the key behavioral differences between common keto baking ingredients to help you choose based on your cake style.</p>
+ <p class="vm-intro">This table summarizes the key behavioral differences between common [keto baking ingredients](/keto-dessert-recipes/) to help you choose based on your cake style.</p>
  <table><thead><tr><th>Ingredient</th><th>Best For</th><th>Key Behavior</th><th>Watch Out For</th><th>Typical Ratio</th></tr></thead><tbody><tr><td>Almond flour (super-fine)</td><td>Layer cakes, moist crumb</td><td>Holds fat well, creates tender texture</td><td>Crumbles without enough eggs (use 4 for 9-inch round)</td><td>1½–2 cups per 9-inch layer</td></tr><tr><td>Coconut flour</td><td>Dense snacking cakes, brownies</td><td>Absorbs 4× liquid of almond flour</td><td>Fibrous texture; faint coconut note</td><td>¼ cup replaces 1 cup almond flour</td></tr><tr><td>Erythritol (e.g., Swerve)</td><td>Budget-friendly baking</td><td>Measures 1:1 with sugar</td><td>Cooling aftertaste; crystallizes as cake cools</td><td>¾–1 cup per cake</td></tr><tr><td>Allulose</td><td>Smooth texture, no recrystallization</td><td>70% sweetness of sugar; browns like sugar</td><td>Can cause digestive upset in large amounts</td><td>Increase by 30% vs. sugar</td></tr><tr><td>Monk fruit blend</td><td>Intense sweetness, small quantities</td><td>Often blended with erythritol for bulk</td><td>Check blend ratio; some are 2:1 vs. sugar</td><td>Follow package conversion</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
@@ -46,7 +46,7 @@ Almond flour (I use Bob's Red Mill Super-Fine, around $12 for a 32-oz bag) gives
 
 Coconut flour absorbs liquid like it's trying to win an award. One-quarter cup of coconut flour can replace a full cup of almond flour, and if you substitute them 1:1, you'll produce something you could use as a doorstop. The texture skews denser and slightly more fibrous. Some people catch a faint coconut note under the chocolate. I find this barely noticeable when you're using decent cocoa, but it's worth knowing about.
 
-For a layer cake? Almond flour, hands down. For a single-layer snacking cake or something brownie-adjacent, coconut flour actually works better because of that denser structure.
+For a layer cake? Almond flour, hands down. For a single-layer snacking cake or [something brownie-adjacent](/keto-brownies-recipe/), coconut flour actually works better because of that denser structure.
 
 The sweetener question is where a lot of recipes fall apart. Erythritol is cheap and everywhere (Swerve granular runs about $10 for 12 oz), but it's got two problems: a cooling sensation when you eat it, and it sometimes crystallizes as the cake cools, making the texture slightly grainy. Allulose doesn't crystallize, dissolves more cleanly, and caramelizes more like real sugar. It also keeps baked goods moister longer. More expensive and harder to find, sure, but if you're making this for someone who doesn't know it's keto, allulose is the smarter move. A blend of the two works well too.
 

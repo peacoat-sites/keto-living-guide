@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-
+lastmod: 2026-07-07
 ---
 You're standing in the grocery store, cart half-full, staring at a package of almond flour and trying to remember whether you already have some at home. You've got a mental list that made perfect sense at 7am but is now a fuzzy collection of "I think I need..." and "wasn't there something about electrolytes?" You leave spending more than you planned, get home, and realize you forgot heavy cream. Again.
 
@@ -66,6 +66,25 @@ This is where new keto dieters go wrong. They buy protein. They buy vegetables. 
 **Nuts and nut butters:** Macadamia nuts and pecans are the lowest-carb options. Almonds and walnuts are fine in moderation. Cashews have about 9g net carbs per ounce, so they're worth limiting. Natural almond butter or macadamia butter, no added sugar, works well for quick snacks.
 
 ## Vegetables: Know Your Carb Budget
+
+| Vegetable | Net Carbs Per Serving | Keto Status |
+| --- | --- | --- |
+| Spinach | Under 5g per cup | Eat freely |
+| Kale | Under 5g per cup | Eat freely |
+| Zucchini | Under 5g per cup | Eat freely |
+| Cauliflower | Under 5g per cup | Eat freely |
+| Broccoli | Under 5g per cup | Eat freely |
+| Cucumber | Under 5g per cup | Eat freely |
+| Celery | Under 5g per cup | Eat freely |
+| Bell peppers (green) | Under 5g per cup | Eat freely |
+| Asparagus | Under 5g per cup | Eat freely |
+| Mushrooms | Under 5g per cup | Eat freely |
+| Onions | ~11g per cup raw | Eat in moderation |
+| Tomatoes | 5-7g per medium tomato | Eat in moderation |
+| Carrots | High | Limit or skip |
+| Potatoes | High | Skip |
+| Corn | High | Skip |
+| Beets | High | Skip |
 
 Not all vegetables are created equal on keto. Potatoes, corn, and beets are basically off the table. Others are so low in carbs you can eat them freely. Here's the breakdown:
 

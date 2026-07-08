@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-
+lastmod: 2026-07-07
 ---
 You started eating keto three days ago, and something feels off. Your head is pounding, your mouth tastes like you've been chewing on pennies, and you're somehow both exhausted and weirdly energized at the same time. Before you Google your symptoms in a panic and convince yourself you have a rare metabolic disorder, take a breath. What you're experiencing is almost certainly your body crossing the threshold into ketosis, and most of it is completely normal. Some of it is even a good sign.
 
@@ -58,6 +58,12 @@ Let's break these down honestly. Not all ketosis symptoms are unpleasant, and kn
 *Increased urination.* Your kidneys are working overtime early on. Expect more trips to the bathroom, especially in the first several days. This is normal and directly tied to glycogen depletion (each gram of stored glycogen holds about 3 grams of water).
 
 ## How to Tell If You're Actually in Ketosis (Testing Methods Compared)
+
+| Method | What It Measures | Accuracy | Cost | Best For |
+|---|---|---|---|---|
+| Urine strips | Acetoacetate (excreted) | Low after adaptation | ~$10 for 100 strips | Complete beginners, first 2 weeks only |
+| Breath meter | Acetone | Moderate | $30 to $200 one-time | Consistent tracking without ongoing cost |
+| Blood meter | Beta-hydroxybutyrate | High | $30 to $60 per meter, $1 to $2 per strip | Accurate data, serious trackers |
 
 Symptoms alone are unreliable. Here's how the three main testing methods stack up:
 

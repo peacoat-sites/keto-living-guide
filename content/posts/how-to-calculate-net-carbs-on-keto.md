@@ -21,7 +21,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-
+lastmod: 2026-07-07
 ---
 Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That figure, "total carbs", almost always overstates what your body actually processes. I've seen clients stall for weeks, convinced they were doing everything right, only to discover they were eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.
 
@@ -44,6 +44,15 @@ What surprises some people is how this applies to whole foods. A medium Hass avo
 One nuance worth catching: the fiber listed on US nutrition labels is already included in the total carbohydrate number. You're subtracting it from itself, essentially removing the indigestible portion. In some European labels, fiber is broken out separately and not included in the carbohydrate total, which means you'd be double-subtracting if you applied the American formula. If you're reading a European food label and the carbohydrate line doesn't include fiber, your net carbs are already calculated. Check how the label is structured before you do any math.
 
 ## Sugar Alcohols: Where It Gets Complicated
+
+| Sugar Alcohol | Glycemic Index (vs. glucose at 100) | Can You Subtract Fully? |
+|---|---|---|
+| Erythritol | ~0 | Yes, subtract completely |
+| Xylitol | ~13 | Partially; subtract about half |
+| Sorbitol | ~9 | Partially; subtract about half |
+| Maltitol | ~36 | No; subtract very little or nothing |
+| Isomalt | ~9 | Partially |
+| Lactitol | ~6 | Partially |
 
 This is where I'll be honest about the messiness. The research is mixed in places, and the keto food industry has taken some liberties that don't serve you well.
 

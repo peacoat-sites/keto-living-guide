@@ -23,6 +23,7 @@ faqs:
    a: "Most keto practitioners suggest tracking everything initially, at least for the first four to six weeks, so you understand your actual intake. Once you have a clear picture, many people do move to 'eating greens freely' since the carb cost is so low. That said, I'd still weigh and log anything you're eating in significant volume."
  - q: "What's the best way to eat leafy greens if I don't like salads?"
    a: "Cook them in fat. Wilted spinach in butter with garlic, collards braised in chicken broth and olive oil, or kale sauteed with bacon and apple cider vinegar are genuinely different eating experiences than a raw salad. Most people who claim they hate leafy greens haven't tried them cooked in good fat."
+lastmod: 2026-07-07
 ---
 
 Most people doing keto stress way too much about hitting their fat macros and not nearly enough about their vegetables. I get it. The diet is called ketogenic, not "eat your greens," and the early days are usually spent figuring out how to survive without bread. But after working with hundreds of clients over the years, I'll tell you plainly: the people who struggle with keto long-term, the ones who feel flat, constipated, and foggy after the first few weeks, are almost always the ones skipping their leafy greens.
@@ -35,7 +36,7 @@ So let's get into what actually matters here.
 
 Here's the thing most keto content glosses over. Leafy greens are not just "allowed" on keto. They're genuinely load-bearing. Most of them clock in at 1 to 3 grams of net carbs per cup, which means you can eat a substantial amount without touching your carb ceiling. But the carb count is almost beside the point.
 
-What surprised me, when I started looking at the actual nutrient data on clients who did long-term keto without vegetables, was the pattern of deficiencies that showed up. Magnesium, potassium, folate, vitamin K. These aren't exotic micronutrients. They're the ones responsible for muscle function, electrolyte balance, and DNA repair. When people complain about leg cramps on keto, the first question I ask isn't "are you taking electrolytes?" It's "how much are you eating?"
+What surprised me, when I started looking at the actual nutrient data on clients who did long-term keto without vegetables, was the pattern of deficiencies that showed up. Magnesium, potassium, folate, vitamin K. These aren't exotic micronutrients. They're the ones responsible for muscle function, [electrolyte balance](/electrolytes-on-keto/), and DNA repair. When people complain about leg cramps on keto, the first question I ask isn't "are you taking electrolytes?" It's "how much are you eating?"
 
 Dr. Sarah Hallberg, a physician and researcher who spent years running clinical low-carb programs before her passing in 2022, was explicit about this in her public lectures: "Vegetables are not optional on a well-formulated ketogenic diet. They provide the micronutrients and fiber your body needs to sustain this eating pattern without harm." That framing, "well-formulated," is doing a lot of work. The research on keto's benefits almost always comes from trials using versions of the diet that include non-starchy vegetables. The carnivore-adjacent "meat and cheese only" approach is a different experiment with a much thinner evidence base.
 
@@ -46,6 +47,17 @@ I'll be honest: the research on optimal vegetable intake for keto specifically i
 ---
 
 ## The Greens Worth Prioritizing (And a Few That Fool People)
+
+| Leafy Green | Net Carbs (per cup) | Key Nutrients | Best Use Case |
+| --- | --- | --- | --- |
+| Spinach (raw) | 1g | Magnesium (24mg), folate, potassium | Nutrient density; rotate to manage oxalates |
+| Kale (cooked) | ~1g | Vitamin K1 (several times daily adequate intake) | K1 supplementation; monitor consistency if on warfarin |
+| Arugula | 1-2g | Glucosinolates, anti-inflammatory compounds | Peppery flavor; pairs with fatty dressings |
+| Watercress | 1-2g | Glucosinolates, anti-inflammatory compounds | Peppery flavor; pairs with fatty dressings |
+| Swiss Chard (cooked) | ~1g | General micronutrients | Higher volume meals |
+| Collard Greens (cooked) | ~1g | General micronutrients | Higher volume meals; absorbs fat well |
+| Pea Shoots | 2-3g | General micronutrients | Safe for keto |
+| Green Peas (actual) | 14g | Higher carb legume | **Avoid on keto** |
 
 Not all leafy greens are identical. There's a meaningful difference between eating arugula and eating, say, a bag of iceberg lettuce, even though both will keep you in ketosis.
 

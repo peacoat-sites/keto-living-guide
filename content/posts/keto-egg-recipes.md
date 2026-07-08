@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-
+lastmod: 2026-07-07
 ---
 Eggs are the most underrated macro on keto. Not because people ignore them, but because most people stop at scrambled eggs and a pat of butter and call it a day, which means they're leaving a genuinely versatile, cheap, and filling food doing about 10% of what it could.
 
@@ -41,7 +41,7 @@ One thing: serve it on butter lettuce, not low-carb wraps. Most low-carb tortill
 
 ## Baked Egg Dishes for Meal Prep
 
-This is where eggs really earn their reputation. Baked egg dishes hold up in the fridge, reheat without turning to rubber if you don't overcook them initially, and can carry a week's worth of breakfasts without feeling repetitive.
+This is where eggs really earn their reputation. [Baked egg dishes](/keto-breakfast-ideas/) hold up in the fridge, reheat without turning to rubber if you don't overcook them initially, and can carry a week's worth of breakfasts without feeling repetitive.
 
 My standard is a 9x13 bake: twelve eggs, half a cup of heavy cream, two cups of chopped spinach (squeeze the water out aggressively, or the whole thing gets soggy), a cup of cooked Italian sausage, and whatever cheese you have on hand. Bake at 350°F for about 28-30 minutes, until the center is just barely set. Cut into eight pieces. Each piece is roughly 1g net carbs and close to 25g of protein, depending on your sausage.
 
@@ -50,6 +50,14 @@ What I'd warn against: adding vegetables without cooking them first. Raw zucchin
 For containers, I use these [Prep Naturals glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers) because the egg bake slices don't absorb odors the way they do in plastic. That's a small thing that matters a lot by day three. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 ## The Techniques Most People Haven't Tried
+
+| Egg Preparation Method | Cooking Temp/Time | Approximate Net Carbs | Approximate Protein | Key Benefit |
+| --- | --- | --- | --- | --- |
+| Egg Salad (6 eggs + mayo/mustard) | N/A | 4g (batch) | Varies | Long shelf life, portable |
+| Baked Egg Dish (9x13, 8 servings) | 350°F, 28-30 min | ~1g per slice | ~25g per slice | Meal prep friendly, reheats well |
+| Shakshuka (2 servings) | Simmer + bake | <8g | Varies | Satisfying, flavor-forward |
+| Cloud Eggs (per serving) | 450°F, 6 min | Minimal | Varies | Breaks monotony, different texture |
+| Sous Vide Eggs | 145°F, 45 min | Minimal | Varies | Unique creamy texture |
 
 Shakshuka is keto-friendly and almost nobody in the low-carb community talks about it. A base of canned crushed tomatoes (watch your brand, Muir Glen has about 5g net carbs per half-cup), olive oil, garlic, cumin, smoked paprika, and a pinch of cayenne, simmered down until thick, then eggs cracked directly into the sauce and covered until just set. The whole pan is under 8g net carbs for two servings and it's genuinely satisfying in a way that scrambled eggs aren't.
 

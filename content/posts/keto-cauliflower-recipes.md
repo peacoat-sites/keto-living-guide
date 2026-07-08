@@ -23,13 +23,14 @@ faqs:
     a: "It's a solid source of vitamin C (about 77% of the daily value per cup), vitamin K, and folate. It also contains sulforaphane, a compound that's gotten some research attention for potential anti-inflammatory properties, though the research is preliminary and I wouldn't overstate it."
   - q: "What's the best way to store cauliflower to keep it fresh longer?"
     a: "Keep it unwashed in the refrigerator, ideally stem-side down or in a loose plastic bag. A whole head usually lasts 4-5 days. If you've already riced or cut it, store it in an airtight container and use it within 2-3 days, or freeze it in a single layer on a baking sheet before transferring to a bag."
+lastmod: 2026-07-07
 ---
 
 Cauliflower gets more credit than it deserves on keto. There, I said it.
 
 Not because it's bad. It's genuinely one of the most useful vegetables you can keep in your keto kitchen. But the hype around it has gotten so overblown that I've had clients come in genuinely devastated that their cauliflower pizza crust tasted nothing like Domino's. The expectations are set wrong, and that leads to a lot of wasted produce and a lot of abandoned diets.
 
-So let me reframe this before we get into the actual recipes: cauliflower isn't a perfect substitute for anything. It's its own ingredient that happens to work beautifully in low-carb cooking when you stop trying to trick yourself into thinking it's something else. Once I stopped pretending and started cooking, that's when things got interesting.
+So let me reframe this before we get into the actual recipes: cauliflower isn't a perfect substitute for anything. It's its own ingredient that happens to work beautifully in [low-carb cooking](/easy-keto-meals/) when you stop trying to trick yourself into thinking it's something else. Once I stopped pretending and started cooking, that's when things got interesting.
 
 Here's what I know from working with hundreds of clients and testing these recipes myself: cauliflower is one of the best investments you can make on a keto grocery run. A large head runs around $3-4, it's filling, it freezes well, and a single head has roughly 25-30 grams of total carbs, with about 10-12 grams net after fiber. Plenty of room to work with.
 
@@ -53,6 +54,14 @@ Quick math on that dish: roughly 6 grams net carbs per generous serving, compare
 
 ## Roasted Cauliflower Is the Underrated Star
 
+| Cauliflower Preparation | Net Carbs Per Serving | Best Use Case |
+| --- | --- | --- |
+| Cauliflower Rice | ~6g | Thai bowls, fried rice knockoffs |
+| Roasted Cauliflower | Not specified | Side dish, standalone with toppings |
+| Cauliflower Mash | Not specified | Under braises, with salmon |
+| Cauliflower Soup | 7-9g | Standalone meal, freezer-friendly |
+| Raw Large Head | 10-12g net (25-30g total) | Reference for portion planning |
+
 Nobody talks about this one enough. Roasted cauliflower, done properly, is one of the best things in low-carb cooking. Full stop.
 
 High heat is everything. I mean 425°F minimum, ideally 450°F. The goal is caramelization and char on the edges, not steaming. Cut your florets into similar sizes, toss generously with olive oil (don't be shy, maybe 3 tablespoons for a large head), and give them room on the pan. Single layer. If you crowd them, you steam them, and you're back to the mush problem.
@@ -73,7 +82,7 @@ The technique that matters: steam or boil until very tender, then drain extremel
 
 Do not use a food processor. It makes the texture gummy. Use a hand blender or a standard blender in short pulses, or even just a good masher if you prefer a chunkier texture.
 
-Where cauliflower mash really earns its place: under a slow-braised short rib, or alongside a pan-seared salmon with browned butter. The dish around it does the heavy lifting, and the mash just needs to not get in the way. Done right, it doesn't.
+Where cauliflower mash really earns its place: under a slow-braised short rib, or alongside a [pan-seared salmon](/keto-salmon-recipe/) with browned butter. The dish around it does the heavy lifting, and the mash just needs to not get in the way. Done right, it doesn't.
 
 ---
 
