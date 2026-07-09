@@ -4,7 +4,8 @@ hide_title: true
 date: 2026-06-10
 slug: "intermittent-fasting-calculator"
 description: "Calculate your exact intermittent fasting eating window and fasting hours for 16:8, 18:6, 20:4, OMAD, or 5:2 — with a live countdown timer."
-author: "Natalie Rowe"
+author: "Dr. Sarah Mitchell"
+author_slug: "sarah-mitchell"
 categories: ["Keto Lifestyle"]
 tags: ["intermittent fasting", "16:8", "OMAD", "eating window", "fasting timer", "keto lifestyle"]
 faqs:

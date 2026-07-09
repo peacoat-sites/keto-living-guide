@@ -4,7 +4,8 @@ date: 2026-06-10
 slug: "keto-macro-tracker"
 categories: ["Keto Lifestyle"]
 description: "A simple daily keto macro tracker that runs in your browser. Log food, track net carbs against your target, and see progress bars for protein, fat, and calories. Resets each day automatically."
-author: "Natalie Rowe"
+author: "Diana Walsh"
+author_slug: "diana-walsh"
 faqs:
   - question: "What macros should I track on keto?"
     answer: "The four key numbers are net carbs, protein, fat, and total calories. Net carbs are the most important: most people need to stay under 20g per day to maintain ketosis. Protein supports muscle retention (100-130g for most adults). Fat fills remaining calories. Total calories still matter for weight loss even on keto."
