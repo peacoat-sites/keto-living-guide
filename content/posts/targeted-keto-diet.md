@@ -118,3 +118,12 @@ What we don't have are large, controlled trials specifically on TKD protocols. P
 The targeted ketogenic diet won't solve everything, and it's not for everyone. But if you're serious about training and you've been grinding through flat workouts on strict keto, it's a reasonable, physiologically sound adjustment worth trying. Start conservative with the carb dose, keep everything else tight, and give it a few weeks before drawing conclusions. Your gym sessions will tell you whether it's working better than any app or tracker will.
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+

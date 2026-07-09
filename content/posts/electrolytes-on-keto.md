@@ -127,3 +127,12 @@ Strength trainers on keto often hit a wall around week two they blame on "no car
 Electrolytes are unglamorous. Nobody sells a course on drinking broth or salting your eggs. But solving this one issue is genuinely the difference between someone saying keto changed their life and someone saying it was miserable and they quit after a week. Get the sodium, potassium, and magnesium right, and the rest of the adaptation becomes manageable. Your future keto-adapted self will be grateful you paid attention to the boring stuff first.
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+
