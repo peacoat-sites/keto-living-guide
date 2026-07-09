@@ -2,45 +2,50 @@
   {
     "label": "Intermittent Fasting",
     "url": "/intermittent-fasting-calculator/",
-    "icon": "\u23f1\ufe0f",
+    "icon": "⏱️",
     "match": [
       "intermittent",
       "fasting"
-    ]
+    ],
+    "desc": "Find the fasting window and eating schedule that fit your routine and goals."
   },
   {
     "label": "Food List",
     "url": "/keto-food-list/",
-    "icon": "\ud83e\udd51",
+    "icon": "🥑",
     "match": [
       "food",
       "list"
-    ]
+    ],
+    "desc": "Browse keto-friendly foods by carb count so you always know what to eat."
   },
   {
     "label": "Macro Calc",
     "url": "/keto-macro-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "macro"
-    ]
+    ],
+    "desc": "Calculate your daily fat, protein, and carb targets to stay in ketosis."
   },
   {
     "label": "Macro Tracker",
     "url": "/keto-macro-tracker/",
-    "icon": "\ud83d\udcca",
+    "icon": "📊",
     "match": [
       "macro",
       "tracker"
-    ]
+    ],
+    "desc": "Log your meals and track macros against your daily keto targets."
   },
   {
     "label": "Grocery List",
     "url": "/keto-grocery-list/",
-    "icon": "\u2705",
+    "icon": "✅",
     "match": [
       "grocery",
       "list"
-    ]
+    ],
+    "desc": "Build a ready-to-shop keto grocery list organized by aisle."
   }
 ]
