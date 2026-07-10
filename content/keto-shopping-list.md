@@ -4,7 +4,8 @@ date: 2026-06-10
 slug: "keto-grocery-list"
 categories: ["Keto Basics"]
 description: "A complete, printable keto grocery shopping list organized by category — proteins, dairy, vegetables, nuts, pantry staples, and more. Save to your phone or print before your next store run."
-author: "Natalie Rowe"
+author: "Emma Lawson"
+author_slug: "emma-lawson"
 faqs:
   - question: "What are the best proteins to buy on keto?"
     answer: "Eggs, ground beef (80/20), chicken thighs, salmon, bacon (sugar-free), and canned fish like sardines and tuna are all excellent keto proteins. They're high in fat or easily paired with fat, keep total carbs at zero, and are widely available at any grocery store."
