@@ -112,11 +112,3 @@ Get the bloodwork. Eat the vegetables. And don't let anyone, including me, make 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) — Whole-home 4-pack of 10-year battery-powered detectors — covers a standard 3-bedroom home.
-

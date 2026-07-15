@@ -70,10 +70,3 @@ The research is genuinely exciting. The mechanistic story is plausible. And the 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-

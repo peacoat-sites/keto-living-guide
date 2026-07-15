@@ -85,8 +85,6 @@ And if you're tracking your electrolyte intake (a kitchen scale like the [OXO Go
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Amazon](https://www.amazon.com/s?k=LMNT+electrolytes)
@@ -100,4 +98,3 @@ And if you're tracking your electrolyte intake (a kitchen scale like the [OXO Go
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

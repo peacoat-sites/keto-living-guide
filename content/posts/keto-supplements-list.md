@@ -110,8 +110,6 @@ The real story about supplements is simple. They're genuinely useful, but they w
 
 *Photo: [Atlantic Ambience](https://www.pexels.com/@freestockpro) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
