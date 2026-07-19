@@ -4,7 +4,7 @@ date: 2026-06-03T14:09:19.320904+00:00
 draft: false
 description: "Learn how to make delicious keto bread without almond flour using simple low-carb alternatives. Easy recipes, tips, and tricks for perfect results every time."
 image: "/img/heroes/11826943.jpg"
-categories: ["Recipes"]
+categories: ["recipes"]
 tags: ["make", "keto", "bread", "without", "almond"]
 slug: "how-to-make-keto-bread-without-almond-flour"
 affiliate_disclosure: false

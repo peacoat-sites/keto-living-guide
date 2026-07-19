@@ -4,7 +4,7 @@ date: 2026-07-10T15:18:42.039862+00:00
 draft: false
 description: "Stuck on keto with no results? Discover the most common reasons your weight loss has stalled and exactly how to fix each one."
 image: "/img/heroes/14537684.jpg"
-categories: ["Keto Troubleshooting"]
+categories: ["basics"]
 tags: ["losing", "weight", "keto"]
 author: "Diana Walsh"
 author_slug: "diana-walsh"

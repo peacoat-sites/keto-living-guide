@@ -4,7 +4,7 @@ date: 2026-07-09T15:44:55.061184+00:00
 draft: false
 description: "Hit a plateau on keto? Discover the real reasons your weight loss has stalled and exactly what to do to break through it fast."
 image: "/img/heroes/725991.jpg"
-categories: ["Keto Troubleshooting"]
+categories: ["basics"]
 tags: ["break", "keto", "stall"]
 author: "Jake Torres"
 author_slug: "jake-torres"

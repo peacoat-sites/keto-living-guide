@@ -4,7 +4,7 @@ date: 2026-07-16T14:36:20.199862+00:00
 draft: false
 description: "See actual keto diet results after 30 days. Real weight loss numbers, body changes, and what to expect from ketogenic eating."
 image: "/img/heroes/4020143.jpg"
-categories: ["inspiration"]
+categories: ["trending"]
 tags: ["keto", "diet", "results", "days"]
 author: "Ryan Park"
 author_slug: "ryan-park"

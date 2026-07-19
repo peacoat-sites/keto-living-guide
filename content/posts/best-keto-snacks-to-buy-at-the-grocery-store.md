@@ -4,7 +4,7 @@ date: 2026-05-31T11:10:48.702813+00:00
 draft: false
 description: "Stock your pantry with the best keto snacks from any grocery store. Discover low-carb, high-fat options that satisfy cravings and keep you in ketosis all day lo"
 image: "/img/heroes/4090833.jpg"
-categories: ["Recipes"]
+categories: ["recipes"]
 tags: ["best", "keto", "snacks", "grocery", "store"]
 slug: "best-keto-snacks-to-buy-at-the-grocery-store"
 affiliate_disclosure: false

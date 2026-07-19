@@ -4,7 +4,7 @@ date: 2026-07-12T14:08:26.264820+00:00
 draft: false
 description: "Struggling with keto breath? Learn what causes that fruity odor on a ketogenic diet and discover effective ways to eliminate it without quitting keto."
 image: "/img/heroes/8846593.jpg"
-categories: ["Keto Side Effects"]
+categories: ["health"]
 tags: ["keto", "breath"]
 author: "Jake Torres"
 author_slug: "jake-torres"

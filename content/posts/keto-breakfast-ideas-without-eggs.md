@@ -4,7 +4,7 @@ date: 2026-07-10T15:16:04.736076+00:00
 draft: false
 description: "Skip the eggs without breaking ketosis. These 18 keto breakfast ideas keep fat at 65% of calories with zero eggs required."
 image: "/img/heroes/3957527.jpg"
-categories: ["Keto Recipes"]
+categories: ["recipes"]
 tags: ["keto", "breakfast", "ideas", "without", "eggs"]
 author: "Ryan Park"
 author_slug: "ryan-park"
