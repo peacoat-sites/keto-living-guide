@@ -74,7 +74,7 @@ I'm not going to sugarcoat this section.
 
 **Bone health is the second one.** Keto done carelessly can be low in calcium and vitamin K2, both critical for older adults managing osteoporosis risk. Dairy-heavy keto versions (full-fat cheese, Greek yogurt in small amounts) help. Sardines with bones are genuinely one of the best keto foods for older adults and almost nobody talks about this.
 
-**The "keto flu" hits harder in older people.** Sodium, potassium, and magnesium depletion in the first 1-3 weeks can cause dizziness, fatigue, and muscle cramps that a healthy 30-year-old shrugs off but that can mean a fall risk for a 75-year-old. Electrolyte supplementation isn't optional here. I've used [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=yoursite-20) with clients specifically for this transition period (they're sugar-free, well-formulated, and around $45 for a 30-pack as of 2026). *(The site may earn a small commission on purchases made through links like this.)*
+**The "keto flu" hits harder in older people.** Sodium, potassium, and magnesium depletion in the first 1-3 weeks can cause dizziness, fatigue, and muscle cramps that a healthy 30-year-old shrugs off but that can mean a fall risk for a 75-year-old. Electrolyte supplementation isn't optional here. I've used [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) with clients specifically for this transition period (they're sugar-free, well-formulated, and around $45 for a 30-pack as of 2026). *(The site may earn a small commission on purchases made through links like this.)*
 
 Worked example: Robert, 68, started keto aggressively on his own, cutting to under 20g carbs from day one. By day five he had significant orthostatic hypotension. His doctor found he needed his lisinopril dose reduced. He restarted more gradually with active electrolyte management and had no further issues. The diet wasn't the problem; the execution was.
 
@@ -88,9 +88,9 @@ The foods that work especially well for older adults on low-carb:
 
 Fatty fish (salmon, sardines, mackerel) for omega-3s and protein. Eggs, because they're cheap, versatile, and nutrient-dense. Full-fat dairy if tolerated. Avocados. Non-starchy vegetables like spinach, broccoli, zucchini, cauliflower. Nuts and seeds in moderation. Olive oil and butter as primary fats.
 
-MCT oil can help with energy and mild ketosis support, though start with small amounts (1 teaspoon) to avoid GI distress. Something like [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=Bulletproof+Brain+Octane+MCT+Oil&tag=yoursite-20) (about $25-30 for 16 oz) is a clean option.
+MCT oil can help with energy and mild ketosis support, though start with small amounts (1 teaspoon) to avoid GI distress. Something like [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=Bulletproof+Brain+Octane+MCT+Oil&tag=contentportfo-20) (about $25-30 for 16 oz) is a clean option.
 
-For tracking, a basic kitchen scale is worth more than any app. [This OXO food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=yoursite-20) runs about $55 and makes protein targets trackable rather than guesswork.
+For tracking, a basic kitchen scale is worth more than any app. [This OXO food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) runs about $55 and makes protein targets trackable rather than guesswork.
 
 One more thing I'd say plainly: resistance exercise matters more here than almost any dietary variable. Muscle loss in aging is a bigger long-term threat than most people realize. Low-carb won't fix sarcopenia by itself. But it creates a good metabolic environment for building muscle when paired with even twice-weekly resistance training.
 

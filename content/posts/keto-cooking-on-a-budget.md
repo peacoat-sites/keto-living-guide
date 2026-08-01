@@ -38,7 +38,7 @@ Protein is where most keto budgets break down. People default to chicken breasts
 
 Chicken thighs cost roughly half what boneless breasts do and have more fat, which is exactly what you want on keto. Bone-in, skin-on is even cheaper. Whole chickens, if you're willing to break them down yourself or just roast them and pull the meat, are almost always the best per-pound value in the store. A 5-pound bird at around $1.29/lb feeds two people for two full days if you're strategic about it.
 
-Pork shoulder and beef chuck are the two cuts I come back to constantly. Both are high-fat, deeply flavorful, and genuinely cheap, typically $2-4/lb depending on where you live and whether there's a sale. Neither needs anything fancy to taste good. Salt, garlic, a Dutch oven, and three hours. That's it. If you don't have a Dutch oven yet, this [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=ketolowcarbli-20) is about $50 and will last decades. Worth every dollar for anyone cooking on a budget.
+Pork shoulder and beef chuck are the two cuts I come back to constantly. Both are high-fat, deeply flavorful, and genuinely cheap, typically $2-4/lb depending on where you live and whether there's a sale. Neither needs anything fancy to taste good. Salt, garlic, a Dutch oven, and three hours. That's it. If you don't have a Dutch oven yet, this [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=contentportfo-20) is about $50 and will last decades. Worth every dollar for anyone cooking on a budget.
 
 Eggs deserve their own mention because people underestimate them. A dozen eggs for under $4 is roughly 72 grams of protein and a lot of fat, portable, fast-cooking, and infinitely variable. I've had clients eating three meals a day built around eggs for weeks without getting bored because the preparation styles are so different.
 
@@ -50,7 +50,7 @@ You don't need to buy organic everything. I'll just say it plainly because a lot
 
 Cabbage is genuinely underrated. A whole head costs under $2, keeps for weeks in the fridge, and works fried in butter with sausage, raw in slaws, braised with pork, or turned into noodle substitutes. I've watched clients go from "I don't really like cabbage" to making it twice a week once they understood how fat transforms it.
 
-The vegetables to avoid spending heavily on are the ones that are keto-adjacent but not keto-necessary: the fancy microgreens, the pre-cut spiralized zucchini at a 300% markup, the organic everything. Buy a cheap spiralizer (they're [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=ketolowcarbli-20)) and do it yourself. Buy the regular zucchini.
+The vegetables to avoid spending heavily on are the ones that are keto-adjacent but not keto-necessary: the fancy microgreens, the pre-cut spiralized zucchini at a 300% markup, the organic everything. Buy a cheap spiralizer (they're [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=contentportfo-20)) and do it yourself. Buy the regular zucchini.
 
 ## The Specialty Product Trap
 
@@ -60,7 +60,7 @@ Not because they're bad. Because they're expensive and they train you to think y
 
 Almond flour is a good example. It has real uses in keto cooking. It also costs $10-14 for a 3-pound bag, and most of the recipes that use it are trying to recreate something bread-like. If you're early in your keto journey and the budget is tight, skip it entirely. You can revisit it later when it's a treat rather than a staple.
 
-MCT oil is another one. [Decent MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=ketolowcarbli-20) runs about $20-30 for a 32 oz bottle. It has legitimate uses, particularly for people doing fasting or struggling to hit fat macros, but it's not required. Butter, cream, and the fat on your meat do the same metabolic job.
+MCT oil is another one. [Decent MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) runs about $20-30 for a 32 oz bottle. It has legitimate uses, particularly for people doing fasting or struggling to hit fat macros, but it's not required. Butter, cream, and the fat on your meat do the same metabolic job.
 
 ## Batch Cooking Is the Actual Budget Strategy
 
@@ -70,9 +70,9 @@ Here's what a practical week looks like. On Sunday, roast a whole chicken or bra
 
 From those four things, you have the base for 10-12 meals. Chicken with butter and cauli rice. Eggs with sautéed cabbage. Pulled pork over a cabbage slaw. Eggs and shredded pork scrambled together. The variety comes from how you assemble, not from buying different things every day.
 
-A decent set of glass meal prep containers (something like [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=ketolowcarbli-20)) costs about $30 and makes this whole system easier. Prepped food in visible containers actually gets eaten. This sounds obvious but it matters.
+A decent set of glass meal prep containers (something like [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)) costs about $30 and makes this whole system easier. Prepped food in visible containers actually gets eaten. This sounds obvious but it matters.
 
-Buying a kitchen scale if you don't have one is also worth it. [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=ketolowcarbli-20) and let you buy in bulk accurately. Buying a 5-lb bag of ground beef, portioning it yourself, and freezing it is meaningfully cheaper than buying individual 1-lb packages every week.
+Buying a kitchen scale if you don't have one is also worth it. [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20) and let you buy in bulk accurately. Buying a 5-lb bag of ground beef, portioning it yourself, and freezing it is meaningfully cheaper than buying individual 1-lb packages every week.
 
 ## Electrolytes Without the $45 Supplement Tub
 
@@ -86,11 +86,11 @@ You don't need them. Salt your food generously with regular salt or No Salt (pot
 
 ## Sources
 
-- [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=ketolowcarbli-20)
-- [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=ketolowcarbli-20)
-- [Decent MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=ketolowcarbli-20)
-- [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=ketolowcarbli-20)
-- [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=ketolowcarbli-20)
+- [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=contentportfo-20)
+- [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=contentportfo-20)
+- [Decent MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20)
+- [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
+- [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20)
 
 
 #### Is keto actually more expensive than eating normally?

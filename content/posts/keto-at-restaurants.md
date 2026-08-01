@@ -94,7 +94,7 @@ Result: Most clients who try this report it works fine. You might end up with a 
 
 Scenario two: you've been eating out four nights a week for work travel, and you feel like you're constantly guessing.
 
-Action: Carry a small backup with you. I recommend keeping something like a bag of macadamia nuts, a few [Chomps beef sticks](https://www.amazon.com/s?k=chomps+beef+sticks&tag=yoursitetag-20), or a couple of individually wrapped cheese portions in your bag or laptop case. When dinner runs late or the restaurant is a disaster, you can eat enough to make a sensible choice rather than a starving one.
+Action: Carry a small backup with you. I recommend keeping something like a bag of macadamia nuts, a few [Chomps beef sticks](https://www.amazon.com/s?k=chomps+beef+sticks&tag=contentportfo-20), or a couple of individually wrapped cheese portions in your bag or laptop case. When dinner runs late or the restaurant is a disaster, you can eat enough to make a sensible choice rather than a starving one.
 
 Result: Clients who do this consistently report fewer "blown nights" and less all-or-nothing thinking about restaurant meals.
 

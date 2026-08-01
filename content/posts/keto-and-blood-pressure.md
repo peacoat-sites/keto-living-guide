@@ -54,7 +54,7 @@ When the kidneys shift into sodium-excretion mode, they don't just lose sodium. 
 
 The first week I put myself on a strict ketogenic diet (I was documenting the experience for a presentation), my blood pressure jumped to 147/92 on day four. I wasn't eating more salt; I was losing electrolytes faster than I was replacing them and my body was compensating. Adding 2-3g of sodium, 1-2g of potassium, and 300-400mg of magnesium daily fixed it within 48 hours.
 
-If you're tracking this at home, a good kitchen scale and a reliable electrolyte supplement make a real difference. I've recommended [LMNT electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes&tag=ketolow-20) to dozens of clients because the sodium:potassium:magnesium ratios are actually sensible (unlike most sports drinks that are mostly sugar and sodium). (Full disclosure: this site may earn a commission on purchases made through these links.)
+If you're tracking this at home, a good kitchen scale and a reliable electrolyte supplement make a real difference. I've recommended [LMNT electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) to dozens of clients because the sodium:potassium:magnesium ratios are actually sensible (unlike most sports drinks that are mostly sugar and sodium). (Full disclosure: this site may earn a commission on purchases made through these links.)
 
 The scenario plays out like this more than people realize:
 
@@ -100,7 +100,7 @@ Long-term data is still thin. Most studies run 6-12 months. Whether keto's blood
 
 ## Practical Steps If You're Monitoring Blood Pressure on Keto
 
-Get a decent home monitor before you start. The Omron Platinum ([available on Amazon, typically around $60-70](https://www.amazon.com/s?k=Omron+Platinum+blood+pressure+monitor&tag=ketolow-20)) is consistently accurate and gives you arm-cuff readings (more reliable than wrist monitors). Measure at the same time daily, ideally morning before coffee.
+Get a decent home monitor before you start. The Omron Platinum ([available on Amazon, typically around $60-70](https://www.amazon.com/s?k=Omron+Platinum+blood+pressure+monitor&tag=contentportfo-20)) is consistently accurate and gives you arm-cuff readings (more reliable than wrist monitors). Measure at the same time daily, ideally morning before coffee.
 
 Plan your electrolytes from day one, not after you get symptoms. The sodium-potassium-magnesium triad is non-negotiable.
 

@@ -97,7 +97,7 @@ Result: 38g net carbs from the bun + 43g from the lemonade = 81g net carbs. That
 
 ## A Note on Electrolytes and Fast Food
 
-This isn't something you usually see in keto restaurant guides, but it matters. Chick-fil-A's grilled items are relatively low in sodium compared to their breaded equivalents. The 8-count Grilled Nuggets have 440mg sodium; a comparable order of regular nuggets has nearly double. If you're in the early weeks of keto, when sodium loss accelerates, you may actually want some salt with your meal. Throw a few pinches of table salt on your salad, or carry [electrolyte packets like LMNT](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=ketolowcarb-20) (affiliate link) and mix one into your water. Sounds minor. In practice, it's the difference between a comfortable afternoon and a 3pm wall.
+This isn't something you usually see in keto restaurant guides, but it matters. Chick-fil-A's grilled items are relatively low in sodium compared to their breaded equivalents. The 8-count Grilled Nuggets have 440mg sodium; a comparable order of regular nuggets has nearly double. If you're in the early weeks of keto, when sodium loss accelerates, you may actually want some salt with your meal. Throw a few pinches of table salt on your salad, or carry [electrolyte packets like LMNT](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) (affiliate link) and mix one into your water. Sounds minor. In practice, it's the difference between a comfortable afternoon and a 3pm wall.
 
 ## Sources
 

@@ -104,7 +104,7 @@ Where things do change quickly: ketone production obviously drops within 24-48 h
 
 One thing that catches people off guard is that the electrolyte loss characteristic of keto actually reverses on the way back in. Your kidneys will retain sodium more readily as insulin rises. This isn't dangerous for most people, but it can cause some puffiness and transient blood pressure increases in the first few weeks.
 
-If you were supplementing heavily with sodium, potassium, or magnesium during keto (which you should have been), dial those back gradually rather than stopping abruptly. A product like [LMNT electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes&tag=your-tag-here) works well during keto but you'll likely need less of it post-transition. (Full disclosure: our site may earn a commission on Amazon purchases.)
+If you were supplementing heavily with sodium, potassium, or magnesium during keto (which you should have been), dial those back gradually rather than stopping abruptly. A product like [LMNT electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) works well during keto but you'll likely need less of it post-transition. (Full disclosure: our site may earn a commission on Amazon purchases.)
 
 ---
 
