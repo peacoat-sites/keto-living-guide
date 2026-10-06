@@ -31,7 +31,7 @@
     </tbody>
   </table>
   <div style="padding:10px 16px;font-size:11px;color:var(--muted,#78716c);background:var(--surface2,#f5f2ec)">
-    {{ $data.basis }} · Net carbs = total carbs − fiber · Source: <a href="https://fdc.nal.usda.gov/" rel="nofollow noopener" target="_blank" style="color:inherit;text-decoration:underline">USDA FoodData Central</a>
+    {{ $data.basis }} · Net carbs = total carbs − fiber · Source: <a href="https://fdc.nal.usda.gov/" rel="nofollow noopener" target="_blank" style="color:inherit;text-decoration:underline">USDA FoodData Central</a>{{ with $data.checked }} · Data checked {{ (time.AsTime .).Format "January 2006" }}{{ end }}
   </div>
 </div>
 {{ end }}

@@ -3,7 +3,7 @@
 Net carbs = total carbohydrate - fiber, per 100g. Prefers SR Legacy / Foundation data.
 Runs in GitHub Actions on a schedule; DEMO_KEY works for this low volume.
 """
-import urllib.request, urllib.parse, json, time, os, sys
+import urllib.request, urllib.parse, json, time, os, sys, datetime
 
 API_KEY = os.environ.get("USDA_API_KEY", "DEMO_KEY")
 BASE = "https://api.nal.usda.gov/fdc/v1/foods/search"
@@ -92,10 +92,18 @@ for display, cat, query in FOODS:
         print(f"  ERROR {display}: {e}", file=sys.stderr)
 
 out.sort(key=lambda x: x["net_carbs"])
+
+# Guard: if the API is down or rate-limited, keep the last good file instead of
+# publishing a near-empty table, and fail the run so it is visible.
+MIN_FOODS = 25
+if len(out) < MIN_FOODS:
+    print(f"Only {len(out)} foods fetched (minimum {MIN_FOODS}); keeping the existing file.", file=sys.stderr)
+    sys.exit(1)
 result = {
     "source": "USDA FoodData Central (fdc.nal.usda.gov)",
     "basis": "per 100g, raw",
     "note": "Net carbs = total carbohydrate minus dietary fiber.",
+    "checked": datetime.date.today().isoformat(),
     "foods": out,
 }
 dest = sys.argv[1] if len(sys.argv) > 1 else "keto_foods.json"
