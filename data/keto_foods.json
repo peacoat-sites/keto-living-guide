@@ -2,6 +2,7 @@
   "source": "USDA FoodData Central (fdc.nal.usda.gov)",
   "basis": "per 100g, raw",
   "note": "Net carbs = total carbohydrate minus dietary fiber.",
+  "checked": "2026-10-06",
   "foods": [
     {
       "name": "Chicken breast",
