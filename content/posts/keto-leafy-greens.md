@@ -34,9 +34,9 @@ So let's get into what actually matters here.
 
 ## Why Leafy Greens Belong at the Center of a Keto Plate
 
-Here's the thing most keto content glosses over. Leafy greens are not just "allowed" on keto. They're genuinely load-bearing. Most of them clock in at 1 to 3 grams of net carbs per cup, which means you can eat a substantial amount without touching your carb ceiling. But the carb count is almost beside the point.
+Leafy greens are not just "allowed" on keto. They're genuinely load-bearing. Most of them clock in at 1 to 3 grams of net carbs per cup, which means you can eat a substantial amount without touching your carb ceiling. But the carb count is almost beside the point.
 
-What surprised me, when I started looking at the actual nutrient data on clients who did long-term keto without vegetables, was the pattern of deficiencies that showed up. Magnesium, potassium, folate, vitamin K. These aren't exotic micronutrients. They're the ones responsible for muscle function, [electrolyte balance](/electrolytes-on-keto/), and DNA repair. When people complain about leg cramps on keto, the first question I ask isn't "are you taking electrolytes?" It's "how much are you eating?"
+People who do long-term keto without vegetables often develop deficiencies in key micronutrients. Magnesium, potassium, folate, vitamin K. These aren't exotic micronutrients. They're the ones responsible for muscle function, [electrolyte balance](/electrolytes-on-keto/), and DNA repair. Leg cramps on keto often point to inadequate vegetable intake rather than electrolyte supplementation alone.
 
 Dr. Sarah Hallberg, a physician and researcher who spent years running clinical low-carb programs before her passing in 2022, was explicit about this in her public lectures: "Vegetables are not optional on a well-formulated ketogenic diet. They provide the micronutrients and fiber your body needs to sustain this eating pattern without harm." That framing, "well-formulated," is doing a lot of work. The research on keto's benefits almost always comes from trials using versions of the diet that include non-starchy vegetables. The carnivore-adjacent "meat and cheese only" approach is a different experiment with a much thinner evidence base.
 
@@ -79,8 +79,6 @@ The one that fools people: peas and pea shoots. Pea shoots are usually fine (2-3
 
 This is where I'll give you a concrete answer instead of a hedge. Most keto protocols target 20 to 50 grams of net carbs per day. A well-structured keto plate should have at least 2 to 3 cups of non-starchy greens daily. That'll typically cost you 4 to 8 grams of net carbs depending on the mix. Completely manageable. For clients I work with at the stricter 20-gram end, I usually suggest they allocate 6 to 8 of those grams specifically to greens, and then work backward from there on other carb sources like nuts or dairy.
 
-Here are a few scenarios based on patterns I've seen repeatedly:
-
 **Client working strict keto for epilepsy management (20g net carb limit) → Added 2 cups cooked spinach and 1 cup arugula daily, cooked in olive oil → Brought magnesium intake from ~140mg/day to ~320mg/day, which resolved nighttime cramps within 10 days without adding a separate supplement.**
 
 **Client eating "lazy keto" averaging 40g net carbs, complained of constant fatigue → Replaced processed keto snack bars (averaging 8g net carbs each, two per day) with a large wilted kale and olive oil side dish → Net carbs stayed similar, but potassium and folate intake doubled, energy improved noticeably by week three.**
@@ -118,7 +116,6 @@ If you're adding a lot of cooked greens and concerned about getting enough elect
 - Hallberg, S.J. et al. (2018): "Reversing Type 2 Diabetes: A Narrative Review of the Evidence," *Nutrients* 10(7):802. Documents the vegetable-inclusive protocol used in clinical low-carb interventions.
 
 ---
-
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

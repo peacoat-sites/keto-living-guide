@@ -38,7 +38,7 @@ Let me give you the honest picture.
 
 Here's what I know for certain: breast milk composition is remarkably resilient. Your body will prioritize the baby. Even on a low-calorie or restricted diet, the fat content and protein content of your milk stay relatively stable. That's the good news, and it's real.
 
-What's less settled is the carbohydrate question. Human milk naturally contains lactose, and your body synthesizes that lactose from glucose. Theoretically, severe carbohydrate restriction could affect milk volume, though the evidence here is genuinely mixed. I've seen this play out both ways in my practice. Some clients breastfeed comfortably on 50 grams of net carbs per day. Others see a supply dip at anything under 100 grams.
+What's less settled is the carbohydrate question. Human milk naturally contains lactose, and your body synthesizes that lactose from glucose. Theoretically, severe carbohydrate restriction could affect milk volume, though the evidence here is genuinely mixed. Individual tolerance varies widely. Some people breastfeed comfortably on 50 grams of net carbs per day, while others see a supply dip at anything under 100 grams.
 
 What I have not seen solid clinical research on, and I'll be direct about this, is [strict ketogenic diet](/is-keto-safe-long-term/)s (under 20-30g carbs/day) in exclusively breastfeeding women over an extended period. Most studies look at weight loss broadly in postpartum women or at ketogenic diets in non-lactating adults. The specific overlap is thin. Anyone telling you the data is conclusive either way is overselling what we have.
 
@@ -74,13 +74,13 @@ Here's the framework I use with clients who want to reduce carbs postpartum:
 
 **Protein is the priority.** Breastfeeding women need approximately 1.7-1.8g of protein per kilogram of body weight daily, which is higher than standard recommendations. This naturally shifts the macros toward what looks like a low-carb, high-protein diet anyway.
 
-**Don't cut calories aggressively.** I've seen this exact scenario more times than I can count:
+**Don't cut calories aggressively.**
 
 *Client is 8 weeks postpartum, wants to lose weight, starts keto. Appetite drops. She's eating 1,400 calories. Supply starts dropping at week 3. She doesn't connect the two. Panics, quits keto entirely, feels like she failed.* 
 
 The solution wasn't to quit low-carb. It was to eat more. Aim for at least 1,800-2,000 calories, and some women need more depending on body size and output.
 
-**Electrolytes matter more than usual.** The increased fluid demands of breastfeeding, combined with the diuretic effect of low-carb eating, can tank your sodium, potassium, and magnesium fast. I've had clients attribute their fatigue and headaches entirely to sleep deprivation when electrolyte depletion was at least half the problem. A good electrolyte supplement without sugar (I like LMNT for convenience, though you can DIY it cheaper with No-Salt and table salt) can make a real difference. (The site may earn a small commission on purchases through links here.)
+**Electrolytes matter more than usual.** The increased fluid demands of breastfeeding, combined with the diuretic effect of low-carb eating, can tank your sodium, potassium, and magnesium fast. Fatigue and headaches during breastfeeding on low-carb are often blamed on sleep deprivation when electrolyte depletion is at least partly responsible. A good electrolyte supplement without sugar (I like LMNT for convenience, though you can DIY it cheaper with No-Salt and table salt) can make a real difference. (The site may earn a small commission on purchases through links here.)
 
 ---
 
@@ -107,7 +107,6 @@ The contrast isn't "keto works or it doesn't." It's that the aggressive version 
 - Breastfeeding Medicine Academy guidelines (current): Clinical protocols for managing weight loss and dietary restriction during lactation.
 
 ---
-
 
 *Photo: [Nano Erdozain](https://www.pexels.com/@nano-erdozain-120534369) via Pexels*
 

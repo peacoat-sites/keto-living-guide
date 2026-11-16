@@ -27,11 +27,11 @@ lastmod: 2026-07-08
 ---
 Most of what you'll read about keto and inflammation falls into one of two camps: breathless claims that it "cures" autoimmune disease, or dismissive warnings that all that saturated fat will inflame your arteries into oblivion. Both miss the actual picture, which is messier and more conditional than either side admits.
 
-Here's what the research actually shows, and what I've seen work (and not work) in practice.
+Here's what the research shows about keto and inflammation.
 
 ## Why Keto Might Reduce Inflammation in the First Place
 
-The leading explanation involves beta-hydroxybutyrate, or BHB, the main ketone your body produces when carbohydrate intake drops low enough. A 2015 study in *Nature Medicine* found that BHB directly inhibits the NLRP3 inflammasome, a molecular complex involved in triggering inflammatory responses linked to conditions like gout, type 2 diabetes, and Alzheimer's disease. That's not marketing. That's a specific mechanism with decent supporting evidence.
+The leading explanation involves beta-hydroxybutyrate, or BHB, the main ketone your body produces when carbohydrate intake drops low enough. A 2015 study in *Nature Medicine* found that BHB directly inhibits the NLRP3 inflammasome, a molecular complex involved in triggering inflammatory responses linked to conditions like gout, type 2 diabetes, and Alzheimer's disease.
 
 Beyond BHB, cutting refined carbohydrates and sugar drops blood glucose and insulin levels, and chronically high insulin is itself pro-inflammatory. So there's a dual effect: the ketones do something useful, and the stuff you stopped eating was causing harm.
 
@@ -68,7 +68,7 @@ If you're using keto specifically to manage inflammation, track something measur
 
 Ask your doctor to run a basic inflammatory panel before you start: CRP, ideally high-sensitivity CRP (hs-CRP), and if they'll order it, IL-6. Get it repeated at 12 weeks. That's enough time for meaningful change to show up if it's going to.
 
-Joint pain, skin conditions like psoriasis, and energy levels are reasonable secondary signals, but I'd treat them as supporting evidence rather than proof. I've had clients convince themselves keto "fixed" their inflammation based on feeling better in the first two weeks, which is almost entirely explained by water weight, reduced bloating, and the novelty effect of any new dietary change. Give it real time and use real markers.
+Joint pain, skin conditions like psoriasis, and energy levels are reasonable secondary signals, but I'd treat them as supporting evidence rather than proof. A common mistake is attributing early improvements in how you feel to reduced inflammation, when they're often explained by water weight, reduced bloating, and the novelty effect of any new dietary change. Give it real time and use real markers.
 
 ## Food Quality Isn't Optional Here
 
@@ -79,7 +79,6 @@ Joint pain, skin conditions like psoriasis, and energy levels are reasonable sec
 - in *Nature Medicine* found that BHB directly inhibits the NLRP3 inflammasome
 - here is genuinely mixed
 - in *Frontiers in Nutrition* showed significant reductions in CRP (C-reactive pro
-
 
 I want to be direct about something. For general weight loss, food quality on keto is somewhat flexible. People lose weight eating Quest bars and processed cheese because the caloric and hormonal mechanisms still function.
 

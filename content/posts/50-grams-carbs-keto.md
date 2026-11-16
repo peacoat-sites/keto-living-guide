@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most of my clients come in having already tried keto once. They lasted two weeks, felt awful, and quit. And when I dig into what happened, a surprising number of them say something like: "I was trying to stay under 20 grams of carbs and I just couldn't do it. It felt insane."
+A common experience with keto is trying to stay under 20 grams of carbs, finding it unsustainable, and quitting after a couple of weeks. Many people find this carb ceiling unnecessarily strict for their situation.
 
 Here's what I tell them: 20 grams is not a law. It's a starting point that got repeated so many times it became scripture.
 
@@ -49,8 +49,6 @@ The honest caveat: if you have significant insulin resistance, type 2 diabetes, 
 Thirty extra grams of net carbs sounds small. It isn't.
 
 That's a cup of blueberries (about 17g net carbs), a small apple (about 21g), or an extra serving of roasted butternut squash. It's the difference between a salad with a few cherry tomatoes and a salad where you're counting each tomato like it owes you money. It's the difference between a sustainable eating pattern and one that requires constant vigilance that most people can only maintain for about three weeks before they crack and eat half a sleeve of crackers.
-
-Here's a worked example from my practice:
 
 *Client: 42-year-old woman, office job, 35 lbs to lose, had tried strict keto twice and quit both times within a month.*
 *Action: Set carb target at 45-50g net carbs daily instead of 20g. Added back small servings of berries, one serving of legumes on weekends, and more flexibility with vegetables.*
@@ -106,7 +104,6 @@ Magnesium glycinate at 300-400mg before bed is the other one. This is consistent
 - Precision Nutrition: "Ketogenic Diet" reference guide -- practical overview of carb thresholds, current as of 2026
 
 ---
-
 
 *Photo: [Loren Castillo](https://www.pexels.com/@lorencastillo) via Pexels*
 

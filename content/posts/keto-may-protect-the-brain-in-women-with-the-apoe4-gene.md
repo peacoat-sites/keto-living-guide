@@ -39,7 +39,7 @@ The University of Missouri multiomics study, highlighted in a June 2026 feature 
 
 Women represent roughly two-thirds of all Alzheimer's cases, a disparity that has been attributed to longevity, hormonal transitions, and differential APOE4 expression. Female APOE4 carriers have a steeper lifetime risk than male carriers with the same genotype. So it's biologically plausible that an intervention targeting APOE4-related metabolism would also show sex-differentiated effects.
 
-What's notable in the mouse data is that the difference isn't subtle. Male APOE4 mice on keto showed no meaningful cognitive or gut microbiome benefit in these studies. That's not a slight difference in magnitude; it's a categorical divergence. Researchers don't yet have a full mechanistic explanation, but estrogen signaling, sex-specific differences in gut microbiome composition, and differential APOE4 expression across brain regions are all under investigation.
+The mouse data show a stark difference: male APOE4 mice on keto showed no meaningful cognitive or gut microbiome benefit in these studies. That's not a slight difference in magnitude; it's a categorical divergence. Researchers don't yet have a full mechanistic explanation, but estrogen signaling, sex-specific differences in gut microbiome composition, and differential APOE4 expression across brain regions are all under investigation.
 
 This sex specificity also means the research community needs to stop treating keto's neurological effects as a single undifferentiated outcome and start reporting results stratified by sex and genotype. Most prior human trials haven't done this. The mouse data is now pushing hard for that correction.
 

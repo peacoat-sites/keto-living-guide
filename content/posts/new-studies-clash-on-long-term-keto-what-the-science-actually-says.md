@@ -14,7 +14,7 @@ slug: "new-studies-clash-on-long-term-keto-what-the-science-actually-says"
 affiliate_disclosure: false
 lastmod: 2026-07-07
 ---
-You've probably seen the headlines this spring bouncing in different directions. One week, keto's fixing your pancreas. The next, it's destroying your liver. If you've been low-carb for a while, or you're thinking about it for blood sugar control, the whiplash is real. I've had clients text me photos of contradictory articles asking which one's true, and the honest answer is: both kind of, and that's exactly the problem.
+You've probably seen the headlines this spring bouncing in different directions. One week, keto's fixing your pancreas. The next, it's destroying your liver. If you've been low-carb for a while, or you're thinking about it for blood sugar control, the whiplash is real. The honest answer is: both kind of, and that's exactly the problem.
 
 Here's what actually happened. Within the first few months of 2026, three significant studies landed fast, and they don't agree. That's not a scandal, that's science. But it matters how you read them, because one involves mice and one involves humans, and those are very different things.
 
@@ -22,7 +22,7 @@ Here's what actually happened. Within the first few months of 2026, three signif
 
 Start here. On April 21, 2026, the Journal of the Endocrine Society published findings that three months of a ketogenic diet improved beta-cell function in people with type 2 diabetes. The measurement that matters is the proinsulin-to-C-peptide ratio, which reflects how hard your pancreas is working to produce usable insulin. Lower ratio means less pancreatic stress. The keto group moved the right direction.
 
-This matters because beta-cell burnout is part of what makes type 2 diabetes get worse over time. If diet can reduce that strain, that's clinically meaningful. I've seen clients improve their fasting glucose and cut medication on low-carb diets, and this study offers one plausible reason why.
+This matters because beta-cell burnout is part of what makes type 2 diabetes get worse over time. If diet can reduce that strain, that's clinically meaningful. Low-carb diets can improve fasting glucose and reduce medication needs, and this study offers one plausible reason why.
 
 But three months is three months. The study doesn't tell you what happens at year two or year five, and that's where the next research gets uncomfortable.
 
@@ -64,7 +64,7 @@ If you've been doing keto for more than a year, the Utah findings are a reason t
 
 If you're doing keto cycling because it seems more sustainable, be honest with yourself about whether the cycling is evidence-based or just easier to stick to. There's nothing wrong with easier to stick to, but the Utah study raises enough questions about carb reintroduction effects that it's worth discussing with a clinician rather than assuming cycling is automatically lower-risk.
 
-The reality is that we don't have the long-term human randomized controlled trial data that would settle most of these questions. That study hasn't been done at scale. Until it is, you're making decisions with incomplete information, which is true of almost everything in nutrition science. Go in with realistic expectations, monitor your actual health markers, and don't let either the enthusiasm or the alarm set your course. Let your labs do that.
+We don't have the long-term human randomized controlled trial data that would settle most of these questions. That study hasn't been done at scale. Until it is, you're making decisions with incomplete information, which is true of almost everything in nutrition science. Go in with realistic expectations, monitor your actual health markers, and don't let either the enthusiasm or the alarm set your course. Let your labs do that.
 
 ## Sources
 

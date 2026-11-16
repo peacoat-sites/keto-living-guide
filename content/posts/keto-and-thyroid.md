@@ -25,15 +25,13 @@ faqs:
     a: "Realistically, you need at least 8-12 weeks of consistent keto before you can draw any conclusions from labs. A baseline panel before you start, and a follow-up around week 12, gives you the clearest picture. Don't test at week three during the adaptation phase and panic over the numbers."
 ---
 
-Somewhere around month three of strict keto, your hair starts falling out. Not dramatically, not all at once, but enough that you're pulling it off your sweater twice a day and quietly Googling "keto thyroid problems" at 11pm. I've had this exact conversation with more clients than I can count. And the frustrating thing is, most of what they find online is either "keto ruined my thyroid, never do it" or "low T3 on keto is totally fine, don't worry about it." Both of those are too simple.
+Hair shedding around month three of strict keto is a common concern. A typical pattern: noticeable hair loss that prompts searches about keto and thyroid problems. And the frustrating thing is, most of what they find online is either "keto ruined my thyroid, never do it" or "low T3 on keto is totally fine, don't worry about it." Both of those are too simple.
 
 The thyroid-keto relationship is genuinely complicated. I'm not going to pretend otherwise. But there are specific things you can do, specific signs to watch for, and specific labs you should ask for, and most of the articles on this topic skip the practical part entirely.
 
 Let me give you what I actually know, including where my knowledge runs out.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto reliably lowers T3, but whether that's harmful depends on whether you have symptoms, not the number alone.</li><li style="margin:5px 0">TSH and free T4 usually stay stable on keto, even when T3 drops 20-30%.</li><li style="margin:5px 0">If you have Hashimoto's, keto's anti-inflammatory effect may actually help, but iodine and selenium intake needs monitoring.</li><li style="margin:5px 0">Hair loss in the first 3-4 months is usually telogen effluvium from caloric stress, not thyroid damage.</li><li style="margin:5px 0">Anyone with a diagnosed thyroid condition should get labs every 3 months for the first year on keto.</li></ul></div>
-
 
 ## What Keto Actually Does to Your Thyroid Hormones
 
@@ -41,7 +39,7 @@ Here's the number most people see and panic over: T3, the active thyroid hormone
 
 The conventional interpretation is that this is bad. Lower T3 means slower metabolism, fatigue, [brain fog](/keto-brain-fog/), hair loss. But there's a competing theory that's actually well-supported: when you're burning fat for fuel instead of glucose, your cells may simply need less T3 to maintain the same metabolic rate. Some researchers call this "euthyroid sick syndrome lite," though that term is contested. The more neutral framing is that it could be a physiological adaptation rather than a deficiency.
 
-I'll be honest with you. The research hasn't fully settled this. What I've seen clinically, over years of working with clients, is that the T3 drop on keto divides into two groups pretty cleanly. The first group: numbers go down, person feels fine, energy is good, no hair loss, no cold intolerance. The second group: numbers go down, and they feel it. Those people need attention, not reassurance.
+The research on T3 changes during keto isn't conclusive. In practice, people tend to fall into two groups: The first group: numbers go down, person feels fine, energy is good, no hair loss, no cold intolerance. The second group: numbers go down, and they feel it. Those people need attention, not reassurance.
 
 The mistake most people make, including some practitioners, is treating the number as the whole story. It's not. Your symptoms matter as much as your labs.
 
@@ -67,7 +65,7 @@ Iodized salt is actually a meaningful iodine source for most Americans, and a lo
 
 The thyroid needs iodine to make hormones. Not huge amounts, the RDA is 150 mcg for adults, but consistent amounts. If you're going keto and cutting out most iodized salt, you need to get iodine from somewhere: seaweed (nori has about 37 mcg per sheet, kelp is wildly variable and can be too high), seafood, eggs.
 
-Selenium is equally important. It's required for converting T4 into active T3, and for the selenoprotein-based antioxidant defense in thyroid tissue. Brazil nuts are the easiest source (roughly 70-90 mcg per nut, though this varies considerably by soil). Two Brazil nuts a day usually covers it. Don't take a high-dose selenium supplement without testing first. I've seen people overdo it chasing thyroid benefits and end up with selenium toxicity, which is unpleasant and takes months to resolve.
+Selenium is equally important. It's required for converting T4 into active T3, and for the selenoprotein-based antioxidant defense in thyroid tissue. Brazil nuts are the easiest source (roughly 70-90 mcg per nut, though this varies considerably by soil). Two Brazil nuts a day usually covers it. Don't take a high-dose selenium supplement without testing first. Excessive supplementation can lead to selenium toxicity, which takes months to resolve.
 
 ## Labs You Should Actually Track
 
@@ -91,13 +89,11 @@ Scenario → Client with Hashimoto's starting keto → full thyroid panel at bas
 
 There are situations where keto is genuinely not the right move for thyroid health, at least not in its most aggressive form.
 
-If your free T3 is already on the low end before you start, and you add keto on top of a caloric deficit, you're stacking two T3-suppressing factors. That's when I've seen real problems: significant fatigue, cold hands and feet, constipation, mood crashes. Caloric restriction is independently known to lower T3, probably through the same adaptive mechanism as carbohydrate restriction.
+If your free T3 is already on the low end before you start, and you add keto on top of a caloric deficit, you're stacking two T3-suppressing factors. This can lead to significant fatigue, cold hands and feet, constipation, and mood crashes. Caloric restriction is independently known to lower T3, probably through the same adaptive mechanism as carbohydrate restriction.
 
-This is not a reason to never do keto. It's a reason to not do aggressive caloric restriction at the same time as strict keto, especially if you're already thyroid-compromised. A "lazy keto" or "moderate low-carb" approach (say, 50-80g net carbs instead of under 20g) may preserve T3 better while still offering metabolic benefits. The research on this specific question is thin, but it fits with what I've seen.
+This doesn't mean you shouldn't do keto. It means avoiding aggressive caloric restriction at the same time as strict keto, especially if you're already thyroid-compromised. A "lazy keto" or "moderate low-carb" approach (say, 50-80g net carbs instead of under 20g) may preserve T3 better while still offering metabolic benefits. Research on this specific comparison is limited.
 
 Scenario → Client with subclinical hypothyroidism attempts keto at 1,200 calories/day → free T3 drops sharply, fatigue becomes severe → shifts to 1,800 calories with 60g net carbs → T3 stabilizes, symptoms resolve over 8 weeks.
-
-
 
 ## Sources
 
@@ -108,7 +104,6 @@ Scenario → Client with subclinical hypothyroidism attempts keto at 1,200 calor
 - National Institutes of Health Office of Dietary Supplements: Iodine and selenium fact sheets, with RDA values and food source data referenced throughout.
 
 ---
-
 
 *Photo: [graham wizardo](https://www.pexels.com/@graham-wizardo-153504) via Pexels*
 

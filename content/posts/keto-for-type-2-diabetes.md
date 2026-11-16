@@ -25,7 +25,7 @@ author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 lastmod: 2026-07-08
 ---
-Your doctor calls with your A1C: 8.4 down to 5.9 in six months. Metformin cut in half. That was David, 54, one of my clients who ditched calorie restriction and started eating keto after years of spinning his wheels with blood sugar control. No magic involved. Just metabolic reality.
+Your doctor calls with your A1C: 8.4 down to 5.9 in six months. Metformin cut in half. No magic involved. Just metabolic reality.
 
 Type 2 diabetes boils down to one thing: your body stopped listening to insulin properly. Glucose piles up in your bloodstream, your pancreas panics and dumps out more insulin, and the whole system spirals. So a diet that cuts carbs dramatically? That's not fringe thinking. That's addressing the actual problem. And the science backing it up is genuinely compelling.
 
@@ -48,9 +48,9 @@ The mechanism goes beyond just eating less sugar. Lower carbs mean fewer blood s
 
 [Insulin resistance](/keto-and-insulin-resistance/) is the core problem. Your muscle cells and liver cells stopped responding to insulin's signal, so your pancreas overcompensates, pumping out more. Chronically high insulin then drives fat storage, hunger, and inflammation. It's a trap.
 
-Keto breaks the cycle differently. Without carbs, your body doesn't need much insulin at all. Insulin levels tank. And here's the interesting part: lower insulin actually restores sensitivity over time. It's like a receptor that's been hammered by constant stimulation finally getting a chance to recover. Studies show measurable improvements in HOMA-IR (insulin resistance) after just 8 to 12 weeks on a real ketogenic diet.
+Keto breaks the cycle differently. Without carbs, your body doesn't need much insulin at all. Insulin levels tank. Lower insulin restores sensitivity over time. HOMA-IR (insulin resistance) typically improves measurably after 8 to 12 weeks on a ketogenic diet.
 
-Weight loss contributes too. Visceral fat, the stuff wrapped around your organs, pumps out inflammatory molecules that wreck insulin signaling. Keto shreds visceral fat because lower insulin lets your body actually access stored fat. I've watched clients drop four to six inches off their waist before the scale budges, and their glucose markers improve right alongside it.
+Weight loss contributes too. Visceral fat, the stuff wrapped around your organs, pumps out inflammatory molecules that wreck insulin signaling. Keto shreds visceral fat because lower insulin lets your body actually access stored fat. Waist circumference often decreases noticeably before weight changes show on the scale, with glucose markers improving alongside these changes.
 
 ## How to Structure a Keto Diet for Diabetes Management
 
@@ -113,7 +113,6 @@ The ADA's actually updated its position in recent years to accept low-carb eatin
 - [Perfect Keto bars](https://www.amazon.com/s?k=perfect+keto+bars)
 - [Artem Podrez](https://www.pexels.com/@artempodrez)
 - in *Diabetes Therapy* tracked 349 adults with type 2 diabetes through a year of
-
 
 Keto isn't for everyone with type 2 diabetes. Pretending otherwise would be reckless.
 

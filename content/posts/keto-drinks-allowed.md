@@ -35,7 +35,7 @@ Hydration tends to slip when people overhaul their eating. On keto, your kidneys
 
 Plain water, sparkling water, and mineral water are all zero carbs. Period. Pellegrino, Perrier, and LaCroix are fine. The trouble comes with flavored sparkling waters. Most are still zero carb, but some use fruit juice for flavoring and sneak in 2 to 4 grams of carbs per can. Check the label. If you're drinking three or four cans daily, those grams add up.
 
-One practical move: add electrolytes. A quality electrolyte powder with sodium, potassium, and magnesium helps prevent the fatigue and cramping people call "keto flu." [This one from LMNT](https://amzn.to/3example) has become standard for many of my clients. (Disclosure: this site may earn a commission on purchases made through links.)
+One practical move: add electrolytes. A quality electrolyte powder with sodium, potassium, and magnesium helps prevent the fatigue and cramping people call "keto flu." [This one from LMNT](https://amzn.to/3example) is a popular choice. (Disclosure: this site may earn a commission on purchases made through links.)
 
 ## Coffee and Tea: Probably Your Best Friends
 
@@ -54,7 +54,7 @@ The problems start with additions:
 | Collagen powder (1 scoop) | 0-1g | Generally yes |
 | Standard sweetened creamer | ~5-7g per 2 tbsp | No |
 
-Butter coffee and "bulletproof"-style drinks made with unsalted grass-fed butter and MCT oil are zero carb and popular with long-term keto practitioners. [MCT oil like this one from Sports Research](https://amzn.to/3example) blends cleanly into hot drinks without separating. Whether you need it or just enjoy it is a personal call. I've seen clients thrive with it and others who find it adds unnecessary calories without meaningful benefit. Listen to your own body.
+Butter coffee and "bulletproof"-style drinks made with unsalted grass-fed butter and MCT oil are zero carb and popular with long-term keto practitioners. [MCT oil like this one from Sports Research](https://amzn.to/3example) blends cleanly into hot drinks without separating. Whether you need it or just enjoy it is a personal call. Listen to your own body.
 
 ## Alcohol on Keto: The Honest Version
 
@@ -70,7 +70,7 @@ Mixers are often the bigger problem anyway. Tonic water has roughly 22 grams of 
 
 Diet sodas like Diet Coke, Zevia, and sparkling waters with [artificial sweeteners](/best-keto-sweeteners/) are technically zero carbs. Many keto dieters use them regularly without issue.
 
-The research on whether artificial sweeteners affect insulin response or gut microbiome composition is genuinely mixed. Some small studies suggest certain sweeteners may trigger a modest insulin response in some individuals. Others show no effect. I won't tell you they're harmless for certain, because the data isn't there yet. What I can tell you is that I've worked with plenty of people who drink diet soda daily and stay in ketosis comfortably, and others who seem to stall until they cut it out.
+The research on whether artificial sweeteners affect insulin response or gut microbiome composition is genuinely mixed. Some small studies suggest certain sweeteners may trigger a modest insulin response in some individuals. Others show no effect. I won't tell you they're harmless for certain, because the data isn't there yet. Some people drink diet soda daily and stay in ketosis comfortably, while others find they need to cut it out to avoid stalling.
 
 If you're not seeing results and your carbs are genuinely low, cutting diet soda for a few weeks is a reasonable experiment. Stevia-sweetened options like Zevia tend to be better tolerated than aspartame or sucralose for people who seem sensitive.
 
@@ -83,7 +83,6 @@ If you're not seeing results and your carbs are genuinely low, cutting diet soda
 - [Dovinda Rd](https://www.pexels.com/@dovinda-rd-993674313)
 - on whether artificial sweeteners affect insulin response or gut microbiome compo
 - isn't there yet
-
 
 Beyond the basics:
 

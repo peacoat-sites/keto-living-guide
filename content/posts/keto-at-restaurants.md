@@ -27,7 +27,7 @@ faqs:
 
 Most keto advice about eating out is written by someone who cooked every meal at home for six months straight and then declared restaurants "totally manageable." I'll be honest: the first time I tried to stay keto at a sit-down restaurant, I thought I had it handled, ordered a "bunless burger with extra lettuce," and then watched the server bring me a sad pile of iceberg with a patty balanced on top, plus a side of fries "because those come with it." I ate the burger. I picked at the fries. I told myself I'd been mostly keto.
 
-That was years ago. Since then I've helped clients work through restaurant eating across nearly every cuisine type, tracked what actually derails people (it's rarely the obvious stuff), and built a mental framework that holds up in practice, not just in theory. What surprised me was how much of the failure happens before anyone looks at the menu.
+That was years ago. Much of the difficulty with restaurant eating happens before anyone looks at the menu.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ask for sauces and dressings on the side; hidden sugars in sauces are the #1 keto-restaurant pitfall.</li><li style="margin:5px 0">Swapping a starchy side for double vegetables or a side salad works at roughly 90% of casual dining restaurants.</li><li style="margin:5px 0">Carbs in restaurant food run 30-60% higher than menu estimates due to portion creep and batch sauces.</li><li style="margin:5px 0">Ethnic cuisines (Mexican, Thai, Chinese) have good keto options but require specific, confident ordering.</li><li style="margin:5px 0">Calling ahead or checking the online menu takes 4 minutes and eliminates most of the guesswork.</li></ul></div>
 
@@ -41,7 +41,7 @@ The other thing I tell clients is to decide in advance how strict you're being t
 
 ## What's Actually in Restaurant Food
 
-Here's a number that surprised me when I first looked at it seriously: a 2019 analysis published in the *Journal of the Academy of Nutrition and Dietetics* found that restaurant portions of popular dishes contained, on average, about 18% more calories than listed, and carbohydrate counts were among the most variable macros. Sauces are batch-made, portions are inconsistent, and the kitchen is not measuring out your teriyaki glaze with a food scale.
+A 2019 analysis published in the *Journal of the Academy of Nutrition and Dietetics* found that restaurant portions of popular dishes contained, on average, about 18% more calories than listed, and carbohydrate counts were among the most variable macros. Sauces are batch-made, portions are inconsistent, and the kitchen is not measuring out your teriyaki glaze with a food scale.
 
 Practically, I assume restaurant carb counts run higher than listed. If the menu says 12g of carbs for a sauce, I budget 15-18g. This isn't paranoia. It's just margin.
 
@@ -57,7 +57,7 @@ This is where most articles give you a generic "ask for no bun!" tip. You alread
 
 **Thai and Chinese** require the most care. Sauces in these cuisines, oyster sauce, hoisin, sweet chili, plum sauce, are often loaded with sugar. Stir-fries with clear garlic-ginger sauces are safer. Thai basil stir-fry (pad kra pao) made with fish sauce and minimal sugar is a reasonable pick. Explicit request: "no sugar in the sauce if possible" will sometimes get you a shrug, sometimes genuine accommodation. Worth asking.
 
-**Italian**: skip the obvious pasta dishes, but don't write off the whole menu. Grilled fish, branzino or salmon, with vegetables, saltimbocca, or a simple chicken dish with olive oil, all work. A reader named Priya emailed me after having a full Italian dinner, two glasses of wine included, and staying under 25g net carbs for the day by choosing osso buco with a side salad over the risotto she'd been eyeing.
+**Italian**: skip the obvious pasta dishes, but don't write off the whole menu. Grilled fish, branzino or salmon, with vegetables, saltimbocca, or a simple chicken dish with olive oil, all work.
 
 **Fast food** exists on a spectrum. A McDonald's double burger (no bun, no ketchup) runs about 4-5g net carbs. A Chipotle keto bowl (salad base, carnitas, fajita vegetables, guacamole, cheese, sour cream, salsa verde) lands around 12-15g depending on serving size. Current as of July 2026, Chipotle's nutrition calculator on their website is reasonably accurate, one of the better tools in fast casual.
 

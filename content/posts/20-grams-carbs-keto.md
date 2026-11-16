@@ -65,7 +65,7 @@ I'll be honest: I've recommended the 20-gram threshold to most of my new keto cl
 
 The [keto adaptation process](/how-to-become-fat-adapted/) is genuinely uncomfortable for many people. The brain fog, fatigue, and irritability of early keto aren't just inconvenient, they can cause people to abandon the approach before they've given it a real trial. Starting at 20 grams maximizes the speed of ketosis onset, which typically means the adaptation symptoms resolve faster. You get to the functional side of keto more quickly.
 
-There's also a behavioral argument. When you're learning a new dietary pattern, simplicity reduces decision fatigue. Twenty grams is a hard constraint that forces you to learn what's actually in your food. I've had clients who thought they were eating keto but were regularly hitting 40 or 50 grams because they didn't realize how many carbs were hiding in salad dressings, certain nuts, or sauces. The strict 20-gram rule exposes those gaps fast.
+There's also a behavioral argument. When you're learning a new dietary pattern, simplicity reduces decision fatigue. Twenty grams is a hard constraint that forces you to learn what's actually in your food. A common mistake is underestimating carbs in salad dressings, certain nuts, and sauces, which can easily push daily intake to 40 or 50 grams without notice. The strict 20-gram rule exposes those gaps fast.
 
 The research on metabolic benefits, including improvements in blood glucose, triglycerides, and HDL cholesterol, is most robust for ketogenic diets defined as below 20 to 50 grams of carbs per day. Staying at the conservative end of that range during the initial phase gives you the best chance of actually getting into ketosis before deciding whether the diet works for you.
 
@@ -93,7 +93,7 @@ If you've been on keto for at least four to six weeks and are metabolically adap
 
 **Step 4: Set your maintenance target.** Your actual daily target should sit 5 to 10 grams below that threshold to give yourself a buffer for tracking error and variation.
 
-Most clients I've worked through this process with find their threshold somewhere between 25 and 45 grams. A few are genuine 20-gram people. A handful can stay in ketosis at 50 grams, especially if they're very active.
+Individual carb thresholds for maintaining ketosis typically fall between 25 and 45 grams, though some do best at 20 grams and others can sustain ketosis at 50 grams, especially with higher activity levels.
 
 | Net Carbs Per Day | Who It's Best For |
 |---|---|
@@ -111,7 +111,6 @@ Most clients I've worked through this process with find their threshold somewher
 - [available on Amazon](https://www.amazon.com/s?k=mct+oil)
 - actually says about it
 - from Virta Health
-
 
 This is where it gets practical. Twenty grams of net carbs sounds brutal until you realize most of your diet doesn't contribute to that number at all. Meat, fish, eggs, cheese, butter, olive oil, and most full-fat dairy contain zero or near-zero net carbs. Your carb budget is spent almost entirely on vegetables, nuts, and any small condiment or dairy allowances.
 

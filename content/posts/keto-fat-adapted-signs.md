@@ -63,7 +63,7 @@ Fat adaptation is not a state of superhuman energy or effortless weight loss. It
 
 You'll still have tired days. You'll still crash when you're sleep deprived, stressed, or getting sick. Fat adaptation doesn't override life. What it does is remove the energy instability from glucose dependency. The baseline improves. The crashes disappear. You're not suddenly biohacked into a different organism.
 
-Also: adaptation doesn't mean you can stop worrying about electrolytes. Sodium, magnesium, and potassium remain important because keto causes increased renal excretion of these minerals. I've watched fully adapted people feel terrible simply because they assumed they were past the electrolyte phase. You're not. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) stays useful long-term. *(Disclosure: this site may earn a commission on purchases made through affiliate links.)*
+Also: adaptation doesn't mean you can stop worrying about electrolytes. Sodium, magnesium, and potassium remain important because keto causes increased renal excretion of these minerals. A common mistake is assuming that once fully adapted, electrolyte management becomes unnecessary. You're not past the electrolyte phase. [A quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) stays useful long-term. *(Disclosure: this site may earn a commission on purchases made through affiliate links.)*
 
 ## A Practical Timeline: What to Expect Week by Week
 
@@ -74,8 +74,6 @@ Also: adaptation doesn't mean you can stop worrying about electrolytes. Sodium, 
 | Weeks 2-3 | Ketosis established, adaptation begins | Inconsistent energy, hunger starting to stabilize |
 | Weeks 4-6 | Enzymatic upregulation accelerating | Clearer thinking, fewer cravings, more consistent energy |
 | Weeks 8-12 | Full fat adaptation for most people | Stable hunger, improved endurance, reduced keto symptoms |
-
-This isn't guaranteed, but it's a reasonable map based on patterns I've seen.
 
 | Timeframe | What's Happening | What You Might Feel |
 |-----------|-----------------|---------------------|
@@ -93,7 +91,7 @@ Getting a [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=cont
 
 **Too much protein without enough fat.** Excess protein converts to glucose through gluconeogenesis. That doesn't completely block ketosis but can blunt adaptation for some people. Fat should genuinely be the primary calorie source, not an afterthought.
 
-**Undereating overall.** Aggressive caloric restriction sends stress signals that impair metabolic flexibility. I've seen people combine keto with aggressive calorie cuts and wonder why they feel miserable after six weeks.
+**Undereating overall.** Aggressive caloric restriction sends stress signals that impair metabolic flexibility. Combining keto with aggressive calorie cuts often leads to fatigue and poor well-being after several weeks.
 
 **High stress and poor sleep.** Cortisol raises blood glucose. Chronic stress keeps you from settling into efficient fat burning regardless of diet. No supplement fixes this until the underlying issue is addressed.
 
@@ -108,7 +106,6 @@ Adding [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20) during
 - [MCT oil](https://www.amazon.com/s?k=MCT+oil&tag=contentportfo-20)
 - [Olga Lazurenko](https://www.pexels.com/@olga-lazurenko-637669623)
 - sharper focus and steadier cognition throughout the day
-
 
 The transition to fat adaptation is genuinely interesting metabolically and massively misunderstood. Most people look for dramatic signals when the real one is quieter: fewer cravings, steadier days, hunger that whispers instead of shouts. If you're in the middle of it right now and it's hard, that's normal. Give your body the full eight to twelve weeks before deciding it isn't working. The physiology is real, the timeline is real, and most people who stick it out reach the other side and realize they can't quite remember when things changed.
 

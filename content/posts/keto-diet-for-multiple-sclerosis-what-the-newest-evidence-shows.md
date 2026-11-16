@@ -62,7 +62,7 @@ What most people don't realize is how much the keto research in MS has been buil
 
 What this means practically: the signal is promising enough to discuss seriously with your neurologist, and weak enough that going rogue with a strict keto protocol without medical supervision is genuinely risky for someone on immunomodulating drugs, or someone who has comorbidities affecting their lipid metabolism or kidney function. This is a population that often has complex medication lists. Dietary changes that affect inflammation, metabolism, and gut microbiome composition can interact with those medications in ways that aren't fully mapped yet.
 
-I'd also be honest about the tolerability issue. Keto isn't easy to maintain, and neurological fatigue plus keto flu during the adaptation period can be a rough combination. I've seen people bail in week two not because keto wasn't working but because they had no support structure and felt awful before the benefits appeared. If you try this, have a dietitian in your corner who knows both the ketogenic approach and the MS context.
+I'd also be honest about the tolerability issue. Keto isn't easy to maintain, and neurological fatigue plus keto flu during the adaptation period can be a rough combination. Many people quit in week two not because keto isn't working but because they lack support and feel awful before benefits appear. If you try this, have a dietitian in your corner who knows both the ketogenic approach and the MS context.
 
 ## What to Watch For in the Coming Months
 

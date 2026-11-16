@@ -34,7 +34,7 @@ Let me be direct: the quality of your fat sources matters more than most keto co
 
 Olive oil is the one I recommend most consistently, and I'd push back against anyone who says it's "not keto enough" because it has a Mediterranean-diet association. A 2022 meta-analysis in *Nutrients* looking at over 30 trials confirmed what clinical practice already showed: oleic acid (the primary fat in olive oil) supports HDL, reduces inflammatory markers, and doesn't mess with insulin. Get a good extra-virgin variety for dressing and low-heat cooking. Cobram Estate and California Olive Ranch are both solid options you'll find at most grocery stores for around $12-15 a bottle. For high-heat cooking, avocado oil is the better call since it has a smoke point above 500°F.
 
-Butter and ghee belong on this list too, full stop. The research on saturated fat and cardiovascular risk has gotten genuinely more complicated over the past decade. Dairy fat from ruminants contains conjugated linoleic acid (CLA), which has shown some modest anti-inflammatory and body composition effects in controlled trials. Ghee is just clarified butter with the milk solids removed, making it better for people who react to dairy proteins. I've used Bulletproof Grass-Fed Ghee and Fourth and Heart both, and honestly either is fine. The "grass-fed" label matters a bit here, as grass-fed dairy has a meaningfully better CLA profile than grain-fed.
+Butter and ghee belong on this list too, full stop. The research on saturated fat and cardiovascular risk has gotten genuinely more complicated over the past decade. Dairy fat from ruminants contains conjugated linoleic acid (CLA), which has shown some modest anti-inflammatory and body composition effects in controlled trials. Ghee is just clarified butter with the milk solids removed, making it better for people who react to dairy proteins. The "grass-fed" label matters a bit here, as grass-fed dairy has a meaningfully better CLA profile than grain-fed.
 
 Fatty cuts of meat, salmon, sardines, and eggs are doing double work as protein plus fat sources. Don't overthink this. A few eggs a day, salmon twice a week, and using fattier cuts of beef or pork covers a lot of ground.
 
@@ -79,15 +79,13 @@ Coconut oil deserves a separate note. It's high in saturated fat (mostly lauric 
 - in *Nutrients* looking at over 30 trials confirmed what clinical practice alread
 - on saturated fat and cardiovascular risk has gotten genuinely more complicated o
 
-
 Getting 60-75% of your calories from fat on keto sounds like a lot until you see what it actually means in food. Two eggs cooked in a tablespoon of butter, a handful of macadamia nuts, half an avocado at lunch, salmon for dinner, and a small amount of olive oil on a salad gets you there without forcing anything. A [kitchen scale](https://www.amazon.com/dp/B0113UZJE2?tag=contentportfo-20) makes this much easier to track in the early weeks.
 
-A reader emailed me a few months ago saying she was eating plenty of fat but still felt unsatisfied and couldn't stay in ketosis. Turned out she was relying heavily on cheese as her primary fat source. Not a terrible food, but it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Variety matters for both nutritional balance and satiety.
+Relying too heavily on cheese as a primary fat source can backfire: it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Not a terrible food, but it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Variety matters for both nutritional balance and satiety.
 
 One underrated fat source: macadamia nuts. They're the closest nut to olive oil in fatty acid composition, high in monounsaturated fats, low in omega-6s, and genuinely satisfying. They're expensive (usually $15-20 a pound), but a small portion goes a long way.
 
 ---
-
 
 ---
 

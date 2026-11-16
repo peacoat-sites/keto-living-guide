@@ -56,7 +56,7 @@ Everyone knows about the headache and fatigue. But the full picture is broader.
 - Difficulty sleeping despite being exhausted. Magnesium deficiency is usually the culprit.
 - Sugar cravings intense enough to feel physical. Your brain ran on glucose your entire life. It's annoyed.
 
-I've worked with clients who genuinely thought they had food poisoning. Some quit keto during that window, assuming the diet was making them sick rather than just uncomfortable. The turning point for most of them was understanding that these symptoms are temporary and mechanical, not a sign that keto is wrong for you. That shift in perspective is half the battle.
+A common mistake is confusing keto flu with food poisoning and quitting the diet mid-adaptation. These symptoms are temporary and mechanical, not a sign that keto is wrong for you. That shift in perspective is half the battle.
 
 ## How Long Does Keto Flu Last?
 
@@ -118,7 +118,7 @@ Three different things can happen in the early days of keto, and people often mi
 | **Carb/Sugar Withdrawal** | Days 1 to 5 | Intense cravings, mood swings, anxiety, irritability | Time, adequate calories, protein at meals |
 | **Actual Illness** | Any time | Fever above 100.4°F, sore throat, congestion, body aches unrelated to exercise | Rest, fluids, see a doctor if needed |
 
-The overlap is confusing. Carb withdrawal is real, research shows that sugar activates reward pathways in certain populations similarly to addictive substances. But it's emotionally driven where keto flu is more physical. You can have both simultaneously.
+The overlap is confusing. Carb withdrawal is real. Sugar activates reward pathways similarly to addictive substances. But it's emotionally driven where keto flu is more physical. You can have both simultaneously.
 
 If you have a fever, that's not keto flu. See a doctor.
 
@@ -131,7 +131,6 @@ If you have a fever, that's not keto flu. See a doctor.
 - [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
 - energy levels that exceed their pre-keto baseline once they're fully fat-adapted
 - shows that sugar activates reward pathways in certain populations similarly to a
-
 
 **Chasing ketone levels obsessively.** I see this constantly. People buy blood ketone meters or strips and spiral into anxiety when numbers don't look "right." During the transition, your body's ability to use ketones efficiently is still developing. High ketone readings don't guarantee you feel good, and lower readings don't mean you're failing.
 

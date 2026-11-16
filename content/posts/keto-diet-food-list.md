@@ -33,7 +33,7 @@ Before memorizing foods, understand the one rule: keep net carbohydrates between
 
 Your macronutrient ratio typically breaks down like this: 70 to 75 percent fat, 20 to 25 percent protein, 5 to 10 percent carbohydrates. Eating around 2,000 calories? That's roughly 155 to 165 grams of fat, 100 to 125 grams of protein, and 20 to 50 grams of net carbs daily.
 
-This isn't about drowning in bacon or avoiding vegetables. It's about knowing which foods keep your metabolism in the right place. A kitchen scale and an app like Cronometer or Carb Manager beat guessing every time. I've watched clients eat "keto" for three weeks, feel terrible, then discover their "low-carb" tortillas had 18 net carbs each.
+Keto success means choosing foods that keep you in ketosis, not just cutting carbs indiscriminately or eating unlimited fat. A kitchen scale and an app like Cronometer or Carb Manager beat guessing every time. So-called "low-carb" tortillas, for example, can contain 18 net carbs each, which is enough to knock someone out of ketosis without realizing it.
 
 ## Proteins: What to Buy and What to Skip
 
@@ -169,7 +169,6 @@ Read labels. Always.
 - [This MCT oil from Sports Research](https://www.amazon.com/s?k=sports+research+mct+oil)
 - [digital kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale+food)
 - [Ninthgrid](https://www.pexels.com/@ninthgrid-2149521550)
-
 
 Here's the practical step-by-step I walk new clients through before their first trip.
 

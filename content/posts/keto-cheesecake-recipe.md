@@ -26,11 +26,11 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-My clients always assume cheesecake is off the table. They come in having done weeks of keto perfectly, and then someone brings a cheesecake to a birthday party and they either white-knuckle through it or eat a slice and feel like they've blown everything. I've had this exact conversation probably two hundred times.
+A common assumption on keto is that cheesecake is off the table. After weeks of staying on plan, it's easy to feel like one slice at a birthday party means everything is ruined. But cheesecake can actually work well on keto with the right recipe.
 
 Here's what I tell them: cheesecake is actually one of the most naturally keto-friendly desserts on the planet. The filling is mostly cream cheese, eggs, and fat. The only real problem is the graham cracker crust and the sugar. Swap those out intelligently and you have a dessert that legitimately works on a ketogenic diet, holds its texture, and doesn't taste like a compromise.
 
-I've made a lot of keto cheesecakes over the years. Some were disasters. One early attempt with a flaxseed-heavy crust was... not good. What follows is the version I've landed on after enough iterations to feel confident calling it reliable.
+Keto cheesecake recipes vary widely in results. A flaxseed-heavy crust, for example, often becomes dense and doesn't hold up well. What follows is a reliable version that produces consistent results.
 
 ---
 
@@ -107,7 +107,7 @@ A sugar-free berry compote: simmer 1 cup of frozen mixed berries with 2 tablespo
 
 For a chocolate swirl version: melt 2 oz of 90% dark chocolate (Lindt 90% is my standard, about $3 a bar) with a tablespoon of butter and a teaspoon of allulose, then drop spoonfuls onto the filled (unbaked) cheesecake and swirl with a knife before baking. Adds minimal carbs and looks impressive.
 
-Worked example: I tested the chocolate swirl version at a small dinner party of eight people, none of them on keto. Seven out of eight guessed it was a regular cheesecake. The one person who guessed "something different" said it tasted richer than usual, not worse.
+For example, a chocolate swirl version can easily pass for a regular cheesecake to people not on keto, tasting richer than usual but not noticeably different.
 
 ---
 
@@ -132,7 +132,6 @@ One thing worth knowing: allulose is listed on nutrition labels as a carbohydrat
 - Westman EC, et al. (2007): "Effect of a low-carbohydrate, ketogenic diet program compared to a low-fat diet on fasting lipoprotein subclasses," *International Journal of Cardiology*, cited for metabolic context around dietary fat and ketosis.
 
 ---
-
 
 *Photo: [panumas nikhomkhai](https://www.pexels.com/@cookiecutter) via Pexels*
 

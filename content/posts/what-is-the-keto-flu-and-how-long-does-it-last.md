@@ -53,7 +53,7 @@ Keto flu clusters around three main areas. Not everyone gets all of them, and se
 
 One symptom deserves its own mention: intense carb cravings. Some people experience it as almost physical hunger even after eating enough calories. This is real, partly dopaminergic (carbs trigger reward pathways), and it tends to ease after day 4 or 5 as ketone levels climb and appetite suppression kicks in.
 
-What keto flu is NOT: proof the diet isn't working, evidence you need carbs to feel normal, or a reason to stop. I've watched hundreds of clients push through this window and come out the other side feeling dramatically better than before they started.
+What keto flu is NOT: proof the diet isn't working, evidence you need carbs to feel normal, or a reason to stop. Many people find that pushing through this window leads to feeling significantly better than before they started.
 
 ## How Long Keto Flu Actually Lasts
 
@@ -121,7 +121,6 @@ A few specific behaviors reliably extend or intensify the transition.
 
 - [LMNT](https://amzn.to/placeholder)
 - [Doctor's Best High Absorption Magnesium](https://amzn.to/placeholder)
-
 
 Keto flu is uncomfortable but not dangerous for most healthy adults. That said, several situations warrant a conversation with your doctor before or during the transition.
 

@@ -59,9 +59,7 @@ Stevia doesn't bake well. Full stop. It has no bulk, no browning, no structure. 
 
 ## Side-by-Side: The Numbers That Actually Matter
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Sweetness vs. Caloric Impact (relative to sugar = 100)</div><div class="sc-row"><span class="sc-label">Erythritol sweetness</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">70 score</span></div><div class="sc-row"><span class="sc-label">Stevia (Reb-A) sweetness</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30,000 score</span></div><div class="sc-row"><span class="sc-label">Erythritol calories</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">24 score</span></div><div class="sc-row"><span class="sc-label">Stevia calories</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 score</span></div><div class="sc-src">Source: IFIC Foundation sweetener database, 2023</div></div>
-
 
 Note on the stevia sweetness score: Reb-A is listed as 200-400x sweeter than sugar by weight, but that 30,000 figure represents relative sweetness per calorie compared to sugar, which is why stevia's calorie-to-sweetness ratio is extraordinarily high. It's the most efficient sweetener by far if all you need is sweetness.
 
@@ -81,9 +79,9 @@ The cost column deserves a note. Stevia seems cheap per bottle, but because it's
 
 ## Worked Examples from Real Clients
 
-Rachel, a reader from Austin who'd been keto for eight months, emailed me because she kept stalling around 178 lbs despite strict macros. She was making keto brownies twice a week using 1.5 cups of erythritol per batch and eating about a third of each batch herself. She wasn't counting erythritol carbs (correctly, it's typically not counted), but she was consuming roughly 45g of erythritol per sitting. Swapping to a stevia-sweetened brownie mix and cutting erythritol entirely: she dropped 4 lbs over six weeks. Was it the erythritol directly? Probably not causally, but some research suggests erythritol may trigger a weak cephalic phase insulin response in certain individuals. Could also be reduced calorie density from smaller-volume treats. Either way, the swap worked.
+For example, someone consuming roughly 45g of erythritol per sitting through homemade keto brownies might consider whether that volume is contributing to a plateau. Some research suggests erythritol may trigger a weak cephalic phase insulin response in certain individuals, though the effect is likely modest. Switching to a stevia-sweetened alternative or reducing erythritol volume could lower overall calorie density from treats, which may help with progress.
 
-Scenario 2: A 52-year-old client with IBS and cardiovascular risk factors asked me what to use in his morning coffee and for occasional baking. My answer was: stevia for coffee, a Lakanto blend (erythritol + monk fruit) in small amounts for baking only, and we agreed he'd get his lipid panel redone in three months. His GI symptoms dropped significantly within two weeks of eliminating straight erythritol from his daily routine.
+For someone with IBS and cardiovascular risk factors, stevia works well for daily coffee use, while a Lakanto blend (erythritol + monk fruit) in small amounts suits occasional baking. Eliminating straight erythritol from a daily routine may help reduce GI symptoms in sensitive individuals.
 
 Scenario 3: A competitive CrossFit athlete asked about pre-workout energy balls, which need to hold their shape at room temperature in a gym bag. We used a 50/50 blend of erythritol and allulose. The recrystallization problem disappeared, the texture held, and she reported zero digestive issues at that ratio (roughly 8g erythritol per ball, two balls pre-workout).
 
@@ -96,7 +94,6 @@ Scenario 3: A competitive CrossFit athlete asked about pre-workout energy balls,
 - EFSA Panel on Food Additives (2015): Scientific opinion on the safety of steviol glycosides for the proposed uses as a food additive, EFSA's safety review establishing ADI of 4mg/kg body weight per day for steviol equivalents
 
 ---
-
 
 *Photo: [Evgeniy Alekseyev](https://www.pexels.com/@shliftik) via Pexels*
 

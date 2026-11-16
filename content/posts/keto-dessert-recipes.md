@@ -45,7 +45,7 @@ The replacement isn't complicated once you know what works. The keto baking worl
 - Allulose: 0g net carbs, behaves like sugar in caramelization and moisture retention, a favorite for baked goods
 - Swerve Confectioners (erythritol-based): great for frostings and cheesecakes
 
-Here's the thing nobody gets right the first time: coconut flour isn't a 1:1 swap for almond flour. If you try that, you'll get a dense brick. Coconut flour absorbs roughly four times as much liquid. A recipe calling for 2 cups of almond flour might only need half a cup of coconut flour.
+Coconut flour isn't a 1:1 swap for almond flour. Attempting a direct swap results in a dense brick. Coconut flour absorbs roughly four times as much liquid. A recipe calling for 2 cups of almond flour might only need half a cup of coconut flour.
 
 New to the diet? Our guide to [foods allowed on keto](/foods-allowed-on-keto/) covers what you can actually eat before you start stocking your dessert pantry.
 

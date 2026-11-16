@@ -27,7 +27,7 @@ faqs:
 
 Chick-fil-A has more keto-friendly options than almost any other [fast food](/keto-fast-food-options/) chain, and almost nobody orders them correctly.
 
-That's not an exaggeration. I've had clients come in frustrated after "doing keto" at Chick-fil-A for two weeks, then show me their order history: grilled nuggets plus a medium lemonade (45g carbs in the drink alone), or a side salad with the Honey Sesame dressing that adds 22g carbs. The food choices were fine. The hidden carbs wrecked them. So before we talk about what to order, let's be precise about where the carbs are actually hiding.
+That's not an exaggeration. A common pitfall is ordering items that seem keto-friendly in isolation but come with hidden carbs. A grilled nugget order paired with a medium lemonade (45g carbs in the drink alone) or a side salad with Honey Sesame dressing (22g carbs added) can derail progress fast. The food choices were fine. The hidden carbs wrecked them. So before we talk about what to order, let's be precise about where the carbs are actually hiding.
 
 Chick-fil-A's nutrition data (publicly available on their website and verified as of July 2026) shows that their core grilled proteins are genuinely low-carb: the Grilled Chicken Sandwich fillet itself has 1g of [net carbs](/net-carbs-vs-total-carbs/). The bun adds 37g. That gap is where most people's keto efforts quietly collapse.
 
@@ -53,7 +53,7 @@ Let's put the full picture in one place. I pulled these figures directly from Ch
 | Diet Lemonade (medium) | 15 | 5g | 0g | 5g | Acceptable, not ideal |
 | Unsweetened Iced Tea | 0 | 0g | 0g | 0g | Best drink |
 
-The lemonade number is the one that gets people. Forty-three grams of net carbs in a drink most people don't even think about. A client of mine, a nurse from Portland who's generally meticulous about food tracking, had been stalled for three weeks. We found it: a medium lemonade three or four times a week on her shift breaks. She switched to unsweetened iced tea. She dropped 4 lbs the following week. I can't promise that result is typical, but the carb arithmetic was unambiguous.
+The lemonade number is the one that gets people. Forty-three grams of net carbs in a drink most people don't even think about. For example, someone meticulous about food tracking but stalled on progress might not realize that a medium lemonade three or four times a week adds up quickly. Switching to unsweetened iced tea eliminates those carbs entirely.
 
 ## What to Actually Order
 
@@ -73,7 +73,7 @@ Sauces deserve their own section because they're where I see clients get sloppy.
 
 The Honey Mustard is 11g. Polynesian Sauce is 13g. If you're dipping a 12-count grilled nuggets in two packets of Polynesian, you've just added 26g of carbs to a 3g base. That's a whole day's carb budget for strict keto, in dipping sauce.
 
-I've made this mistake myself. Early in my practice, I was testing Chick-fil-A options for a client presentation and grabbed two Polynesian packets out of habit. Realized partway through. It's embarrassingly easy to do in the middle of a busy lunch.
+It's embarrassingly easy to grab condiment packets out of habit in the middle of a busy lunch.
 
 ## Three Worked Examples
 

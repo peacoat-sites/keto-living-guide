@@ -79,7 +79,7 @@ Keto isn't magic for everyone, but there are situations where the deeper restric
 
 **Significant insulin resistance or type 2 diabetes.** Very low carb intake can produce dramatic improvements in fasting glucose and HbA1c. A 2019 trial published in *Diabetes Therapy* found participants following a ketogenic diet reduced their HbA1c by an average of 1.3 percentage points over a year. If you're managing blood sugar, the difference between 80 grams and 25 grams of carbs daily is not trivial. Always work with your doctor before changing your approach here.
 
-**Appetite suppression.** Ketones appear to reduce ghrelin, the hunger hormone, more consistently than non-ketogenic low-carb eating does. I've seen clients on true keto genuinely struggle to eat enough calories because hunger disappears. That effect is less pronounced on moderate low-carb.
+**Appetite suppression.** Ketones appear to reduce ghrelin, the hunger hormone, more consistently than non-ketogenic low-carb eating does. Some people on strict keto find hunger suppression so pronounced that they struggle to eat enough calories. That effect is less pronounced on moderate low-carb.
 
 **Mental clarity reports.** Subjective, but consistent. Many people report a noticeable cognitive steadiness once they're fat-adapted, around weeks three to six. Whether that's the ketones themselves or simply the absence of blood sugar swings is still debated. Either way, the reports are common enough to take seriously.
 
@@ -102,7 +102,6 @@ If your goals are modest, dropping 15 to 20 pounds, reducing afternoon energy cr
 - [LMNT Electrolyte Drink Mix](https://www.amazon.com/dp/B07NKBYH9N?tag=contentportfo-20)
 - supports benefits at this range: improved blood sugar regulation
 - is exploring its role in migraine management and neurodegenerative conditions
-
 
 Step 1: Track your carbs for three days without changing your eating. Use a free app like Cronometer or Carb Manager. Look at net carbs: total carbs minus fiber.
 

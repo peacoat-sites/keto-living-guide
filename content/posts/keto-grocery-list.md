@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You're standing in the grocery store, cart half-full, staring at a package of almond flour and trying to remember whether you already have some at home. You've got a mental list that made perfect sense at 7am but is now a fuzzy collection of "I think I need..." and "wasn't there something about electrolytes?" You leave spending more than you planned, get home, and realize you forgot heavy cream. Again.
 
-I've helped hundreds of clients start and maintain ketogenic diets, and this exact scenario is one of the most common reasons people abandon keto in the first few weeks. Not the carb cravings. Not the keto flu. The friction of figuring out what to actually buy.
+One of the most common reasons people abandon keto in the first few weeks is the friction of figuring out what to actually buy.
 
 This article is a practical fix for that. No philosophy about why keto works. No pep talk. Just a clear breakdown of what belongs in your cart, what doesn't, and how to think about stocking a keto kitchen so you're not improvising every single week.
 
@@ -128,7 +128,6 @@ Frozen vegetables are just as nutritious as fresh and dramatically faster on bus
 - [A well-formulated product](https://www.amazon.com)
 - [Glass meal prep containers](https://www.amazon.com)
 - [Anna Shvets](https://www.pexels.com/@shvetsa)
-
 
 Here's a starting framework for one person for one week. Adjust for your household.
 

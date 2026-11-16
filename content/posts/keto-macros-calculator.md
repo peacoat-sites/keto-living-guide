@@ -100,7 +100,7 @@ Your macros aren't a set-it-and-forget-it calculation. Several things will cause
 
 **Activity level changes** are hugely underestimated. Starting a new job that has you on your feet all day, adding three weightlifting sessions per week, or switching from daily walks to couch-based recovery after an injury all shift your activity multiplier meaningfully. Recalibrate when your lifestyle changes significantly.
 
-A practical rule: recalculate your macros every 10-15 pounds of weight change, or every 8-12 weeks if your weight isn't moving significantly. I've had clients who were eating nearly 300 calories below what they should have been simply because they never updated a two-year-old calculation.
+A practical rule: recalculate your macros every 10-15 pounds of weight change, or every 8-12 weeks if your weight isn't moving significantly. A common mistake is eating significantly fewer calories than needed simply because an old calculation was never updated.
 
 ## Common Calculator Mistakes That Derail Results
 
@@ -123,7 +123,6 @@ The calculator is only as useful as the inputs you give it. Here are the errors 
 - [LMNT](https://www.amazon.com)
 - [The Ketogenic Bible](https://www.amazon.com)
 - [Markus Spiske](https://www.pexels.com/@markusspiske)
-
 
 Having macro targets is just the prerequisite. Acting on them consistently is the actual work. A few practical systems make that easier.
 

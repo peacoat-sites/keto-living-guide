@@ -29,21 +29,19 @@ Most articles about building muscle on keto spend 800 words hyping the diet and 
 
 The short version is that yes, you can build meaningful muscle on a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/). But it's harder than on a higher-carb approach, the margin for error is smaller, and the people telling you keto is "superior for muscle gain" are selling something. The research is more nuanced than the influencer version suggests.
 
-That said, I've worked with clients who put on solid lean mass while staying in ketosis, and I've seen others spin their wheels for six months because they were undereating protein, over-restricting calories, or both. The difference was always execution, not the diet itself.
-
+Lean mass gains on keto depend heavily on execution. Common mistakes include undereating protein, over-restricting calories, or both. The diet itself isn't the limiting factor when these fundamentals slip.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Protein target on keto for muscle gain: 0.7–1.0g per pound of bodyweight daily, minimum.</li><li style="margin:5px 0">A small caloric surplus (200–400 kcal/day) is required; fat loss and muscle gain simultaneously is mostly a beginner phenomenon.</li><li style="margin:5px 0">Keto suppresses insulin, which aids fat loss but slightly blunts muscle protein synthesis ,  you compensate with higher protein and consistent training.</li><li style="margin:5px 0">Creatine monohydrate (5g/day) is the single most evidence-backed supplement for keto lifters. No debate there.</li><li style="margin:5px 0">Electrolyte loss on keto is real and tanking your sodium/potassium will kill your training output fast.</li></ul></div>
-
 
 ## Protein: The Number Most Keto Lifters Get Wrong
 
 The standard keto advice is 20–25% of calories from protein. At 2,000 calories, that's 100–125g. For a 180-pound person trying to build muscle, that's probably not enough.
 
-The research that changed my thinking here: a 2022 meta-analysis in the *British Journal of Sports Medicine* looked at protein dose and lean mass gains across resistance-trained adults and found that intakes up to 1.6g per kg of bodyweight (roughly 0.73g per pound) drove meaningfully better outcomes than lower intakes. Some individual studies suggest benefits up to 2.2g/kg for hard trainers in a slight deficit. On keto, where the anabolic signaling environment is already somewhat muted compared to a higher-[carb diet](/keto-vs-low-carb-diet-explained/), I lean toward the higher end of that range.
+A 2022 meta-analysis in the *British Journal of Sports Medicine* examined protein dose and lean mass gains across resistance-trained adults, finding that intakes up to 1.6g per kg of bodyweight (roughly 0.73g per pound) produced meaningfully better outcomes than lower intakes. Some individual studies suggest benefits up to 2.2g/kg for hard trainers in a slight deficit. On keto, where the anabolic signaling environment is somewhat reduced compared to a higher-[carb diet](/keto-vs-low-carb-diet-explained/), aim toward the higher end of that range.
 
 Practically: if you weigh 180 lbs, aim for 130–160g of protein daily. That's not "high protein by keto standards," that's just adequate for the goal.
 
-The catch nobody mentions: high protein on strict keto can theoretically disrupt ketosis through gluconeogenesis. In practice, for most people doing resistance training, this is overstated. I've seen clients eat 180g of protein and stay in measurable ketosis. Your mileage varies, but don't let fear of "kicking yourself out of keto" talk you into underfeeding your muscles.
+High protein on strict keto can theoretically disrupt ketosis through gluconeogenesis. In practice, for most people doing resistance training, this risk is overstated. Don't let fear of "kicking yourself out of ketosis" talk you into underfeeding your muscles.
 
 ## Calories: You Still Need a Surplus
 
@@ -111,7 +109,6 @@ What it doesn't offer: a metabolic shortcut to more muscle. The fundamental driv
 - Antonio J, et al. (2020). "Ketogenic Diets and Exercise Performance." *Nutrients*. Covers cyclical vs. strict keto comparisons for athletes.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

@@ -26,13 +26,13 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people buying a ketone meter don't realize they're about to spend real money on a device where the brand matters enormously, and not always in the ways the product pages suggest. I went deep on this after a reader emailed me frustrated that her readings seemed wildly inconsistent compared to her training partner using a different device. They were eating nearly identical meals. Same fasting window. Completely different numbers. That's not user error. That's a calibration and methodology problem baked into the products themselves.
+Most people buying a ketone meter don't realize they're about to spend real money on a device where the brand matters enormously, and not always in the ways the product pages suggest. For example, two people eating nearly identical meals with the same fasting window might get completely different meter readings. That's not user error. That's a calibration and methodology problem baked into the products themselves.
 
 Let me tell you what I actually found.
 
 ## Blood vs. Breath vs. Urine: Settle This First
 
-Before you even think about specific meters, you need to decide what you're actually measuring. [Urine strips (Smackfat, Ketostix)](/urine-ketone-strips-accuracy/) measure acetoacetate, not beta-hydroxybutyrate (BHB), which is the primary ketone your body runs on. They're cheap, around $10-15 for a big bottle, but they're a rough signal at best. After the first few weeks of keto, your kidneys stop excreting as much acetoacetate because your body gets efficient at using it. So the strips look lighter over time, people think they've fallen out of ketosis, and they haven't. I've seen this derail clients more times than I can count.
+Before you even think about specific meters, you need to decide what you're actually measuring. [Urine strips (Smackfat, Ketostix)](/urine-ketone-strips-accuracy/) measure acetoacetate, not beta-hydroxybutyrate (BHB), which is the primary ketone your body runs on. They're cheap, around $10-15 for a big bottle, but they're a rough signal at best. After the first few weeks of keto, your kidneys stop excreting as much acetoacetate because your body gets efficient at using it. So the strips look lighter over time, people think they've fallen out of ketosis, and they haven't. This misunderstanding can derail people's confidence in their keto progress.
 
 Breath meters measure acetone, a different ketone. Better than urine, honestly, because acetone tracks BHB reasonably well over time, and you never pay for test strips. The Biosense (around $200 as of this year) is the best breath device on the market for serious users. It uses a clinical acetone measurement unit called ACEs rather than arbitrary numbers, and the research behind it is more rigorous than competitors. What surprised me was how well it correlated with blood BHB for people who had been keto-adapted for at least four to six weeks. For newer keto dieters, the correlation is messier.
 
@@ -48,7 +48,7 @@ Blood meters measure BHB directly. Most accurate. Most invasive. Ongoing strip c
 | Blood: Precision Xtra | BHB | $2.50-4.00/strip | ±0.5 mmol/L tolerance; gold standard in research | Research reference; clinical validation |
 | Continuous: Sibio KS1 | Interstitial fluid ketones | High sensor cost | Lags behind fingerstick blood testing | Trend data; early adopters only |
 
-The two meters you'll see recommended most are the **Keto-Mojo GK+ Duo** and the **Precision Xtra** from Abbott. I've used both. Here's my honest take.
+The two meters you'll see recommended most are the **Keto-Mojo GK+ Duo** and the **Precision Xtra** from Abbott.
 
 The Keto-Mojo GK+ is the better choice for most people doing this seriously. It measures both blood glucose and ketones from one device, the app integration is genuinely useful (not just a gimmick), and the strips are cheaper than Abbott's at around $1.00-1.30 per ketone strip versus $2.50-4.00 for Precision Xtra strips. Over a month of daily testing, that difference is significant. Keto-Mojo also participates in independent validation studies and publishes its accuracy data, which I appreciate. The readings run slightly lower than Precision Xtra readings, typically by 0.1 to 0.3 mmol/L, which isn't clinically meaningful but does matter if you're comparing your numbers to someone using a different device (see: my reader's situation above).
 
@@ -73,7 +73,6 @@ The people who get the most value from frequent testing are those doing ketogeni
 - than any other consumer ketone meter
 - rather than snapshot readings
 
-
 If you're buying your first meter and want one device that does the job well without overcomplplicating things, get the Keto-Mojo GK+ Duo. Download the app. Buy a box of both glucose and ketone strips, because testing glucose alongside ketones gives you the Glucose Ketone Index (GKI), which is a more informative number than BHB alone for understanding metabolic state.
 
 You'll also want a decent lancet device. The one Keto-Mojo bundles is fine, but the **Genteel Plus** lancing device (around $30) uses vacuum suction to draw blood without having to prick quite as deep, which matters if you're testing daily.
@@ -83,7 +82,6 @@ A few things I'd skip: the exogenous ketone supplements that come bundled in "st
 If you want to try breath testing instead of blood (or alongside it), the Biosense is the only breath device I'd actually recommend at this point. The cheaper breath meters like the LEVL or older Ketonix units have accuracy issues that make the savings not worth it. (The site may earn a commission on purchases made through links here.)
 
 ---
-
 
 *Photo: [i-SENS, USA](https://www.pexels.com/@i-sens-usa-578245562) via Pexels*
 

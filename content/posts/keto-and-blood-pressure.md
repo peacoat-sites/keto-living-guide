@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most coverage of keto and blood pressure picks one of two stories: "keto lowers blood pressure, full stop" or "all that saturated fat will kill you." Both are lazy. The actual picture is more specific, more interesting, and more useful.
 
-Here's what I've seen across years of clinical work: keto often does lower blood pressure, sometimes dramatically. But the mechanism matters, the timeline matters, and for a meaningful subset of people, getting it wrong means their blood pressure actually gets worse before it gets better. Nobody talks about that part.
+Keto often does lower blood pressure, sometimes dramatically. But the mechanism matters, the timeline matters, and for some people, getting it wrong means blood pressure actually gets worse before it gets better.
 
 Let's fix that.
 
@@ -42,13 +42,13 @@ A 2020 meta-analysis in *Nutrients* looking at low-carb diets across 17 trials f
 
 Weight loss adds to this. And keto tends to produce faster early weight loss than most other approaches, partly because of that water loss, partly because of genuine appetite suppression from ketones. Losing 10 pounds tends to reduce systolic pressure by roughly 5-7 mmHg on average, according to data from multiple hypertension trials. Stack that on top of the insulin effect and you can get meaningful movement.
 
-What keto doesn't do is target the mechanisms behind primary hypertension that aren't insulin-related. Arterial stiffness from aging, genetic predispositions, stress, sleep apnea: keto won't fix those. I've had clients who did everything right on keto and still needed medication because their pressure was driven by factors the diet simply doesn't touch.
+What keto doesn't do is target the mechanisms behind primary hypertension that aren't insulin-related. Arterial stiffness from aging, genetic predispositions, stress, sleep apnea: keto won't fix those. Someone who does everything right on keto may still need medication if their pressure is driven by factors the diet simply doesn't touch.
 
 ---
 
 ## The Electrolyte Problem Nobody Prepares You For
 
-This is where I've watched people get hurt, and where standard keto advice fails badly.
+This is where standard keto advice often fails.
 
 When the kidneys shift into sodium-excretion mode, they don't just lose sodium. Potassium and magnesium follow. If you're not replacing those minerals, several things go wrong: heart palpitations, muscle cramps, fatigue. But also, paradoxically, blood pressure can spike or become erratic.
 
@@ -59,8 +59,6 @@ If you're tracking this at home, a good kitchen scale and a reliable electrolyte
 The scenario plays out like this more than people realize:
 
 **Client starts keto, cuts processed food, drinks more water → electrolytes drop → blood pressure spikes at day 5 → client panics and quits → blamed "keto" when the real issue was under-replacement.**
-
-I've seen this exact sequence probably 30 times.
 
 ---
 
@@ -119,7 +117,6 @@ Don't expect linear results. Week one and two are often weird: electrolytes fluc
 - American Heart Association Hypertension Guidelines (current): Standard reference for blood pressure classification and treatment thresholds
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

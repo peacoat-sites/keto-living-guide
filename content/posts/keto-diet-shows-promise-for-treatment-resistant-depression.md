@@ -24,7 +24,7 @@ For a long time, the conversation around ketogenic diets and mental health lived
 | Real-world clinically meaningful improvement rate | 71% | - |
 | Real-world full remission rate (PHQ-9 < 5) | 47% | - |
 
-I'll be honest: when I first heard that a randomized clinical trial was comparing keto to a plant-based control diet for treatment-resistant depression, I expected the results to be modest, probably within the noise. They weren't, quite.
+A randomized clinical trial comparing keto to a plant-based control diet for treatment-resistant depression produced results that were larger than might be expected. They weren't, quite.
 
 The Oxford-led trial found that participants on the ketogenic diet improved by 10.5 points on a 27-point depression scale over 6 weeks. The plant-based control group improved by 8.3 points. That's a real difference, but it's worth sitting with what it means. Both groups improved substantially, which tells you something about structured dietary intervention in general. The keto group just improved more. The researchers concluded the diet "may be effective as an adjunctive treatment for treatment-resistant depression," which is careful, appropriate scientific language, not a cure claim.
 

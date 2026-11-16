@@ -35,9 +35,9 @@ Here's what actually matters.
 
 Not all zero-calorie sweeteners behave the same way in your body. Some raise blood glucose directly. Some trigger an insulin response without raising glucose. Some cause enough GI distress to ruin your afternoon. And some work beautifully for most people most of the time.
 
-Here's the thing that makes this matter on keto specifically: you're working with a narrow carbohydrate window, usually 20 to 50 grams per day. A sweetener that causes even a modest insulin spike can [interrupt ketosis for hours](/how-long-to-enter-ketosis/). Add in the fact that "net carb" calculations on packaged keto products are often misleading, and you've got a real problem hiding in plain sight.
+On keto specifically, you're working with a narrow carbohydrate window, usually 20 to 50 grams per day. A sweetener that causes even a modest insulin spike can [interrupt ketosis for hours](/how-long-to-enter-ketosis/). Add in the fact that "net carb" calculations on packaged keto products are often misleading, and you've got a real problem hiding in plain sight.
 
-There's also the individual variation issue. I've seen clients tolerate erythritol with zero issues while their spouse can't touch it without bloating. One person's perfect sweetener is another person's afternoon regret. That's not a cop-out. It's biology. And it's why understanding the full landscape matters more than just picking "the best one" off a list.
+There's also the individual variation issue. I've seen clients tolerate erythritol with zero issues while their spouse can't touch it without bloating. And it's why understanding the full landscape matters more than just picking "the best one" off a list.
 
 ## The Tier-One Sweeteners: What Works Best for Most People
 
@@ -100,7 +100,6 @@ Beyond the bulking agent issue, there's ongoing debate about whether sucralose a
 - [Leeloo The First](https://www.pexels.com/@leeloothefirst)
 - from the Cleveland Clinic suggesting a possible association between high erythri
 - is preliminary
-
 
 Swapping sweeteners isn't always a one-to-one trade. Here's how to approach it practically.
 

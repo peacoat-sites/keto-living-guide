@@ -49,7 +49,7 @@ Breath intensity isn't uniform. A few factors push it higher:
 
 **Protein intake.** This one gets missed constantly. Gluconeogenesis ,  the process by which your liver converts amino acids to glucose ,  can produce acetone as a byproduct when protein intake is very high. If you're eating 200g of protein daily and wondering why your breath is still sharp at week ten, that's where I'd look first.
 
-**Dehydration.** Low water intake concentrates acetone in your exhaled breath. It also concentrates everything else in your body, which creates a second layer of odor from concentrated urine compounds that can show up in breath. Staying at 2-3 liters of water daily makes a measurable difference. I don't have a controlled study number on this, but in my experience working with clients, it's one of the fastest single interventions.
+**Dehydration.** Low water intake concentrates acetone in your exhaled breath. It also concentrates everything else in your body, which creates a second layer of odor from concentrated urine compounds that can show up in breath. Staying at 2-3 liters of water daily can help reduce keto breath noticeably.
 
 **Caloric deficit depth.** Aggressive deficits accelerate fat breakdown and therefore ketone production. The breath is often strongest in the first weeks when people are also eating the least.
 
@@ -57,7 +57,7 @@ Breath intensity isn't uniform. A few factors push it higher:
 
 The internet offers a lot of remedies. Most of them work on different problems than the one you have.
 
-**1. Time.** This is the real answer. As your cells adapt and you develop better metabolic machinery for burning ketones, your body uses more of what it produces and exhales less. Most people notice significant improvement by week four; by month three, the majority of my clients say it's gone or very mild. You can't shortcut this.
+**1. Time.** This is the real answer. As your cells adapt and you develop better metabolic machinery for burning ketones, your body uses more of what it produces and exhales less. Most people notice significant improvement by week four; by month three, keto breath is often gone or very mild. You can't shortcut this.
 
 **2. Water intake.** Cheap, immediate partial effect. Aim for at least 2.5 liters daily. Add electrolytes (sodium especially) if you're peeing clear every hour ,  that's a sign you're flushing without absorbing.
 

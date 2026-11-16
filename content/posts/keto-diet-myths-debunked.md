@@ -25,13 +25,11 @@ faqs:
     a: "Maybe, but it's not magic. MCT oil (C8 caprylic acid in particular) does convert to ketones faster than dietary fat, and there's reasonable evidence it can raise blood ketone levels modestly. Whether that produces meaningful benefits beyond what regular keto provides is less clear. If you want to try it, start with a teaspoon, not a tablespoon, too much too fast causes significant GI distress. Sports Research makes a solid C8/C10 blend, currently around $28 for 32oz (the site may earn a commission). That's the practical caveat no one tells you upfront."
 ---
 
-Roughly 60% of people who quit keto in the first month do so because of a side effect or fear they were told was "just how it works." I've watched that happen dozens of times in my practice, and most of those dropouts were completely avoidable, because the thing that scared them off was either a myth, a misunderstood mechanism, or advice that was accurate but wildly overstated.
+Roughly 60% of people who quit keto in the first month do so because of a side effect or fear they were told was "just how it works." Most of those dropouts are completely avoidable, because what scared people off is usually either a myth, a misunderstood mechanism, or advice that's accurate but wildly overstated.
 
-I've been working with low-carb and ketogenic clients for over a decade. I've seen the diet work beautifully, and I've seen it fail people. Not because keto is magic or because it's garbage, but because an enormous amount of what circulates online about it is either half-true, outdated, or taken so far out of context it becomes actively misleading. Let me go through the ones that cause the most damage.
-
+An enormous amount of what circulates online about keto is either half-true, outdated, or taken so far out of context it becomes actively misleading. Let me go through the ones that cause the most damage.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">"Keto flu" is almost always electrolyte loss, not carb withdrawal, it's largely preventable with sodium, potassium, and magnesium supplementation.</li><li style="margin:5px 0">A 2020 review in Nutrients found no significant LDL increase in most people; HDL and triglycerides typically improve on keto.</li><li style="margin:5px 0">Ketosis does not require zero carbs, most people enter ketosis reliably at 20-50g net carbs per day.</li><li style="margin:5px 0">Muscle loss on keto is a real risk only if protein is too low; adequate protein (0.7-1g per lb of body weight) is protective.</li><li style="margin:5px 0">Keto is not appropriate for everyone, people with certain metabolic or kidney conditions need individualized guidance.</li></ul></div>
-
 
 ## "Keto Flu Means Your Body Is Detoxing"
 
@@ -53,9 +51,7 @@ A subset of people on high-fat diets, somewhere between 5% and 15% of the popula
 
 My honest advice: get a baseline lipid panel before you start, and check again at 90 days. If your LDL-P (particle number) has gone up significantly, don't assume it's fine because your HDL also improved. Talk to your doctor, and consider whether the specific fat composition of your diet needs adjusting.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average lipid changes on keto (mg/dL)</div><div class="sc-row"><span class="sc-label">Triglycerides (reduction)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">44 mg/dL</span></div><div class="sc-row"><span class="sc-label">HDL (increase)</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">6 mg/dL</span></div><div class="sc-row"><span class="sc-label">LDL (change, average)</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">3 mg/dL</span></div><div class="sc-src">Source: Nutrients meta-analysis, 2020 (41 trials)</div></div>
-
 
 ## "You Can't Build Muscle in Ketosis"
 
@@ -65,13 +61,13 @@ Insulin does support anabolic signaling. But it's not the only lever. Leucine (a
 
 A 2018 study in the Journal of Strength and Conditioning Research compared resistance-trained athletes on ketogenic versus Western diets over 10 weeks. The keto group maintained lean mass and lost significantly more fat. That's not a verdict that keto is superior for building muscle, but it's pretty clear evidence that you're not going to atrophy just by cutting carbs.
 
-The real muscle risk on keto is protein being too low because people focus so intensely on hitting fat macros that they neglect protein. I've seen that pattern repeatedly. If someone is eating 70% fat, 20% protein, and 10% carbs on a 1,800 calorie diet, they're getting about 90 grams of protein. For most adults who train, that's not enough.
+The real muscle risk on keto is protein being too low because people focus so intensely on hitting fat macros that they neglect protein. For example, someone eating 70% fat, 20% protein, and 10% carbs on a 1,800 calorie diet gets about 90 grams of protein. For most adults who train, that's not enough.
 
 ## What Most People Don't Realize About Carb Limits
 
 The "under 20 grams of net carbs" rule is everywhere, and it's not wrong exactly, but it's also not a universal law carved in stone. It comes from the strictest phase of clinical ketogenic diet protocols, originally designed for pediatric epilepsy management, where deep, consistent ketosis was medically necessary. For weight loss and metabolic health in adults, most people enter and maintain nutritional ketosis somewhere in the 20-50g net carb range.
 
-I tested this on myself when I first started experimenting with ketogenic eating about eight years ago: I assumed I'd need to stay under 20g to stay in ketosis. I measured with blood ketone strips (the Keto-Mojo is what I use, around $50 for the meter) and found that my threshold was closer to 40g net carbs. Going slightly over 20g wasn't kicking me out.
+Individual carb thresholds for ketosis vary. The commonly cited limit is 20g net carbs, but some people remain in ketosis at higher thresholds, such as 40g net carbs. Blood ketone strips (like the Keto-Mojo, around $50 for the meter) can help you find your personal threshold.
 
 Individual variation here is substantial and depends on activity level, muscle mass, insulin sensitivity, and frankly genetics. An endurance athlete with high muscle glycogen turnover might maintain ketosis at 60-70g. A sedentary person with insulin resistance might drop out at 25g. Testing matters more than rules.
 
@@ -81,7 +77,7 @@ Keto gets lumped into the category of crash diets, and sometimes it deserves tha
 
 A two-year randomized controlled trial (Indiana University, published in *Cardiovascular Diabetology* in 2018) found that participants on a very low-carb diet maintained significantly better glycemic control and cardiovascular markers than the low-fat comparison group at the 24-month mark. That's not a short-term effect.
 
-For type 2 diabetics specifically, the evidence is probably the strongest I've seen for any dietary intervention. Virta Health has published outcomes data showing that about 60% of their patients who completed the first year of their supervised ketogenic program achieved diabetes reversal (HbA1c under 6.5% without medication). That's a meaningful number. (Note: Virta's study has limitations, including self-selection and no randomization against a control, so I say this with some caution.)
+For type 2 diabetics specifically, the evidence for keto is strong. Virta Health has published outcomes data showing that about 60% of their patients who completed the first year of their supervised ketogenic program achieved diabetes reversal (HbA1c under 6.5% without medication). That's a meaningful number. (Note: Virta's study has limitations, including self-selection and no randomization against a control, so this should be interpreted with some caution.)
 
 The more important long-term question is adherence. And this is where keto loses the ideological fight, not the metabolic one. Dropout rates are higher for ketogenic diets than for moderate low-carb diets in most long-term trials. That's worth taking seriously.
 
@@ -101,7 +97,6 @@ The more important long-term question is adherence. And this is where keto loses
 - Virta Health longitudinal outcomes data (2018, updated through 2022): Real-world clinical outcomes for supervised ketogenic intervention in type 2 diabetic patients.
 
 ---
-
 
 ---
 

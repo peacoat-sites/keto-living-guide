@@ -25,9 +25,9 @@ faqs:
     a: "If you've been on keto for more than 6 months, have any metabolic conditions (type 2 diabetes, cardiovascular disease, kidney disease), or were following keto under medical supervision, yes, loop in your doctor before you change your diet. For otherwise healthy adults doing a standard lifestyle keto, a conversation with a registered dietitian is helpful but not strictly required."
 ---
 
-Most people don't quit keto. They drift out of it. One birthday dinner, one stressful week, one vacation where the bread basket just looked too good, and suddenly they're eating 200 grams of carbs a day again and wondering why they feel absolutely terrible. I've watched this happen with dozens of clients, and I'll be honest: it's not the carbs that cause the problem. It's the speed.
+Most people don't quit keto. They drift out of it. One birthday dinner, one stressful week, one vacation where the bread basket just looked too good, and suddenly they're eating 200 grams of carbs a day again and wondering why they feel absolutely terrible. A common pattern: it's not the carbs that cause the problem. It's the speed.
 
-Quitting keto without a plan can trigger some genuinely unpleasant symptoms, including bloating, fatigue, rapid water weight gain, and [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/) swings that feel alarming even when they're not dangerous. None of this is permanent, but it's avoidable if you know what you're doing. What surprised me when I started looking closely at the research is how little guidance exists on the *exit* side of keto. There's a mountain of content on how to start. Almost nothing on how to stop well.
+Quitting keto without a plan can trigger some genuinely unpleasant symptoms, including bloating, fatigue, rapid water weight gain, and [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/) swings that feel alarming even when they're not dangerous. None of this is permanent, but it's avoidable if you know what you're doing. What's striking is how little guidance exists on the *exit* side of keto. There's a mountain of content on how to start. Almost nothing on how to stop well.
 
 This article is my attempt to fix that.
 
@@ -53,7 +53,7 @@ There's no single protocol everyone should follow here. Duration on keto, indivi
 | Week 4 | 130-175g | Broader variety, adjust based on how you feel |
 | Week 4+ | Maintenance target | Continue adjusting toward your long-term eating pattern |
 
-A few things about this table that I want to flag. First, "net carbs" means [total carbs](/net-carbs-vs-total-carbs/) minus fiber. If you've been tracking total carbs on keto, switch to net carbs during reintroduction, otherwise vegetables alone will feel terrifying. Second, the jump from week 3 to week 4 is where I've seen clients overshoot most often. They feel fine in week 3 and treat it as a green light to eat pasta every night. Stay gradual.
+A few things about this table that I want to flag. First, "net carbs" means [total carbs](/net-carbs-vs-total-carbs/) minus fiber. If you've been tracking total carbs on keto, switch to net carbs during reintroduction, otherwise vegetables alone will feel terrifying. Second, the jump from week 3 to week 4 is where overshoot happens most often. It's easy to feel fine in week 3 and treat it as a green light to eat pasta every night. Stay gradual.
 
 Also: the foods you add matter more than the number. A client named Jordan (he's given me permission to mention him before, though I've changed identifying details here) came off a seven-month keto run and immediately went back to his old diet of sandwiches, fruit juice, and granola bars. Same total carbs as my "Week 3" target, but almost no fiber and a lot of refined sugar. He felt awful for two weeks. When he switched to oats in the morning, lentils at lunch, and fruit instead of juice, his symptoms disappeared within four days. Same carb number, completely different outcome.
 
@@ -69,13 +69,13 @@ If you're not expecting it, that hunger spike can feel like a signal that you sh
 
 If you were on keto for six months or more, particularly if you followed a version that was high in saturated fat, please get bloodwork done within 6-8 weeks of stopping. Check fasting glucose, HbA1c, a full lipid panel, and if you can swing it, an ApoB level (currently around $30-50 out of pocket at most Quest or LabCorp locations without insurance coverage).
 
-Here's why this matters: keto's effects on lipids are genuinely heterogeneous. Some people see dramatic LDL reductions. Others, maybe 30-40% of long-term followers based on what I've seen in practice, see LDL and ApoB climb significantly, particularly people who are "lean mass hyper-responders" (a pattern that researchers are still actively studying as of 2026). Coming off keto can shift these numbers again, and knowing your baseline at exit helps you and your doctor understand what's a diet transition effect versus something worth monitoring long-term.
+Here's why this matters: keto's effects on lipids are genuinely heterogeneous. Some people see dramatic LDL reductions. Others see LDL and ApoB climb significantly, particularly people who are "lean mass hyper-responders" (a pattern researchers are still actively studying as of 2026). Coming off keto can shift these numbers again, and knowing your baseline at exit helps you and your doctor understand what's a diet transition effect versus something worth monitoring long-term.
 
 Scenario: a 52-year-old woman, 14 months on high-[fat keto](/high-fat-keto-foods/), LDL had risen from 118 to 209 during that period. After following a gradual 4-week reintroduction protocol with an emphasis on oats, legumes, and olive oil as the primary fat source, her LDL at the 8-week post-keto check came back at 141. That's still elevated for her risk profile, but the direction and magnitude mattered for her cardiologist's recommendations. Without the exit labs, they would've been working blind.
 
 ## The mental side is real too
 
-Keto has a community. Forums, subreddits like r/keto (over 3 million members), Discord servers, Carb Manager app streaks. For some people, the diet has become an identity, and stepping away from it carries a kind of low-grade social anxiety that doesn't get discussed much. I've had clients who were genuinely nervous to tell their keto-community friends they were stopping, worried about judgment or feeling like they'd "failed."
+Keto has a community. Forums, subreddits like r/keto (over 3 million members), Discord servers, Carb Manager app streaks. For some people, the diet has become an identity, and stepping away from it carries a kind of low-grade social anxiety that doesn't get discussed much.
 
 I want to say this clearly: quitting keto is not failure. For some people at some life stages, a ketogenic diet is incredibly useful. For others, after a while, it stops fitting, whether because of sustainability, social context, athletic performance needs, or just the desire to eat a damn bowl of rice without logging it. None of those are moral failures. The research on long-term adherence to any dietary pattern consistently shows that flexibility beats rigidity for most people's health outcomes over a 5-10 year window.
 

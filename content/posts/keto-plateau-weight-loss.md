@@ -37,7 +37,7 @@ Once glycogen is gone, your body shifts to burning fat for fuel. Fat oxidation i
 
 Then there's metabolic adaptation, sometimes called adaptive thermogenesis. When you consistently eat at a calorie deficit, your body lowers its resting metabolic rate to compensate. Research published in *Obesity* (Rosenbaum & Leibel, 2010) showed that people who lost weight experienced a drop in resting energy expenditure beyond what you'd predict just from losing mass. Translation: you burn fewer calories at rest than you did before, even accounting for the weight you've lost. This is what's actually driving most plateaus.
 
-Beyond metabolism, there are behavioral factors. Portion sizes creep up. That handful of almonds becomes two handfuls. The heavy cream in your coffee adds up to 200 extra calories a day without you even noticing. I've seen this play out with dozens of clients who were genuinely shocked when they started food logging again after months of eating by feel.
+Beyond metabolism, there are behavioral factors. Portion sizes creep up. That handful of almonds becomes two handfuls. The heavy cream in your coffee adds up to 200 extra calories a day without you even noticing. Portion creep often goes unnoticed until you start logging again after months of eating by feel.
 
 ## Are You Actually at a Plateau?
 
@@ -73,7 +73,7 @@ Let's get specific, because vague advice like "just eat less" doesn't help anyon
 
 This is what I'd walk a client through in our first session after they've been stuck for a month.
 
-**Step 1: Log everything for 7 days.** Not selectively. Everything. Weigh food using a scale. Use an app like Cronometer, which is more accurate for micronutrients than MyFitnessPal. This step alone solves maybe 40% of plateaus in my experience.
+**Step 1: Log everything for 7 days.** Not selectively. Everything. Weigh food using a scale. Use an app like Cronometer, which is more accurate for micronutrients than MyFitnessPal. This step alone solves around 40% of plateaus.
 
 **Step 2: Audit your carbs.** Temporarily drop to strict whole-food sources only. No keto snacks, no packaged low-carb products. Vegetables, meat, eggs, full-fat dairy, nuts in small measured quantities.
 
@@ -107,7 +107,6 @@ A few caveats: IF isn't magic, and it doesn't override excessive calorie intake.
 - published in *Obesity* (Rosenbaum & Leibel
 - suggests NEAT can vary by up to 2
 
-
 | Strategy | Time to See Results | Difficulty | Best For |
 |---|---|---|---|
 | Food logging + calorie audit | 1 to 2 weeks | Low | Calorie creep |
@@ -120,6 +119,6 @@ A few caveats: IF isn't magic, and it doesn't override excessive calorie intake.
 
 ---
 
-Plateaus are frustrating, but they're also informative. They tell you something has shifted, either in your body, your habits, or both, and that it's time to look a little closer. The people I've seen bust through their longest stalls weren't the ones who tried the most dramatic interventions. They were the ones who got honest with the data, made one or two targeted adjustments, and stayed consistent long enough for those changes to show up. That patience, combined with a willingness to problem-solve rather than give up, is what actually moves the needle.
+Plateaus are frustrating, but they're also informative. They tell you something has shifted, either in your body, your habits, or both, and that it's time to look a little closer. Breaking through a plateau usually comes down to getting honest with your data, making one or two targeted adjustments, and staying consistent long enough to see results. Patience and a willingness to problem-solve rather than chase dramatic interventions tend to work better than drastic measures.
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*

@@ -62,7 +62,7 @@ Keto depletes sodium, potassium, and magnesium through increased urinary excreti
 
 Blood pressure medications (common in this age group) often affect potassium levels. Diuretics can compound the electrolyte losses from keto significantly. Magnesium deficiency, which is already widespread in the general population, becomes more likely and can cause muscle cramps, poor sleep, and heart palpitations that are genuinely alarming if you don't know what's causing them.
 
-I've had clients ready to quit keto entirely because of heart palpitations, and in most cases it turned out to be magnesium. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
+Heart palpitations sometimes occur on keto and can often be traced to magnesium deficiency. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
 
 For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) are what I recommend most consistently. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)) also helps with sleep, which brings me to the next thing.
 
@@ -72,7 +72,7 @@ The keto "adaptation" phase (those first two to four weeks where you feel exhaus
 
 Sleep disruption is common in this transition and is often worse for [women in menopause](/keto-for-women-over-40/). Keto can actually improve sleep quality once you're adapted, but getting there can be rough. Keeping carbs slightly higher (50 to 60 grams rather than 20) during the first few weeks can ease the transition without derailing the metabolic shift entirely. You can tighten things down later.
 
-Here's where I push back on standard keto advice, though: for anyone with a history of disordered eating, the rigidity of strict keto can be a trigger. I've seen this come up more in women over 50 than in any other group, partly because diet culture has followed many of them for decades. If that resonates at all, [work with a dietitian one-on-one](/keto-for-seniors/) rather than going it alone.
+For anyone with a history of disordered eating, the rigidity of strict keto can be a trigger, especially for women over 50 who may have spent decades navigating diet culture. If that resonates at all, [work with a dietitian one-on-one](/keto-for-seniors/) rather than going it alone.
 
 ## Movement matters more than it did before
 
@@ -83,7 +83,6 @@ Here's where I push back on standard keto advice, though: for anyone with a hist
 - [OXO one runs about $50 on Amazon](https://www.amazon.com/s?k=OXO+kitchen+scale&tag=contentportfo-20)
 - [Вениамин Курочкин](https://www.pexels.com/@vunyakurochkin)
 - points toward something closer to 1
-
 
 You can't out-diet muscle loss after 50. Keto will reduce fat. Without resistance training, though, some of that weight loss will come from muscle, which is the opposite of what most people are trying to do.
 

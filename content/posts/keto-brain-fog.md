@@ -27,12 +27,11 @@ lastmod: 2026-07-08
 ---
 Most people blame keto brain fog on the diet itself. That framing is almost always wrong, and it keeps people from fixing the actual problem.
 
-I've worked with clients who quit keto in week two, convinced the diet was "not for them," when what they were actually experiencing was a textbook electrolyte crash that would have resolved in 48 hours with a pinch of salt and a magnesium capsule. That bothers me, because the information to fix it isn't hidden. It's just buried under a lot of enthusiastic content that skips the hard parts.
+A common reason people quit keto in week two is that they're experiencing a textbook electrolyte crash, which would resolve in 48 hours with a pinch of salt and a magnesium capsule. The information to fix it isn't hidden. It's just buried under a lot of enthusiastic content that skips the hard parts.
 
-So let me give you the real breakdown on keto brain fog: what's causing it, what the research actually shows, and what I've seen work consistently in practice.
+Here's the breakdown on keto brain fog: what causes it and what tends to work.
 
 ---
-
 
 <div class="value-module">
  <div class="vm-head">Keto Brain Fog: Symptom-to-Cause Checklist</div>
@@ -80,7 +79,7 @@ If you go the electrolyte powder route, check the label. A lot of popular option
 
 This is where I see people get truly stuck. First week's done, electrolytes are handled, and they're still foggy at week three or four. Usually it's one of three things at that point.
 
-**Calories are too low.** [Keto kills appetite](/keto-mental-clarity/) so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. I've had clients clear persistent brain fog just by adding a tablespoon of almond butter or an extra ounce of cheese at each meal.
+**Calories are too low.** [Keto kills appetite](/keto-mental-clarity/) so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. Adding a tablespoon of almond butter or an extra ounce of cheese at each meal can clear persistent brain fog.
 
 **You're not actually in ketosis.** Hidden carbs are everywhere. Dressings, deli meats, sauces. If you're not testing, you're guessing. A Keto-Mojo blood ketone meter (about $50 upfront, plus strips) gives you an answer in 10 seconds. Urine strips are cheap but unreliable after the first few weeks.
 
@@ -97,7 +96,6 @@ This is where I see people get truly stuck. First week's done, electrolytes are 
 - even suggests they're more efficient per unit of oxygen)
 - Actually Shows About Ketones and Cognition
 - on ketogenic diets and cognitive performance in healthy adults is mixed
-
 
 I'll be straight with you: the research on ketogenic diets and cognitive performance in healthy adults is mixed, and the improvements aren't huge.
 

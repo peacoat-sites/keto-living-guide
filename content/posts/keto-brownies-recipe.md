@@ -95,7 +95,7 @@ Second most common: too much coconut flour. Even one tablespoon over the 2-3 tab
 
 As Dr. Sarah Hallberg, who spent years studying nutritional ketosis at Indiana University Health before her passing, observed in her clinical work: people underestimate how differently low-carb baked goods respond to heat and moisture compared to conventional ones. The margin for error is narrower because there's no gluten network to provide structure.
 
-Maria Emmerich, author of "Simply Keto" and one of the more technically rigorous keto recipe developers working today, recommends chilling batter-based keto baked goods for 10 minutes before baking to let nut flours absorb liquid more completely. I've tried this. It does help the texture, though it adds a step most people skip.
+Maria Emmerich, author of "Simply Keto" and one of the more technically rigorous keto recipe developers working today, recommends chilling batter-based keto baked goods for 10 minutes before baking to let nut flours absorb liquid more completely. Chilling batter helps texture, though it adds a step most people skip.
 
 Test your sweetener in a small trial batch before committing to a full recipe if you're switching brands, because the sweetness intensity varies more than you'd expect between monk fruit ratios.
 
@@ -120,7 +120,6 @@ Check out [Lily's sugar-free chocolate chips](https://www.amazon.com) as a stead
 - Lakanto product documentation: comparative sweetness ratios and baking behavior notes for monk fruit/erythritol blends vs. pure erythritol.
 
 ---
-
 
 ---
 

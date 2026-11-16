@@ -47,7 +47,7 @@ Ketosis is a metabolic state triggered by keeping carbohydrates low enough. When
 
 This is where counting method gets critical. Broccoli has about 6 grams of total carbs per cup, but 2.4 grams of fiber, leaving roughly 3.6 grams of net carbs. If you're counting total carbs and capped at 20 grams, a big plate of broccoli, cauliflower, and spinach could use up most of your budget before you've eaten much real food. You'd be restricting vegetables that have essentially zero meaningful impact on blood glucose.
 
-Flip it the other way. If you're counting net carbs and leaning heavily on processed "keto" products loaded with maltitol or isomaltulose, you might be eating significantly more metabolically active carbs than your tracker suggests. I've had clients stall for weeks because of this. They were eating keto candy bars with 4g net carbs on the package, but maltitol has a glycemic index around 35, roughly half that of regular sugar. That's not nothing.
+Flip it the other way. If you're counting net carbs and leaning heavily on processed "keto" products loaded with maltitol or isomaltulose, you might be eating significantly more metabolically active carbs than your tracker suggests. For example, a keto candy bar listing 4g net carbs on the package might contain maltitol, which has a glycemic index around 35, roughly half that of regular sugar. That's not nothing.
 
 The practical reality: net carbs works when the fiber and sugar alcohols in your diet are genuinely non-impactful. Total carbs is more conservative and less likely to trip you up, especially if you're new to keto or not hitting ketosis despite thinking you're compliant.
 
@@ -117,7 +117,6 @@ If electrolyte issues are part of your early-keto struggles (very common), a qua
 - [like this one on Amazon](https://www.amazon.com)
 - [Silviu Din](https://www.pexels.com/@silviu-din-1620549)
 - Total Carbohydrates. Net
-
 
 There's no universal right answer, which I know feels unhelpful when you want a clear rule. But here's how to think about it:
 

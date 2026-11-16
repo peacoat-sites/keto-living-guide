@@ -33,11 +33,11 @@ Here's the honest version of what you need to know.
 
 Most of the fear-mongering about alcohol and keto is overblown. Most of the "it's totally fine!" reassurance undersells a real issue. The truth is messier.
 
-When you drink alcohol, your liver prioritizes metabolizing it above everything else, including fat. Ketone production essentially pauses while your body works through the ethanol. This doesn't mean you'll immediately fall out of ketosis or that your progress is ruined. It means fat burning slows down for a few hours. For most people, ketone levels bounce back the next morning if they haven't also consumed a bunch of carbs. What I've seen with clients is that moderate drinking on keto rarely derails fat loss when everything else is dialed in. It's the carb-loaded mixers, the late-night snacking that comes with drinking, and the sluggish workout the next day that actually do damage.
+When you drink alcohol, your liver prioritizes metabolizing it above everything else, including fat. Ketone production essentially pauses while your body works through the ethanol. This doesn't mean you'll immediately fall out of ketosis or that your progress is ruined. It means fat burning slows down for a few hours. For most people, ketone levels bounce back the next morning if they haven't also consumed a bunch of carbs. Moderate drinking on keto rarely derails fat loss when everything else is dialed in. It's the carb-loaded mixers, the late-night snacking that comes with drinking, and the sluggish workout the next day that actually do damage.
 
 There's also the insulin question. Alcohol itself doesn't spike insulin the way carbohydrates do, but sweet mixers absolutely do. A margarita with agave syrup isn't keto just because tequila is technically low-carb. Some research suggests that even pure ethanol can blunt fat oxidation for 12-24 hours in certain people. The research here is genuinely mixed, and it probably varies a lot by person, drinking frequency, and overall metabolic health.
 
-One more thing: you'll almost certainly get drunk faster on keto. Lower glycogen stores, less food in the gut, and a changed metabolic state all add up. I've watched this surprise people repeatedly. A glass of wine that barely touched you before might hit noticeably harder now. Plan accordingly.
+One more thing: you'll almost certainly get drunk faster on keto. Lower glycogen stores, less food in the gut, and a changed metabolic state all add up. A glass of wine that barely touched you before might hit noticeably harder now. Plan accordingly.
 
 ## The Drinks That Actually Work
 
@@ -66,7 +66,7 @@ Let me be direct. The best alcohol choices on keto are ones with zero sugar and 
 
 ## The Keto Hangover Is Real
 
-Alcohol is a diuretic. Keto is already a state where you're holding less water and excreting more electrolytes. Combine them and you can get a hangover that feels dramatically worse than what you're used to, even from a modest amount of alcohol. I've had clients describe feeling genuinely ill after two glasses of wine they would have barely noticed a year earlier.
+Alcohol is a diuretic. Keto is already a state where you're holding less water and excreting more electrolytes. Combine them and you can get a hangover that feels dramatically worse than what you're used to, even from a modest amount of alcohol. The combination of alcohol and keto's diuretic effects can produce a hangover noticeably worse than expected, even from a modest amount.
 
 The practical fix is boring but it works: drink water aggressively while you're drinking, not just after. Replenish electrolytes. A product like [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) (the unflavored or citrus versions, zero sugar) before bed after drinking has made a real difference for a lot of people I work with. The site may earn a commission on purchases made through links like that one, just so you know.
 
@@ -80,7 +80,6 @@ Salt, potassium, magnesium. These matter even on a normal keto day. After drinki
 - [Karolina Grabowska www.kaboompics.com](https://www.pexels.com/@karola-g2)
 - suggests that even pure ethanol can blunt fat oxidation for 12-24 hours in certa
 - here is genuinely mixed
-
 
 Bar menus are not your enemy.
 

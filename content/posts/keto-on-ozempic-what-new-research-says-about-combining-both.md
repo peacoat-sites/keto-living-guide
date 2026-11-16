@@ -48,9 +48,9 @@ Keto and semaglutide each carry their own side-effect profiles. Together, there 
 | Lean mass loss | Low to moderate risk | Up to 40% of weight lost | Reduced risk if protein is adequate |
 | Hypoglycemia risk | Low in non-diabetics | Low at weight-loss doses | Low, but monitor if on other medications |
 
-The nausea overlap is real. Keto's initial adaptation phase and semaglutide's GI side effects can stack in the first few weeks, and I've seen people abandon both because they felt awful and didn't understand why. Spacing the introduction of each, or starting semaglutide at the lowest dose before tightening carbohydrate intake, is something worth discussing with your prescriber.
+The nausea overlap is real. Keto's initial adaptation phase and semaglutide's GI side effects can stack in the first few weeks. Without understanding why, someone might abandon both. Spacing the introduction of each, or starting semaglutide at the lowest dose before tightening carbohydrate intake, is something worth discussing with your prescriber.
 
-Protein intake also deserves specific attention. If your appetite is suppressed and you're keeping carbs under 20–50 grams per day, it becomes surprisingly easy to under-eat protein, which is the exact opposite of what you want if the goal is preserving lean mass. Most of the people I've worked with in this situation need an explicit protein target, not just a carb limit.
+Protein intake also deserves specific attention. If your appetite is suppressed and you're keeping carbs under 20–50 grams per day, it becomes surprisingly easy to under-eat protein, which is the exact opposite of what you want if the goal is preserving lean mass. An explicit protein target, not just a carb limit, becomes important in this situation.
 
 ## The Bigger Trend This Fits Into
 

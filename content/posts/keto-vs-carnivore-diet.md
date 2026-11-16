@@ -70,7 +70,7 @@ On fiber: the research is genuinely more complicated than the mainstream narrati
 
 On vitamin C: this is the one that concerned me most before I looked into it. Turns out fresh, uncooked or lightly cooked beef liver contains meaningful amounts of vitamin C. A 3-ounce serving of raw beef liver has roughly 27mg. Not a lot compared to a bell pepper, but potentially adequate when glucose isn't competing for the same cellular uptake mechanism. The context matters. Still, if you're doing strict carnivore without liver, I'd want to know your plan.
 
-Keto has its own micronutrient gaps. The most common one I see: magnesium and potassium depletion from increased kidney excretion in ketosis. This is what causes the "keto flu" most people experience in weeks one and two. Electrolyte supplementation genuinely helps here. I've had good results recommending LMNT electrolyte packets (around $45 for a 30-serving box on Amazon) to clients who were ready to quit in week two from fatigue and headaches. (Full disclosure: links on this site may earn a commission.) The difference is usually noticeable within 48 hours.
+Keto has its own micronutrient gaps. The most common: magnesium and potassium depletion from increased kidney excretion in ketosis. This causes the "keto flu" many people experience in weeks one and two. Electrolyte supplementation helps significantly. Products like LMNT electrolyte packets (around $45 for a 30-serving box on Amazon) can ease fatigue and headaches, with effects usually noticeable within 48 hours. (Full disclosure: links on this site may earn a commission.)
 
 ## How the Outcomes Compare: Three Scenarios
 
@@ -78,13 +78,13 @@ Keto has its own micronutrient gaps. The most common one I see: magnesium and po
 
 **Someone with no metabolic issues trying keto for general weight loss:** Usually does fine. A 20-25% caloric deficit, combined with the natural appetite suppression ketosis produces, tends to yield 1-2 pounds per week in the first month, slowing to about half a pound after that. Adding carnivore's restrictions on top of standard keto in this scenario? Probably unnecessary. You're adding complexity without clear upside.
 
-**Someone with ulcerative colitis trying carnivore after exhausting other options:** This is the population where I've seen the most dramatic anecdotal responses. One client, 34-year-old woman from Chicago who'd been on mesalamine for three years, agreed to try strict carnivore for 60 days under her GI's supervision. Her symptom score (using the Simple Clinical Colitis Activity Index) dropped from 9 to 2 over that period. Her GI was skeptical but interested. She's still on carnivore as of this writing. This isn't a clinical trial result, but it's not nothing.
+**Someone with ulcerative colitis trying carnivore after exhausting other options:** People with inflammatory bowel conditions have reported significant symptom improvement on strict carnivore. For example, under medical supervision, someone on mesalamine for years might try carnivore for 60 days and see dramatic drops in symptom scores on tools like the Simple Clinical Colitis Activity Index. These reports are anecdotal rather than from clinical trials, but they appear consistently enough to warrant investigation under a doctor's care.
 
 ## The Sustainability Question Nobody Wants to Answer Honestly
 
 Here's what I tell people who ask which diet is "better": the one you'll actually do for two years isn't the one with the best short-term data, it's the best diet for you.
 
-Carnivore has a meaningful dropout rate. It's restrictive in a way that creates real friction, socially and practically. I've seen people maintain it beautifully, but they tend to have a specific reason to, a health condition that motivates them, or a genuine preference for simple eating. If you're doing it because a podcast made it sound cool, you'll probably be eating pizza again in 60 days.
+Carnivore has a meaningful dropout rate. It's restrictive in ways that create real friction, socially and practically. People who sustain it tend to have a specific health condition motivating them or a genuine preference for simple eating. Without that underlying drive, it's easy to abandon.
 
 Keto is more sustainable for most people, but only if they stop treating it as a "eat unlimited fat" permission slip. Overcorrecting on fat intake to compensate for carb removal is one of the most common mistakes I see. Calories still count. Fat is calorie-dense. These two things are both true and need to coexist in your thinking.
 
@@ -97,7 +97,6 @@ Keto is more sustainable for most people, but only if they stop treating it as a
 - Saladino P, "The Carnivore Code" (2020): primary popular text behind the carnivore movement; useful for understanding the movement's internal logic, even where the evidence is extrapolated
 
 ---
-
 
 *Photo: [Nicola Barts](https://www.pexels.com/@nicola-barts) via Pexels*
 

@@ -31,7 +31,7 @@ In February 2026, researchers tracking 198,473 people over more than five millio
 
 A healthy low-carb diet in their definition meant emphasizing plant-based foods, unsaturated fats, and whole foods. An unhealthy low-carb diet meant relying on refined carbs (when you do eat them), saturated fats from processed sources, and ultra-processed animal products. The people who went keto on bacon, processed cheese, and low-carb packaged snacks didn't see the cardiovascular benefit. Some actually had *higher* risk.
 
-I've seen this play out in my practice dozens of times. Two people both doing "keto," but one is eating grass-fed beef, avocado, olive oil, and leafy greens, while the other is living on keto bread, pork rinds, and butter. The second person often feels worse after a few months, despite being "in ketosis." The science now confirms what clinical experience suggested: it's not about carb restriction alone.
+Two people might both be doing "keto," but eat very differently: one focuses on grass-fed beef, avocado, olive oil, and leafy greens, while the other lives on keto bread, pork rinds, and butter. The second approach often leaves people feeling worse after a few months, despite being "in ketosis." The quality of your food matters as much as carb restriction.
 
 ## What This Means for Your Actual Food Choices
 

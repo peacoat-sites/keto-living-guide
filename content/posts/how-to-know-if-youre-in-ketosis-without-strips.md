@@ -25,15 +25,13 @@ faqs:
     a: "Check two things: your actual carb intake (weigh and log for 3 days, don't estimate), and your protein intake. Excess protein can gluconeogenically raise blood sugar enough to suppress ketone production in some people. If carbs are genuinely under 20g and protein is moderate, you're almost certainly in ketosis even without obvious symptoms."
 ---
 
-Most people assume they need a urine strip or a blood meter to know if keto is "working." I understand why. The testing industry has done a thorough job of convincing us that measurable equals real. But here's the thing: I've worked with clients who were clearly, demonstrably in ketosis and had stopped testing weeks earlier. I've also seen people with a mild positive on a strip who weren't burning much fat at all. The strips tell you one thing; your body tells you several.
+Most people assume they need a urine strip or a blood meter to know if keto is "working." I understand why. The testing industry has done a thorough job of convincing us that measurable equals real. Testing strips can give misleading results. Someone in ketosis may stop testing after a few weeks, while a mild positive on a strip doesn't necessarily mean significant fat burning is happening. The strips tell you one thing; your body tells you several.
 
 You might be wondering whether you're actually in ketosis right now, or whether that low-[carb eating](/the-2025-2030-dietary-guidelines-finally-validate-low-carb-eating/) you've been doing for the past week has "kicked in" yet. That's exactly the right question to be sitting with. And the honest answer is: there are real, reliable signals your body gives you, and some of them are more trustworthy than a $12 box of Ketostix.
 
 Let me walk you through what those signals actually are, how to read them accurately, and where people get tripped up.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ketosis typically produces 4-6 measurable physical signs within the first 3-5 days of strict carb restriction.</li><li style="margin:5px 0">Reduced hunger and stable energy (no blood sugar crashes) are among the most reliable ongoing indicators.</li><li style="margin:5px 0">Urine strips are least accurate after 4-6 weeks on keto, when your body gets efficient at using ketones.</li><li style="margin:5px 0">"Keto breath" is a sign of acetone excretion, which appears in early to mid-ketosis, usually days 2-4.</li><li style="margin:5px 0">If you're tracking net carbs under 20g daily and eating enough fat, you're almost certainly in ketosis by day 5.</li></ul></div>
-
 
 ## The Signs That Actually Mean Something
 
@@ -47,7 +45,7 @@ Then there's the breath. I know nobody wants to hear this, but acetone breath is
 
 Here's where I want to be direct, because a lot of keto content gets this wrong.
 
-Rapid [weight loss](/keto-for-weight-loss/) in the first week is not a sign of ketosis. It's mostly glycogen depletion and the water that was bound to it. I made this mistake myself when I first started experimenting with low-carb protocols: I saw the scale drop 6 pounds in four days and assumed everything was working perfectly. Some of it was, but the weight loss was mostly water. Real fat-burning kicks in later. The scale dropping fast early on tells you that you've cut carbs. That's it.
+Rapid [weight loss](/keto-for-weight-loss/) in the first week is not a sign of ketosis. It's mostly glycogen depletion and the water that was bound to it. A common mistake is attributing rapid early weight loss to fat burning. The scale may drop 6 pounds in four days, but most of that is water loss from glycogen depletion, not fat. Real fat-burning kicks in later. The scale dropping fast early on tells you that you've cut carbs. That's it.
 
 Similarly, fatigue and brain fog in days 1-3 are not signs of ketosis. They're signs of carb withdrawal and electrolyte loss. Your kidneys excrete more sodium when insulin drops, which takes magnesium and potassium with it. A lot of people confuse "keto flu" with ketosis itself. These are distinct things. You can feel miserable and not be in ketosis yet. You can also be in ketosis while feeling great, which is actually the goal. If you're in that rough early window, a quality electrolyte supplement like LMNT or Nuun Sport will help more than any strip.
 
@@ -94,7 +92,6 @@ The Keto-Mojo is what I'd recommend if you genuinely need precise numbers, for t
 - Urbain P, Bertz H (2016): "Monitoring for compliance with a ketogenic diet: what is the best time of day to test for urinary ketosis?" *Nutrition & Metabolism* -- directly addresses urine strip reliability and timing.
 
 ---
-
 
 *Photo: [i-SENS, USA](https://www.pexels.com/@i-sens-usa-578245562) via Pexels*
 

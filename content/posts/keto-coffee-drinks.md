@@ -57,7 +57,7 @@ There are really only a few base recipes. Most "keto coffee" content is just var
 
 C8 (caprylic acid) is the most ketogenic fraction. Products advertising C8/C10 blends beat straight coconut oil, which contains mostly C12 (lauric acid) and acts like a long-chain fat. Bulletproof's Brain Octane is 100% C8 and costs about $40 for 16 oz. Perfect Keto's MCT oil powder works better if liquid oil causes GI upset, which it will if you start with a tablespoon.
 
-Start with one teaspoon. Seriously. I've seen the disaster from adding a full tablespoon of MCT oil to a first keto coffee. Your gut needs a week or two to adapt.
+Start with one teaspoon. Seriously. Adding a full tablespoon of MCT oil to a first keto coffee often causes digestive distress. Your gut needs a week or two to adapt.
 
 ## What to Sweeten With
 
@@ -98,7 +98,6 @@ Honest take: most RTD keto coffees are overpriced. Making a cold brew at home an
 - [MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20)
 - [Picas Joe](https://www.pexels.com/@picasjoe)
 - noticeable mental clarity and energy within 30-60 minutes
-
 
 **Question?**
 Still need to be added by client.

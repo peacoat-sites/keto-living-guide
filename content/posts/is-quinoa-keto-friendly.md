@@ -29,9 +29,7 @@ Quinoa gets a weirdly reverent treatment in food culture, and for years I assume
 
 The short version: quinoa is not keto-friendly for the vast majority of people doing a standard [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/). But there's more texture to that answer than a flat no, and the details matter depending on where you're sitting on the low-carb spectrum.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">One cup of cooked quinoa has roughly 39g of net carbs, which exceeds most people's daily keto limit alone.</li><li style="margin:5px 0">Quinoa's ~8g of protein per cup is real but not enough to justify the carb cost on strict keto.</li><li style="margin:5px 0">If you're doing a liberal low-carb diet (50-100g net carbs/day), small portions of quinoa may fit.</li><li style="margin:5px 0">Better keto grain alternatives: cauliflower rice, shirataki, or hemp seeds for similar texture/nutrition hits.</li><li style="margin:5px 0">The glycemic index of quinoa is around 53, moderate, but the glycemic load per serving is still substantial.</li></ul></div>
-
 
 ## The Actual Numbers
 
@@ -71,7 +69,7 @@ But for standard keto? No. There's no realistic portion that's both satisfying a
 
 ## What to Eat Instead
 
-Here's the thing about quinoa: people usually want it because they're looking for something that feels like a grain, holds together in a bowl, absorbs sauces, and offers some protein alongside. That's a specific textural and functional ask. The good news is there are decent answers.
+Quinoa appeals to people looking for something that feels like a grain, holds together in a bowl, absorbs sauces, and offers some protein alongside. That's a specific textural and functional ask. The good news is there are decent answers.
 
 Cauliflower rice is the obvious one, and I know it gets eye-rolls, but riced cauliflower done right (roasted in a dry pan until slightly golden, not microwaved into mush) genuinely works as a base. You can grab a 10-ounce bag of Birds Eye frozen riced cauliflower for about $2.49 at most grocery stores right now.
 
@@ -91,7 +89,6 @@ Scenario: Client trying to maintain a Mediterranean-influenced eating pattern on
 - Harvard T.H. Chan School of Public Health, The Nutrition Source: Overview of glycemic index and glycemic load concepts (hsph.harvard.edu)
 
 ---
-
 
 *Photo: [Karen Laårk Boshoff](https://www.pexels.com/@laarkstudio) via Pexels*
 

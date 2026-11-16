@@ -29,7 +29,7 @@ Nobody warns you about this part.
 
 You start keto, you're feeling pretty good, the scale is moving, and then around day four or five you realize you haven't been to the bathroom in three days. You're eating plenty. You don't feel sick exactly. You just feel... stopped up. And when you go searching for answers, most of what you find is either breezy ("just drink more water!") or buried in contradictory advice about fiber that makes your head spin.
 
-I've seen this trip up more new keto dieters than anything else, including the [keto flu](/keto-diet-side-effects/). And I've watched people quietly quit because of it, which is a shame, because it's almost always fixable.
+Constipation trips up many new keto dieters, sometimes more than the [keto flu](/keto-diet-side-effects/). It's a common reason people abandon the diet, but it's almost always fixable.
 
 Here's what's actually going on, and what to do about it.
 
@@ -53,7 +53,7 @@ Let's skip straight to what moves the needle.
 
 **Magnesium.** This is the thing most people miss, and it's the intervention I recommend first. Magnesium draws water into the colon, which softens stool and stimulates movement. Magnesium glycinate is gentler and better absorbed; magnesium citrate works faster but can cause cramping at higher doses. Start low, around 200-300mg before bed. If nothing happens in 48 hours, you can increase. A lot of keto dieters are running low on magnesium anyway because it's lost in urine during the diuretic phase of starting keto, so this is doing double duty. Something like [Natural Vitality Calm magnesium citrate powder](https://www.amazon.com) runs about $25-$30 for a 16-ounce container and lasts most people a month or two. (Full disclosure: this site may earn a commission on purchases through links here.)
 
-**Fat. Enough of it.** This one surprises people. Keto is a high-fat diet, but I've worked with clients who were eating moderate fat and very high protein instead, either because they were afraid of calories or because they'd blurred the lines with a protein-heavy approach. Dietary fat stimulates bile production, and bile acts as a natural lubricant in the digestive tract. If you're constipated on keto, make sure you're actually eating fat, not just avoiding carbs. Olive oil, avocado, fatty fish, butter. It helps.
+**Fat. Enough of it.** This one surprises people. Keto is a high-fat diet, but some people eat moderate fat and very high protein instead, either because they're afraid of calories or because they've blurred the lines with a protein-heavy approach. Dietary fat stimulates bile production, and bile acts as a natural lubricant in the digestive tract. If you're constipated on keto, make sure you're actually eating fat, not just avoiding carbs. Olive oil, avocado, fatty fish, butter. It helps.
 
 **Hydration, but with electrolytes.** Plain water alone isn't going to cut it if you're losing sodium and potassium at an accelerated rate, which you are in early keto. Drinking more water without replacing electrolytes can actually make things worse because your kidneys will just excrete the excess. Add salt to your food deliberately, eat potassium-rich keto vegetables like avocado and spinach, and consider an electrolyte supplement that doesn't come loaded with sugar. [LMNT](https://www.amazon.com) and [Nuun Sport](https://www.amazon.com) are both solid options.
 
@@ -83,7 +83,6 @@ Inulin and FOS (fructooligosaccharides) are popular in some keto circles as preb
 - [Nuun Sport](https://www.amazon.com)
 - [Max Vakhtbovych](https://www.pexels.com/@artbovich)
 - on this is still developing
-
 
 Most keto constipation is annoying, not dangerous. But there are situations where you should stop self-treating and call your doctor.
 

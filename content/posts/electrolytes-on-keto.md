@@ -35,7 +35,7 @@ There's a second mechanism too. Insulin levels plummet on keto. That matters bec
 
 Low sodium triggers more fluid loss. Low potassium affects how your muscles contract and how your heart beats. Low magnesium becomes muscle cramps, terrible sleep, and anxiety. These aren't vague symptoms you can handwave. They're actual physiological events, and they're why so many people quit keto [before they even reach ketosis](/how-long-to-enter-ketosis/).
 
-I've had clients convinced that keto "just doesn't work for my body," when the real problem was they were running on 400mg of sodium a day [when they needed 3,000-5,000mg](/best-protein-sources-keto/). That's the difference between feeling terrible and feeling fine.
+A common mistake is assuming keto "just doesn't work for my body" when the real problem is insufficient sodium intake. Running on 400mg of sodium a day [when you need 3,000-5,000mg](/best-protein-sources-keto/) makes a difference between feeling terrible and feeling fine.
 
 ## The Big Three: Sodium, Potassium, and Magnesium
 
@@ -109,7 +109,6 @@ Strength trainers on keto often hit a wall around week two they blame on "no car
 - [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=contentportfo-20)
 - [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20)
 - [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)
-
 
 | Source | Key Electrolyte | Amount | Pros | Cons |
 |---|---|---|---|---|

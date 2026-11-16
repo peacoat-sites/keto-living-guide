@@ -41,7 +41,7 @@ Thickening options, ranked by how well they actually work in practice:
 
 **Xanthan gum** is my first choice for cream soups. A quarter teaspoon per quart of liquid, whisked into a little cold cream before adding to the hot pot, gives you a silky texture without gumminess if you don't overdo it. I made the mistake of adding it directly to a hot pot once and got stringy little clumps throughout. You don't want that.
 
-**Blended vegetables** work best in puree-style soups. Roasted cauliflower blended into a soup base gives you body and a slight sweetness. A reader from Portland, Maggie, emailed me last month to say she'd been blending half her onions and celery after softening them in butter, then adding the rest chunked, and it had completely changed the texture of her broth-based soups without adding any notable carbs.
+**Blended vegetables** work best in puree-style soups. Roasted cauliflower blended into a soup base gives you body and a slight sweetness. Blending half your onions and celery after softening them in butter, then adding the rest chunked, adds body to broth-based soups without notable carbs.
 
 **Cream cheese or mascarpone** melted into a soup base is underrated. Works especially well in tomato-based or roasted red pepper soups where you want richness and a faint tang.
 
@@ -79,7 +79,7 @@ Third: expecting turnips and celery root to taste like potatoes. They don't. Sto
 
 ## Bone Broth vs. Boxed Stock: Does It Matter?
 
-Honestly, less than the internet wants you to believe, with one exception. The exception is soups where the broth is the star (egg drop, simple miso-style, French onion). In those, quality broth is the whole dish. Use [Kettle & Fire bone broth](https://www.amazon.com/s?k=kettle+fire+bone+broth&tag=contentportfo-20) if you're buying, or make your own from roasted chicken backs (about $1.50/lb at most butchers, roasted at 400°F for 40 minutes, then simmered for 3-4 hours with aromatics). The collagen content in a good bone broth changes the texture of the finished liquid. You'll feel it on your lips.
+Less than the internet wants you to believe, with one exception. The exception is soups where the broth is the star (egg drop, simple miso-style, French onion). In those, quality broth is the whole dish. Use [Kettle & Fire bone broth](https://www.amazon.com/s?k=kettle+fire+bone+broth&tag=contentportfo-20) if you're buying, or make your own from roasted chicken backs (about $1.50/lb at most butchers, roasted at 400°F for 40 minutes, then simmered for 3-4 hours with aromatics). The collagen content in a good bone broth changes the texture of the finished liquid. You'll feel it on your lips.
 
 For a cream soup or a heavily spiced soup? Use whatever stock you have. The flavor base will dominate. This is one place where the keto influencer complex of "only use bone broth, always, for everything" oversells the marginal benefit.
 

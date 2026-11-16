@@ -25,7 +25,7 @@ author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
 lastmod: 2026-07-08
 ---
-Ground beef sits in your fridge. It's 6 p.m. You're hungry, you're trying to stay under 20 grams of net carbs today, and you have zero interest in eating a plain burger patty for the third time this week. Sound familiar? Here's the thing: ground beef might be the single most versatile protein in the keto pantry. It's cheap, fast to cook, and takes on flavors from Korean gochujang bowls to Italian-style stuffed peppers without blinking. I've tested dozens of ground beef recipes with keto clients over the years, and the results are consistently impressive. Let's get into it.
+Ground beef sits in your fridge. It's 6 p.m. You're hungry, you're trying to stay under 20 grams of net carbs today, and you have zero interest in eating a plain burger patty for the third time this week. Sound familiar? Ground beef might be the single most versatile protein in the keto pantry. It's cheap, fast to cook, and takes on flavors from Korean gochujang bowls to Italian-style stuffed peppers without blinking. Let's get into it.
 
 ## Why Ground Beef Is a Keto MVP
 
@@ -103,7 +103,6 @@ People tend to make the same errors, and they're all easy to fix.
 
 - [Ozeri Pronto Digital Kitchen Scale on Amazon](https://www.amazon.com/s?k=kitchen+scale+for+cooking)
 - [Angele J](https://www.pexels.com/@angele-j-35172)
-
 
 Ground beef is one of the best ingredients for keto meal prep. Cook a large batch on Sunday and repurpose it across the week.
 

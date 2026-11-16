@@ -59,7 +59,7 @@ Here's what a typical transition looks like, assuming you're eating 20 grams of 
 
 **Weeks 3 to 8:** Full fat adaptation, where your muscles efficiently use ketones and fatty acids, takes considerably longer than initial ketosis. Don't confuse the two.
 
-I've seen competitive athletes enter measurable ketosis in 48 hours after fasting combined with exercise. I've also coached clients who didn't register above 0.5 mmol/L until day 9 or 10, despite doing everything right. Both are normal.
+Some people enter measurable ketosis in 48 hours after fasting combined with exercise, while others don't register above 0.5 mmol/L until day 9 or 10, despite following the protocol correctly. Both are normal.
 
 ## The 5 Biggest Variables That Change Your Timeline
 
@@ -100,7 +100,6 @@ If you want to get into ketosis as fast as safely possible, here's a practical s
 - [Blood ketone meters](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
 - [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=contentportfo-20)
 - [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
-
 
 Testing is reliable. Symptoms are less so.
 

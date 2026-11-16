@@ -48,7 +48,7 @@ Protein and fat ratio matters more than most people think. Lean jerky made from 
 | Great Value (Walmart) | 2g | Budget option, original flavor only | ~50% less than premium |
 | Homemade (from recipe) | 0g | Full control, significant cost savings | ~$1.25-1.75/oz finished |
 
-I've worked through a lot of these with clients, and the landscape has improved meaningfully in the last few years. A few brands actually get it right.
+The landscape has improved meaningfully in the last few years. A few brands actually get it right.
 
 **Chomps** is the one I recommend most often. Grass-fed beef, 1 gram of carbs per stick, no sugar added, clean ingredients. The texture is drier and denser than gas-station jerky, which some people need a day or two to adjust to. Currently around $30 for a 24-count on Amazon (the site may earn a commission on purchases made through links here). That math works out to about $1.25 per stick, which sounds expensive until you compare it to what you'd pay for a 3-ounce bag of lesser jerky that wrecks your carb count.
 
@@ -83,13 +83,11 @@ The first time I made a batch, I left it in the dehydrator too long and ended up
 
 - [Radwan Menzer](https://www.pexels.com/@radwanmenzer)
 
-
 One thing I want to address directly because I see it come up in keto forums: eating a lot of lean protein, like plain beef jerky, does not meaningfully raise your insulin the way carbohydrates do in most people. The concern that protein "kicks you out of ketosis" through gluconeogenesis is overstated for typical amounts. Eating 4 ounces of jerky is not going to undo ketosis in a fat-adapted person. If you're eating 400 grams of protein a day, that's a different discussion. Normal snacking amounts? Don't worry about it.
 
 What will actually interrupt ketosis is the sugar in the jerky, not the protein. Keep your eye on the right thing.
 
 ---
-
 
 *Photo: [Radwan Menzer](https://www.pexels.com/@radwanmenzer) via Pexels*
 

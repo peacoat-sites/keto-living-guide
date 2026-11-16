@@ -39,7 +39,7 @@ A 2012 study published in *Neurobiology of Aging* found that participants with m
 
 The other piece is insulin. When you eat a lot of refined carbs, blood glucose spikes and crashes repeatedly throughout the day. Each crash brings brain fog, irritability, and that 2 p.m. "I can't look at another spreadsheet" feeling. Ketosis smooths that out. Your brain gets a steadier supply of fuel, and for a lot of people, that stability alone accounts for a significant chunk of the mental clarity they experience.
 
-I want to be honest though: the research on keto and cognition is still thin in healthy adults. Most of the solid data comes from epilepsy treatment and early Alzheimer's studies. The anecdotal reports are compelling, and there are plausible mechanisms, but "the science says keto makes you smarter" would be overstating it. What I can say is that for most of my clients, something real and noticeable happens to their thinking.
+I want to be honest though: the research on keto and cognition is still thin in healthy adults. Most of the solid data comes from epilepsy treatment and early Alzheimer's studies. The anecdotal reports are compelling, and there are plausible mechanisms, but "the science says keto makes you smarter" would be overstating it.
 
 ## The Part Nobody Warns You About: It Gets Worse Before It Gets Better
 
@@ -51,7 +51,7 @@ This is sometimes called keto flu, but the cognitive piece often gets buried in 
 
 When insulin drops, your kidneys excrete sodium at a higher rate. Sodium and potassium work together to maintain the electrical gradients your neurons depend on. When those levels fall, cognitive performance follows. Magnesium matters here too: it's involved in over 300 enzymatic processes, including several that affect neurological function, and most people in the US are already insufficient before they start keto.
 
-Don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is one of the better pre-formulated options I've seen; it has meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
+Don't wait to feel bad before addressing electrolytes. Start supplementing from day one. A good starting point is 2,000 to 3,000 mg of additional sodium daily (from food, broth, or a quality supplement), around 1,000 to 3,500 mg of potassium, and 300 to 500 mg of magnesium glycinate (the glycinate form is gentler on digestion than magnesium oxide). [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is a pre-formulated option with meaningful sodium without the sugar load that wrecks other sports drinks. (This site may earn a commission on purchases made through links.)
 
 ## Once You're Adapted: What Mental Clarity Actually Looks Like
 
@@ -81,14 +81,13 @@ MCT oil is worth mentioning here. Medium-chain triglycerides, found in coconut o
 - thinking through a thick glass wall. This
 - sleeping better because you're not waking up at 3 a.m. with blood sugar swings. MCT
 
-
 This is the part I think is most underserved in most keto content.
 
 Not everyone feels mentally sharper on keto, and if that's you, it's not a personal failure. A few things worth examining:
 
 Sleep. If you're sleeping five hours a night, no diet is fixing your cognition. This is a prerequisite, not a variable.
 
-Thyroid function. Low-carb diets can, in some people, reduce T3 conversion. If you've been strict keto for more than two months and feel persistently sluggish and foggy rather than clear, it's worth getting a full thyroid panel including free T3, not just TSH. I've seen this pattern enough times that I now mention it proactively.
+Thyroid function. Low-carb diets can, in some people, reduce T3 conversion. If you've been strict keto for more than two months and feel persistently sluggish and foggy rather than clear, it's worth getting a full thyroid panel including free T3, not just TSH. This pattern is common enough to watch for.
 
 Being too low in calories. Keto naturally suppresses appetite, which is helpful for weight loss but problematic if you're significantly underfueling. Your brain is expensive to run. Eating 900 calories a day while also restricting carbs is a recipe for cognitive flatness regardless of ketone levels.
 

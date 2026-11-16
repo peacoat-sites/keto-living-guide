@@ -64,7 +64,7 @@ Pumpkin seeds (pepitas) run about 4 grams net per ounce. Still usable, but you'l
 
 Pine nuts: around 2.7 grams net, which is fine, but the calorie density is so high and the volume so small that you can easily overeat without noticing. They work as a salad topping or in pesto. A small bowl of them while you're working is a different story.
 
-Pistachios are where people get into real trouble. About 5 grams net per ounce, and they come in shells, which creates a false sense of portion control because you're watching a pile of shells grow. Except you're also eating fast enough that the shell-pile feedback comes too late. I like pistachios. I also don't keep them in my house when I'm being strict about carbs.
+Pistachios are where people get into real trouble. About 5 grams net per ounce, and they come in shells, which creates a false sense of portion control because you're watching a pile of shells grow. Except you're also eating fast enough that the shell-pile feedback comes too late. Many people find pistachios hard to portion-control and prefer to keep them out of the house during strict carb phases.
 
 ## Why the Serving Size Problem Is Worse Than You Think
 
@@ -91,7 +91,6 @@ Sesame seeds are worth mentioning: about 1 gram net carb per tablespoon, high in
 - [AI25.Studio Studio](https://www.pexels.com/@ai25studioai)
 - on this is consistent
 
-
 Most of the same logic applies, with one additional complication: additives. Natural almond or peanut butter (two ingredients: nuts, maybe salt) is fine. The commercial "natural" versions that have added sugar, palm oil, or honey are not keto-friendly in any meaningful quantity, regardless of what the packaging implies.
 
 Peanut butter is technically a legume butter, not a nut butter, which keto purists sometimes use to argue against it. I find this argument uncompelling. About 4 grams net carbs per 2 tablespoons, good fat content, cheap, widely available. If it fits your macros, it fits your macros.
@@ -99,7 +98,6 @@ Peanut butter is technically a legume butter, not a nut butter, which keto puris
 Macadamia nut butter is the cleanest option carb-wise, but it runs about $15 for a small jar, which limits how freely you can use it. Almond butter is a reasonable middle ground most of the time.
 
 ---
-
 
 ---
 

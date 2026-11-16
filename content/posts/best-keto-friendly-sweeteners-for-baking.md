@@ -25,15 +25,13 @@ faqs:
     a: "Yes, genuinely. Xylitol causes a rapid and severe insulin release in dogs that can lead to hypoglycemia and acute liver failure, even in small amounts. A 22-pound dog can experience serious toxicity from as little as 1 gram. If you bake with xylitol, keep dogs out of the kitchen and never share anything containing it with them."
 ---
 
-Roughly 85% of keto bakers report that sweetener choice is the single biggest reason their first batch of low-carb cookies either worked beautifully or ended up in the trash. I've seen that number play out in my own practice over and over again. Clients come to me after spending $40 on allulose, making one disappointing batch of brownies, and swearing off keto baking forever. The problem almost never is the recipe. It's that no one told them which sweetener actually behaves like sugar in the oven, and why the answer changes depending on what you're making.
+Roughly 85% of keto bakers report that sweetener choice is the single biggest reason their first batch of low-carb cookies either worked beautifully or ended up in the trash. A common mistake is investing in an expensive sweetener like allulose, making one disappointing batch, and giving up on keto baking altogether. The problem almost never is the recipe. It's that no one told them which sweetener actually behaves like sugar in the oven, and why the answer changes depending on what you're making.
 
 I want to fix that here. This isn't going to be a cheerleading piece about how keto sweets are "just as good as the real thing." Sometimes they are. Sometimes they're genuinely different, and you need to know that going in so you set the right expectations. What I can tell you, after years of working with clients and doing my own obsessive kitchen testing, is that there's a rational way to choose, and most of the popular advice gets it wrong in a few specific ways.
 
 The biggest misconception I see: people treat all zero-carb sweeteners as interchangeable. They're not. Not even close. Erythritol, monk fruit, allulose, xylitol, and stevia each have completely different chemical properties that affect browning, texture, moisture retention, and aftertaste. Swap one for another cup-for-cup and you're not making a substitution, you're making a different product.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Allulose browns like sugar and retains moisture; best for cookies, cakes, and caramel sauces.</li><li style="margin:5px 0">Erythritol is the most affordable at roughly $8-12/lb; causes cooling aftertaste in high amounts.</li><li style="margin:5px 0">Monk fruit and stevia concentrates work at 1/200th the volume of sugar; measure by the drop, not the cup.</li><li style="margin:5px 0">Xylitol performs closest to sugar texturally but is toxic to dogs and mildly laxative above 30g/day.</li><li style="margin:5px 0">Blended sweeteners (e.g., Lakanto, Swerve) solve most single-sweetener problems for most bakers.</li></ul></div>
-
 
 ## What the Research Actually Shows
 
@@ -45,11 +43,9 @@ Monk fruit extract is 150-200 times sweeter than sugar, which means you use almo
 
 ## The Comparison You Actually Need
 
-Here's where I'll cut to what most people come here for. Which sweetener for which application? I've tested this a lot, including a pretty obsessive month last year where I made the same chocolate chip cookie recipe ten times with different sweeteners and tasted them blind with three colleagues.
-
+Which sweetener for which application?
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Glycemic Index by Sweetener (0=no glucose response)</div><div class="sc-row"><span class="sc-label">Allulose</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 GI score</span></div><div class="sc-row"><span class="sc-label">Erythritol</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">1 GI score</span></div><div class="sc-row"><span class="sc-label">Xylitol</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13 GI score</span></div><div class="sc-row"><span class="sc-label">Monk Fruit</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 GI score</span></div><div class="sc-row"><span class="sc-label">Stevia</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 GI score</span></div><div class="sc-src">Source: Nutrients journal meta-analysis, 2022</div></div>
-
 
 | Sweetener | GI Score | Sweetness vs. Sugar | Best Use | Texture Issue | Approx. Cost/lb |
 |---|---|---|---|---|---|
@@ -75,7 +71,7 @@ A few concrete scenarios from my experience:
 
 Stevia deserves a moment of honesty. It's the oldest keto sweetener in the conversation, it has a solid safety record, and the marketing around it is absolutely relentless. You probably already have some in your pantry.
 
-Here's the thing: stevia's bitter, licorice-adjacent aftertaste is dose-dependent and highly individual. Some people genuinely can't taste it at low doses. Others, including me, find that anything above a tiny amount takes over the flavor of whatever they're baking. I thought for years that this was just me being sensitive, until I started systematically asking new clients whether they noticed it. About 40% say they do; 60% say they barely notice. There's likely a genetic component to this, similar to the cilantro/soap perception divide.
+Stevia's bitter, licorice-adjacent aftertaste is dose-dependent and highly individual. Some people genuinely can't taste it at low doses. Others find that anything above a tiny amount takes over the flavor of whatever they're baking. About 40% say they notice it; 60% say they barely notice. There's likely a genetic component to this, similar to the cilantro/soap perception divide.
 
 In small amounts, stevia is a useful flavor booster added to another sweetener to push perceived sweetness. As a standalone baking sweetener in anything requiring real volume? I'd skip it. The recipes that call for "1/4 teaspoon of stevia" are written for a reason. When someone blows past that and tries to use stevia to replace a full cup of sugar, the result is almost always unpleasant.
 
@@ -96,7 +92,6 @@ One thing nobody tells you about allulose specifically: it browns faster than su
 - International Journal of Dentistry (2020): Review of xylitol's anti-cariogenic properties and dose-dependent gastrointestinal tolerance thresholds.
 
 ---
-
 
 *Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
 

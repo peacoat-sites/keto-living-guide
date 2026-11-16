@@ -32,7 +32,7 @@ Let me explain what's actually happening.
 
 ## What the Strip Is Actually Measuring
 
-Urine ketone strips detect acetoacetate, one of the three ketone bodies your body produces. The other two are beta-hydroxybutyrate (BHB) and acetone. Here's the catch: BHB is the dominant ketone in the blood during established ketosis, often representing 70-80% of circulating ketones. Acetoacetate, the one the strip reads, is a precursor. Your body converts acetoacetate into BHB as ketosis deepens.
+Urine ketone strips detect acetoacetate, one of the three ketone bodies your body produces. The other two are beta-hydroxybutyrate (BHB) and acetone. BHB is the dominant ketone in the blood during established ketosis, often representing 70-80% of circulating ketones. Acetoacetate, the one the strip reads, is a precursor. Your body converts acetoacetate into BHB as ketosis deepens.
 
 So the strip is measuring the metabolite you're using less of, not more of.
 
@@ -44,7 +44,7 @@ I see this constantly with longer-term clients. Someone's been strict keto for s
 
 Urine strips are concentration-dependent. Drink a liter of water an hour before testing and your ketones will appear lower than if you tested first thing in the morning after eight hours of sleep. This isn't a flaw in your strip. It's basic chemistry: more fluid, more dilute sample, lighter color on the strip.
 
-A reader named James, who'd been low-carb since early 2025, emailed me frustrated that his ketones were "disappearing." He tested every afternoon after his gym sessions, when he was well-hydrated. I had him switch to first morning urine for two weeks. His readings jumped from trace to moderate, nothing else changed.
+Urine ketone readings often drop after workouts and when you're well-hydrated. Testing first morning urine typically gives more reliable results than afternoon readings, since urine is more concentrated after a night without fluids.
 
 Concrete example: Client testing at 2pm after 1.5L water intake, reading trace/negative → switched to first-morning void → reading moderate/large for the same dietary intake. Same person, same diet, different time of day.
 
@@ -95,7 +95,6 @@ And understand the color chart for what it is: a rough gradient, not a precise s
 - Veech RL (2004). "The therapeutic implications of ketone bodies." *Prostaglandins, Leukotrienes and Essential Fatty Acids*. Background on BHB as the primary circulating ketone in established ketosis.
 
 ---
-
 
 *Photo: [Mehmet BALCI](https://www.pexels.com/@mehmet-balci-166052147) via Pexels*
 

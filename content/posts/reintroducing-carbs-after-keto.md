@@ -84,7 +84,7 @@ Here's where I have to be straight with you: if you've been on keto for more tha
 
 The research here is genuinely mixed on how long this lasts and how clinically significant it is for most people. Some studies suggest it normalizes within a week or two of reintroducing carbohydrates. Others suggest the transition period can stretch longer in people who were keto for six months or more. I don't have clean numbers on this because the long-term reintroduction studies are sparse, as of June 2026 this is still an understudied area.
 
-What this means practically: don't do a glucose tolerance test (the kind used to screen for diabetes) immediately after stopping keto, because you might get a falsely alarming result. Give yourself 10-14 days of normal carb intake first. I've had more than one client come to me confused and scared by abnormal numbers that normalized completely after a transition period.
+What this means practically: don't do a glucose tolerance test (the kind used to screen for diabetes) immediately after stopping keto, because you might get a falsely alarming result. Give yourself 10-14 days of normal carb intake first.
 
 ---
 
@@ -95,8 +95,6 @@ The fear is that you'll "break" your metabolism or lose all your keto adaptation
 Metabolic flexibility, the ability to shift between fat and glucose burning, does improve on keto. Some of that persists. A 2020 paper published in *Cell Metabolism* (Petersen et al.) found that metabolic adaptations from low-carb eating, particularly improved mitochondrial function and fat oxidation capacity, don't simply vanish when carbs return. They attenuate over time, especially if you go back to a high-carb, low-fat diet permanently, but the gains aren't erased overnight.
 
 Where things do change quickly: ketone production obviously drops within 24-48 hours of significant carbohydrate intake. If you were using keto specifically for cognitive effects or seizure management, that's the metric that matters and it's the one most sensitive to reintroduction. For weight management specifically, the evidence is more forgiving.
-
-**A worked example from my practice:** A male client, 41, had done six months of keto primarily for energy and mental clarity (his words). He reintroduced carbs over three weeks to about 120g per day. His fasting blood glucose went from 84 mg/dL to 97 mg/dL in month one, then back to 89 mg/dL by month two. His weight stayed within 4 lbs of his keto-phase low. His self-reported energy stayed good. The transition was uncomfortable for about ten days, then stabilized. That's a pretty typical arc.
 
 ---
 
@@ -117,7 +115,6 @@ If you were supplementing heavily with sodium, potassium, or magnesium during ke
 - National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK): Overview of insulin function, glucose metabolism, and dietary carbohydrate effects.
 
 ---
-
 
 *Photo: [Wendy Wei](https://www.pexels.com/@wendywei) via Pexels*
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most people assume fast-casual Mexican food is basically off-limits on keto. I used to think the same thing. Then I started actually mapping out what Chipotle puts in each component, and what surprised me was just how keto-adaptable the menu is once you stop thinking about it as a burrito restaurant and start treating it as a protein-and-fat assembly station.
 
-Let me be honest, though: there are a few common ordering mistakes that will quietly blow your carb budget before you even realize it. I've seen clients come in convinced they'd been eating keto at Chipotle for weeks, and when we went through their actual order line-by-line, they were hitting 40-50 grams of net carbs without the tortilla. We fixed it in about five minutes. This article is that conversation.
+There are a few common ordering mistakes that will quietly blow your carb budget before you even realize it. A common mistake is ordering what seems keto-friendly at Chipotle but hitting 40-50 grams of net carbs without the tortilla. Small adjustments can bring that down quickly. This article walks through the fixes.
 
 ## The Actual Numbers (And Where People Go Wrong)
 
@@ -92,8 +92,7 @@ The queso blanco at Chipotle has around 3-4 grams of net carbs per serving. The 
 - here is mixed on whether it belongs on a keto plate
 - is genuinely easy to access
 
-
-I've seen keto guides that tell you to skip all salsa at Chipotle to be safe. That's bad advice. The fresh tomato salsa and the green tomatillo salsa are both under 5 grams of net carbs, they contain actual vegetables and fiber, and they're probably the most nutritionally interesting thing on the line. Cutting them to save 4 grams of carbs while loading up on sour cream and cheese is a weird prioritization. Real food with micronutrients is worth the carb budget.
+Some keto guides recommend skipping all salsa at Chipotle to be safe. That's bad advice. The fresh tomato salsa and the green tomatillo salsa are both under 5 grams of net carbs, they contain actual vegetables and fiber, and they're probably the most nutritionally interesting thing on the line. Cutting them to save 4 grams of carbs while loading up on sour cream and cheese is a weird prioritization. Real food with micronutrients is worth the carb budget.
 
 The corn salsa, yes, absolutely skip that one. But blanket salsa avoidance is overcautious in a way that makes keto harder to sustain and less pleasant. That's ultimately what derails people.
 

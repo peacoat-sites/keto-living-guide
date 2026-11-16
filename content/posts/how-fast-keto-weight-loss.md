@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.
 
-
 <div class="value-module">
  <div class="vm-head">Weekly Fat-Loss Reality Check by Phase</div>
  <div class="vm-body">
@@ -41,9 +40,9 @@ You step on the scale three days into keto and see a number that seems almost im
 
 That dramatic early drop is real. But it's not four pounds of fat. Not even close.
 
-When you cut carbs below roughly 20-50 grams per day, your body torches through its glycogen stores, the glucose stashed in your liver and muscles. Here's the thing most people miss: glycogen holds water at a ratio of about 3 grams of water per gram of glycogen. A well-fed adult stores around 400-500 grams of glycogen total. Do the math. That's 1,200 to 1,500 grams of water, or roughly 2.5 to 3.5 pounds, released in the first few days just from glycogen depletion.
+When you cut carbs below roughly 20-50 grams per day, your body torches through its glycogen stores, the glucose stashed in your liver and muscles. Glycogen holds water at a ratio of about 3 grams of water per gram of glycogen. A well-fed adult stores around 400-500 grams of glycogen total. Do the math. That's 1,200 to 1,500 grams of water, or roughly 2.5 to 3.5 pounds, released in the first few days just from glycogen depletion.
 
-Add in the fact that low insulin levels cause your kidneys to dump more sodium and water, and you can easily lose 5 to 10 pounds in the first week. I've seen clients drop 8 pounds in seven days and none of it was eight pounds of fat. It was water, glycogen, and the inflammation that came with their old high-carb routine.
+Add in the fact that low insulin levels cause your kidneys to dump more sodium and water, and you can easily lose 5 to 10 pounds in the first week. Much of this initial loss is water, glycogen, and reduction in inflammation rather than fat loss.
 
 This doesn't mean week one is pointless. It resets your baseline, kills the bloat, and triggers the hormonal shift toward fat burning. But if you calibrate your expectations correctly from day one, you'll avoid a lot of unnecessary panic later.
 
@@ -55,7 +54,7 @@ A pound of body fat contains roughly 3,500 calories. On a well-structured keto d
 
 What keto can do is make that deficit easier to actually stick with. The research here is genuinely interesting. A 2021 review published in *Obesity Reviews* found that ketogenic diets significantly reduce appetite, likely through changes in hunger hormones like ghrelin and the appetite-suppressing effect of ketone bodies themselves. When you're not white-knuckling hunger all day, sustaining a caloric deficit feels far less miserable.
 
-In practice, I've seen clients lose anywhere from 0.5 to 2 pounds of fat per week on keto, depending on their starting weight, activity level, and how strictly they're tracking. Heavier individuals often lose faster early on. Someone starting at 280 pounds can reasonably expect 1.5 to 2 pounds per week in the first few months. Someone who's 30 pounds from their goal might see 0.5 to 0.75 pounds per week. That's not failure. That's how bodies work.
+Fat loss on keto typically ranges from 0.5 to 2 pounds per week, depending on starting weight, activity level, and tracking adherence. Heavier individuals often lose faster early on. Someone starting at 280 pounds can reasonably expect 1.5 to 2 pounds per week in the first few months. Someone who's 30 pounds from their goal might see 0.5 to 0.75 pounds per week. That's not failure. That's how bodies work.
 
 A food scale like the [Etekcity Digital Kitchen Scale](https://www.amazon.com/s?k=kitchen+food+scale) removes the guesswork from portion sizes. (This site may earn a commission on qualifying purchases.)
 
@@ -116,7 +115,6 @@ Getting electrolytes right doesn't just stop the symptoms. It actually supports 
 - [LMNT Electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes)
 - [www.kaboompics.com](https://www.pexels.com/@karola-g)
 - here is genuinely interesting
-
 
 Stalled for more than three to four weeks? Something needs to change. Here's how to work through it systematically.
 

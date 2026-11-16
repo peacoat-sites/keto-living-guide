@@ -31,7 +31,7 @@ That's a reasonable concern. Not paranoia.
 
 Here's the honest answer: we don't have decades of rigorous long-term data on ketogenic diets the way we do for, say, the Mediterranean diet. A 2022 review in *Nutrients* pulled together the best available long-term keto studies and found most of them topped out at two years. That's not nothing, but it's not a 30-year cohort study either. Anyone who tells you keto is definitively safe (or definitively dangerous) for the long haul is overreading the evidence.
 
-What I can tell you is what the research does show, what I've seen working with clients over the past 12 years, and where I think the real risks actually live, because they're not always where people expect.
+The research shows certain risks that don't always match where people focus their concerns.
 
 ---
 
@@ -62,9 +62,9 @@ Kidney stones. This shows up in the research often enough that I flag it with ev
 
 Bone density gets murkier. Some studies suggest ketogenic diets may affect bone mineral density over time, possibly through calcium absorption or through the acidity load of high protein. The research is genuinely mixed. I wouldn't say it's proven, but it's worth monitoring, especially for women over 40.
 
-Cholesterol response is where things get personal. Most people on keto see triglycerides drop and HDL rise, which looks good. But maybe 5-10% of people, based on what I've seen clinically, are what researchers call "lean mass hyper-responders": their LDL skyrockets into the 300s sometimes. Dave Feldman and Nick Norwitz have been researching this phenotype specifically. If you're in that group, "keto is fine for cholesterol" doesn't apply to you, and you need close monitoring.
+Cholesterol response is where things get personal. Most people on keto see triglycerides drop and HDL rise, which looks good. But roughly 5-10% of people are what researchers call "lean mass hyper-responders": their LDL can skyrocket into the 300s. Dave Feldman and Nick Norwitz have been researching this phenotype specifically. If you're in that group, "keto is fine for cholesterol" doesn't apply to you, and you need close monitoring.
 
-Electrolytes are underrated. Chronic low-grade depletion of sodium, potassium, and magnesium is probably the most common reason people feel terrible after the initial keto honeymoon wears off. And feeling terrible leads to quitting. I've watched people solve years of fatigue, muscle cramps, and brain fog just by actually tracking electrolytes consistently. Something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) or [Redmond Re-Lyte](https://www.amazon.com/s?k=Redmond+Re-Lyte+electrolytes&tag=contentportfo-20) runs about $30-45 a month and is genuinely worth it. *(This site may earn a commission on purchases made through these links.)*
+Electrolytes are underrated. Chronic low-grade depletion of sodium, potassium, and magnesium is probably the most common reason people feel terrible after the initial keto honeymoon wears off. And feeling terrible leads to quitting. Consistent electrolyte tracking can resolve years of fatigue, muscle cramps, and brain fog. Something like [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) or [Redmond Re-Lyte](https://www.amazon.com/s?k=Redmond+Re-Lyte+electrolytes&tag=contentportfo-20) runs about $30-45 a month and is genuinely worth it. *(This site may earn a commission on purchases made through these links.)*
 
 ---
 
@@ -72,7 +72,7 @@ Electrolytes are underrated. Chronic low-grade depletion of sodium, potassium, a
 
 After working with hundreds of people, here's what I've learned: the biggest long-term risk of keto isn't metabolic. It's restriction fatigue.
 
-Keto is one of the most restrictive dietary patterns with mainstream adoption. And restriction, held rigidly over years, tends to produce one of two outcomes: you become extremely good at it and genuinely prefer eating that way, or you eventually blow past your limits and rebound hard. I've watched the second scenario unfold more times than I'd like to admit. Someone does keto perfectly for 18 months, loses 50 pounds, hits a frustrating stall, goes to a family reunion, eats pasta once, and never fully recovers their momentum.
+Keto is one of the most restrictive dietary patterns with mainstream adoption. And restriction, held rigidly over years, tends to produce one of two outcomes: you become extremely good at it and genuinely prefer eating that way, or you eventually blow past your limits and rebound hard. The second scenario is common: someone maintains keto strictly for 18 months, loses 50 pounds, hits a frustrating stall, then deviates at a social event and never fully recovers their momentum.
 
 That's not a character flaw. That's just psychology.
 
@@ -89,7 +89,6 @@ This is why I tell people considering keto long-term to honestly ask themselves 
 - [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20)
 - [Jess Loiterton](https://www.pexels.com/@jess-vide)
 - on ketogenic diets the way we do for
-
 
 A few things matter more than almost everything else if you're doing this for years:
 

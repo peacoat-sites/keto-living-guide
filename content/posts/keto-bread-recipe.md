@@ -125,7 +125,7 @@ Even solid bakers run into problems with keto bread. Here's what goes wrong and 
 
 **The crust burns before the center cooks through.** Tent it loosely with aluminum foil after the first 20 minutes.
 
-I've watched people ditch keto bread after one bad loaf. It's almost always a technique issue, not a recipe problem. Get the egg separation right, use a scale for measurements, and you'll be shocked how quickly it comes together.
+A common reason people abandon keto bread is after one failed attempt. It's almost always a technique issue, not a recipe problem. Get the egg separation right, use a scale for measurements, and you'll be shocked how quickly it comes together.
 
 For more ideas on what to actually eat when you're getting started, the [easy keto meals](/easy-keto-meals/) guide has practical options that pair well with homemade bread.
 
@@ -135,7 +135,6 @@ For more ideas on what to actually eat when you're getting started, the [easy ke
 
 - [digital kitchen scale on Amazon](https://www.amazon.com/s?k=digital+kitchen+scale)
 - [Ivan S](https://www.pexels.com/@ivan-s)
-
 
 Basic keto bread is a foundation. Once you have the base recipe working, you can go anywhere.
 

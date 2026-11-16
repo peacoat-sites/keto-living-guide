@@ -71,7 +71,7 @@ Almost all fish and shellfish work well on keto. Salmon is particularly good bec
 
 **Eggs:**
 
-Eggs might be the single most useful keto food. Each large egg has about 0.4 grams of net carbs, 6 grams of protein, and 5 grams of fat. They're fast, cheap, versatile, and filling. Scrambled in butter, fried in bacon fat, hard-boiled for meal prep, or turned into egg salad with mayo. I've seen clients eat eggs for breakfast every single day and never get bored because there are so many ways to prepare them.
+Eggs might be the single most useful keto food. Each large egg has about 0.4 grams of net carbs, 6 grams of protein, and 5 grams of fat. They're fast, cheap, versatile, and filling. Scrambled in butter, fried in bacon fat, hard-boiled for meal prep, or turned into egg salad with mayo. Eggs work well as a daily breakfast because there are many ways to prepare them.
 
 **Dairy:**
 
@@ -148,7 +148,6 @@ For meal prep, the biggest lever you can pull is portioning and organizing ahead
 - [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
 - [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20)
 - [Ivan Vi](https://www.pexels.com/@juanvidas)
-
 
 Beverages are a quiet carb trap. Water is always the right answer. Coffee and tea are fine, black or with heavy cream. Sparkling water is great. Diet sodas are technically zero carbs, but artificial sweeteners affect some people's insulin response and cravings, so they're worth experimenting with rather than assuming they're neutral.
 

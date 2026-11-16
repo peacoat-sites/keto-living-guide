@@ -47,15 +47,15 @@ Let me just tell you what actually works, in rough order of reliability.
 
 **Hard-boiled eggs plus something fatty.** Boring? Yes. Fails? Almost never. Two eggs, a small container of full-fat cheese (Cabot seriously sharp cheddar cubes, BabyBel, string cheese), and maybe some deli turkey. Zero reheating, packs flat, survives temperature abuse. Protein around 25g, net carbs under 2g. I've recommended this as the "emergency fallback" for years and clients who use it as a genuine regular option don't feel deprived, they feel sorted.
 
-**Mason jar salads.** The trick that most people miss: dressing goes on the bottom, then hard vegetables (cucumber, bell pepper, radish), then protein (grilled chicken, tuna, bacon bits), then greens on top. The greens never touch the dressing until you shake it before eating. I tested this against top-loaded versions and the bottom-load method stays crisp for four days in the fridge versus one day for the other way. That's the difference between prepping on Sunday and actually eating it Thursday.
+**Mason jar salads.** The trick that most people miss: dressing goes on the bottom, then hard vegetables (cucumber, bell pepper, radish), then protein (grilled chicken, tuna, bacon bits), then greens on top. The greens never touch the dressing until you shake it before eating. The bottom-load method keeps greens crisp for several days, making it easier to prep once and eat multiple times through the week.
 
 A typical build: 2 tablespoons of Primal Kitchen Ranch (0g [net carbs](/net-carbs-vs-total-carbs/), about $1.20/serving), half a sliced cucumber, 4 oz rotisserie chicken, 1 oz shredded Parmesan, 2 cups romaine. Roughly 420 calories, 38g protein, 5g net carbs.
 
-**Lettuce wrap roll-ups.** Butter lettuce, deli turkey or ham, cream cheese or guacamole, rolled tight and wrapped in parchment. Fits in a zip-lock. No fork required. A reader named Marcus from Austin emailed me in June 2026 to say this was the only thing that worked for his field tech job, where he's sometimes eating standing next to a truck. He does four wraps, cream cheese, turkey, pickles. Done in four minutes the night before.
+**Lettuce wrap roll-ups.** Butter lettuce, deli turkey or ham, cream cheese or guacamole, rolled tight and wrapped in parchment. Fits in a zip-lock. No fork required. For jobs that require eating on the go or standing up, four wraps made the night before with cream cheese, turkey, and pickles take just minutes to prepare.
 
 **Soup in a thermos.** Underrated, especially in winter. A wide-mouth Stanley 24-oz thermos (around $35 on Amazon, and worth every dollar) keeps soup genuinely hot for six hours. Bone broth-based soups with shredded chicken, spinach, and coconut cream travel well. The smell when you open that thermos in a shared office is not nothing, though. Fair warning.
 
-**Leftovers, deliberately.** The highest-leverage move: cook slightly more dinner than you need, and pack it the same night while you're already cleaning up. I made this mistake for years, thinking I'd pack it in the morning. I never did. Pack it at 8pm when the pan is still warm. Salmon with roasted asparagus, burger patties with avocado, chicken thighs with broccoli. All reheat fine.
+**Leftovers, deliberately.** The highest-leverage move: cook slightly more dinner than you need, and pack it the same night while you're already cleaning up. A common mistake is planning to pack leftovers in the morning, but this rarely happens. Pack it at 8pm when the pan is still warm. Salmon with roasted asparagus, burger patties with avocado, chicken thighs with broccoli. All reheat fine.
 
 ## The Numbers Side of This
 

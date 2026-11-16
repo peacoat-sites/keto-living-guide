@@ -40,7 +40,7 @@ Beta cells in the pancreas produce insulin, but they first make a precursor call
 
 What this study found is that keto reduced that distress signal significantly more than a low-fat diet, even when weight was held constant. Lead researcher Marian Yurchishin, M.S., put it plainly: "other than bariatric surgery or large-volume intentional weight loss, interventions for improving beta-cell function in type 2 diabetes do not currently exist." That's a striking statement from someone inside the research, and it reframes what we're actually talking about here. This isn't keto as a diet trend. This is keto as a potential mechanism for cellular repair.
 
-I've worked with clients who were frustrated that their blood sugar numbers improved on keto but their doctors remained skeptical. This kind of research gives that experience a biological explanation.
+Some people find their blood sugar numbers improve on keto while their doctors remain skeptical. This kind of research gives that experience a biological explanation.
 
 ## Why This Is Different From Previous Keto-Diabetes Research
 
@@ -60,7 +60,7 @@ In January 2026, a University of Utah Health study published in *Science Advance
 
 Mice aren't people, and the dietary conditions in animal studies rarely translate cleanly to human metabolism. But the question raised is worth taking seriously: what happens to someone who does keto for beta-cell recovery and then gradually reintroduces carbs? We don't have clean human data on that transition. The UAB study ran 12 weeks. We're still largely in the dark on what 12 months or 5 years looks like for these specific cellular outcomes.
 
-I've seen clients treat keto as an all-or-nothing commitment and struggle when they can't sustain it. I've also seen clients use it strategically, with physician supervision, to get meaningful metabolic improvement before shifting to a broader whole-food diet. The research doesn't yet tell us which approach best preserves beta-cell gains. That ambiguity is real and worth being honest about.
+Some people treat keto as an all-or-nothing commitment and struggle when they can't sustain it. Others use it strategically, with physician supervision, to get meaningful metabolic improvement before shifting to a broader whole-food diet. The research doesn't yet tell us which approach best preserves beta-cell gains. That ambiguity is real and worth being honest about.
 
 ## What This Means If You Have Type 2 Diabetes
 

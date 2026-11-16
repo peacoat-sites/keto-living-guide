@@ -65,7 +65,7 @@ Salt your food aggressively. This is the one area where keto eating flies agains
 
 ## Building the Week Without Losing Your Mind
 
-Meal prep is what separates people who sustain this from people who last three days before ordering pizza. At 1,200 calories with tight macros, there's not enough buffer to improvise. One unplanned handful of nuts, a splash of cream in your coffee you didn't count, and you're over.
+Meal prep is essential for sticking with keto, especially on a tight calorie and macro budget. At 1,200 calories with tight macros, there's not enough buffer to improvise. One unplanned handful of nuts, a splash of cream in your coffee you didn't count, and you're over.
 
 A kitchen scale is non-negotiable at this calorie level. I know people resist this. It feels obsessive. But eyeballing portions is how a 4-oz chicken thigh becomes a 6-oz chicken thigh, and at 1,200 calories that 50-calorie difference matters more than it would at 1,800. The [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20) runs around $50 and is accurate enough for this.
 
@@ -104,7 +104,6 @@ You're not going to gain weight from 50-100 extra calories on a given day. If yo
 - [OXO Good Grips food scale](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20)
 - [glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
 - [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch)
-
 
 Not technically, but practically yes. Getting adequate electrolytes through food alone at this calorie level is difficult. Without supplementation, most people experience headaches, cramps, and fatigue that make the diet harder to stick with. It's worth the investment.
 

@@ -53,7 +53,7 @@ Your first one to two weeks will probably show a dramatic drop, sometimes 5 to 1
 
 After that, realistic fat loss sits at around 0.5 to 2 pounds per week, depending on your starting point, caloric deficit, activity level, and metabolism. People with more fat to lose tend to lose faster early on.
 
-I've seen clients drop 30 pounds in three months. I've also seen clients lose 8 pounds in three months and feel completely transformed by energy and body composition changes. Don't let the scale be your only metric.
+Weight loss on keto varies widely. Some people lose 30 pounds in three months, while others lose 8 pounds and experience significant energy and body composition changes. Don't let the scale be your only metric.
 
 Here's what surprises people: even when the scale stalls, measurements keep changing. Fat is less dense than water-heavy tissue, so your shape shifts as you lose fat and retain or build muscle. Track waist circumference, how clothes fit, energy levels, not just that number on the floor.
 
@@ -97,7 +97,7 @@ You're doing keto but nothing's changing. Here are the most common culprits.
 
 **Eating too many calories.** Keto doesn't erase the laws of thermodynamics. Fat is 9 calories per gram. A handful of macadamia nuts is 200 calories. It's not a free pass on quantity, especially after month one.
 
-**Skipping sleep.** This applies to every diet, but chronic poor sleep raises cortisol and ghrelin, both working against fat loss. I've watched clients eat perfectly, exercise regularly, and lose almost nothing because they slept 5 hours a night. Sleep is part of the protocol.
+**Skipping sleep.** This applies to every diet, but chronic poor sleep raises cortisol and ghrelin, both working against fat loss. Poor sleep can stall fat loss even when diet and exercise are on point. Sleep is part of the protocol.
 
 **Dairy sensitivity.** Some people, especially women, find that heavy cream, cheese, and butter stall progress. The science isn't definitive on why, but it may relate to insulin response or inflammatory signaling. If you've been strict for 6 weeks with nothing, try cutting dairy for 2 weeks and observe.
 
@@ -124,7 +124,6 @@ If your primary goal is fat loss and you're not a high-level athlete, standard k
 - [Annushka Ahuja](https://www.pexels.com/@annushka-ahuja)
 - in *Obesity Reviews* found that very low-carb diets produced significantly great
 - found that subjects in ketosis maintained muscle during resistance training whil
-
 
 Keto works solo. But pair it with the right movement and everything accelerates.
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You're four days into keto. You've ditched the bread and pasta, you're drowning yourself in water, and somehow you feel worse than before. The scale hasn't moved. You search "how many carbs per day on keto" and get three completely different answers: 20 grams, 50 grams, net carbs only. You close the tabs and eat a handful of almonds, suddenly paranoid that was a mistake.
 
-I've watched this play out dozens of times. The confusion isn't your fault. The "carb limit for keto" question is one of those topics where everyone has a number, almost nobody explains why, and the actual answer depends on your specific body. Let me walk through what the research shows, what works for most people, and how to figure out your own threshold.
+The confusion around carb limits isn't unusual. The "carb limit for keto" question is one of those topics where everyone has a number, almost nobody explains why, and the actual answer depends on your specific body. Let me walk through what the research shows, what works for most people, and how to figure out your own threshold.
 
 ---
 
@@ -88,11 +88,11 @@ Twenty grams from spinach and broccoli hits differently than 20 from a maltitol 
 
 ## What Actually Kicks You Out of Ketosis
 
-Carb count is the main lever, but it's not the only one. I've worked with people who obsessively counted carbs and still couldn't stay in ketosis. Usually one of these was the culprit.
+Carb count is the main lever, but it's not the only one. Some people obsessively count carbs and still can't stay in ketosis. Usually one of these was the culprit.
 
 **Hidden carbs in "keto" products.** Packaged keto bars, [low-carb wraps, and specialty snacks](/best-keto-sweeteners/) are notorious. Read the full ingredient list. Some products are legitimately solid. Others are marketing with a nutrition label slapped on.
 
-**Too much protein (the real issue, not the myth).** You've probably heard that excess protein converts to glucose and tanks ketosis. The reality is more complex. Gluconeogenesis is demand-driven, not supply-driven. Moderate to high protein doesn't automatically kill ketosis. But very high protein combined with very low fat can shift your metabolism toward glucose. It's about overall context, not gram counts.
+**Too much protein (the real issue, not the myth).** You've probably heard that excess protein converts to glucose and tanks ketosis. Gluconeogenesis is demand-driven. Moderate to high protein doesn't automatically kill ketosis. But very high protein combined with very low fat can shift your metabolism toward glucose. It's about overall context, not gram counts.
 
 **Stress and sleep.** Cortisol raises blood glucose. Five hours of sleep plus chronic stress means elevated fasting blood sugar regardless of your diet. This is a documented clinical effect and almost never discussed in keto articles because you can't sell a supplement for it.
 
@@ -105,7 +105,6 @@ Carb count is the main lever, but it's not the only one. I've worked with people
 ## Sources
 
 - and real-world practice show is that most people doing keto for weight loss land
-
 
 | Approach | Daily Carb Range | Who It's For |
 |---|---|---|

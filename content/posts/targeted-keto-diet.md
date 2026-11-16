@@ -25,7 +25,7 @@ author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 lastmod: 2026-07-08
 ---
-You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. But here's the thing: for people who train hard, standard keto might actually be working against you, not for you. That's where the targeted ketogenic diet comes in, and it's one of the most practical tools I've seen overlooked by people who are already doing 90% of the work right.
+You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. For people who train hard, standard keto might actually be working against you, not for you. The targeted ketogenic diet can help: it's a practical approach many people miss despite doing 90% of their diet right.
 
 ## What the Targeted Ketogenic Diet Actually Is
 
@@ -94,7 +94,7 @@ CKD gets a lot of attention but it's genuinely advanced and most recreational at
 
 Carbohydrates cause your kidneys to retain sodium. When you reintroduce even a small carb bolus, you may notice some water retention or puffiness around training days. On the flip side, going back to strict keto after the workout means your kidneys will flush that sodium out again. This cycling can leave you depleted.
 
-I've seen clients troubleshoot their TKD performance for weeks before we realized the issue was electrolytes, not the carb timing. Sodium, potassium, and magnesium all matter. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without added sugar is worth having on hand if you're training consistently on TKD. *(This site may earn a commission on qualifying purchases.)*
+When TKD performance isn't improving, electrolytes are often the culprit, not carb timing. Sodium, potassium, and magnesium all matter. A quality [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20) without added sugar is worth having on hand if you're training consistently on TKD. *(This site may earn a commission on qualifying purchases.)*
 
 Keep sodium intake deliberate, especially on training days. Don't rely on feeling thirsty as your guide.
 
@@ -107,7 +107,6 @@ Keep sodium intake deliberate, especially on training days. Don't rely on feelin
 - Actually Shows
 - behind it than standard keto
 - on ketogenic diets and athletic performance
-
 
 I'll be honest: TKD has less direct research behind it than standard keto. Most of what we know comes from broader research on ketogenic diets and athletic performance, plus the well-established physiology of glycogen use during high-intensity exercise.
 

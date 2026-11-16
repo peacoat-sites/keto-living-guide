@@ -40,7 +40,7 @@ Chicken thighs cost roughly half what boneless breasts do and have more fat, whi
 
 Pork shoulder and beef chuck are the two cuts I come back to constantly. Both are high-fat, deeply flavorful, and genuinely cheap, typically $2-4/lb depending on where you live and whether there's a sale. Neither needs anything fancy to taste good. Salt, garlic, a Dutch oven, and three hours. That's it. If you don't have a Dutch oven yet, this [one from Lodge](https://www.amazon.com/s?k=Lodge+Dutch+Oven&tag=contentportfo-20) is about $50 and will last decades. Worth every dollar for anyone cooking on a budget.
 
-Eggs deserve their own mention because people underestimate them. A dozen eggs for under $4 is roughly 72 grams of protein and a lot of fat, portable, fast-cooking, and infinitely variable. I've had clients eating three meals a day built around eggs for weeks without getting bored because the preparation styles are so different.
+Eggs deserve their own mention because people underestimate them. A dozen eggs for under $4 is roughly 72 grams of protein and a lot of fat, portable, fast-cooking, and infinitely variable. Eggs work for multiple meals a day without monotony because preparation styles vary so much.
 
 The one contrarian take I'll stand behind: canned sardines and mackerel are some of the best keto foods nobody talks about. A can of sardines in olive oil runs about $2 and has more omega-3s than most expensive supplements, solid protein, and high fat. I know some people have a texture issue with them. But if you can get past that, or chop them into a salad or eggs where the texture blends in, you're getting extraordinary nutrition for almost no money.
 
@@ -48,7 +48,7 @@ The one contrarian take I'll stand behind: canned sardines and mackerel are some
 
 You don't need to buy organic everything. I'll just say it plainly because a lot of keto content implies otherwise. The vegetables you eat most on keto, cabbage, frozen spinach, cauliflower, zucchini, broccoli, green beans, are all affordable and widely available. Frozen is often nutritionally equivalent to fresh and significantly cheaper.
 
-Cabbage is genuinely underrated. A whole head costs under $2, keeps for weeks in the fridge, and works fried in butter with sausage, raw in slaws, braised with pork, or turned into noodle substitutes. I've watched clients go from "I don't really like cabbage" to making it twice a week once they understood how fat transforms it.
+Cabbage is genuinely underrated. A whole head costs under $2, keeps for weeks in the fridge, and works fried in butter with sausage, raw in slaws, braised with pork, or turned into noodle substitutes. Understanding how fat transforms cabbage often changes minds about it.
 
 The vegetables to avoid spending heavily on are the ones that are keto-adjacent but not keto-necessary: the fancy microgreens, the pre-cut spiralized zucchini at a 300% markup, the organic everything. Buy a cheap spiralizer (they're [around $15 on Amazon](https://www.amazon.com/s?k=vegetable+spiralizer&tag=contentportfo-20)) and do it yourself. Buy the regular zucchini.
 
@@ -92,14 +92,13 @@ You don't need them. Salt your food generously with regular salt or No Salt (pot
 - [these from Prep Naturals](https://www.amazon.com/s?k=glass+meal+prep+containers&tag=contentportfo-20)
 - [Basic ones are under $15](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20)
 
-
 #### Is keto actually more expensive than eating normally?
 
 It can be, but only if you buy a lot of specialty products. Meat, eggs, butter, and vegetables aren't inherently more expensive than the carb-heavy processed foods they replace. The cost creep comes from keto-branded substitutes.
 
 #### What's the cheapest keto meal I can make right now?
 
-Scrambled eggs in butter with sautéed cabbage or frozen spinach. Under $2 per serving, takes 10 minutes, and has a solid fat-to-protein ratio. I've made this more times than I can count.
+Scrambled eggs in butter with sautéed cabbage or frozen spinach. Under $2 per serving, takes 10 minutes, and has a solid fat-to-protein ratio.
 
 #### Can I eat keto without buying almond flour or specialty baking ingredients?
 

@@ -55,7 +55,7 @@ A good electrolyte supplement that combines sodium, potassium, and magnesium can
 
 Medium-chain triglycerides, or MCTs, are fats that get absorbed directly into the portal vein and converted to ketones by the liver faster than long-chain fats. That's the biochemistry behind the hype. MCT oil, especially C8 (caprylic acid), can raise blood ketone levels measurably within 30 to 60 minutes.
 
-In practice, I use MCT oil as a tool for specific situations rather than a daily must-have. During the first two weeks, when your brain is still adapting to running on ketones, a tablespoon in your morning coffee can smooth out mental fogginess. On days when you're traveling and low-carb food options are scarce, MCTs help keep ketones elevated despite imperfect eating. For anyone doing intermittent fasting who finds the hunger unbearable in the first few weeks, a small amount of MCT oil in black coffee doesn't spike insulin and can take the edge off.
+MCT oil works best as a tool for specific situations rather than a daily must-have. During the first two weeks, when the brain is still adapting to running on ketones, a tablespoon in your morning coffee may help with mental clarity. On days when you're traveling and low-carb food options are scarce, MCTs help keep ketones elevated despite imperfect eating. For anyone doing intermittent fasting who finds the hunger unbearable in the first few weeks, a small amount of MCT oil in black coffee doesn't spike insulin and can take the edge off.
 
 The honest caveats: MCT oil does nothing to replace real dietary fat, it won't get you into ketosis if you're eating 150 grams of carbs a day, and starting with a tablespoon when you've never used it before is a reliable way to spend an unpleasant hour near a bathroom. Start with a teaspoon and work up over two weeks.
 
@@ -77,7 +77,7 @@ Exogenous ketones, usually sold as beta-hydroxybutyrate (BHB) salts or esters, a
 
 Here's the honest picture. Exogenous ketones genuinely raise blood BHB levels. That part isn't in dispute. What they don't do is create the metabolic state of fat adaptation. Your body isn't burning stored fat to produce those ketones; you drank them. If you eat 200 grams of carbs and then drink [exogenous ketones](/exogenous-ketones/), your ketone meter will show a number, but your metabolism is not in ketosis in any meaningful sense.
 
-Where I think they have legitimate value: Athletes doing targeted carbohydrate intake (adding carbs around hard training sessions) who want to restore ketosis more quickly afterward. People who have been fat-adapted for months and had an unavoidable high-carb meal (holiday, travel, social situation) and want to accelerate the return to ketosis. Cognitive performance research, where some studies have shown BHB esters improving certain measures of mental performance acutely.
+Legitimate uses include: Athletes doing targeted carbohydrate intake (adding carbs around hard training sessions) who want to restore ketosis more quickly afterward. People who have been fat-adapted for months and had an unavoidable high-carb meal (holiday, travel, social situation) and want to accelerate the return to ketosis. Cognitive performance contexts, where some studies have shown BHB esters improving certain measures of mental performance acutely.
 
 For a keto beginner? Skip them. They're expensive, some formulations taste genuinely terrible, and the money is better spent on quality food and proper electrolytes.
 
@@ -117,7 +117,6 @@ The real story about supplements is simple. They're genuinely useful, but they w
 - [Atlantic Ambience](https://www.pexels.com/@freestockpro)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 - [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -39,7 +39,7 @@ The basic mechanism is simpler than the community makes it sound. Standard keto 
 
 A 2022 study published in the *New England Journal of Medicine* on time-restricted eating found that even a modest daily fasting window meaningfully improved insulin sensitivity independent of calorie restriction. The keto component amplifies this by removing dietary glucose almost entirely, so your insulin stays low not just because of timing but because there's nothing to spike it. The combined effect on [ketone levels](/blood-ketone-levels-chart/) is real: clients I've moved from standard keto to keto OMAD typically go from 0.5-1.2 mmol/L of beta-hydroxybutyrate (a standard ketone measure) to 2.5-4.0 mmol/L within four or five days. That's a meaningful jump.
 
-What the Instagram version skips past is what this costs metabolically in the short term. Glycogen stores hold water, roughly 3-4 grams per gram of glycogen. Depleting them fast while also fasting for 23 hours daily means you're shedding significant water weight quickly, and with it, sodium, potassium, and magnesium. I've had clients come to me after two weeks of keto OMAD convinced they were dying because of muscle cramps, heart palpitations, and [brain fog](/keto-brain-fog/). Every single one was electrolyte-depleted. Every one.
+What the Instagram version skips past is what this costs metabolically in the short term. Glycogen stores hold water, roughly 3-4 grams per gram of glycogen. Depleting them fast while also fasting for 23 hours daily means you're shedding significant water weight quickly, and with it, sodium, potassium, and magnesium. Two weeks into keto OMAD, electrolyte depletion typically shows up as muscle cramps, heart palpitations, and [brain fog](/keto-brain-fog/).
 
 ## The numbers that matter
 
@@ -52,11 +52,11 @@ What the Instagram version skips past is what this costs metabolically in the sh
 | Electrolyte loss risk | Moderate | Low to moderate | High |
 | Sustainable for 12+ weeks (estimated) | ~60% of users | ~40% of users | ~25-35% of users |
 
-Those sustainability numbers are clinical estimates from my practice, not a controlled trial, so hold them loosely. But the direction is consistent with what Krista Varady's group at the University of Illinois has found with alternate-day fasting research: stricter protocols show better short-term metabolic results but significantly higher dropout rates.
+But the direction is consistent with what Krista Varady's group at the University of Illinois has found with alternate-day fasting research: stricter protocols show better short-term metabolic results but significantly higher dropout rates.
 
 ## Protein: the part everyone gets wrong
 
-I made this mistake myself in my early keto practice, and I've watched hundreds of clients repeat it. When you compress eating into one meal, the instinct is to load up on fat because that's "keto," and protein feels like a secondary concern. This is backwards.
+A common mistake with keto OMAD is loading up on fat because that's "keto," treating protein as a secondary concern. When you compress eating into one meal, the instinct is to load up on fat because that's "keto," and protein feels like a secondary concern. This is backwards.
 
 Research on muscle protein synthesis, particularly work from Stuart Phillips' lab at McMaster University, consistently shows that protein synthesis is dose-limited per meal, not per day. Practically speaking, your body can use somewhere around 40-55g of protein in a single sitting for muscle maintenance, depending on your size and training status, and the rest gets oxidized for energy rather than going to muscle. If you're a 170-pound active person needing 130g of protein daily and you try to get it all in one meal, you're likely using maybe 45g efficiently and burning through the rest. Over weeks, that's a real lean mass problem.
 
@@ -70,7 +70,7 @@ This is where I'm going to push back on a lot of the keto OMAD cheerleading I se
 
 It works reliably for: people with significant insulin resistance or type 2 diabetes (under physician supervision, always), sedentary to lightly active individuals who have stalled on standard keto, people who genuinely find the simplicity of one meal freeing rather than stressful, and those who have already adapted to keto and want to accelerate fat loss for a specific window of time (8-12 weeks, not indefinitely).
 
-The research here is mixed for women specifically. A 2021 study in *Cell Metabolism* found sex-specific differences in response to time-restricted eating, with some women showing disrupted cortisol patterns and thyroid hormone changes on aggressive fasting protocols. I don't have solid numbers on exactly how prevalent this is, and I'd be skeptical of anyone who claims to. What I do know from my practice is that women are more likely to report sleep disruption, hair shedding (telogen effluvium), and mood changes on keto OMAD than men. That doesn't mean don't do it, but it does mean start slower: try keto with a 6-hour eating window first and see how your body responds over four weeks before compressing to one meal.
+The research here is mixed for women specifically. A 2021 study in *Cell Metabolism* found sex-specific differences in response to time-restricted eating, with some women showing disrupted cortisol patterns and thyroid hormone changes on aggressive fasting protocols. I don't have solid numbers on exactly how prevalent this is, and I'd be skeptical of anyone who claims to. Women more often report sleep disruption, hair shedding (telogen effluvium), and mood changes on keto OMAD than men. That doesn't mean don't do it, but it does mean start slower: try keto with a 6-hour eating window first and see how your body responds over four weeks before compressing to one meal.
 
 Scenario: Client, 38-year-old woman, 158 lbs, primarily sedentary, significant insulin resistance confirmed by bloodwork. Started keto OMAD after two weeks of standard keto adaptation. Lost 11 lbs over 10 weeks, fasting glucose dropped from 118 mg/dL to 94 mg/dL. Zero hormonal complaints. Continued successfully for six months. This profile, meaning metabolic dysfunction, low exercise stress, previous keto adaptation, seems to be the sweet spot.
 

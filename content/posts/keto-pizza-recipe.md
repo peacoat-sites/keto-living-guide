@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. I've had that conversation with clients more times than I can count. The truth is that bad keto pizza is genuinely bad. But a well-made version? It holds up. I make it for people who aren't on any kind of low-carb diet, and they eat it without complaint.
+Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. Bad keto pizza is genuinely bad. But a well-made version holds up well enough that non-keto eaters can enjoy it.
 
 The difference almost always comes down to the crust choice and how you handle moisture. That's where most recipes gloss over the part that actually matters.
 
@@ -75,7 +75,6 @@ This crust won't hold up to being picked up like a slice. It's a fork-and-knife 
 - [pizza stone](https://www.amazon.com/s?k=pizza+stone&tag=)
 - [Nomad Ashwin](https://www.pexels.com/@nomad-ashwin-509086572)
 
-
 Classic tomato sauce is fine on keto. Two or three tablespoons of a no-sugar-added marinara (Rao's Homemade is excellent and widely available, about $9 a jar) has maybe 2-3g net carbs for the whole pizza. Some people swap in crushed San Marzano tomatoes with olive oil and garlic, which is also great.
 
 Low-moisture mozzarella melts better than fresh here. Fresh mozzarella releases a lot of water and will make your crust soggy unless you pat it very dry first. For toppings: pepperoni, Italian sausage (check labels for added sugar), olives, roasted peppers, mushrooms, spinach, all work well. Load meat and low-carb vegetables without much worry.
@@ -83,7 +82,6 @@ Low-moisture mozzarella melts better than fresh here. Fresh mozzarella releases 
 What to avoid: corn, regular pizza sauce brands that add sugar, and any "flatout" style pre-made crust that claims to be keto. Most of those have more carbs than advertised.
 
 ---
-
 
 ---
 

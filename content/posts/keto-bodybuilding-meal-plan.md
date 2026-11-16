@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. I've worked with clients who were genuinely lean and genuinely frustrated that they couldn't seem to add muscle no matter how dialed-in their training was, and nine times out of ten the problem was their food, specifically not enough protein and way too little attention to nutrient timing.
+Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. A common issue for people trying to build muscle on keto is inadequate protein intake and poor attention to nutrient timing, even when training is dialed in.
 
-Let me be direct about something upfront: keto bodybuilding is harder than either keto or bodybuilding alone. It requires more precision, more planning, and honestly a more mature relationship with the scale, because the number will not behave the way you expect. But it absolutely works. I've seen clients hold onto hard-earned muscle through aggressive cuts and add meaningful size while staying in ketosis. The protocol matters enormously.
+Let me be direct about something upfront: keto bodybuilding is harder than either keto or bodybuilding alone. It requires more precision, more planning, and honestly a more mature relationship with the scale, because the number will not behave the way you expect. But it absolutely works. It's possible to hold onto muscle through aggressive cuts and add meaningful size while staying in ketosis. The protocol matters enormously.
 
 ## The protein question (and why most keto advice gets it wrong)
 
@@ -92,13 +92,11 @@ Take it. Creatine monohydrate is one of the most studied supplements in sports n
 - [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
 - [This one from OXO](https://www.amazon.com/s?k=OXO+kitchen+food+scale&tag=contentportfo-20)
 
-
 Get a kitchen scale. I mean this seriously. [This one from OXO](https://www.amazon.com/s?k=OXO+kitchen+food+scale&tag=contentportfo-20) is accurate, durable, and about $50. *(Commission disclosure applies.)* Eyeballing food is fine once you have years of experience. Until then, you are almost certainly overestimating protein and underestimating fat.
 
-Track for at least 6 weeks before drawing conclusions. Muscle gain on keto is slower than on a higher-carb diet, full stop. If someone tells you otherwise, they're selling something. In my experience, a realistic rate is about 0.5-0.75 pounds of lean mass per month for most natural trainees. That's not nothing, and it comes with genuinely low body fat, but you have to go in with that expectation or you'll bail too early.
+Track for at least 6 weeks before drawing conclusions. Muscle gain on keto is slower than on a higher-carb diet, full stop. A realistic rate is about 0.5-0.75 pounds of lean mass per month for most natural trainees. That's not nothing, and it comes with genuinely low body fat, but you have to go in with that expectation or you'll bail too early.
 
 ---
-
 
 *Photo: [Jonathan Borba](https://www.pexels.com/@jonathanborba) via Pexels*
 

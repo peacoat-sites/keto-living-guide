@@ -31,9 +31,7 @@ So if you're here because someone you love has epilepsy, and you've started wond
 
 Here's what I tell people at the start: the ketogenic diet for epilepsy is one of the most thoroughly studied applications of carbohydrate restriction in all of medicine. This isn't wellness influencer territory. It's a recognized medical therapy with decades of clinical data, used in epilepsy centers at Children's Hospital of Philadelphia, Great Ormond Street, Mayo Clinic, and hundreds of other major hospitals worldwide.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The classical ketogenic diet (4:1 fat-to-protein-plus-carb ratio) reduces seizures by 50%+ in roughly 50% of patients who try it.</li><li style="margin:5px 0">It works best for drug-resistant epilepsy: patients who've failed 2+ medications are the typical candidates.</li><li style="margin:5px 0">Children respond better than adults on average, but adult trials show meaningful benefit too.</li><li style="margin:5px 0">Several modified versions (Modified Atkins, Low Glycemic Index Treatment) are easier to follow and may be nearly as effective.</li><li style="margin:5px 0">This therapy requires medical supervision. Do not start it without a neurologist and dietitian involved.</li></ul></div>
-
 
 ## Why It Works (and Why It's Not Just "Cutting Carbs")
 
@@ -57,7 +55,7 @@ This is where I see the most confusion, including in my own early years working 
 
 The classical 4:1 ratio is used most often for young children with severe epilepsy, particularly when seizure control is urgent and maximum efficacy matters more than ease of compliance. The Modified Atkins Diet was developed at Johns Hopkins specifically as a less restrictive alternative for older children and adults, and a 2008 randomized trial published in *The Lancet Neurology* found it produced a 50% or greater seizure reduction in about 43% of patients, which is genuinely competitive with the classical diet.
 
-A reader named Claire, a mother from outside Portland, emailed me last spring about her seven-year-old son, who had failed four medications for Lennox-Gastaut syndrome. His epilepsy team started him on the classical 4:1 diet under close supervision. Six months in, his seizure frequency had dropped from roughly 40 tonic-clonic seizures per week to fewer than five. That's not a cure. It's also not nothing.
+For example, a child who had failed four medications for Lennox-Gastaut syndrome was started on the classical 4:1 diet under close supervision. Six months in, seizure frequency had dropped from roughly 40 tonic-clonic seizures per week to fewer than five. That's not a cure. It's also not nothing.
 
 For adults, the data is thinner but promising. A 2020 review in *Seizure: European Journal of Epilepsy* found that adults on ketogenic diets had a responder rate (50%+ reduction) of around 52% across pooled studies, closer to what we see in children than previously thought.
 
@@ -93,9 +91,7 @@ For more common focal epilepsies or absence epilepsy, the evidence is thinner. R
 
 Scenario: Adult, 34 years old, GLUT1 deficiency misdiagnosed for years as generalized epilepsy → Correct diagnosis made, classical ketogenic diet initiated → Seizure freedom achieved within 8 weeks, cognitive improvements noted by family and patient.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">50%+ seizure reduction rates by diet type</div><div class="sc-row"><span class="sc-label">Classical 4:1 (children)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">54%</span></div><div class="sc-row"><span class="sc-label">Classical 3:1 (children)</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">48%</span></div><div class="sc-row"><span class="sc-label">Modified Atkins (adults)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">43%</span></div><div class="sc-row"><span class="sc-label">LGIT</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">42%</span></div><div class="sc-row"><span class="sc-label">MCT Diet</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">50%</span></div><div class="sc-src">Source: Pooled data from Cochrane 2020 review and Lancet Neurology 2008 MAD trial</div></div>
-
 
 ## Sources
 
@@ -106,7 +102,6 @@ Scenario: Adult, 34 years old, GLUT1 deficiency misdiagnosed for years as genera
 - Neal EG, et al. "The ketogenic diet for the treatment of childhood epilepsy: a randomised controlled trial." *The Lancet Neurology*, 2008.
 
 ---
-
 
 ---
 

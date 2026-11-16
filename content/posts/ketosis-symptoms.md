@@ -43,7 +43,7 @@ Let's break these down honestly. Not all ketosis symptoms are unpleasant, and kn
 
 **The uncomfortable ones (days 1 to 7):**
 
-*Keto flu.* This is the umbrella term for the cluster of symptoms most people notice in the first week: fatigue, headache, brain fog, irritability, and muscle cramps. The primary driver isn't the ketones themselves. It's electrolyte loss. Insulin drops when carbs drop, and lower insulin tells your kidneys to excrete sodium more aggressively. Sodium loss then pulls magnesium and potassium with it. Replace those electrolytes and half the keto flu resolves. I've seen clients power through the first week with almost no symptoms just by drinking salted broth and supplementing magnesium glycinate. [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes) or similar products with no added sugar can make a real difference here.
+*Keto flu.* This is the umbrella term for the cluster of symptoms most people notice in the first week: fatigue, headache, brain fog, irritability, and muscle cramps. The primary driver isn't the ketones themselves. It's electrolyte loss. Insulin drops when carbs drop, and lower insulin tells your kidneys to excrete sodium more aggressively. Sodium loss then pulls magnesium and potassium with it. Replace those electrolytes and half the keto flu resolves. Drinking salted broth and supplementing magnesium glycinate can help ease symptoms in the first week. [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes) or similar products with no added sugar can make a real difference here.
 
 *Bad breath.* This one is real and specific. Acetone, one of the three ketone bodies, gets exhaled through your lungs. It produces a fruity, slightly metallic smell that some people describe as nail polish remover. It typically peaks in weeks one and two and tends to improve as your body gets better at utilizing ketones rather than excreting them. Staying hydrated helps.
 
@@ -104,7 +104,6 @@ If constipated, increase non-starchy vegetables (spinach, zucchini, broccoli), d
 - [MCT oil](https://www.amazon.com/s?k=MCT+oil)
 - [Khôi Châu](https://www.pexels.com/@nkblu)
 
-
 Ketosis has a dangerous look-alike: diabetic ketoacidosis, or DKA. This primarily affects people with Type 1 diabetes and some with Type 2 who have very low insulin production. DKA involves blood ketones above 10 mmol/L combined with high blood sugar, which is metabolically very different from nutritional ketosis where blood sugar remains normal or low-normal.
 
 Symptoms that warrant immediate medical attention:
@@ -119,6 +118,6 @@ If you have Type 1 diabetes or take insulin, keto can still work for you, but it
 
 Heart palpitations are another symptom worth mentioning. Mild flutters or skipped beats early in keto are usually electrolyte-related and resolve with sodium, potassium, and magnesium repletion. Persistent palpitations or anything accompanied by chest pain or shortness of breath needs medical evaluation.
 
-The transition into ketosis is genuinely weird for your body, and it's okay to find the first week uncomfortable. Most of what you feel is your physiology reorganizing itself around a completely different fuel system, not a signal to quit. Track your electrolytes obsessively in those first two weeks, eat enough fat to feel satisfied, give yourself at least four to six weeks before judging the results, and treat the temporary symptoms as data rather than emergencies. The clients I've worked with who do best on keto are the ones who understand what's happening under the hood and respond accordingly, not the ones who white-knuckle through confusion or bail at the first headache. You've got the information now. Use it.
+The transition into ketosis is genuinely weird for your body, and it's okay to find the first week uncomfortable. Most of what you feel is your physiology reorganizing itself around a completely different fuel system, not a signal to quit. Track your electrolytes obsessively in those first two weeks, eat enough fat to feel satisfied, give yourself at least four to six weeks before judging the results, and treat the temporary symptoms as data rather than emergencies. Understanding what's happening in your body and responding with the right electrolytes and nutrients matters more than pushing through confusion or abandoning keto at the first sign of discomfort. You've got the information now. Use it.
 
 *Photo: [Khôi Châu](https://www.pexels.com/@nkblu) via Pexels*

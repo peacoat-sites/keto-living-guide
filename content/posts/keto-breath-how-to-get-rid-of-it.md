@@ -25,7 +25,7 @@ faqs:
     a: "No. Some people on moderate low-carb diets (50-75g carbs daily) produce enough ketones for fat-burning benefits without hitting the breath-intensity threshold that's socially noticeable. People doing strict keto at 20g or under are most likely to experience it, especially in the first four to six weeks."
 ---
 
-Nobody warned me about keto breath when I started recommending low-carb diets to clients. I knew about the "keto flu," I knew about the electrolyte issues, but the first time a client came back after two weeks on the diet and mentioned that her husband was sleeping on the other side of the bed, I had to do some real digging.
+Keto breath often surprises people new to low-carb diets. While most expect the "keto flu" and electrolyte challenges, the breath changes can catch partners off guard.
 
 Here's what I'll be honest about upfront: most of the advice floating around on keto breath is either oversimplified ("just drink more water!") or completely wrong about the underlying cause. That matters, because if you're treating the wrong problem, you'll be popping mints forever and the issue won't budge.
 
@@ -47,7 +47,7 @@ This is where it gets genuinely individual, and I don't have clean numbers to gi
 
 People who go very low carb very fast tend to have more pronounced breath issues early on, because the ketone spike is sharper. Someone who drops from 200g of carbs to 20g overnight is going to produce more acetone initially than someone who tapers down over a week. I usually recommend a 10-14 day gradual reduction if someone has a work presentation or a social event coming up, for exactly this reason.
 
-High protein intake also seems to make it worse. Protein metabolism produces ammonia, which compounds the acetone smell into something genuinely alarming. I've had clients describe it as "gym locker room meets fruit bowl." If your breath has that ammonia character on top of the fruity note, dial back protein slightly and see if it shifts.
+High protein intake can make keto breath worse. Protein metabolism produces ammonia, which can compound the acetone smell. If your breath has an ammonia character on top of a fruity note, dial back protein slightly and see if it shifts.
 
 Dehydration concentrates everything. Dry mouth from inadequate water intake reduces saliva, which is your mouth's natural rinse cycle, and concentrated urine means your kidneys aren't clearing as many byproducts efficiently.
 
@@ -55,7 +55,7 @@ Dehydration concentrates everything. Dry mouth from inadequate water intake redu
 
 Let me be direct: there's no single fix. But there's a hierarchy of what moves the needle.
 
-**Hydration is legitimately the highest-leverage thing.** Not because it eliminates ketone production, but because adequate water helps your kidneys process and excrete more ketones as urinary acetoacetate rather than pushing everything through your lungs. I tell clients to aim for at least 2.5 to 3 liters a day, especially in the first month. A reader named Elena, who'd been on keto for three weeks with persistent breath issues, emailed me saying she bumped from 1.5 to 3 liters daily and noticed improvement within five days. Not eliminated, but noticeably reduced.
+**Hydration is the highest-leverage factor.** Not because it eliminates ketone production, but because adequate water helps your kidneys process and excrete more ketones as urinary acetoacetate rather than pushing everything through your lungs. Aim for at least 2.5 to 3 liters a day, especially in the first month. Increasing daily water intake may noticeably reduce breath issues, though it won't eliminate them entirely.
 
 **Electrolytes matter more than people realize here.** When you're dehydrated on keto, you're often also low on sodium, which means you're drinking water but not retaining it properly. I like [LMNT electrolyte packets](https://www.amazon.com/dp/B07FNRK9BP?tag=contentportfo-20) for this, not because they're the only option, but because they have an actual therapeutic sodium level (1000mg per packet) without any sugar. Plain water isn't always enough.
 
@@ -68,8 +68,6 @@ Let me be direct: there's no single fix. But there's a hierarchy of what moves t
 **Slightly increasing carbs.** This is the one people resist hearing. If you're running at 15g of net carbs per day and the breath is still intense after six weeks, bumping to 30-35g often reduces acetone output noticeably without fully knocking you out of ketosis. You may lose some fat-burning efficiency, but you'll stay low-carb and lose the social handicap. Whether that tradeoff works depends on your goals.
 
 ## Timeline and What to Expect
-
-Here's the honest picture, based on what I've seen clinically and what the research suggests.
 
 Most people hit peak intensity around weeks two through four, when ketone production is ramping up but metabolic adaptation hasn't fully kicked in. By month three, most people have adapted enough that their bodies are using ketones more efficiently and producing less excess acetone. It's not gone for everyone, but it's usually manageable.
 

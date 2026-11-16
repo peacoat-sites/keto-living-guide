@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 For years, psychiatrists have been quietly warning that roughly 30% of people with major depression don't respond adequately to antidepressants. That's not a fringe statistic. It's been sitting in the literature for decades, largely without a satisfying answer. So when a randomized clinical trial out of the University of Oxford landed in *JAMA Psychiatry* on February 4, 2026, showing that a ketogenic diet outperformed a plant-based control diet in reducing depression symptoms among treatment-resistant patients, it didn't just generate headlines. It forced a genuine conversation about whether metabolic intervention belongs in the psychiatrist's toolkit.
 
-I'll be honest: I've been skeptical of the mental health claims around keto for a long time. The anecdotes have been loud, the mechanisms hand-wavy, and the studies mostly tiny and uncontrolled. But this Oxford trial is different enough to take seriously, and the broader picture forming around it is worth understanding clearly, without the hype.
+Mental health claims around keto have often rested on anecdotes, with proposed mechanisms that lack clarity and studies that are mostly small and uncontrolled. But this Oxford trial is different enough to take seriously, and the broader picture forming around it is worth understanding clearly, without the hype.
 
 ## What the Oxford Trial Actually Found
 

@@ -49,7 +49,7 @@ For most people, that threshold sits somewhere around 20 to 50 grams of net carb
 
 You might be wondering: how do I know if I'm actually in ketosis? Reliable methods include blood ketone meters (the gold standard, which measure beta-hydroxybutyrate directly), urine strips (less accurate but affordable and useful early on), and breath ketone analyzers (somewhere in between). "Feeling good" is not reliable. Neither is the presence of the "keto flu," which just means your body is adjusting to lower carb intake, not necessarily that you've crossed the ketosis threshold.
 
-I've seen clients spend months thinking they were in ketosis because they felt energized and were losing weight. When they tested, their ketone levels were 0.2 mmol/L, which is technically nutritional ketosis by some definitions but well below the 0.5 to 3.0 mmol/L range that most researchers use as standard. Whether that matters for your goals is a different question. But it's worth knowing what's actually happening in your body.
+A common assumption is that feeling energized and losing weight means you're in ketosis. Testing often reveals a different picture: ketone levels of 0.2 mmol/L may fall within some definitions of nutritional ketosis but sit well below the 0.5 to 3.0 mmol/L range most researchers use as standard. Whether that matters for your goals is a different question. But it's worth knowing what's actually happening in your body.
 
 ---
 
@@ -105,7 +105,7 @@ This is the question that actually matters.
 - Have tried moderate low carb and hit a plateau without reaching their health goals
 - Find that a very clear, strict rule set is actually easier to stick to than a flexible one
 
-I've worked with clients on both ends of that spectrum. Some people thrive with the freedom of "under 100 grams." Others need the binary clarity of keto: if it might knock me out of ketosis, I'm not eating it. Neither approach is superior in all situations. Research comparing the two directly shows that both produce meaningful weight loss and metabolic improvements over standard Western diets, with keto often showing faster short-term results that tend to converge with low carb by the 12-month mark.
+People differ in what approach works for them. Some thrive with the flexibility of staying under 100 grams of carbs daily. Others prefer the clarity of strict keto: if it might knock them out of ketosis, they don't eat it. Neither approach is superior in all situations. Research comparing the two directly shows that both produce meaningful weight loss and metabolic improvements over standard Western diets, with keto often showing faster short-term results that tend to converge with low carb by the 12-month mark.
 
 If you're trying to decide, talk it through with a healthcare provider or registered dietitian, especially if you have an existing metabolic condition or take medications that interact with blood sugar changes.
 
@@ -119,7 +119,6 @@ If you're trying to decide, talk it through with a healthcare provider or regist
 - [digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food)
 - [Electrolyte supplements formulated for low carb diets](https://www.amazon.com/s?k=keto+electrolyte+supplements)
 - comparing the two directly shows that both produce meaningful weight loss and me
-
 
 Once you've thought through your goals, here's how to actually move forward without overthinking it.
 

@@ -25,7 +25,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 lastmod: 2026-07-08
 ---
-Most people come to keto with a mix of hope and skepticism. You've probably scrolled through dramatic before-and-afters, read a few success stories, and you're trying to figure out what's actually real versus what's been optimized for shock value. That's smart. I've worked with clients one-on-one for years now, and I've seen keto produce genuinely striking results for some people and frustratingly modest ones for others. The difference almost never comes down to willpower.
+Most people come to keto with a mix of hope and skepticism. You've probably scrolled through dramatic before-and-afters, read a few success stories, and you're trying to figure out what's actually real versus what's been optimized for shock value. That's smart. Keto produces genuinely striking results for some people and frustratingly modest results for others. The difference almost never comes down to willpower.
 
 Let's talk about what actually changes, when it changes, and why the transformation photo you saved to your phone might not match your own experience.
 
@@ -68,7 +68,7 @@ People who see the most striking transformations on keto share a few things. The
 
 If you're already metabolically healthy, relatively lean, and eating reasonably whole foods, keto might help you, but the physical transformation won't be dramatic. That doesn't mean it's not working. It means you weren't starting from the same place.
 
-Here's what nobody talks about enough: some people just respond better to fat restriction. I've had clients do beautifully on keto and clients who ate perfectly by every metric and just... didn't get results. The research on individual dietary variability is still catching up. A 2020 Stanford follow-up (part of the DIETFITS trial) suggested that predicting who'll respond to low-carb versus low-fat based on genetics or insulin secretion isn't reliable yet. We're not there.
+Some people respond better to fat restriction than carb restriction. Individual dietary variability means that people eating keto perfectly by every metric may still see no results. The research on individual dietary variability is still catching up. A 2020 Stanford follow-up (part of the DIETFITS trial) suggested that predicting who'll respond to low-carb versus low-fat based on genetics or insulin secretion isn't reliable yet. We're not there.
 
 ## What Sustainable "After" Actually Looks Like
 
@@ -80,12 +80,11 @@ Here's what nobody talks about enough: some people just respond better to fat re
 - in *Frontiers in Nutrition*
 - feeling noticeably better than those who don't
 
-
 The photos always show a before and a specific after moment. They never show what happens at month 18.
 
 Long-term keto maintenance is genuinely possible for some people. I have clients who've eaten this way for four or five years and feel better than they have in decades. I also have clients who cycled off after a year, regained some weight, and are still trying to figure things out. Regain on keto isn't inevitable, but it's common if you slip back into old patterns without a transition plan.
 
-What tends to work long-term: keeping protein high (at least 1.2-1.6g per kg of body weight), not obsessing over a specific ketone number on a [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20), and allowing yourself a few non-keto meals without treating it like failure. Some people do well with cyclical keto, higher-carb eating on weekends or around intense training. The research on that approach is sparse, but I've seen it help people stay on track longer.
+What tends to work long-term: keeping protein high (at least 1.2-1.6g per kg of body weight), not obsessing over a specific ketone number on a [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20), and allowing yourself a few non-keto meals without treating it like failure. Some people do well with cyclical keto, higher-carb eating on weekends or around intense training. The research on that approach is sparse, though anecdotal reports suggest it may help with adherence.
 
 The most durable transformations I've witnessed weren't built on perfection. They were built on people who understood what they were eating and why, and who kept showing up even when the scale stalled.
 

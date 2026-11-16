@@ -86,15 +86,13 @@ Electrolytes matter more on cycling days, not less. The glycogen/water flux mess
 - [Biel Heinrich](https://www.pexels.com/@biel-heinrich-114407456)
 - in the *Journal of the International Society of Sports Nutrition* showed measura
 
-
-Carb cycling is harder psychologically than strict keto for a lot of people. This surprised me when I first started recommending it. You'd think more flexibility would be easier to maintain. It often isn't.
+Carb cycling is harder psychologically than strict keto for a lot of people. You'd think more flexibility would be easier to maintain. It often isn't.
 
 Strict rules are cognitively simple. Keto's "under 20g" boundary is unambiguous. Carb cycling asks you to make different decisions on different days, remember which kind of day today is, and stop at a moderate carb intake rather than a zero or unlimited one. For people who've struggled with all-or-nothing eating patterns, that middle ground is genuinely hard to hold.
 
 If you try carb cycling and find yourself either over-restricting on high-carb days (guilt about going off keto) or under-restricting on keto days (well, I had some carbs at dinner, might as well), pay attention to that signal. It's telling you something real about which structure works for your psychology, and psychology determines long-term outcomes more than metabolic theory does.
 
 ---
-
 
 *Photo: [Biel Heinrich](https://www.pexels.com/@biel-heinrich-114407456) via Pexels*
 

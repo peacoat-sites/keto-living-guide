@@ -74,7 +74,7 @@ Here's the honest caveat: not everyone follows the same timeline. Metabolic heal
 
 **Protein in the right range.** This is where keto gets weirdly divisive. Moderate protein, roughly 0.7 to 1.0 grams per pound of lean body mass per day, works for most people. Very high protein can limit ketosis through gluconeogenesis, but this gets overstated. Don't be afraid of protein. Just don't treat it as unlimited free food.
 
-**Sleep and stress management.** I know this sounds soft, but cortisol is genuinely antagonistic to fat adaptation. High cortisol raises blood sugar through gluconeogenesis, which blunts ketone production. I've had clients doing everything right dietarily and stalling because they were working 70-hour weeks on six hours of sleep. The diet was fine. The rest of their life wasn't.
+**Sleep and stress management.** Cortisol is genuinely antagonistic to fat adaptation. High cortisol raises blood sugar through gluconeogenesis, which blunts ketone production. Someone following the diet correctly can still stall if they're chronically stressed or sleep-deprived.
 
 **Strategic exercise.** Low-intensity aerobic work, walking, easy cycling, Zone 2 cardio actually accelerates fat adaptation by training your aerobic energy systems without hammering glycogen stores. Hard high-intensity workouts are fine once you're adapted, but in the early weeks they can leave you crushed because your body can't yet supply ATP fast enough through fat oxidation.
 
@@ -91,7 +91,6 @@ MCT oil can bridge the early adaptation phase. Medium-chain triglycerides conver
 - doesn't suggest MCTs speed up the underlying adaptation process
 - cold-pressed coconut-sourced MCT oil
 - if you want it
-
 
 Forget urine ketone strips after the first few weeks. They measure ketone spillage, not utilization, and they become unreliable once your kidneys and muscles get efficient at using ketones rather than dumping them. Blood ketone meters like the Keto-Mojo (around $60 for the meter kit) give you actual data if you want it.
 

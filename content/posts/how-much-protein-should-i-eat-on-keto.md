@@ -82,7 +82,7 @@ Log your actual intake against your target. Adjust based on how you feel, how hu
 
 Let's settle this directly. Yes, eating an enormous protein load in a single sitting can temporarily suppress ketones. So can stress, poor sleep, and not exercising. Ketosis is not a binary on/off switch that you manage by obsessing over grams.
 
-In practice, I've worked with clients eating 150-160g of protein daily who maintain consistent ketone readings of 0.5-1.5 mmol/L, which is the range considered nutritional ketosis. I've also seen people eating 80g who never get there because their [carb intake is inconsistently managed](/how-to-calculate-net-carbs-on-keto/). Protein is rarely the variable that makes or breaks ketosis for most people.
+People eating 150-160g of protein daily can maintain consistent ketone readings of 0.5-1.5 mmol/L, which is the range considered nutritional ketosis. Others eating 80g may never reach ketosis because their [carb intake is inconsistently managed](/how-to-calculate-net-carbs-on-keto/). Protein is rarely the variable that makes or breaks ketosis for most people.
 
 Where this becomes more relevant is in therapeutic contexts, specifically epilepsy management or certain cancer protocols, where ketone levels are being used medicinally and need to hit specific targets. If that's your situation, you're working with a physician who should be guiding your macros precisely. For everyone else, the fear of protein bumping you out of ketosis is largely overcorrected.
 
@@ -118,7 +118,6 @@ For supplemental protein, a [quality whey protein isolate](https://www.amazon.co
 - [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
 - on protein and ketosis is messier than either camp admits
 - published in journals like *Cell Metabolism* and work from scientists like Dr
-
 
 Protein's most underappreciated job on keto isn't macro balance. It's protecting muscle during a calorie deficit, which is where most people on a weight-loss protocol actually live.
 

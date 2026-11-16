@@ -37,7 +37,7 @@ Intermittent fasting works differently. It creates a defined eating window, most
 
 Here's what actually matters: both approaches push your body toward fat oxidation and ketone production through slightly different mechanisms. Keto restricts the substrate (carbohydrates). Fasting restricts timing and total calories. When you do them together, you're reinforcing the same metabolic shift from two directions. Many people enter ketosis faster after an overnight fast. Some research suggests fasting can deepen ketone levels in people already eating keto. A 2019 review in the *New England Journal of Medicine* summarized evidence that intermittent fasting improves metabolic markers including insulin sensitivity, which complements keto's similar effects.
 
-What most people don't realize: if you're already eating keto, you may already be doing a mild version of intermittent fasting without knowing it. Fat and protein are satiating. Appetite naturally compresses. A lot of my clients discover they've naturally drifted to eating within a 10 or 11-hour window just because they're not hungry at the edges of the day anymore.
+What most people don't realize: if you're already eating keto, you may already be doing a mild version of intermittent fasting without knowing it. Fat and protein are satiating. Appetite naturally compresses. Many people on keto find they naturally drift to eating within a 10 or 11-hour window just because they're not hungry at the edges of the day anymore.
 
 ## Who Should Actually Try This (and Who Should Wait)
 
@@ -113,12 +113,11 @@ Prep matters here. When you're only eating in a defined window, having food read
 - [quality meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
 - [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20)
 
-
-I've seen this pattern enough times to be honest about it. Someone plateaus on keto, adds intermittent fasting, drops another 8 to 12 pounds over the next couple of months, and becomes a believer. That's real. But it's worth understanding why it works, because that understanding helps you troubleshoot if it stops working.
+Adding intermittent fasting to keto can help some people drop another 8 to 12 pounds over a couple of months. But it's worth understanding why it works, because that understanding helps you troubleshoot if it stops working.
 
 The combination helps the plateau problem for two reasons. First, it creates a natural caloric deficit without obsessive counting. If you can only eat between noon and 8pm, you're probably eating less than you were. Second, fasting periods increase lipolysis (the breakdown of fat for fuel) and can elevate ketone levels, which some people find helps with appetite regulation and mental clarity.
 
-What it isn't: a metabolic loophole. You still need a caloric deficit to lose body fat over time. You still need adequate protein to avoid losing muscle. If you're cramming two meals worth of fat bombs and keto treats into your eating window, the fasting window won't compensate. I've had clients frustrated that "keto IF isn't working" and when we looked closely, they were eating 2,800 calories in eight hours without realizing it. Partly because the foods were dense, partly because they felt like the fasting window gave them permission to eat freely when it opened.
+What it isn't: a metabolic loophole. You still need a caloric deficit to lose body fat over time. You still need adequate protein to avoid losing muscle. If you're cramming two meals worth of fat bombs and keto treats into your eating window, the fasting window won't compensate. A common frustration: someone tries keto with intermittent fasting but eats 2,800 calories in eight hours without realizing it. The foods are dense, and the fasting window can create a false sense of permission to eat freely when it opens.
 
 Keep things like [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20) around for genuine hunger, not recreational eating. There's a difference.
 

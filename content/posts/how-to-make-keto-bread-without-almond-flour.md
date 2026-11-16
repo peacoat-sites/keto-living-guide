@@ -31,7 +31,6 @@ Most keto bread recipes you'll find online follow the same basic formula in diff
 
 There are better routes. Several, actually.
 
-
 <div class="value-module">
  <div class="vm-head">Keto Bread Flour Alternatives Comparison</div>
  <div class="vm-body">
@@ -43,7 +42,7 @@ There are better routes. Several, actually.
 
 ## The Case for Coconut Flour (And Why You Need to Treat It Differently)
 
-Coconut flour is the most common almond flour substitute, and it's also the one most people mess up immediately. The ratio is not 1:1. Coconut flour absorbs roughly four times as much liquid as almond flour. Swap it cup-for-cup and you'll end up with something resembling a hockey puck wrapped in crumbs. I've watched clients make this mistake, and I've made it myself.
+Coconut flour is the most common almond flour substitute, and it's also the one most people mess up immediately. The ratio is not 1:1. Coconut flour absorbs roughly four times as much liquid as almond flour. Swap it cup-for-cup and you'll end up with something resembling a hockey puck wrapped in crumbs. This mistake is easy to make because the swap looks straightforward on the surface.
 
 The working ratio is about 1/4 cup of coconut flour for every 1 cup of almond flour a recipe calls for, with a meaningful increase in eggs and liquid. A reliable coconut flour sandwich loaf uses roughly 1/2 cup of coconut flour, 6 eggs, 1/4 cup of melted butter or coconut oil, 1 teaspoon of baking powder, and a pinch of salt. That's the entire ingredient list. The result is lighter and slightly spongy, and it'll slice reasonably well once it's completely cooled. Do not cut it hot or it falls apart.
 
@@ -80,7 +79,6 @@ You can make sunflower seed flour at home: pulse raw, unsalted sunflower seeds i
 ## Sources
 
 - [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682)
-
 
 Neither works well as a single-ingredient base, but both punch above their weight when combined with other flours.
 

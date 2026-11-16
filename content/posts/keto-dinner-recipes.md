@@ -25,7 +25,7 @@ author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 lastmod: 2026-07-08
 ---
-Most people quit keto at dinner. Not breakfast, when eggs are easy. Not lunch, when a salad feels virtuous. It's 6pm, the family wants pasta, you're staring at a block of cheese, and something breaks. I've watched this happen with dozens of clients. The plan doesn't fail because keto is hard. It fails because nobody gave them real dinners that actually taste like dinner.
+Most people quit keto at dinner. Not breakfast, when eggs are easy. Not lunch, when a salad feels virtuous. It's 6pm, the family wants pasta, you're staring at a block of cheese, and something breaks. The plan doesn't fail because keto is hard. It fails because nobody gave them real dinners that actually taste like dinner.
 
 That's what this is. Specific recipes, real food, and enough variety to survive past day five.
 
@@ -87,7 +87,7 @@ Slice pre-cooked pork belly into 1-inch pieces and sear in a dry pan until deepl
 
 ## How to Build a Keto Dinner Without a Recipe
 
-The best skill is looking at your refrigerator at 6pm and constructing something reasonable without searching the internet. Here's what I give all my clients:
+The best skill is looking at your refrigerator at 6pm and constructing something reasonable without searching the internet. A reliable approach:
 
 | Component | What to Choose | Serving Size | Approx Net Carbs |
 |---|---|---|---|
@@ -131,7 +131,6 @@ If energy crashes are hitting hard in the first two weeks, it's probably electro
 - [Glass meal prep containers](https://www.amazon.com)
 - [electrolyte supplement](https://www.amazon.com)
 - [Lukas Blazek](https://www.pexels.com/@goumbik)
-
 
 **Eating too lean.** This is the biggest one. People terrified of fat choose 99% lean turkey, skip the olive oil, and wonder why they're ravenous by 9pm. Keto works because fat is satiating. Don't fight it. Use 80/20 beef. Cook your chicken in butter. Dress your vegetables generously.
 

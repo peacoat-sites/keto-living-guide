@@ -43,7 +43,7 @@ Then there's cortisol. Stress, bad sleep, and aggressive exercise all spike it, 
 
 ## The Specific Benefits Women Over 40 Report (and What the Research Says)
 
-I've worked with hundreds of women in this age bracket. The changes they notice go way beyond what the scale says.
+Women in this age bracket often notice changes that go way beyond what the scale says.
 
 **Fat loss, particularly around the midsection.** A 2020 meta-analysis in *Obesity Reviews* found that very-low-carbohydrate diets reduced visceral adipose tissue more effectively than low-fat diets. For women dealing with that belly that appeared seemingly overnight at 42, this is real.
 
@@ -124,7 +124,6 @@ Here's where keto gets specific to women, and where generic advice breaks down.
 - [Good meal prep containers](https://www.amazon.com)
 - [MCT oil](https://www.amazon.com)
 - [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
-
 
 This is a template, not gospel. It shows eating keto doesn't mean subsisting on bacon:
 

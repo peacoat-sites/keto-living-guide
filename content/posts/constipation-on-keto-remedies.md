@@ -41,7 +41,7 @@ But there's more going on. When you drop carbohydrates, your body flushes glycog
 
 There's also the dairy variable. A lot of people go keto and immediately lean into cheese, heavy cream, and butter as their fat sources. Dairy is constipating for a large portion of adults, often subclinically, meaning they don't identify it as the culprit because they're not outright lactose intolerant.
 
-I've seen this pattern hundreds of times. The client who comes back after two weeks on keto looking great on the scale but quietly suffering from not having had a comfortable bowel movement since day four.
+A common issue on keto: the scale looks great after two weeks, but bowel movements have become uncomfortable or stopped entirely by day four.
 
 ---
 
@@ -78,7 +78,7 @@ The target I use with clients: take your body weight in pounds, divide by two, a
 
 This one is unpopular because keto dieters love their cheese. But if you've tried magnesium, added fiber, are drinking adequate water, and you're still stuck, cut dairy for two weeks. Not forever. Just as a diagnostic test.
 
-A reader named Priya emailed me earlier this year to tell me she'd been constipated for six weeks on keto and had tried everything. After going through her food log, I noticed she was eating three to four ounces of cheese a day plus heavy cream in two coffees. She cut dairy for ten days. Problem solved within four days. She reintroduced it slowly and found she tolerated small amounts of hard cheeses fine, but the heavy cream was her personal culprit.
+For example, someone eating three to four ounces of cheese daily plus heavy cream in coffee might find that cutting dairy for ten days resolves constipation. When reintroducing, hard cheeses may be tolerable while heavy cream remains problematic.
 
 That's not a universal finding. But it's common enough that it should be on your checklist.
 
@@ -127,7 +127,6 @@ Client with pre-existing constipation starts keto → existing issue worsens sig
 - Paoli A, et al. (2013). "Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets." *European Journal of Clinical Nutrition*. Background on physiological adaptations during keto.
 
 ---
-
 
 *Photo: [Caleb Oquendo](https://www.pexels.com/@caleboquendo) via Pexels*
 

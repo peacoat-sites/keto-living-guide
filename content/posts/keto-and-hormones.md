@@ -27,17 +27,15 @@ faqs:
 
 Somewhere around month three of keto, a client of mine, Priya, called me genuinely alarmed. Her periods had gone irregular, she was losing hair by the handful, and she'd gained two pounds despite eating under 20 grams of carbs a day. She thought the diet had broken something. What had actually happened was more complicated, and more fixable, than she feared. But it took a real conversation to sort out, because the keto world tends to either ignore hormonal fallout entirely or catastrophize it into "keto destroys your thyroid and you'll never cycle normally again." Neither of those is true, and neither helps anyone.
 
-Hormones and low-[carb eating](/the-2025-2030-dietary-guidelines-finally-validate-low-carb-eating/) have a genuinely complex relationship. Some of the hormonal shifts that happen on keto are beneficial, backed by solid research. Some are real risks that get glossed over in the enthusiasm. And a few things people blame on keto are actually caused by something else entirely, usually eating too little food, not too little carbohydrate. I've spent years watching clients muddle through this, and I've made some of the same mistakes myself when I first experimented with extended fasting alongside low-carb. The confusion is understandable. The good news is that most of it is addressable.
-
+Hormones and low-[carb eating](/the-2025-2030-dietary-guidelines-finally-validate-low-carb-eating/) have a genuinely complex relationship. Some of the hormonal shifts that happen on keto are beneficial, backed by solid research. Some are real risks that get glossed over in the enthusiasm. And a few things people blame on keto are actually caused by something else entirely, usually eating too little food, not too little carbohydrate. Many people find the confusion understandable, and addressing it requires sorting through what research actually shows. The confusion is understandable. The good news is that most of it is addressable.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto reliably lowers insulin and can improve insulin sensitivity, a real, meaningful benefit for many people.</li><li style="margin:5px 0">Menstrual disruption on keto is usually caused by undereating (too few calories), not carb restriction itself.</li><li style="margin:5px 0">Thyroid T3 levels often drop on keto but this doesn't always signal dysfunction; context matters enormously.</li><li style="margin:5px 0">Cortisol can rise with aggressive calorie restriction on top of keto, making fat loss stall paradoxically.</li><li style="margin:5px 0">Most hormonal side effects resolve when calories are adequate and electrolytes are managed.</li></ul></div>
-
 
 ## What keto actually does to insulin (this one's real)
 
 The clearest, most well-supported hormonal effect of a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) is on insulin. When you cut carbohydrates below roughly 20-50 grams a day, you remove the primary stimulus for insulin secretion. Insulin drops. Significantly. A 2021 study in *Cell Metabolism* found that participants on a ketogenic diet showed a 33% reduction in fasting insulin levels over four weeks compared to those on a low-fat diet. That's not nothing.
 
-For people with hyperinsulinemia, type 2 diabetes, or polycystic ovary syndrome (PCOS), this is often the most therapeutically meaningful change keto produces. Lower chronic insulin means less androgen stimulation in PCOS, which is why some women see dramatic improvement in cycle regularity and ovulatory function. I've had clients go from years of anovulatory cycles to regular periods within three months. That's not anecdote-as-evidence; it's consistent enough across my practice and the published PCOS literature that I feel confident saying keto is one of the more effective dietary interventions for this condition specifically.
+For people with hyperinsulinemia, type 2 diabetes, or polycystic ovary syndrome (PCOS), this is often the most therapeutically meaningful change keto produces. Lower chronic insulin means less androgen stimulation in PCOS, which is why some women see dramatic improvement in cycle regularity and ovulatory function. This is consistent enough across the published PCOS literature that keto is considered one of the more effective dietary interventions for this condition specifically.
 
 What keto is not is a universal insulin cure. If you're already insulin-sensitive, dropping insulin further doesn't add much benefit and may not be the right tool for you.
 
@@ -71,7 +69,7 @@ The sodium piece is underappreciated. Keto causes significant sodium loss throug
 
 Priya's situation is more common than the keto community admits. Menstrual irregularities, loss of period, shortened luteal phases, it happens. But attribution matters enormously.
 
-In my experience, when a woman loses her period on keto, it's almost never the carb restriction itself. It's the calorie deficit. The hypothalamic-pituitary-ovarian axis is extraordinarily sensitive to energy availability. When caloric intake drops below what's needed to support both basic functions and activity, the body essentially pauses reproduction. This is called hypothalamic amenorrhea, and it happens on high-carb diets too, in undereating distance runners, in people with restrictive eating patterns of any kind.
+When a woman loses her period on keto, it's almost never the carb restriction itself. It's the calorie deficit. The hypothalamic-pituitary-ovarian axis is extraordinarily sensitive to energy availability. When caloric intake drops below what's needed to support both basic functions and activity, the body essentially pauses reproduction. This is called hypothalamic amenorrhea, and it happens on high-carb diets too, in undereating distance runners, in people with restrictive eating patterns of any kind.
 
 The keto version is sneaky because fat is so calorie-dense that people sometimes eat genuinely too little without meaning to. Four ounces of almonds and a handful of cheese feels like a lot of food. It's not that many calories relative to what an active woman needs.
 
@@ -96,7 +94,6 @@ One area I don't have good numbers on: the long-term hormonal effects of keto in
 - Loucks AB et al.: Research on energy availability and hypothalamic amenorrhea, defining the threshold at roughly 30 kcal/kg of lean mass per day.
 
 ---
-
 
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 

@@ -56,7 +56,7 @@ One 2017 study published in *Nutrition & Metabolism* found that adults with [typ
 
 The mechanism isn't magic. It's just removing the stimulus. If you want lower insulin, stop asking your pancreas to produce so much of it at every meal.
 
-I've watched clients who struggled for years with a "healthy" diet high in whole grains, fruit, and lean protein, genuinely puzzled why they couldn't lose weight. When we tracked their meals, they were eating 200 to 250 grams of carbs a day. Even "clean" carbs spike insulin. Switching to keto often produces a 2 to 4 pound drop in the first week from glycogen and water loss. But after week 3 or 4, when insulin comes down and lipolysis (fat burning) can actually activate, the real changes start to show.
+Many people follow a "healthy" diet high in whole grains, fruit, and lean protein without realizing why they can't lose weight. Tracking meals often reveals intake at 200 to 250 grams of carbs a day. Even "clean" carbs spike insulin. Switching to keto often produces a 2 to 4 pound drop in the first week from glycogen and water loss. After week 3 or 4, when insulin comes down and lipolysis (fat burning) can activate, more significant changes typically appear.
 
 ## What the Research Actually Says
 
@@ -113,7 +113,6 @@ The Mediterranean diet often wins in long-term adherence studies, and it does pr
 - [Jonathan Borba](https://www.pexels.com/@jonathanborba)
 - published in *Nutrition & Metabolism* found that adults with type 2 diabetes fol
 - Actually Says
-
 
 The most frequent error I see is swapping carbs for protein without increasing fat enough. This matters because protein, especially in large amounts, can stimulate enough insulin to slow ketosis. Your fat intake should be high enough that you're genuinely satiated between meals. If you're eating mostly chicken breast and salad and feeling miserable, you're doing low-calorie, not keto.
 

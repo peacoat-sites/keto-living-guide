@@ -23,7 +23,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 lastmod: 2026-07-08
 ---
-Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. I've seen this play out dozens of times: a client cuts out bread and pasta, feels great for a week, then stalls completely. We dig into their food log and find a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.
+Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. For example, someone might cut out bread and pasta, feel great for a week, then hit a plateau. Their food log reveals a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.
 
 ## The Obvious Stuff (That People Still Underestimate)
 
@@ -54,7 +54,7 @@ Sugary drinks are another category people mentally know but still underestimate 
 | Plain Greek yogurt | 1 serving | 8-10 |
 | Ketchup | 1 tbsp | 4 |
 
-This is where things get genuinely counterintuitive. Honestly, this is where I find the most interesting conversations with clients.
+This is where things get genuinely counterintuitive. This is where I find the most interesting conversations with clients.
 
 **Fruit.** Nearly all fruit is high in natural sugar, specifically fructose, which absolutely counts toward your carb limit. A medium banana is about 24 grams of net carbs. A large apple is around 23 grams. A cup of grapes is 26 grams. Even fruit that tastes tart, like mango or pineapple, runs 22 to 25 grams per cup.
 
@@ -72,7 +72,7 @@ I'll be honest: this category causes more stalls and frustrations than any other
 
 **Condiments and sauces.** Ketchup has about 4 grams per tablespoon, which doesn't sound bad until you realize most people use significantly more than one tablespoon. Barbecue sauce is even worse: some brands carry 12 to 16 grams per two tablespoons. Teriyaki sauce and sweet chili sauce are essentially sugar in bottle form. Even some hot sauces have added sugar worth checking. Salad dressings are a common culprit: low-fat versions in particular tend to compensate for removed fat with added sugar.
 
-**Medications and supplements.** What surprised me when I first researched this deeply was how often people overlook their chewable vitamins, gummy supplements, or liquid medications. Many contain dextrose, maltodextrin, or corn syrup as a base. If you're taking multiple chewable supplements per day, you could be adding 5 to 10 grams of carbs without realizing it. This doesn't mean stop taking prescribed medications. But it's worth reading labels.
+**Medications and supplements.** Chewable vitamins, gummy supplements, and liquid medications are easy to overlook. Many contain dextrose, maltodextrin, or corn syrup as a base. If you're taking multiple chewable supplements per day, you could be adding 5 to 10 grams of carbs without realizing it. This doesn't mean stop taking prescribed medications. But it's worth reading labels.
 
 **Protein bars and "low-carb" packaged foods.** This deserves its own space. The keto food market has exploded, and not all of it is honest. Some products labeled "[keto-friendly](/is-keto-right-for-you/)" or "low net carbs" use sugar alcohols like maltitol, which affects blood sugar in a way more similar to regular sugar than manufacturers like to admit. Erythritol and allulose are better options. If you're buying packaged keto snacks, flip them over and read the ingredient list, not just the net carb count on the front.
 
@@ -100,9 +100,6 @@ Keeping a kitchen scale and reading labels consistently are two habits that sepa
 ## Sources
 
 - here is genuinely mixed
-
-
-Alcohol on keto is a topic where I've seen a lot of wishful thinking, and I want to give you the honest version.
 
 The research here is genuinely mixed. Pure spirits like vodka, whiskey, tequila, and gin contain zero carbohydrates. Dry wines run about 2 to 4 grams per 5-ounce glass. So technically, these fit the carb math of keto. But there are complicating factors.
 

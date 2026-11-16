@@ -72,7 +72,7 @@ If you want weight loss and aren't pursuing keto for a specific reason (epilepsy
 
 But if you're doing keto for epilepsy, brain fog, or because you're deliberately experimenting with ketosis as a metabolic tool, Atkins isn't an adequate replacement. They're not interchangeable for those purposes.
 
-The other group who should pay attention: people who get stuck. I've seen this play out dozens of times. Someone does strict Atkins induction, loses weight, moves to the next phase, and plateaus. They think they're still in ketosis because they're "doing low-carb." They add beans, some fruit, a bit of quinoa. All reasonable by Atkins 40 standards. All likely to tank their ketones. If maintaining ketosis is part of your strategy, you need to treat it as an explicit goal, not an accident of following a plan.
+The other group who should pay attention: people who get stuck. For example, someone might do strict Atkins induction, lose weight, move to the next phase, and plateau. They assume they're still in ketosis because they're "doing low-carb," then add beans, some fruit, a bit of quinoa. These are reasonable by Atkins 40 standards but likely to lower ketones. If maintaining ketosis is part of your strategy, you need to treat it as an explicit goal, not an accident of following a plan.
 
 ## The Product Overlap Situation
 
@@ -83,7 +83,6 @@ The other group who should pay attention: people who get stuck. I've seen this p
 - isn't working. Here
 - shows carb-restricted diets beat low-fat diets for weight loss short-term
 - in the *British Journal of Nutrition* shows this pattern repeatedly
-
 
 Atkins-branded products are everywhere. They're slapped with "keto-friendly" labels. They're marketed to both audiences. An Atkins Chocolate Peanut Butter Bar clocks in at 3g net carbs according to the label. It also contains sugar alcohols, specifically maltitol in most versions, which spikes blood sugar harder than other sugar alcohols and can suppress ketones in sensitive people. If you're buying these and assuming they're neutral to ketone levels, test that assumption.
 

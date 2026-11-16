@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most runners quit keto within three weeks. Not because keto failed them, but because nobody tells them what the first month actually feels like when you're running on fumes.
 
-I've worked with a lot of endurance athletes, and runners are some of the most frustrated keto clients I see. They read something promising about fat adaptation and fewer bonks on long runs, drop carbs to under 20g, and then they're dragging through Tuesday's tempo run like they're running through wet concrete. They conclude keto doesn't work for runners. A lot of them are right. But a lot of them just needed a different approach than the standard keto advice, which was built around sedentary weight loss, not people logging 30-plus miles a week.
+Runners often approach keto the same way they'd approach a standard diet: drop carbs hard and fast, expecting fat adaptation to fuel long runs the way carbs did. For many, this backfires. They hit the wall on tempo runs and conclude keto doesn't work for endurance. But standard keto advice is built around sedentary weight loss, not the demands of logging 30-plus miles a week. Runners need a different approach.
 
 Here's what I actually know after years of watching runners struggle with and succeed on low-carb: it can work. It's genuinely harder than the podcasts make it sound. And the timeline you've been given is probably too optimistic by about two months.
 
@@ -63,7 +63,7 @@ This is where most runners fail. The adaptation period, the time it takes your b
 
 A few things help during that window.
 
-Electrolytes are non-negotiable, and most people undershoot them badly. On keto, your kidneys excrete more sodium because insulin is low and your body isn't holding glycogen (which holds water). You need 3,000-5,000mg of sodium per day as a runner on keto, sometimes more in heat. Potassium and magnesium matter too. I've seen runners quit keto because of leg cramps and fatigue that were basically just electrolyte deficiency. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) is the brand I recommend most often to clients because the sodium content is actually high enough to matter, unlike most sports drinks. (This site may earn a commission on qualifying purchases.)
+Electrolytes are non-negotiable, and most people undershoot them badly. On keto, your kidneys excrete more sodium because insulin is low and your body isn't holding glycogen (which holds water). You need 3,000-5,000mg of sodium per day as a runner on keto, sometimes more in heat. Potassium and magnesium matter too. Leg cramps and fatigue on keto often point to electrolyte deficiency, not a problem with keto itself. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) works well because the sodium content is high enough to matter, unlike most sports drinks. (This site may earn a commission on qualifying purchases.)
 
 Slow down. This is hard for runners. You may need to drop your easy pace by 60 to 90 seconds per mile for a while. Your aerobic base will build. Trying to maintain pre-keto paces during adaptation is like trying to drive your car hard while the fuel system is being reconfigured.
 
@@ -81,14 +81,13 @@ A kitchen scale is quietly one of the most useful investments you'll make. Eyeba
 - [RUN 4 FFWPU](https://www.pexels.com/@runffwpu)
 - in the Journal of Physiology
 
-
 Once you're fully adapted, many low-carb runners find they need little to no fuel during runs under 90 minutes. This is real and it's one of the genuine practical advantages: no gel dependency on moderate-distance runs.
 
 For longer efforts, things get more complicated. Some adapted runners go completely fat-fueled and do well. Others use targeted keto, taking 20-30g of fast carbs immediately before a long effort or hard workout, then returning to strict keto. This doesn't fully knock you out of ketosis and it blunts the performance hit at higher intensities. It's a reasonable middle ground that a lot of endurance athletes find practical.
 
 MCT oil is worth mentioning. [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=contentportfo-20) converts quickly to ketones and some runners use it as a pre-run fuel source. The evidence that it improves performance is modest at best, but as a source of fast-burning fat calories before a run, it works. Start small. Your gut will let you know if you've gone too fast.
 
-The runners I've seen do best on keto aren't the ones who went all-in overnight because they listened to a podcast. They're the ones who treated it like a training adaptation, patient and methodical, willing to accept some temporary regression for a longer-term shift. Whether that trade-off makes sense for you depends entirely on what kind of runner you are and what you actually want. Working with a sports dietitian who knows both endurance training and low-carb physiology is worth the investment if you're serious about getting this right.
+Runners who succeed on keto treat it like a training adaptation: patient and methodical, willing to accept temporary regression for a longer-term shift. Whether that trade-off makes sense for you depends entirely on what kind of runner you are and what you actually want. Working with a sports dietitian who knows both endurance training and low-carb physiology is worth the investment if you're serious about getting this right.
 
 *Photo: [RUN 4 FFWPU](https://www.pexels.com/@runffwpu) via Pexels*
 

@@ -25,7 +25,7 @@ When RFK Jr. stood up in February 2026 and told the world that a ketogenic diet 
 | Meta-analysis (St. Michael's/University of Toronto) | Multiple studies on depression and anxiety | Various | Systematic review | Consistent direction of evidence | Meta-analysis |
 | Standard antidepressants + counseling | Depression patients | Typical course | Response rate | ~50% | Clinical benchmark |
 
-I'll be honest, when I first started digging into the metabolic psychiatry literature, I expected to find a thin stack of small pilot studies propped up by enthusiast researchers. What I found was more interesting than that, and also more complicated.
+The metabolic psychiatry literature contains more than just small pilot studies from niche researchers. What I found was more interesting than that, and also more complicated.
 
 The flagship work right now comes from Stanford psychiatrist Dr. Shebani Sethi, who coined the term "ketogenic metabolic therapy" (KMT) and has essentially founded the field of metabolic psychiatry. Her pilot study of 21 adults with bipolar disorder or schizophrenia found that after four months on a ketogenic diet, participants showed a 31% improvement in Clinical Global Impression severity scores. For the schizophrenia subgroup specifically, Brief Psychiatric Rating Scale scores dropped by 32%. Those are clinically meaningful numbers, not noise. But 21 people is 21 people. Pilots are hypothesis-generators, not proof.
 

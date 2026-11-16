@@ -33,7 +33,7 @@ Here's the mechanism most keto guides skip over. When you reduce carbohydrates d
 
 Layer on top of that the fact that many people starting keto are already walking in with suboptimal magnesium status. Population studies consistently show that a significant portion of adults in the US and UK don't meet even the modest RDA of 310 to 420mg per day. So you're often starting from behind and then accelerating the deficit.
 
-I've seen clients who were diligent about electrolytes, salting their food, taking sodium supplements, and still experiencing symptoms, because they were chasing sodium and ignoring magnesium entirely. The two problems can look similar on the surface. The fix is not the same.
+A common mistake is focusing on sodium while neglecting magnesium entirely, even when being diligent about electrolytes and salt intake. The two problems can look similar on the surface. The fix is not the same.
 
 ## What Low Magnesium Actually Feels Like on Keto
 
@@ -90,7 +90,7 @@ The good news: several high-magnesium foods are genuinely keto-friendly.
 - **Avocado:** About 58mg per whole fruit, and it's already on most keto plates.
 - **Mackerel and salmon:** Meaningful magnesium plus the omega-3 benefits.
 
-The harder reality is that hitting 350 to 400mg from food alone while keeping carbs under 20 to 30g is genuinely difficult. Most of my clients who are doing keto seriously end up needing at least a partial supplement. That's not a failure, it's just the math.
+Hitting 350 to 400mg from food alone while keeping carbs under 20 to 30g is genuinely difficult. Most people doing keto seriously end up needing at least a partial supplement.
 
 ## A Practical Protocol for Getting Magnesium Right on Keto
 
@@ -101,7 +101,6 @@ The harder reality is that hitting 350 to 400mg from food alone while keeping ca
 - [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=contentportfo-20)
 - [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
 - here is mixed and I won't oversell it
-
 
 If you're dealing with symptoms right now, here's what I'd actually walk through with a client:
 
@@ -121,7 +120,7 @@ A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutritio
 
 ---
 
-Magnesium isn't the most exciting topic in the keto space. It doesn't get the attention that macros and ketone tracking do. But in my experience, it's the single nutrient most likely to explain why someone feels noticeably better or noticeably worse on a well-formulated low-carb diet. Getting it right won't guarantee results, but getting it wrong creates a drag on everything else you're trying to do. Worth the attention.
+Magnesium isn't the most exciting topic in the keto space. It doesn't get the attention that macros and ketone tracking do. It's often the single nutrient most likely to explain why someone feels noticeably better or noticeably worse on a well-formulated low-carb diet. Getting it right won't guarantee results, but getting it wrong creates a drag on everything else you're trying to do. Worth the attention.
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

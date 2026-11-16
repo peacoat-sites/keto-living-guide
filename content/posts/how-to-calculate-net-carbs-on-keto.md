@@ -23,7 +23,7 @@ author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
 lastmod: 2026-07-08
 ---
-Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That figure, "total carbs", almost always overstates what your body actually processes. I've seen clients stall for weeks, convinced they were doing everything right, only to discover they were eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.
+Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That figure, "total carbs", almost always overstates what your body actually processes. A common pattern is people stalling for weeks while convinced they're doing everything right, only to discover they're eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.
 
 ## What Net Carbs Actually Are (And Why They Matter)
 
@@ -73,7 +73,7 @@ The problem is that not all sugar alcohols deserve to be fully subtracted. Real 
 | Isomalt | ~9 | Partially |
 | Lactitol | ~6 | Partially |
 
-Maltitol is the one that catches people most often. It's cheap to produce, widely used in "sugar-free" chocolates and keto-labeled bars, and it raises blood glucose at roughly a third the rate of table sugar. That's not zero. Someone eating a bar with 20g of maltitol and subtracting all of it is likely getting a meaningful insulin response they didn't account for. I've seen this derail more than a few clients who were eating "keto" products every day.
+Maltitol is the one that catches people most often. It's cheap to produce, widely used in "sugar-free" chocolates and keto-labeled bars, and it raises blood glucose at roughly a third the rate of table sugar. That's not zero. Someone eating a bar with 20g of maltitol and subtracting all of it is likely getting a meaningful insulin response they didn't account for. This can derail people who eat "keto" products every day.
 
 When I went deep on this, what surprised me was how inconsistently the keto food industry applies these distinctions. A product might technically follow the legal definition of net carbs while understating its real glycemic impact by quite a bit. Read ingredient lists, not just net carb labels on the front.
 
@@ -117,7 +117,6 @@ For whole, unprocessed foods, use a reliable nutrition database like Cronometer 
 - is mixed in places
 - supports this in most healthy people
 
-
 A few patterns I see repeatedly.
 
 **Trusting the front-of-package claim without checking the label.** "2g net carbs!" on the front sometimes involves math that only works if you subtract maltitol in full. Flip the package over and do your own calculation.
@@ -130,6 +129,6 @@ A few patterns I see repeatedly.
 
 ---
 
-The honest bottom line is that net carb math isn't complicated, but it does require more attention than most people give it, especially once packaged keto products enter the picture. Whole foods are easier: pull up a reliable database, weigh your portions, do the simple subtraction. Packaged products require you to actually look at what's inside. Take the time to calculate at least once for every product you eat regularly. You might find everything lines up. You might find you've been over your limit for weeks without knowing it. In my experience, that second outcome is more common than people expect, and discovering it is usually the thing that finally makes keto click.
+The honest bottom line is that net carb math isn't complicated, but it does require more attention than most people give it, especially once packaged keto products enter the picture. Whole foods are easier: pull up a reliable database, weigh your portions, do the simple subtraction. Packaged products require you to actually look at what's inside. Take the time to calculate at least once for every product you eat regularly. You might find everything lines up. You might find you've been over your limit for weeks without knowing it. That second outcome tends to be more common than expected, and discovering it often makes keto finally click.
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*

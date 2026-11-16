@@ -33,13 +33,11 @@ A half-cup of dry rolled oats (that's a single serving by most package standards
 
 That's not a close call. That's a no.
 
-Traditional oatmeal is not keto-friendly. I know some corners of the internet will hedge this into oblivion, but I'm not going to do that to you. The carb load is too high, the fiber offset isn't enough to change the math meaningfully, and eating it will knock most people out of ketosis within a few hours. I've seen clients try to "just have a small amount" and wonder why their ketone readings tanked. Oats are almost entirely starch. That's just what they are.
+Traditional oatmeal is not keto-friendly. I know some corners of the internet will hedge this into oblivion, but I'm not going to do that to you. The carb load is too high, the fiber offset isn't enough to change the math meaningfully, and eating it will knock most people out of ketosis within a few hours. Oats are almost entirely starch. That's just what they are.
 
 Here's a breakdown so you can see exactly what you're working with across different oat types, because people ask me about steel-cut oats all the time thinking they're somehow different:
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Net carbs per 1/2 cup dry oats (approximate)</div><div class="sc-row"><span class="sc-label">Rolled oats</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">27 g net ca</span></div><div class="sc-row"><span class="sc-label">Steel-cut oats</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">26 g net ca</span></div><div class="sc-row"><span class="sc-label">Quick oats</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">28 g net ca</span></div><div class="sc-row"><span class="sc-label">Instant oats (plain)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">29 g net ca</span></div><div class="sc-row"><span class="sc-label">Oat bran</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">18 g net ca</span></div><div class="sc-src">Source: USDA FoodData Central, 2026</div></div>
-
 
 | Oat Type | Serving (dry) | Total Carbs | Fiber | Net Carbs |
 |---|---|---|---|---|
@@ -53,11 +51,11 @@ Steel-cut oats have a lower glycemic index than rolled oats. That's real. But lo
 
 ## Why Oatmeal Trips People Up
 
-You might be wondering why oatmeal gets so much positive press if it's this carb-heavy. Honestly, a lot of it is deserved, just not for people eating keto. Oats are genuinely nutritious: beta-glucan fiber that supports cholesterol levels, decent protein for a grain, solid amounts of magnesium and iron. A 2021 meta-analysis in the *British Journal of Nutrition* confirmed the cholesterol-lowering effects of regular oat consumption. None of that is wrong.
+You might be wondering why oatmeal gets so much positive press if it's this carb-heavy. A lot of it is deserved, just not for people eating keto. Oats are genuinely nutritious: beta-glucan fiber that supports cholesterol levels, decent protein for a grain, solid amounts of magnesium and iron. A 2021 meta-analysis in the *British Journal of Nutrition* confirmed the cholesterol-lowering effects of regular oat consumption. None of that is wrong.
 
 The issue is that "healthy" and "keto-compatible" are two different questions, and the keto space sometimes acts like the only good foods are keto foods. That's a distortion. Oatmeal is healthy food for people who aren't restricting carbohydrates. For people who are, it's a problem food purely because of carb density.
 
-I made this mistake myself early in my practice. I had a client, a retired school principal named Carolyn, who was eating a small bowl of steel-cut oats every morning because she'd read they were "low-glycemic." She'd stall completely for three weeks, feel fine, wonder why her ketones were always reading near zero. When we pulled the oats out and replaced them with eggs and avocado, she broke the stall within five days. That was the moment I started being much more explicit with clients about the glycemic index vs. net carbs distinction.
+A common mistake is assuming "low-glycemic" foods are keto-safe. The glycemic index doesn't account for total carb load. Swapping oats for eggs and avocado can help break a stall because you're eliminating the starch entirely, not just choosing a slower-digesting version of it.
 
 ## The "Noatmeal" Options That Actually Work
 
@@ -102,7 +100,6 @@ I don't have solid data on whether people with significantly higher carb toleran
 - Accurso, A. et al. (2008): "Dietary carbohydrate restriction in type 2 diabetes." *Nutrition & Metabolism*, 5:9. Establishes 20-50g net carb range cited in this article.
 
 ---
-
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 

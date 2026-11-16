@@ -29,7 +29,7 @@ You've been strict for three weeks. Maybe four. The scale's been moving, your pa
 
 So here you are. Wondering if everything you've built just evaporates, or if there's actually a smarter way to think about this.
 
-I've had this conversation probably a thousand times. And honestly, the answer is messier than the keto forums want it to be.
+This question comes up often, and the answer is messier than the keto forums want it to be.
 
 ## What a cheat day actually does to ketosis
 
@@ -83,10 +83,9 @@ Here's what works:
 - what's the point. Keto
 - on cycling in and out of ketosis is genuinely mixed
 
-
 Some people do loose low-carb without obsessing over exact macros. A moderate meal hitting 60-80 grams of carbs is less disruptive for them than for someone tracking strictly.
 
-If your goal is general metabolic health and gradual weight loss rather than therapeutic ketosis, that flexibility might work fine. For a lot of my clients, aiming for "low carb most of the time" lands them in a better, more sustainable place than chasing perfect ketone numbers daily.
+If your goal is general metabolic health and gradual weight loss rather than therapeutic ketosis, that flexibility might work fine. For many people, aiming for "low carb most of the time" lands them in a better, more sustainable place than chasing perfect ketone numbers daily.
 
 Where it gets weird is when people use "flexible keto" as permission to eat freely on weekends. If Thursday through Sunday are loosely unrestricted, you're not doing a low-carb diet. You're eating normally half the time. That's not a judgment. It's just worth being honest about.
 

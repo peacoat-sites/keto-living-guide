@@ -18,9 +18,7 @@ The federal government spent decades telling Americans to eat less fat, load up 
 
 Six months out, the keto and low-carb communities are still sorting through what this [actually means](/what-the-new-mit-nature-study-on-keto-and-gut-cancer-actually-means/). The enthusiasm is real, and some of it is warranted. But this isn't a full endorsement of keto for the general population, and the gap between a policy shift and changed outcomes at hospitals, school cafeterias, and clinics is wider than most coverage admits. Here's what the guidelines actually say, what's changed in practice, and where the celebration should be tempered.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The 2025–2030 DGAs are the first to explicitly recognize ketogenic diets (5–20% of energy from carbs) for type 2 diabetes and metabolic syndrome.</li><li style="margin:5px 0">Added sugar limits tightened from 10% to 6% of daily energy, or roughly 25–30g/day maximum.</li><li style="margin:5px 0">Protein targets raised to 1.2–1.6g per kilogram of body weight per day, aligning more closely with low-carb practice.</li><li style="margin:5px 0">Refined grains are no longer the dietary foundation; the old grain-forward food pyramid logic is formally retired.</li><li style="margin:5px 0">Jeff Volek, co-founder of Virta Health, served as a review author for the evidentiary foundation of the new guidelines.</li></ul></div>
-
 
 ## What the Guidelines Actually Say (and Don't Say)
 
@@ -65,7 +63,7 @@ What the guidelines don't do is validate any specific product, protocol, or bran
 
 Long-term data on ketogenic diets past two years remains genuinely thin. The mechanistic case for carbohydrate restriction in insulin resistance is strong. The short and medium-term clinical outcomes, particularly for glycemic control and weight, are well-supported. What we don't have is decades of large-scale observational data on cardiovascular outcomes in people maintaining ketosis long-term. The 2025–2030 DGAs reflect this: the recognition is real, but it's scoped to populations with specific metabolic conditions, not extended to the general public as a first-line approach.
 
-Anyone with existing cardiovascular disease, kidney disease, or who is pregnant should work with a clinician before adopting a ketogenic protocol. That's not a boilerplate disclaimer, it's a genuine clinical consideration that the new guidelines themselves don't sidestep.
+Anyone with existing cardiovascular disease, kidney disease, or who is pregnant should work with a clinician before adopting a ketogenic protocol. These aren't casual precautions - the new guidelines themselves address these populations directly.
 
 The 2025–2030 Dietary Guidelines represent the most meaningful federal acknowledgment of low-carb eating in the history of these documents, and that's worth recognizing clearly. But federal recognition doesn't automatically translate to changed clinical practice, improved food access, or better population health outcomes. The science earned this moment. Now the harder work, getting the approach to the people who need it at a cost they can manage, is still ahead.
 

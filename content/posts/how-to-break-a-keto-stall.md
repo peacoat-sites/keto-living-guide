@@ -33,7 +33,7 @@ Here's what I tell people in this situation: you probably haven't done anything 
 
 Before we troubleshoot anything, let's define terms, because a lot of people are panicking over something that isn't a real stall.
 
-If you've lost steadily for four or five weeks and then the scale sat still for ten days, that might just be normal fluctuation. Weight loss on keto isn't linear. Water retention from a salty meal, hormonal shifts, inflammation from a hard workout -- any of these can mask half a pound of actual fat loss on the scale. I've seen clients swear they stalled for two weeks, pull out a tape measure, and find they'd lost an inch off their waist. The scale was lying.
+If you've lost steadily for four or five weeks and then the scale sat still for ten days, that might just be normal fluctuation. Weight loss on keto isn't linear. Water retention from a salty meal, hormonal shifts, inflammation from a hard workout -- any of these can mask half a pound of actual fat loss on the scale. The scale was lying.
 
 A real stall is typically four to six weeks of no movement in weight, measurements, or how clothes fit. That's the threshold where I start actually problem-solving.
 
@@ -41,11 +41,11 @@ You're probably thinking: "But I've read that keto stalls happen at two or three
 
 ## The Most Common Reasons (Ranked by How Often I Actually See Them)
 
-I've worked with a lot of people on ketogenic and low-carb protocols over the years, and the reasons for stalls are almost never mysterious. They cluster around a few very predictable culprits.
+The reasons for stalls are almost never mysterious. They cluster around a few very predictable culprits.
 
 **Calories are higher than you think.** This is number one, by a significant margin. Fat is calorie-dense (9 calories per gram versus 4 for carbs and protein), and most people on keto are eating more total calories than they realize. A tablespoon of olive oil you didn't measure, an extra handful of macadamia nuts, the heavy cream poured generously into three coffees -- it adds up fast. I made this mistake myself in the first month I went keto seriously. I was logging everything except the cooking fats, and I was probably 400 calories over my target without knowing it.
 
-**Hidden carbs.** This is number two, and it's sneaky. Dressings, sauces, nut butters, some protein powders, deli meats with added sugars, "keto" packaged products with sugar alcohols that some people metabolize differently. I've had clients swear up and down they were under 20g of net carbs, and we'd find 15g hiding in their daily "zero-sugar" teriyaki sauce. Always check the label, specifically the ingredient list, not just the carb number.
+**Hidden carbs.** This is number two, and it's sneaky. Dressings, sauces, nut butters, some protein powders, deli meats with added sugars, "keto" packaged products with sugar alcohols that some people metabolize differently. It's common to miss hidden carbs--for example, 15g might hide in a daily "zero-sugar" teriyaki sauce. Always check the label, specifically the ingredient list, not just the carb number.
 
 **Too much protein (less common than people think, but real for some).** The fear that protein kicks you out of ketosis via gluconeogenesis is massively overstated in the keto community. Current research suggests most people can handle moderate to moderately high protein without losing ketosis. But if you're eating large amounts of protein -- we're talking 200+ grams for a smaller person -- it may be worth pulling back slightly. The research here is honestly mixed, so I don't want to overstate this.
 
@@ -80,7 +80,7 @@ Real example from practice: A 38-year-old woman I worked with had been strict ke
 
 Scenario two: A male client, mid-40s, office job, had done everything right on paper for eight weeks with zero movement. His sleep averaged under five hours. He wasn't willing to change his work schedule but agreed to try magnesium glycinate at night (400mg) and melatonin (0.5mg). Sleep improved significantly. He lost 3 pounds in the following month without any other changes to his diet.
 
-I don't have clean numbers on how often the sleep fix specifically drives the result -- there are too many variables to isolate. But in my experience, cortisol-driven stalls respond well to sleep improvements even when diet stays constant.
+Cortisol-driven stalls often respond well to sleep improvements even when diet stays constant.
 
 ## When to Actually See a Doctor
 
@@ -97,7 +97,6 @@ This isn't an indictment of keto -- it's just reality. Some people need medical 
 - American Thyroid Association (current guidelines, thyroid.org): Diagnostic criteria for hypothyroidism relevant to weight loss resistance.
 
 ---
-
 
 *Photo: [Daniela Elena Tentis](https://www.pexels.com/@daniela-elena-tentis-118658) via Pexels*
 

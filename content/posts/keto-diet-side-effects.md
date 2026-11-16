@@ -81,7 +81,7 @@ Gallbladder issues can also surface in people who had a low-fat diet before keto
 
 The brain runs surprisingly well on ketones, and many people report sharper focus and more stable energy once keto-adapted. Getting there is a different story.
 
-Expect some irritability in the first week. Blood sugar stability improves long-term on keto, but the transition involves real glucose withdrawal, especially if you were eating a high-carb diet. Serotonin synthesis depends partly on carbohydrate intake, and you may notice mood dips in weeks one and two. I've seen clients who normally describe themselves as patient become genuinely short-tempered during the first ten days. It passes.
+Expect some irritability in the first week. Blood sugar stability improves long-term on keto, but the transition involves real glucose withdrawal, especially if you were eating a high-carb diet. Serotonin synthesis depends partly on carbohydrate intake, and you may notice mood dips in weeks one and two. Some people notice they're more irritable than usual during the first ten days. It passes.
 
 Sleep often gets weird before it gets better. Some people report insomnia during keto adaptation. This may be related to lower carbohydrate's effect on sleep onset (carbs raise tryptophan availability, which feeds into melatonin production) and potentially elevated cortisol. Keeping carb intake on the higher end of keto range, say 40 to 50 grams, in the evening rather than frontloading all carbs in the morning can help with sleep. Magnesium glycinate before bed also supports sleep quality directly.
 
@@ -108,7 +108,6 @@ Most keto side effects are front-loaded in the first few weeks. But there are a 
 - [Sports Research MCT Oil](https://www.amazon.com/s?k=sports+research+mct+oil&tag=contentportfo-20)
 - [OXO Good Grips Digital Scale](https://www.amazon.com/s?k=OXO+digital+kitchen+scale&tag=contentportfo-20)
 - [Andrea Piacquadio](https://www.pexels.com/@olly)
-
 
 Keto isn't appropriate for everyone, and some symptoms aren't "just the keto flu." Stop and seek medical advice if you experience:
 

@@ -59,7 +59,7 @@ The inflammation piece is harder to quantify but worth taking seriously. A dieta
 
 ## Clean Keto: What the Evidence Actually Supports
 
-What surprised me when I went through the research more carefully was how much of the benefit attributed to "keto" specifically may actually come from food quality improvements that happen alongside carb reduction. When studies show improved triglycerides, reduced blood pressure, or better markers of insulin sensitivity on ketogenic diets, the participants aren't usually eating gas station snacks. They're eating whole foods.
+Much of the benefit attributed to "keto" specifically may actually come from food quality improvements that happen alongside carb reduction. When studies show improved triglycerides, reduced blood pressure, or better markers of insulin sensitivity on ketogenic diets, the participants aren't usually eating gas station snacks. They're eating whole foods.
 
 Clean keto done well delivers fiber from non-starchy vegetables, which supports gut microbiome health. It delivers omega-3 fatty acids from fish and pastured eggs. It delivers magnesium from leafy greens, almonds, and avocado. These aren't small details. They're likely responsible for a significant portion of why people feel genuinely well on a keto diet long-term, not just "in ketosis."
 
@@ -101,7 +101,6 @@ The honest takeaway isn't "dirty keto is bad." It's that dirty keto trades long-
 - [Keto-friendly nut packs](https://www.amazon.com/s?k=macadamia+nuts+keto&tag=)
 - [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=)
 - in ketosis. A
-
 
 You don't have to overhaul everything at once.
 

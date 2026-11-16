@@ -25,7 +25,7 @@ faqs:
     a: "The first rapid drop is mostly water and glycogen, not fat. Once that's gone, fat loss is slower and more linear. What felt like 'keto magic' was a one-time glycogen flush. Real fat loss runs about 0.5-1.5 pounds per week at a reasonable deficit, which looks much less dramatic on the scale."
 ---
 
-Keto isn't working for you, and you've been doing it "right." That's the most frustrating place to be, and it's also the most common complaint I hear in my practice.
+Keto isn't working for you, and you've been doing it "right." That's the most frustrating place to be, and a common scenario people face on keto.
 
 Here's what most articles on this topic get wrong: they hand you a generic checklist ("are you eating too many carbs?") without acknowledging that the real answer is almost always one of about six specific things, and they're not all equally likely. Some causes are common. Some are rare but get overemphasized because they sound dramatic. Let me give you the actual ranked picture.
 
@@ -33,7 +33,7 @@ Here's what most articles on this topic get wrong: they hand you a generic check
 
 This is the number one culprit. Not because people are cheating, but because carb counts on packaged foods are genuinely confusing, and the "net carb" calculation gets abused.
 
-Net carbs (total carbs minus fiber and certain sugar alcohols) is a legitimate concept, but it doesn't mean everything with fiber is free. Erythritol is mostly safe to subtract. Maltitol, which you'll find in a lot of "keto" candy bars like Quest's older formulas and many cheaper gas-station bars, spikes blood sugar in a meaningful percentage of people. I've had clients eating 30 grams of maltitol daily while wondering why they couldn't get into ketosis. One woman, Maria, a teacher from Austin, kept her "net carbs" at 20 grams and still wasn't losing. We did a week of zero processed keto products and swapped to whole foods. She dropped 4 pounds in 10 days.
+Net carbs (total carbs minus fiber and certain sugar alcohols) is a legitimate concept, but it doesn't mean everything with fiber is free. Erythritol is mostly safe to subtract. Maltitol, which you'll find in a lot of "keto" candy bars like Quest's older formulas and many cheaper gas-station bars, spikes blood sugar in a meaningful percentage of people. For example, someone eating 30 grams of maltitol daily might stay out of ketosis without realizing why. Switching from processed keto products to whole foods for a week can clarify whether sugar alcohols are the culprit.
 
 Scenario: Client eating 2-3 "keto" protein bars daily with maltitol → eliminated processed bars, replaced with hard-boiled eggs and cheese → entered ketosis within 5 days, lost 6 lbs in the first two weeks.
 
@@ -53,7 +53,7 @@ I'll say this plainly because the keto marketing complex hates it: keto works pa
 
 Fat is 9 calories per gram. Adding butter to everything, pouring olive oil liberally, eating a handful of macadamia nuts every afternoon, these add up fast. A tablespoon of butter is about 102 calories. Two tablespoons of almond butter is around 190. If you're eating keto foods without tracking portions, you can eat 2,800 calories a day without trying very hard.
 
-I've worked with clients who were metabolically healthy, strictly under 20g of net carbs, fully in ketosis (confirmed with a Keto-Mojo meter), and still not losing weight because they were eating at maintenance or a slight surplus. Ketosis is not a magic fat-burning state that overrides energy balance. The research on this is pretty clear, and a 2021 study published in the American Journal of Clinical Nutrition specifically found that when calories were controlled, low-fat and low-carb diets produced similar weight loss over 12 weeks. The edge keto gives most people is behavioral, not metabolic.
+It's possible to be in ketosis, under 20g net carbs, and still not lose weight if you're eating at maintenance or a slight calorie surplus. Ketosis is not a magic fat-burning state that overrides energy balance. The research on this is pretty clear, and a 2021 study published in the American Journal of Clinical Nutrition specifically found that when calories were controlled, low-fat and low-carb diets produced similar weight loss over 12 weeks. The edge keto gives most people is behavioral, not metabolic.
 
 If you haven't tracked calories for at least two weeks to get a real baseline, do that before assuming something is "wrong" with your metabolism.
 
@@ -77,7 +77,7 @@ The "metabolic adaptation" entry deserves a note. It's real, but it's the diagno
 
 Short sleep raises ghrelin (the hunger hormone) and tanks leptin (the satiety hormone). It also elevates cortisol, which promotes fat storage, particularly around the midsection. This is true regardless of what diet you're on, but it interacts badly with keto because the early phase of keto already stresses the body a bit.
 
-I've seen clients who were doing everything right on paper and sleeping 5-6 hours a night because of work or young kids. Weight stalls completely. When they get to 7+ hours, even without any other changes, the scale starts moving again within two weeks. Not always dramatically, but consistently.
+Sleep deprivation can stall weight loss even when everything else is dialed in. Getting 7+ hours instead of 5-6 often restarts progress within two weeks, not always dramatically, but consistently.
 
 You're not going to out-keto a 5-hour sleep schedule. I'm sorry.
 
@@ -110,7 +110,6 @@ Scenario: Client on paroxetine for 2 years, strict keto, gained 4 lbs over first
 - Sleep Foundation / Spiegel, K. et al.: Research consistently linking short sleep duration to elevated ghrelin, reduced leptin, and impaired glucose metabolism.
 
 ---
-
 
 *Photo: [Cristian Mihaila](https://www.pexels.com/@crysnet) via Pexels*
 

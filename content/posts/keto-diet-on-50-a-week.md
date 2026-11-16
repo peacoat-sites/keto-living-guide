@@ -27,7 +27,7 @@ faqs:
 
 Fifty-two dollars. That's what the average American spends on food in a single day, according to the Bureau of Labor Statistics' Consumer Expenditure Survey. Not a week. One day. So when people tell me $50 a week for keto sounds impossible, I usually just let that number sit for a second.
 
-Here's the thing: keto has a reputation problem around cost. You see the influencer grocery hauls with $18 blocks of grass-fed butter and $14 bags of macadamia nuts, and you're convinced this way of eating requires a second income. I believed that too, early in my career. Then I started working with clients who were on tight budgets, single parents, grad students, people between jobs, and I had to figure out what actually works on a real dollar constraint. What I found was that keto is, structurally, one of the cheaper diets you can run, if you drop the premium branding and stick to the fundamentals.
+Keto has a reputation problem around cost. You see the influencer grocery hauls with $18 blocks of grass-fed butter and $14 bags of macadamia nuts, and you're convinced this way of eating requires a second income. Keto is, structurally, one of the cheaper diets you can run, if you drop the premium branding and stick to the fundamentals.
 
 You might be wondering if $50 a week means eating the same depressing three meals on rotation. It doesn't. But it does require a specific kind of planning that most keto advice skips right over.
 
@@ -60,7 +60,7 @@ That chart isn't meant to shame anyone buying keto tortillas. It's meant to show
 
 I used to tell clients to prioritize ground beef, and I still do, but I was under-selling pork for years. That was a mistake. Bone-in pork shoulder at roughly $1.99/lb is one of the most cost-effective keto proteins available, it's loaded with fat, and it slow-cooks into something genuinely good without much effort. A 5-lb shoulder runs $10, feeds 4 adults for two days, and requires about 10 minutes of actual work before you put it in the oven.
 
-The protein tier I use with budget clients looks like this, roughly from cheapest to most expensive per gram of protein: eggs, canned fish (sardines, mackerel, tuna), pork shoulder, chicken thighs (bone-in skin-on), 80/20 ground beef, whole chicken, then everything else. Notice salmon isn't on that list until you get to the bottom. Fresh salmon runs $10-14/lb at most stores right now. It's not a weekly staple on a $50 budget; it's an occasional treat when it goes on sale.
+A budget-friendly protein tier, roughly from cheapest to most expensive per gram, runs: eggs, canned fish (sardines, mackerel, tuna), pork shoulder, chicken thighs (bone-in skin-on), 80/20 ground beef, whole chicken, then everything else. Notice salmon isn't on that list until you get to the bottom. Fresh salmon runs $10-14/lb at most stores right now. It's not a weekly staple on a $50 budget; it's an occasional treat when it goes on sale.
 
 One thing that only comes from experience: buy the 80/20 ground beef, not the 90/10. On keto you need that fat, and the leaner version costs more per pound and eats drier. The industry has been marketing leanness as a health virtue for so long that people reflexively reach for the 93/7, pay an extra $1.50/lb, and end up with meat they have to drown in butter anyway.
 
@@ -92,7 +92,7 @@ MCT oil: useful for some people doing extended fasting or specific athletic prot
 
 Almond flour and specialty baking: a bag of almond flour runs $11-14 and mostly enables you to keep eating baked goods that will slow your adaptation. Not week-one territory.
 
-Electrolytes, though, are the one supplement I do recommend not skipping. The keto flu is real and it's mostly a sodium/magnesium/potassium issue. You don't need a $40 bottle of LMNT (though I like the product, and [it is available on Amazon](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)). A DIY version using Morton Lite Salt ($3.99) and regular table salt costs under $0.25/day and does the same job. Worked example three: Three different clients in my practice who quit keto after "feeling terrible" all reported identical symptoms of electrolyte depletion. Two had been drinking plain water and cutting salt because they'd heard sodium was bad. After adding a quarter teaspoon of Lite Salt to a glass of water in the morning, all three felt functional within 48 hours.
+Electrolytes, though, are the one supplement I do recommend not skipping. The keto flu is real and it's mostly a sodium/magnesium/potassium issue. You don't need a $40 bottle of LMNT (though I like the product, and [it is available on Amazon](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)). A DIY version using Morton Lite Salt ($3.99) and regular table salt costs under $0.25/day and does the same job. Electrolyte depletion is a common culprit when people quit keto after feeling terrible, particularly among those drinking plain water and cutting salt due to sodium concerns. Adding a quarter teaspoon of Lite Salt to a glass of water in the morning is a simple fix.
 
 ## Sources
 

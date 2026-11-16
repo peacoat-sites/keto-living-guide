@@ -27,7 +27,7 @@ faqs:
 
 Three weeks into keto, sleeping four hours a night, I was convinced I'd broken something. My diet was dialed in, I was hitting ketosis, [losing weight](/why-am-i-not-losing-weight-on-keto/), feeling sharper during the day, and then 2 a.m. would roll around and I'd be staring at the ceiling like I'd mainlined espresso. Nobody warned me this was a thing.
 
-Here's what surprised me when I actually started digging: keto insomnia is one of the most commonly reported early-stage [side effects](/keto-diet-side-effects/), and it's almost completely left out of the mainstream "keto explained" conversation. You'll read about the keto flu, bad breath, maybe some initial fatigue. Sleep disruption? Barely mentioned. Yet a significant chunk of the clients I've worked with, especially in their first two to four weeks, bring it up unprompted. Something is clearly happening metabolically that messes with sleep architecture, and the explanations most people find online are either too vague or flat-out wrong.
+Keto insomnia is one of the most commonly reported early-stage [side effects](/keto-diet-side-effects/), yet it's almost completely left out of the mainstream "keto explained" conversation. You'll read about the keto flu, bad breath, maybe some initial fatigue. Sleep disruption? Barely mentioned. Sleep disruption in the first two to four weeks is a common concern many people encounter on keto. Something is clearly happening metabolically that messes with sleep architecture, and the explanations most people find online are either too vague or flat-out wrong.
 
 I'll be honest, I went in expecting a simple answer. What I found is a genuinely complicated picture with a few high-confidence mechanisms and some real uncertainty at the edges.
 
@@ -35,7 +35,7 @@ I'll be honest, I went in expecting a simple answer. What I found is a genuinely
 
 ## What's Actually Happening to Your Brain at Night
 
-Ketosis changes how your brain fuels itself. Glucose, the brain's default fuel, drops. Ketones step in. That transition sounds seamless in theory, but in practice your nervous system can interpret dropping blood glucose as a threat, especially in the early weeks before your liver is efficiently churning out ketones around the clock.
+Ketosis changes how your brain fuels itself. Glucose, the brain's default fuel, drops. Ketones step in. In theory this works smoothly, but in practice your nervous system can interpret dropping blood glucose as a threat, especially in the early weeks before your liver is efficiently churning out ketones around the clock.
 
 What happens next is the mechanism most people miss: your adrenal glands release cortisol and epinephrine to compensate for low [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/). This is a completely normal counter-regulatory response, the same one that wakes a diabetic with hypoglycemia. In keto-adapted people it's milder, but it still happens. Cortisol is an alerting hormone. It opposes melatonin. So if your blood glucose dips in the early morning hours (which it often does, since that's when the liver's glycogen stores are most depleted), you get a cortisol bump that pulls you out of deep sleep or prevents you from going back down after a natural awakening.
 
@@ -78,9 +78,9 @@ The small carb addition is controversial in strict keto circles, but it's worth 
 
 Most of the physiological disruption resolves by weeks four to six. Your liver gets better at ketogenesis, blood glucose becomes more stable overnight, and cortisol counter-regulation calms down. The REM reduction documented in short-term studies appears to normalize in most people after full keto-adaptation, though I'll be honest, the long-term data here is thin. We don't have a lot of well-controlled studies following keto dieters' sleep past eight weeks.
 
-A scenario I've seen play out multiple times: someone hits six weeks on keto still sleeping terribly, assumes it's still adaptation, waits another month, still miserable → Gets a full thyroid panel and cortisol workup → Finds subclinical hypothyroidism that was masked by their previous higher-carb diet. Keto can surface underlying conditions. If you're eight weeks in and still struggling, please don't just add more MCT oil and hope for the best. Talk to someone who can order bloodwork.
+If you're still sleeping poorly at six weeks, keto may be surfacing an underlying condition like subclinical hypothyroidism that was masked by your previous higher-carb diet. Keto can surface underlying conditions. If you're eight weeks in and still struggling, don't simply add more MCT oil and hope for the best. Talk to someone who can order bloodwork.
 
-One thing that genuinely helped clients bridge the early weeks: low-dose melatonin (0.5mg, not 5mg, which is higher than your body naturally produces and can backfire with grogginess). Also, keeping the room slightly cooler, around 65-68°F, since keto dieters sometimes run warmer due to increased thermogenesis. Small detail, but in my experience it's the kind of thing nobody mentions.
+Low-dose melatonin (0.5mg, not 5mg, which is higher than your body naturally produces and can cause grogginess) may help during the early weeks. Also, keeping the room slightly cooler, around 65-68°F, can help since people on keto sometimes run warmer due to increased thermogenesis.
 
 ## Sources
 

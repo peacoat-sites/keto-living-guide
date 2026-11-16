@@ -18,11 +18,9 @@ Picture this: you've tried two, maybe three antidepressants. Some helped a littl
 
 That's exactly the situation the DIME trial was designed for. Published February 4, 2026 in JAMA Psychiatry, the study led by Min Gao PhD at the University of Oxford is being called "the most rigorous test to date" of a ketogenic diet for treatment-[resistant depression](/keto-for-treatment-resistant-depression-what-the-new-science-says/). Eighty-eight adults who had already failed at least two antidepressant medications were randomized to either a ketogenic diet or a plant-based control diet for six weeks. The headlines that followed were enthusiastic. The actual data is more complicated, and I think you deserve to hear the whole picture.
 
-I've seen this pattern before with keto research: a promising signal, real excitement, and then the real-world friction that the press releases quietly skip. The DIME trial is genuinely important. It's also a study with a 9% long-term adherence rate. Both of those things are true at the same time.
-
+Keto research often follows a pattern: a promising signal, real excitement, and then the real-world friction that the press releases quietly skip. The DIME trial is genuinely important. It's also a study with a 9% long-term adherence rate. Both of those things are true at the same time.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The DIME trial (JAMA Psychiatry, Feb 2026) is the most rigorous keto-for-depression RCT published to date.</li><li style="margin:5px 0">After 6 weeks, both the keto and control groups improved significantly, complicating conclusions about ketosis itself.</li><li style="margin:5px 0">Only 9% of keto participants continued the strict diet after structured meal support ended.</li><li style="margin:5px 0">A 2025 pilot study found up to 70% reduction in depression symptoms in young adults on keto.</li><li style="margin:5px 0">The NIHR Oxford Health BRC describes the diet as "challenging" with unclear long-term sustainability.</li></ul></div>
-
 
 ## What the Trial Actually Found (and What It Didn't)
 

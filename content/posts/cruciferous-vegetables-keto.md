@@ -31,17 +31,13 @@ Let me fix that.
 
 The short version: broccoli, cauliflower, cabbage, Brussels sprouts, kale, and bok choy are the workhorses of a keto-adapted cruciferous rotation. They're fiber-dense, nutrient-rich, and tolerable in meaningful quantities without blowing your carb budget. But portion size is not optional information, and a few cruciferous vegetables (kohlrabi, raw turnips in volume) deserve more caution than they typically get.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cauliflower and bok choy are the lowest net-carb crucifers: roughly 2g net carbs per 100g cooked.</li><li style="margin:5px 0">Brussels sprouts run about 5g net carbs per 100g; fine in a side-dish portion, easy to overeat.</li><li style="margin:5px 0">Fiber matters: cruciferous vegetables bulk up your gut microbiome in ways that support long-term keto adherence.</li><li style="margin:5px 0">Cooking method affects volume and perceived satiety, roasted crucifers are easier to overeat than steamed.</li><li style="margin:5px 0">Sulforaphane from broccoli sprouts is the one legitimate micronutrient story here worth knowing about.</li></ul></div>
-
 
 ## The Actual Numbers, Side by Side
 
 Before I give opinions, here's the data I return to when clients ask which vegetables to prioritize. These are net carbs (total carbs minus fiber) per 100g cooked, which is the only figure that matters for ketosis.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Net carbs per 100g cooked (cruciferous vegetables)</div><div class="sc-row"><span class="sc-label">Bok choy</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">1 g net ca</span></div><div class="sc-row"><span class="sc-label">Cauliflower</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">2 g net ca</span></div><div class="sc-row"><span class="sc-label">Cabbage</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">3 g net ca</span></div><div class="sc-row"><span class="sc-label">Kale</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">4 g net ca</span></div><div class="sc-row"><span class="sc-label">Broccoli</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">4 g net ca</span></div><div class="sc-row"><span class="sc-label">Brussels sprouts</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">5 g net ca</span></div><div class="sc-row"><span class="sc-label">Kohlrabi</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6 g net ca</span></div><div class="sc-row"><span class="sc-label">Turnip</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">6 g net ca</span></div><div class="sc-src">Source: USDA FoodData Central, 2026</div></div>
-
 
 | Vegetable | Net carbs / 100g cooked | Realistic serving | Net carbs in serving |
 |---|---|---|---|
@@ -62,7 +58,7 @@ Kale is slightly counterintuitive: it looks high on paper but cooks down so aggr
 
 This is something you only figure out by actually cooking these vegetables repeatedly: roasting concentrates flavor and shrinks volume, which makes it much easier to eat 300g of Brussels sprouts than 300g steamed. That's not a problem with Brussels sprouts. It's a problem with how we track.
 
-My standing advice to clients: weigh cooked weight when you're logging, not raw. It's more accurate and easier to eyeball consistently. A food scale is non-negotiable here. The one I've used for years in my own kitchen is the Ozeri Pronto Digital Multifunction Kitchen Scale (usually around $12 on Amazon, and the site may earn a commission on purchases like this). Nothing fancy. Just use it.
+Weigh cooked weight when you're logging, not raw. It's more accurate and easier to eyeball consistently. A food scale is non-negotiable here. The Ozeri Pronto Digital Multifunction Kitchen Scale (usually around $12 on Amazon, and the site may earn a commission on purchases like this) works well. Nothing fancy. Just use it.
 
 Steam or blanch when you want volume and satiety. Roast when you want flavor and don't mind eating smaller portions. Stir-fry with bok choy gives you the best of both.
 
@@ -72,7 +68,7 @@ One reader, Taryn from Portland, emailed me in early 2026 after stalling for thr
 
 Every few months someone asks me if they should be eating broccoli sprouts specifically because of sulforaphane. Honest answer: the research is interesting but far from settled for humans.
 
-Sulforaphane is a compound produced when you chew or chop cruciferous vegetables, particularly broccoli sprouts. Lab and animal studies have shown real anti-inflammatory and potentially anti-cancer effects. Human trials are ongoing, and the signal is promising enough that I don't dismiss it. A 2017 study in *Cancer Prevention Research* showed sulforaphane metabolites in human blood after broccoli sprout consumption, which at least confirms bioavailability. Whether clinical outcomes follow is a different question.
+Sulforaphane is a compound produced when you chew or chop cruciferous vegetables, particularly broccoli sprouts. Lab and animal studies have shown real anti-inflammatory and potentially anti-cancer effects. Human trials are ongoing, and the signal is promising. A 2017 study in *Cancer Prevention Research* showed sulforaphane metabolites in human blood after broccoli sprout consumption, which at least confirms bioavailability. Whether clinical outcomes follow is a different question.
 
 Practically: eating broccoli a few times a week is fine. Buying $40 bags of freeze-dried broccoli sprout powder because you read a podcast transcript? That's getting ahead of the evidence.
 
@@ -106,7 +102,7 @@ The fix is rotating across the full spectrum:
 
 **Week 4 anchor:** Broccoli roasted until the florets char slightly (the char matters, it shifts the flavor from "healthy side" to something you'd actually crave)
 
-Scenario from my practice: a client eating the same steamed broccoli and cauliflower daily → switched to a four-vegetable rotation with varied cooking methods → reported significantly higher diet adherence at her 90-day check-in and lost 11 pounds over that period versus 4 in the prior 90 days. Attribution is messy with dietary interventions, but she credited not feeling like she was eating punishment food.
+For example, rotating broccoli and cauliflower with other vegetables and varying cooking methods can make a diet feel less restrictive and easier to stick with over time.
 
 ## Sources
 
@@ -117,7 +113,6 @@ Scenario from my practice: a client eating the same steamed broccoli and caulifl
 - Shapiro TA et al. (2006): "Human metabolism and excretion of cancer chemoprotective glucosinolates and isothiocyanates of cruciferous vegetables," *Cancer Epidemiology, Biomarkers & Prevention*
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
 

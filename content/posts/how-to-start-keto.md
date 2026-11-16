@@ -29,7 +29,7 @@ Most people quit keto within the first two weeks. Not because it doesn't work, b
 
 ## What Keto Actually Is (and Isn't)
 
-Keto is short for ketogenic, which just means your body enters a metabolic state where it's burning fat for fuel instead of carbs. Your liver produces ketones from that fat. People freak out because ketosis sounds like ketoacidosis, a dangerous condition in type 1 diabetics. They're completely different. Nutritional ketosis keeps blood ketone levels between roughly 0.5 and 3.0 mmol/L. Ketoacidosis pushes them above 10.
+Keto is short for ketogenic, which just means your body enters a metabolic state where it's burning fat for fuel instead of carbs. Your liver produces ketones from that fat. Ketosis is often confused with ketoacidosis, a dangerous condition in type 1 diabetics, but they're completely different. Nutritional ketosis keeps blood ketone levels between roughly 0.5 and 3.0 mmol/L. Ketoacidosis pushes them above 10.
 
 The standard split is roughly 70-75% calories from fat, 20-25% from protein, and 5% or less from carbs. For most people, that means under 20-25 grams of net carbs daily. Net carbs are total carbs minus fiber, since your body doesn't digest fiber.
 
@@ -93,7 +93,6 @@ For meal prep, the right containers make consistency easier. [Glass meal prep co
 - [kitchen scale](https://www.amazon.com)
 - [Alexy Almond](https://www.pexels.com/@alexy-almond)
 - here is solid for specific outcomes
-
 
 You don't need to track forever. But for the first four weeks, tracking teaches you where carbs actually hide. Ketchup. Salad dressings. Nuts. That "healthy" protein bar. Most people are shocked.
 

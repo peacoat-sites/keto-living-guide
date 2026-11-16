@@ -27,7 +27,7 @@ faqs:
 
 Most people trying keto after 50 are doing it wrong, and the reason is simple: almost everything written about ketogenic diets was designed around 28-year-old bodies with intact metabolic flexibility, stable hormones, and none of the muscle-loss concerns that become genuinely serious after the fifth decade. That's a problem worth talking about honestly.
 
-Here's the number that stopped me cold when I first saw it: adults over 50 lose muscle at a rate of roughly 1-2% per year without active intervention, according to data published in the *Journal of Cachexia, Sarcopenia and Muscle*. That's not a small thing. It means a decade of doing keto wrong, with calories slashed and protein kept at classic 20% keto ratios, could leave someone lighter on the scale and significantly weaker underneath. I've seen this play out with actual clients. The weight goes down. The complaints about fatigue, weakness climbing stairs, and difficulty carrying groceries go up. That's not success. That's a body that swapped fat for muscle and called it done.
+Adults over 50 lose muscle at a rate of roughly 1-2% per year without active intervention, according to data published in the *Journal of Cachexia, Sarcopenia and Muscle*. A decade of doing keto wrong, with calories slashed and protein kept at classic 20% keto ratios, can leave someone lighter on the scale but significantly weaker underneath. The pattern is common: weight drops while fatigue, weakness climbing stairs, and difficulty carrying groceries increase. That's not success. That's a body that swapped fat for muscle and called it done.
 
 I'll be honest: keto can absolutely work for [weight loss](/keto-for-weight-loss/) after 50. What surprised me was how much the approach needs to shift from the standard protocol, and how few sources actually explain the adjustments. So let me give you what I wish someone had put in one place.
 
@@ -43,11 +43,11 @@ This is actually where keto has a real, specific argument. Lowering carbohydrate
 
 ## The Protein Problem Everyone Gets Wrong
 
-Classic ketogenic macros often look like: 70-75% fat, 20-25% protein, 5% carbs. If you're eating 1,600 calories [per day](/keto-carbs-per-day-limit/) on that protocol, your protein lands around 80-100g. For a sedentary young person, that might be fine. For someone over 50 who's trying to preserve muscle while losing fat? It's borderline inadequate, and I'd argue it's the single most common mistake I see in my practice.
+Classic ketogenic macros often look like: 70-75% fat, 20-25% protein, 5% carbs. If you're eating 1,600 calories [per day](/keto-carbs-per-day-limit/) on that protocol, your protein lands around 80-100g. For a sedentary young person, that might be fine. For someone over 50 who's trying to preserve muscle while losing fat, that amount is borderline inadequate and a common mistake.
 
 The current evidence (and as of July 2026, this has been fairly consistent across multiple meta-analyses) suggests that older adults need more dietary protein per pound of body weight than younger adults to achieve the same muscle protein synthesis response. The threshold is roughly 1.2-1.6 grams per kilogram of bodyweight per day. For a 165-pound (75 kg) woman, that's 90-120g of protein daily, minimum.
 
-The good news: you can hit those targets on keto without wrecking your ketosis. Protein does have a mild gluconeogenic effect, but the "too much protein kicks you out of keto" fear is dramatically overstated for most people. I've had clients eating 140g of protein daily, tracking with a Keto-Mojo meter, and sitting comfortably at 1.2-1.8 mmol/L. The key is that you're getting that protein from whole food sources (eggs, fatty fish, poultry, red meat, full-fat Greek yogurt if you tolerate dairy) rather than mass-gainer powders loaded with hidden sugars.
+You can hit those targets on keto without wrecking your ketosis. Protein does have a mild gluconeogenic effect, but the "too much protein kicks you out of keto" fear is overstated for most people. Many people eating 140g of protein daily maintain ketone levels comfortably at 1.2-1.8 mmol/L. The key is getting that protein from whole food sources (eggs, fatty fish, poultry, red meat, full-fat Greek yogurt if you tolerate dairy) rather than mass-gainer powders loaded with hidden sugars.
 
 ## What Real Results Look Like
 
@@ -61,8 +61,6 @@ The numbers here deserve honest handling:
 | 65+ | 0.25-0.75 lbs/week | 27-80 weeks | Week 6-10 |
 
 These are estimates from clinical experience and published trial data, not guarantees. Consult your physician before starting any significant dietary change. Individual results vary considerably based on starting insulin sensitivity, thyroid function, activity level, and medication load. What this table illustrates is that slower progress after 50 is normal and expected. It's not a sign the diet isn't working.
-
-Three worked examples from my practice (details changed for privacy):
 
 A 54-year-old woman, post-menopausal, starting weight 197 lbs, moderate activity → Shifted to strict keto (under 25g net carbs), raised protein to 115g/day, added 30-minute walks → Lost 22 lbs over 28 weeks, with DEXA scan confirming most loss was fat, not muscle. Fasting glucose dropped from 104 to 87.
 

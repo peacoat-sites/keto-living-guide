@@ -113,7 +113,7 @@ These are the genuinely starchy vegetables that can kick you out of ketosis if y
 | Parsnip (cooked) | 1 cup | 19 | Red Light |
 | Plantain | 1 cup | 30+ | Red Light |
 
-This is the kind of table I wish someone had handed me when I first started working with keto clients. All figures are approximate and based on standard serving sizes.
+This table breaks down vegetables by carb content to make keto meal planning simpler. All figures are approximate and based on standard serving sizes.
 
 | Vegetable | Serving Size | Net Carbs (approx.) | Keto-Friendly? |
 |---|---|---|---|
@@ -145,7 +145,6 @@ A kitchen scale and a reliable carb-tracking app make this kind of monitoring mu
 - [digital kitchen scale](https://www.amazon.com)
 - [keto electrolyte supplement](https://www.amazon.com)
 
-
 Here's a practical approach I give to clients who are meal prepping or just trying to get the week organized.
 
 **Step 1: Choose your leafy green base.** Start every dinner plate with a foundation of leafy greens. Two cups of spinach, arugula, or romaine costs you almost nothing in carbs and gives you a real nutritional foundation.
@@ -160,7 +159,7 @@ Here's a practical approach I give to clients who are meal prepping or just tryi
 
 Pairing your vegetables with a quality electrolyte supplement is also smart, especially early in keto. Many of the vegetables on the keto-friendly list provide potassium and magnesium, but often not enough to offset what you lose when glycogen stores drop and your kidneys start excreting more sodium. A good [keto electrolyte supplement](https://www.amazon.com) can bridge that gap. *(Disclosure: this site may earn a commission on purchases made through links.)*
 
-Eating vegetables on keto isn't complicated once you understand the basic framework. Prioritize above-ground, fiber-rich vegetables, track the moderate ones, and skip the starchy ones entirely. You don't need to fear produce. You just need to know what you're working with. Start by building a few reliable meals around the vegetables you already like, get comfortable with those, and expand from there. That's exactly how most of my clients have made this way of eating feel normal, not restrictive.
+Eating vegetables on keto isn't complicated once you understand the basic framework. Prioritize above-ground, fiber-rich vegetables, track the moderate ones, and skip the starchy ones entirely. You don't need to fear produce. You just need to know what you're working with. Start by building a few reliable meals around the vegetables you already like, get comfortable with those, and expand from there.
 
 If you're ever in doubt about how a specific food fits your individual health situation, a registered dietitian or your physician can help you dial in the details.
 

@@ -69,7 +69,7 @@ Here's the practical answer: for many women with PCOS, strict ketosis isn't nece
 | Moderate Low-Carb | 50-100g | Most women with PCOS, especially those new to carb reduction | Still requires label-reading; won't induce ketosis |
 | Low-Glycemic (not low-carb) | 130g+ but low-GI foods | Mild insulin resistance, preference for dietary flexibility | Slower results, requires understanding of glycemic index |
 
-In my experience, starting with a moderate low-carb approach (around 50-75g net carbs per day) gives most clients real, measurable improvements in energy, cycle regularity, and weight within 8-12 weeks, without the all-or-nothing pressure of strict keto. From there, you can always tighten up if the results plateau.
+Starting with a moderate low-carb approach (around 50-75g net carbs per day) often produces measurable improvements in energy, cycle regularity, and weight within 8-12 weeks, without the all-or-nothing pressure of strict keto. From there, you can always tighten up if the results plateau.
 
 ## A Practical Starting Framework
 
@@ -98,7 +98,6 @@ A kitchen scale takes the guesswork out of portions, especially for calorie-dens
 - Actually Shows
 - on keto for PCOS is promising but still relatively limited
 - aren't meaningful
-
 
 Diet is the foundation, but it's not the whole building.
 

@@ -30,7 +30,7 @@ If you've made it about a week into keto and you feel like you got hit by a truc
 
 Here's what's happening: when you drop carbs, your insulin levels fall, your kidneys shift into a different mode, and you start flushing sodium, potassium, and magnesium at a much faster rate than you did before. Most people lose several pounds of water in the first week, and all those minerals go with it. The "[keto flu](/electrolytes-on-keto/)" isn't some mysterious metabolic punishment. It's mostly just salt deficiency with a side of magnesium.
 
-I've worked with a lot of beginners who come in convinced they need to push through the misery as some kind of rite of passage. They don't. And the fix is usually cheap and fast.
+A common misconception among beginners is that they need to push through the misery as some kind of rite of passage. They don't. And the fix is usually cheap and fast.
 
 ## What You Actually Need (and How Much)
 
@@ -76,7 +76,6 @@ And if you're tracking your electrolyte intake (a kitchen scale like the [OXO Go
 
 ---
 
-
 *Photo: [Jonathan Borba](https://www.pexels.com/@jonathanborba) via Pexels*
 
 ---
@@ -92,7 +91,6 @@ And if you're tracking your electrolyte intake (a kitchen scale like the [OXO Go
 - [Jonathan Borba](https://www.pexels.com/@jonathanborba)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 - [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
