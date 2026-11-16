@@ -31,9 +31,7 @@ Quitting keto without a plan can trigger some genuinely unpleasant symptoms, inc
 
 This article is my attempt to fix that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Reintroduce carbohydrates gradually over 2-4 weeks to avoid blood sugar spikes and GI distress.</li><li style="margin:5px 0">Expect 3-7 lbs of water weight gain in the first week; this is glycogen-bound water, not fat.</li><li style="margin:5px 0">Prioritize complex carbs (oats, legumes, sweet potato) over refined carbs during reintroduction.</li><li style="margin:5px 0">Your hunger hormones, particularly ghrelin, may spike temporarily for 1-2 weeks post-keto.</li><li style="margin:5px 0">Get labs checked (fasting glucose, lipids) within 6-8 weeks of stopping if you were on keto for over 6 months.</li></ul></div>
-
 
 ## Why your body needs a transition period
 
@@ -81,10 +79,6 @@ Keto has a community. Forums, subreddits like r/keto (over 3 million members), D
 
 I want to say this clearly: quitting keto is not failure. For some people at some life stages, a ketogenic diet is incredibly useful. For others, after a while, it stops fitting, whether because of sustainability, social context, athletic performance needs, or just the desire to eat a damn bowl of rice without logging it. None of those are moral failures. The research on long-term adherence to any dietary pattern consistently shows that flexibility beats rigidity for most people's health outcomes over a 5-10 year window.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average weekly net carbs by reintroduction phase</div><div class="sc-row"><span class="sc-label">Week 1</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">40 grams/da</span></div><div class="sc-row"><span class="sc-label">Week 2</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">65 grams/da</span></div><div class="sc-row"><span class="sc-label">Week 3</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">105 grams/da</span></div><div class="sc-row"><span class="sc-label">Week 4</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">150 grams/da</span></div><div class="sc-row"><span class="sc-label">Maintenance</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">175 grams/da</span></div><div class="sc-src">Source: Practitioner framework, Mark Chen RD (2026)</div></div>
-
-
 ## Sources
 
 - Volek JS & Phinney SD, "The Art and Science of Low Carbohydrate Living" (2011): foundational text on metabolic adaptation to ketogenic diets, including glycogen dynamics.
@@ -94,7 +88,6 @@ I want to say this clearly: quitting keto is not failure. For some people at som
 - Harvard T.H. Chan School of Public Health, "Diet Review: Ketogenic Diet for Weight Loss" (updated 2025): accessible summary of long-term keto evidence including exit considerations.
 
 ---
-
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

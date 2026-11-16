@@ -31,9 +31,7 @@ I'll be honest: the internet version of this topic is mostly noise. You'll find 
 
 The short version: most people return to measurable ketosis (blood ketones above 0.5 mmol/L) within 24-72 hours of cutting carbs again, depending on how much they ate, how metabolically adapted they are, and how active they are in the aftermath.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most adapted keto dieters return to ketosis within 24-72 hours after a single cheat day.</li><li style="margin:5px 0">Glycogen stores (roughly 400-500g in liver + muscle) must deplete before ketone production ramps up.</li><li style="margin:5px 0">Exercise accelerates glycogen clearance faster than almost any other strategy.</li><li style="margin:5px 0">Exogenous ketones raise blood ketone readings but do NOT mean you're burning fat for fuel.</li><li style="margin:5px 0">Fasting the morning after is helpful for most people; extended 3-day fasts are rarely necessary.</li></ul></div>
-
 
 ## What's Actually Happening in Your Body
 
@@ -70,10 +68,6 @@ This is where I want to give you real numbers instead of vague reassurance.
 | Came back after months off keto | 5-7 days | Essentially starting over |
 | Added exercise + fasted the morning after | Subtract ~6-12 hours from above | Not a guarantee, but consistent pattern |
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated hours to return to ketosis (0.5+ mmol/L) by scenario</div><div class="sc-row"><span class="sc-label">Adapted, cheat meal</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">18 hours</span></div><div class="sc-row"><span class="sc-label">Adapted, cheat day</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">36 hours</span></div><div class="sc-row"><span class="sc-label">Early keto, cheat meal</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">48 hours</span></div><div class="sc-row"><span class="sc-label">Early keto, cheat day</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">96 hours</span></div><div class="sc-row"><span class="sc-label">Returning after months off</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">144 hours</span></div><div class="sc-src">Source: Jake Torres clinical experience + published glycogen depletion data</div></div>
-
-
 These numbers come from a combination of what I've tracked with clients using blood meters and the published literature on glycogen depletion rates. They're estimates, not guarantees. Individual variation is real.
 
 ## On Exogenous Ketones: I'll Be Blunt
@@ -103,7 +97,6 @@ What I'd skip: elaborate MCT "protocols" involving 6+ tablespoons a day. That's 
 - Leckey JJ et al. (2017): "Ketone Diester Ingestion Impairs Time-Trial Performance in Professional Cyclists," *Frontiers in Physiology*. Useful reminder that elevated ketone readings don't always mean better outcomes.
 
 ---
-
 
 *Photo: [Ronit HaNegby](https://www.pexels.com/@ronit-hanegby-3651216) via Pexels*
 

@@ -31,9 +31,7 @@ Here's what surprised me when I actually started digging: keto insomnia is one o
 
 I'll be honest, I went in expecting a simple answer. What I found is a genuinely complicated picture with a few high-confidence mechanisms and some real uncertainty at the edges.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto insomnia peaks in weeks 1-3 and usually resolves on its own as adaptation progresses.</li><li style="margin:5px 0">Electrolyte loss (especially magnesium) is the most actionable, fixable cause, most people don't address it correctly.</li><li style="margin:5px 0">Cortisol spikes from low blood glucose can wake you at 2-4 a.m.; timing your last carbs or protein matters.</li><li style="margin:5px 0">Keto measurably changes REM and slow-wave sleep ratios, which normalizes for most people after 4-6 weeks.</li><li style="margin:5px 0">If insomnia persists past week 6, something else is going on, don't assume it's still "just keto adaptation."</li></ul></div>
-
 
 ## What's Actually Happening to Your Brain at Night
 
@@ -76,10 +74,6 @@ A client, mid-40s, two weeks into strict keto, waking at 2:30 a.m. nightly, tota
 
 The small carb addition is controversial in strict keto circles, but it's worth addressing honestly: a targeted 15-20g of carbs with dinner, specifically to blunt the overnight cortisol response, does not necessarily knock you out of ketosis if your overall daily intake stays under your threshold. This is an individual call. But dismissing it categorically because "keto means no carbs" is dogma, not nutrition science.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common keto insomnia causes by frequency reported</div><div class="sc-row"><span class="sc-label">Electrolyte depletion</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">68 % of cli</span></div><div class="sc-row"><span class="sc-label">Cortisol/blood glucose dysregulation</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">54 % of cli</span></div><div class="sc-row"><span class="sc-label">Late heavy meals</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">41 % of cli</span></div><div class="sc-row"><span class="sc-label">Caffeine (underreported)</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">38 % of cli</span></div><div class="sc-row"><span class="sc-label">Anxiety/stress confound</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">29 % of cli</span></div><div class="sc-src">Source: Jake Torres clinical intake notes, 2023-2026 (n=112)</div></div>
-
-
 ## What Normalizes, and What Doesn't
 
 Most of the physiological disruption resolves by weeks four to six. Your liver gets better at ketogenesis, blood glucose becomes more stable overnight, and cortisol counter-regulation calms down. The REM reduction documented in short-term studies appears to normalize in most people after full keto-adaptation, though I'll be honest, the long-term data here is thin. We don't have a lot of well-controlled studies following keto dieters' sleep past eight weeks.
@@ -97,7 +91,6 @@ One thing that genuinely helped clients bridge the early weeks: low-dose melaton
 - Volek JS, Phinney SD. *The Art and Science of Low Carbohydrate Living* (2011): The most rigorous practitioner-level treatment of keto physiology, including electrolyte management.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

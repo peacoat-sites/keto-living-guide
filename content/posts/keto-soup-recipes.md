@@ -31,9 +31,7 @@ Soups are, honestly, one of the better categories of food for keto eating. Fat c
 
 The one thing most keto soup recipes won't tell you: a watery broth base tastes thin and sad without fat emulsified into it. That's not a keto problem specifically, that's just physics. Fix it with a finishing swirl of butter, a dollop of full-fat sour cream, or an immersion blender run through roasted vegetables. The fat doesn't just add calories; it changes mouthfeel entirely.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keep net carbs under 8g per bowl by swapping potatoes for cauliflower or turnips, not just "reducing" them.</li><li style="margin:5px 0">Heavy cream adds ~0.4g carbs per tablespoon, use it freely; coconut milk (full-fat) adds ~1.3g per tablespoon.</li><li style="margin:5px 0">Xanthan gum (1/4 tsp per quart) replaces flour-based thickening without adding measurable carbs.</li><li style="margin:5px 0">Bone broth adds collagen and fat; standard boxed stock is fine but won't emulsify the same way.</li><li style="margin:5px 0">The biggest mistake is building a low-fat broth base and calling it keto-friendly. Fat is the fix.</li></ul></div>
-
 
 ## The Carb Problem (and It's Smaller Than You Think)
 
@@ -79,10 +77,6 @@ Second most common failure: using imitation or low-fat cheese. Reduced-fat chedd
 
 Third: expecting turnips and celery root to taste like potatoes. They don't. Stop mourning potatoes and appreciate what turnips actually are: a slightly peppery, firm vegetable that holds its shape in a braise and absorbs fat beautifully. Once I stopped comparing turnips to potatoes and evaluated them on their own terms, I started using them way more.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Net carbs per serving (keto soup comparison)</div><div class="sc-row"><span class="sc-label">Egg Drop Soup</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">2 g</span></div><div class="sc-row"><span class="sc-label">Tom Kha Gai</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">4 g</span></div><div class="sc-row"><span class="sc-label">Green Chile Chicken</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">6 g</span></div><div class="sc-row"><span class="sc-label">Broccoli Cheddar</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">7 g</span></div><div class="sc-row"><span class="sc-label">Cauliflower &quot;Potato&quot; Soup</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9 g</span></div><div class="sc-src">Source: Calculated from standard recipes, verified July 2026</div></div>
-
-
 ## Bone Broth vs. Boxed Stock: Does It Matter?
 
 Honestly, less than the internet wants you to believe, with one exception. The exception is soups where the broth is the star (egg drop, simple miso-style, French onion). In those, quality broth is the whole dish. Use [Kettle & Fire bone broth](https://www.amazon.com/s?k=kettle+fire+bone+broth&tag=contentportfo-20) if you're buying, or make your own from roasted chicken backs (about $1.50/lb at most butchers, roasted at 400°F for 40 minutes, then simmered for 3-4 hours with aromatics). The collagen content in a good bone broth changes the texture of the finished liquid. You'll feel it on your lips.
@@ -104,7 +98,6 @@ As of July 2026, electrolyte depletion is still the most underaddressed issue fo
 - Westman EC, et al. (2008): "The effect of a low-carbohydrate, ketogenic diet versus a low-glycemic index diet on glycemic control." *Nutrition & Metabolism* 5:36.
 - [Kettle & Fire bone broth nutrition data](https://www.kettleandfire.com): Protein and collagen content per carton, verified 2026.
 - Paoli A (2014): "Ketogenic diet for obesity: friend or foe?" *International Journal of Environmental Research and Public Health* 11(2):2092-2107.
-
 
 *Photo: [Ivan Vi](https://www.pexels.com/@juanvidas) via Pexels*
 

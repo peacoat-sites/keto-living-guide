@@ -31,9 +31,7 @@ Here's the number that stopped me cold when I first saw it: adults over 50 lose 
 
 I'll be honest: keto can absolutely work for [weight loss](/keto-for-weight-loss/) after 50. What surprised me was how much the approach needs to shift from the standard protocol, and how few sources actually explain the adjustments. So let me give you what I wish someone had put in one place.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Adults over 50 lose 1-2% of muscle mass per year; keto must prioritize protein (1.2-1.6g per kg bodyweight) to prevent this.</li><li style="margin:5px 0">Weight loss after 50 is slower on average: expect 0.5-1 lb/week, not the 2-3 lbs sometimes seen in younger adults.</li><li style="margin:5px 0">Electrolyte needs are higher post-50 due to hormonal changes; inadequate sodium, magnesium, and potassium causes most "keto flu" dropouts.</li><li style="margin:5px 0">Perimenopause and menopause significantly affect fat distribution and insulin response; keto's insulin-lowering effect is a genuine advantage here.</li><li style="margin:5px 0">Protein targets around 100-130g/day for most women, 120-160g/day for most men over 50 protect lean mass without kicking you out of ketosis.</li></ul></div>
-
 
 ## Why Metabolism After 50 Isn't What You Think
 
@@ -72,10 +70,6 @@ A 61-year-old man, type 2 diabetes managed with metformin, starting weight 232 l
 
 A 57-year-old woman who'd done keto twice before without lasting results → The issue was protein at only 70g/day and no resistance training → Added twice-weekly strength work, raised protein to 108g/day → Lost 14 lbs over 24 weeks, but more importantly, reported the first time in years she didn't regain weight immediately after stopping the strict phase.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average weekly fat loss on keto by age group (lbs)</div><div class="sc-row"><span class="sc-label">Ages 25-35</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">2 lbs</span></div><div class="sc-row"><span class="sc-label">Ages 36-49</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">1.2 lbs</span></div><div class="sc-row"><span class="sc-label">Ages 50-64</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">0.8 lbs</span></div><div class="sc-row"><span class="sc-label">Ages 65+</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">0.5 lbs</span></div><div class="sc-src">Source: Clinical trial data and dietitian practice estimates, 2026</div></div>
-
-
 ## Electrolytes Are Not Optional
 
 I don't know why the keto community treats this like an afterthought. After 50, aldosterone (the hormone that regulates sodium retention) often becomes less efficient, meaning older adults can lose electrolytes faster on a low-carb diet. The classic keto flu, the headaches, muscle cramps, brain fog, irritability, is almost always electrolyte depletion. And it's worse after 50 than the keto forums let on.
@@ -99,7 +93,6 @@ The first time I started tracking body composition with DEXA scans in clients ra
 - [International Society of Sports Nutrition Position Stand on Protein (2017, updated 2022)]: Evidence base for protein recommendations in aging adults, including 1.2-1.6g/kg/day guidance.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

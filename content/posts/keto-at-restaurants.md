@@ -29,9 +29,7 @@ Most keto advice about eating out is written by someone who cooked every meal at
 
 That was years ago. Since then I've helped clients work through restaurant eating across nearly every cuisine type, tracked what actually derails people (it's rarely the obvious stuff), and built a mental framework that holds up in practice, not just in theory. What surprised me was how much of the failure happens before anyone looks at the menu.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ask for sauces and dressings on the side; hidden sugars in sauces are the #1 keto-restaurant pitfall.</li><li style="margin:5px 0">Swapping a starchy side for double vegetables or a side salad works at roughly 90% of casual dining restaurants.</li><li style="margin:5px 0">Carbs in restaurant food run 30-60% higher than menu estimates due to portion creep and batch sauces.</li><li style="margin:5px 0">Ethnic cuisines (Mexican, Thai, Chinese) have good keto options but require specific, confident ordering.</li><li style="margin:5px 0">Calling ahead or checking the online menu takes 4 minutes and eliminates most of the guesswork.</li></ul></div>
-
 
 ## The Thing That Gets People Before They Sit Down
 
@@ -46,10 +44,6 @@ The other thing I tell clients is to decide in advance how strict you're being t
 Here's a number that surprised me when I first looked at it seriously: a 2019 analysis published in the *Journal of the Academy of Nutrition and Dietetics* found that restaurant portions of popular dishes contained, on average, about 18% more calories than listed, and carbohydrate counts were among the most variable macros. Sauces are batch-made, portions are inconsistent, and the kitchen is not measuring out your teriyaki glaze with a food scale.
 
 Practically, I assume restaurant carb counts run higher than listed. If the menu says 12g of carbs for a sauce, I budget 15-18g. This isn't paranoia. It's just margin.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated net carbs by restaurant meal type (keto-adapted order)</div><div class="sc-row"><span class="sc-label">Steakhouse (steak + veg)</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">8 g net ca</span></div><div class="sc-row"><span class="sc-label">Fast casual salad</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">12 g net ca</span></div><div class="sc-row"><span class="sc-label">Mexican (bowl, no rice/beans)</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">14 g net ca</span></div><div class="sc-row"><span class="sc-label">Italian (protein + salad)</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">11 g net ca</span></div><div class="sc-row"><span class="sc-label">Thai (stir-fry, no rice)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">18 g net ca</span></div><div class="sc-row"><span class="sc-label">American diner (eggs + bacon)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">6 g net ca</span></div><div class="sc-src">Source: Clinical estimates from RD practice and published menu analysis, 2026</div></div>
-
 
 Those numbers assume you've ordered correctly. Get a sauce you didn't ask about, or trust that "no croutons" actually happened, and you could easily add 10-20g.
 
@@ -111,7 +105,6 @@ What I tell people in this situation: restaurant kitchens share prep equipment, 
 - [American Diabetes Association Standards of Care, 2025 edition](https://diabetesjournals.org/care): Carbohydrate guidance for low-carb diets, referenced in metabolic context.
 
 ---
-
 
 *Photo: [Boris Hamer](https://www.pexels.com/@borishamer) via Pexels*
 

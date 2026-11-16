@@ -71,10 +71,6 @@ Let me be direct: there's no single fix. But there's a hierarchy of what moves t
 
 Here's the honest picture, based on what I've seen clinically and what the research suggests.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical keto breath intensity over time (scale 1-10)</div><div class="sc-row"><span class="sc-label">Week 1</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">3 intensit</span></div><div class="sc-row"><span class="sc-label">Week 2</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">8 intensit</span></div><div class="sc-row"><span class="sc-label">Week 3-4</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">7 intensit</span></div><div class="sc-row"><span class="sc-label">Month 2</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">5 intensit</span></div><div class="sc-row"><span class="sc-label">Month 3+</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">3 intensit</span></div><div class="sc-src">Source: Clinical observation, dietitian practice data 2025</div></div>
-
-
 Most people hit peak intensity around weeks two through four, when ketone production is ramping up but metabolic adaptation hasn't fully kicked in. By month three, most people have adapted enough that their bodies are using ketones more efficiently and producing less excess acetone. It's not gone for everyone, but it's usually manageable.
 
 Here's a real-world comparison I tracked informally with three clients who all started keto within the same month, with different approaches:
@@ -109,7 +105,6 @@ As of July 2026, the supplement market is flooded with products claiming to "eli
 - Academy of Nutrition and Dietetics: Position papers on low-carbohydrate dietary patterns and clinical monitoring considerations.
 
 ---
-
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

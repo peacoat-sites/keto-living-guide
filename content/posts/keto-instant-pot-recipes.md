@@ -31,9 +31,7 @@ So here's where you probably are right now: you've got a pressure cooker, you're
 
 Let me be specific about what those three cases are, what the [research says about](/keto-on-ozempic-what-new-research-says-about-combining-both/) the foods that benefit most, and how to actually build a reliable keto Instant Pot rotation that won't have you googling "natural release vs quick release" at 6:30 on a Tuesday.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Instant Pot excels at exactly 3 keto tasks: bone broth, tough braised meats, and hard-boiled eggs at scale.</li><li style="margin:5px 0">Most keto IP recipes clock under 10g net carbs per serving when you skip thickeners and use real data.</li><li style="margin:5px 0">Cooking dried beans is irrelevant here, but lentils and legumes are borderline keto, so skip those recipes.</li><li style="margin:5px 0">Pressure cooking preserves more B vitamins in meat than long stovetop braising (per a 2019 Food Chemistry study).</li><li style="margin:5px 0">A 6-quart IP Duo (currently $89-$99 at most retailers) handles every recipe in this article without upgrades.</li></ul></div>
-
 
 ## Why the Instant Pot Actually Makes Sense for Keto (and Why It's Overhyped for the Rest)
 
@@ -75,10 +73,6 @@ The one mistake I see constantly: people add too much liquid because they're sca
 
 The setup requires a silicone egg mold (the MKOUO one on Amazon runs about $9 and is what I use) and the Instant Pot's steam rack. Blend 6 eggs with 1/4 cup cream cheese, 1/4 cup heavy cream, salt, and whatever mix-ins you want (bacon, gruyere, and chives is the classic). Pour into the molds, cover loosely with foil, add 1 cup water to the IP, place the mold on the steam rack. Steam for 8 minutes, quick release. They come out silky, not rubbery. The foil is non-negotiable, without it, condensation drips in and changes the texture completely.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Time Savings vs. Stovetop/Oven (minutes)</div><div class="sc-row"><span class="sc-label">Bone Broth</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">120 min</span></div><div class="sc-row"><span class="sc-label">Pulled Pork</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">90 min</span></div><div class="sc-row"><span class="sc-label">Chicken Thighs</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">25 min</span></div><div class="sc-row"><span class="sc-label">Beef Short Ribs</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">75 min</span></div><div class="sc-row"><span class="sc-label">Hard-Boiled Eggs (12)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">15 min</span></div><div class="sc-src">Source: Ryan Park kitchen testing, July 2026</div></div>
-
-
 ## Getting the Electrolyte and Fat Balance Right
 
 You might be wondering whether bone broth alone covers your electrolyte needs. It doesn't, fully. A 2021 analysis published in *Nutrients* found that homemade bone broth provides between 135-175mg sodium per cup and negligible potassium. You need closer to 3,000-5,000mg sodium and 1,000-3,500mg potassium daily on keto, per recommendations from the Virta Health clinical team's patient protocols. Broth is a start, not a solution.
@@ -96,7 +90,6 @@ The fat balance in IP recipes can be tricky because pressure cooking doesn't ren
 - Rubin, M.R., et al. (2021): "Mineral Content of Bone Broth," *Nutrients* -- cited for sodium and potassium content per cup
 
 ---
-
 
 *Photo: [Foodie Factor](https://www.pexels.com/@foodie-factor-162291) via Pexels*
 

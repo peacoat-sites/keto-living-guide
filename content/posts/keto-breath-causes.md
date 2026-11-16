@@ -31,9 +31,7 @@ Nobody warns you about the breath. The diet changes, the [meal prep](/how-to-mea
 
 The short version: it's acetone. You're exhaling a ketone body through your lungs, and acetone smells fruity, slightly chemical, sometimes metallic. Clients describe it as overripe fruit, nail polish remover, or something vaguely industrial. If you've ever smelled a diabetic in ketoacidosis, it's a milder version of that same compound ,  though the underlying physiology is completely different and much less alarming in dietary ketosis.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto breath is caused primarily by exhaled acetone, a ketone body, not by oral bacteria or food odor.</li><li style="margin:5px 0">It typically peaks in weeks 1-3 of keto, then fades as your body adapts and ketone production stabilizes.</li><li style="margin:5px 0">Staying well-hydrated and increasing electrolyte intake can reduce intensity noticeably.</li><li style="margin:5px 0">Mints and mouthwash mask it temporarily; they don't address the source.</li><li style="margin:5px 0">If the smell persists strongly beyond 6-8 weeks, revisit your protein intake ,  excess protein can prolong it.</li></ul></div>
-
 
 ## What's Actually Happening in Your Body
 
@@ -54,10 +52,6 @@ Breath intensity isn't uniform. A few factors push it higher:
 **Dehydration.** Low water intake concentrates acetone in your exhaled breath. It also concentrates everything else in your body, which creates a second layer of odor from concentrated urine compounds that can show up in breath. Staying at 2-3 liters of water daily makes a measurable difference. I don't have a controlled study number on this, but in my experience working with clients, it's one of the fastest single interventions.
 
 **Caloric deficit depth.** Aggressive deficits accelerate fat breakdown and therefore ketone production. The breath is often strongest in the first weeks when people are also eating the least.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated acetone breath intensity by keto phase</div><div class="sc-row"><span class="sc-label">Week 1</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">8 relative</span></div><div class="sc-row"><span class="sc-label">Week 2</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9 relative</span></div><div class="sc-row"><span class="sc-label">Week 3-4</span><span class="sc-track"><span class="sc-bar" style="width:78%"></span></span><span class="sc-val">7 relative</span></div><div class="sc-row"><span class="sc-label">Week 5-8</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">5 relative</span></div><div class="sc-row"><span class="sc-label">Month 3+</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">3 relative</span></div><div class="sc-src">Source: Clinical observation, published breath acetone research</div></div>
-
 
 ## What Actually Helps (Ranked)
 
@@ -104,7 +98,6 @@ Endurance athlete cycling keto for body composition, measuring blood ketones dai
 - Laffel L (1999): "Ketone bodies: a review of physiology, pathophysiology and application of monitoring to diabetes." *Diabetes/Metabolism Research and Reviews* ,  useful background on acetone specifically.
 
 ---
-
 
 *Photo: [Miriam Alonso](https://www.pexels.com/@miriam-alonso) via Pexels*
 

@@ -31,9 +31,7 @@ Here's the thing: keto has a reputation problem around cost. You see the influen
 
 You might be wondering if $50 a week means eating the same depressing three meals on rotation. It doesn't. But it does require a specific kind of planning that most keto advice skips right over.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Eggs, canned fish, ground beef, and cabbage are the budget keto backbone, all under $3/lb.</li><li style="margin:5px 0">A weekly spend of $50 breaks down to roughly $2.38 per meal across 21 meals.</li><li style="margin:5px 0">Buying fat sources like butter and cheese in bulk (Costco or Sam's Club) cuts weekly cost by 15-20%.</li><li style="margin:5px 0">Avoiding keto "specialty" products (bars, shakes, low-carb tortillas) saves $30-50/week for most people.</li><li style="margin:5px 0">Electrolyte supplements matter; a basic DIY version (No Salt + Morton Lite Salt) costs under $0.25/day.</li></ul></div>
-
 
 ## What $50 Actually Buys You
 
@@ -55,10 +53,6 @@ As of July 2026, here's what I'm seeing at a mid-range [grocery store](/best-ket
 | Heavy cream (1 pint) | $3.29 | 8 | $0.41 |
 
 Run a week of meals off these ingredients and you'll spend $42 to $48, with food left over. The problem is that most people new to keto also throw $15 worth of "keto bars" and $12 of [almond flour](/how-to-make-keto-bread-without-almond-flour/) into the cart and wonder why the budget blew up.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated weekly cost by keto approach</div><div class="sc-row"><span class="sc-label">Whole food keto (budget)</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$47</span></div><div class="sc-row"><span class="sc-label">Whole food keto (avg)</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">$78</span></div><div class="sc-row"><span class="sc-label">Keto with specialty products</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$134</span></div><div class="sc-row"><span class="sc-label">Keto influencer-style</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$210</span></div><div class="sc-src">Source: Ryan Park, RD, based on 2026 grocery pricing and client records</div></div>
-
 
 That chart isn't meant to shame anyone buying keto tortillas. It's meant to show that the "keto tax" is almost entirely optional.
 
@@ -109,7 +103,6 @@ Electrolytes, though, are the one supplement I do recommend not skipping. The ke
 - USDA Economic Research Service Food Price Outlook (2026): Current retail pricing data for protein and produce categories
 
 ---
-
 
 *Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
 

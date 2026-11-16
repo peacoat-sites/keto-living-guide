@@ -31,9 +31,7 @@ I've run nutrition consultations for over a decade, and the clients who stick to
 
 This isn't about finding recipes you'll cook once. It's about building a lunch rotation that survives contact with a real work week.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Aim for 20-30g protein and under 10g net carbs per work lunch to stay satiated through afternoon</li><li style="margin:5px 0">Batch-cooking two proteins on Sunday (e.g., chicken thighs + hard-boiled eggs) covers 4-5 days of mix-and-match lunches</li><li style="margin:5px 0">Mason jar salads hold 4 days refrigerated without getting soggy if you layer dressing on the bottom</li><li style="margin:5px 0">Spending $8-12 per lunch on keto convenience foods (Factor, Primal Kitchen, etc.) adds up to $160-240/month, home prep averages $3-5 per meal</li><li style="margin:5px 0">The biggest failure point isn't recipes, it's reheating: pack foods that taste fine cold or microwave well, not foods that require a skillet</li></ul></div>
-
 
 ## What Actually Goes Wrong at Work
 
@@ -76,10 +74,6 @@ As of August 2026, Factor's keto plan runs roughly $11-15 per meal depending on 
 
 The rotisserie chicken column is where I send most people first. A Costco rotisserie chicken is $4.99 and yields three to four lunch servings. Pair with pre-washed salad greens (the 1-lb containers at Trader Joe's run about $3.49) and you're at roughly $3-4/meal with zero cooking.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. weekly keto lunch cost by approach</div><div class="sc-row"><span class="sc-label">Home batch prep</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$18</span></div><div class="sc-row"><span class="sc-label">Rotisserie + store greens</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">$22</span></div><div class="sc-row"><span class="sc-label">Primal Kitchen kits</span><span class="sc-track"><span class="sc-bar" style="width:74%"></span></span><span class="sc-val">$52</span></div><div class="sc-row"><span class="sc-label">Factor delivery</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">$68</span></div><div class="sc-row"><span class="sc-label">Restaurant orders</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$70</span></div><div class="sc-src">Source: Dr. Mitchell's practice client data, 2026</div></div>
-
-
 ## Batch Prep That's Actually Sustainable
 
 Here's the Sunday routine I've refined with clients over a few years. It takes 45-60 minutes total and covers five days of lunches.
@@ -103,7 +97,6 @@ Scenario 2: Remote worker who kept ordering DoorDash for lunch. Calculated he wa
 - [Primal Kitchen nutritional labels, verified August 2026]: Carb counts for specific products referenced in the article.
 
 ---
-
 
 *Photo: [Bora C](https://www.pexels.com/@bora-c-142453562) via Pexels*
 

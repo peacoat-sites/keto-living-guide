@@ -31,9 +31,7 @@ That's not an exaggeration. I've had clients come in frustrated after "doing ket
 
 Chick-fil-A's nutrition data (publicly available on their website and verified as of July 2026) shows that their core grilled proteins are genuinely low-carb: the Grilled Chicken Sandwich fillet itself has 1g of [net carbs](/net-carbs-vs-total-carbs/). The bun adds 37g. That gap is where most people's keto efforts quietly collapse.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Chick-fil-A's grilled proteins are legitimately low-carb (1-3g net carbs per serving without bread or sauce).</li><li style="margin:5px 0">The biggest keto traps are beverages, dressings, and sauces, not the proteins.</li><li style="margin:5px 0">A complete, satisfying keto meal here runs roughly 5-10g net carbs if you order deliberately.</li><li style="margin:5px 0">Market Salad without corn, blueberries, or croutons, plus Avocado Lime Ranch dressing, is the best overall option.</li><li style="margin:5px 0">"Grilled nuggets + side salad + water" is the failsafe order if you're uncertain about customizations.</li></ul></div>
-
 
 ## The Numbers That Actually Matter
 
@@ -54,10 +52,6 @@ Let's put the full picture in one place. I pulled these figures directly from Ch
 | Regular Lemonade (medium) | 170 | 43g | 0g | 43g | The quiet killer |
 | Diet Lemonade (medium) | 15 | 5g | 0g | 5g | Acceptable, not ideal |
 | Unsweetened Iced Tea | 0 | 0g | 0g | 0g | Best drink |
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Net carbs per Chick-fil-A item (keto-relevant)</div><div class="sc-row"><span class="sc-label">Grilled Nuggets 8ct</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">2 g net ca</span></div><div class="sc-row"><span class="sc-label">Grilled Fillet (no bun)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">1 g net ca</span></div><div class="sc-row"><span class="sc-label">Cobb Salad (no croutons)</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">10 g net ca</span></div><div class="sc-row"><span class="sc-label">Market Salad (modified)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">8 g net ca</span></div><div class="sc-row"><span class="sc-label">Avocado Lime Ranch</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">5 g net ca</span></div><div class="sc-row"><span class="sc-label">Regular Lemonade (med)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">43 g net ca</span></div><div class="sc-src">Source: Chick-fil-A nutrition calculator, July 2026</div></div>
-
 
 The lemonade number is the one that gets people. Forty-three grams of net carbs in a drink most people don't even think about. A client of mine, a nurse from Portland who's generally meticulous about food tracking, had been stalled for three weeks. We found it: a medium lemonade three or four times a week on her shift breaks. She switched to unsweetened iced tea. She dropped 4 lbs the following week. I can't promise that result is typical, but the carb arithmetic was unambiguous.
 
@@ -107,7 +101,6 @@ This isn't something you usually see in keto restaurant guides, but it matters. 
 - [USDA FoodData Central](https://fdc.nal.usda.gov/): Cross-reference for macronutrient calculations in restaurant foods.
 
 ---
-
 
 *Photo: [René Roa](https://www.pexels.com/@rene-roa-1882128) via Pexels*
 

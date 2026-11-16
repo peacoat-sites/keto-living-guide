@@ -31,9 +31,7 @@ Leg cramps on keto are almost never caused by a single deficiency. They're usual
 
 I've worked with enough clients to see every variation. The woman who fixed her cramps in four days with potassium. The guy who spent three months cycling through magnesium supplements while his sodium intake was the actual problem. The athlete who needed all three electrolytes plus more food. None of them got the right answer from a single article telling them to "increase your electrolytes."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto triggers rapid fluid and sodium loss in week one, pulling potassium and magnesium with it, this is the primary cramp driver for most beginners.</li><li style="margin:5px 0">Magnesium alone fixes cramps for some people, but potassium and sodium deficits are just as common and frequently overlooked.</li><li style="margin:5px 0">Most people need 300-500mg magnesium, 1,000-3,500mg potassium, and 2,000-4,000mg sodium daily on keto, significantly more than standard dietary guidelines.</li><li style="margin:5px 0">Nighttime cramps specifically often point to magnesium glycinate taken before bed (400mg) rather than morning dosing.</li><li style="margin:5px 0">Hydration matters, but drinking more water without replacing electrolytes can make cramps worse, not better.</li></ul></div>
-
 
 ## What Keto Actually Does to Your Electrolytes
 
@@ -100,10 +98,6 @@ The third cause is trickier: actual low carbohydrate intake combined with inadeq
 
 Scenario: Client, three months into strict keto, began training for a half marathon. Cramps started appearing mid-run around week two of training. Was taking 300mg magnesium glycinate nightly. Increased sodium to 4,500mg daily, added 400mg potassium pre-run via Nu-Salt, bumped magnesium to 400mg. Cramps resolved within 10 days and didn't return through the rest of her training cycle.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common electrolyte intake on keto vs. targets (mg/day)</div><div class="sc-row"><span class="sc-label">Sodium (typical keto)</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">2,100 mg</span></div><div class="sc-row"><span class="sc-label">Sodium (target)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">4,000 mg</span></div><div class="sc-row"><span class="sc-label">Potassium (typical keto)</span><span class="sc-track"><span class="sc-bar" style="width:45%"></span></span><span class="sc-val">1,800 mg</span></div><div class="sc-row"><span class="sc-label">Potassium (target)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">3,500 mg</span></div><div class="sc-row"><span class="sc-label">Magnesium (typical keto)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">180 mg</span></div><div class="sc-row"><span class="sc-label">Magnesium (target)</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">400 mg</span></div><div class="sc-src">Source: Clinical intake estimates, Diana Walsh RD practice data</div></div>
-
-
 ## Sources
 
 - [National Institutes of Health Office of Dietary Supplements](https://ods.od.nih.gov): Magnesium, potassium, and sodium fact sheets with RDAs and upper limits.
@@ -113,7 +107,6 @@ Scenario: Client, three months into strict keto, began training for a half marat
 - Phinney SD (2004): "Ketogenic diets and physical performance." Nutrition and Metabolism. Covers adaptation physiology including electrolyte losses in trained athletes.
 
 ---
-
 
 *Photo: [Konstantin Mishchenko](https://www.pexels.com/@aksioart) via Pexels*
 

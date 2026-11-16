@@ -31,9 +31,7 @@ I'll be honest: I came into this topic skeptical. I'd seen OMAD cycle through th
 
 So here's what I found when I went looking for the real story.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto OMAD means eating all daily calories in one sitting, typically a 1-2 hour window, after 22-23 hours of fasting.</li><li style="margin:5px 0">Combining keto with OMAD accelerates ketosis entry, often within 2-3 days versus 1-2 weeks on keto alone.</li><li style="margin:5px 0">The biggest risk isn't hunger, it's electrolyte depletion and inadequate protein, both of which compound fast.</li><li style="margin:5px 0">Research on extended daily fasting shows real benefits for insulin sensitivity, but most studies run 8-12 weeks max.</li><li style="margin:5px 0">Not everyone should do this: women, people with thyroid conditions, and hard-training athletes face disproportionate downsides.</li></ul></div>
-
 
 ## What actually happens when you stack keto and OMAD
 
@@ -55,10 +53,6 @@ What the Instagram version skips past is what this costs metabolically in the sh
 | Sustainable for 12+ weeks (estimated) | ~60% of users | ~40% of users | ~25-35% of users |
 
 Those sustainability numbers are clinical estimates from my practice, not a controlled trial, so hold them loosely. But the direction is consistent with what Krista Varady's group at the University of Illinois has found with alternate-day fasting research: stricter protocols show better short-term metabolic results but significantly higher dropout rates.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. ketone levels (mmol/L) by protocol</div><div class="sc-row"><span class="sc-label">Standard Keto</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">1 mmol/L</span></div><div class="sc-row"><span class="sc-label">OMAD Only</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">0.5 mmol/L</span></div><div class="sc-row"><span class="sc-label">Keto OMAD</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">3.2 mmol/L</span></div><div class="sc-row"><span class="sc-label">Extended Keto Fast (48hr)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">5.1 mmol/L</span></div><div class="sc-src">Source: Clinical estimates, Ryan Park RD practice 2024-2026</div></div>
-
 
 ## Protein: the part everyone gets wrong
 
@@ -99,7 +93,6 @@ One thing people don't tell you: the first ten days, you'll likely have strong h
 - Manoogian, E.N.C. & Panda, S. (2017): "Circadian rhythms, time-restricted feeding, and healthy aging," *Ageing Research Reviews* -- chronobiology background for meal timing recommendations.
 
 ---
-
 
 *Photo: [Flo Dahm](https://www.pexels.com/@flodahm) via Pexels*
 
