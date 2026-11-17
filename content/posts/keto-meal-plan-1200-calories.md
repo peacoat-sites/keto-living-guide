@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 1,200 calories is a number that makes most dietitians wince a little. Not because it's always wrong, but because it gets thrown around so casually, applied to so many different bodies, and paired with approaches that make it much harder than it needs to be. Add keto on top of it, and you've got a combination that can either work really well or leave you exhausted, hungry, and frustrated within two weeks.
 

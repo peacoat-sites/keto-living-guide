@@ -21,7 +21,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. For example, someone might cut out bread and pasta, feel great for a week, then hit a plateau. Their food log reveals a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.
 

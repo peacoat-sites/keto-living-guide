@@ -1,6 +1,7 @@
 ---
 title: "Keto for Treatment-Resistant Depression: What the JAMA Trial Actually Found"
 date: 2026-07-22T14:39:49.002842+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what the JAMA trial revealed about ketogenic diets for treatment-resistant depression. Explore clinical findings, potential benefits, and implications "
 image: "/img/heroes/6668929.jpg"

@@ -12,7 +12,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-as-mental-health-treatment-what-the-new-research-actually-shows"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 When RFK Jr. stood up in February 2026 and told the world that a ketogenic diet could *cure* schizophrenia, the backlash was immediate and predictable. Psychiatrists and pharmacists pushed back hard, calling his statement a dramatic overreach of what the science actually supports. And they weren't wrong to push back. But here's what's getting lost in the noise: there genuinely is something happening in this space. The research is real, it's accelerating, and it's coming from places like Stanford, Harvard, and JAMA Psychiatry, not fringe wellness blogs. The honest conversation is more nuanced than either "RFK is right" or "this is dangerous quackery," and it's worth having.
 

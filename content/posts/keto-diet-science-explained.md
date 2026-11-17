@@ -23,7 +23,7 @@ faqs:
    a: "No, and this is one of the most persistent myths. Excess protein can be converted to glucose through gluconeogenesis, though the body is actually fairly reluctant to do this at typical protein intakes. The more practical concern is that protein is highly satiating and affects your calorie intake. Somewhere around 1.2-1.8g per kg of body weight is a reasonable range for most active adults."
  - q: "Do I have to stay on keto forever for the benefits to stick?"
    a: "Not necessarily. The metabolic improvements in insulin sensitivity and blood sugar can persist if you transition to a lower-carb whole-foods diet rather than reverting to processed carbohydrates. The weight, predictably, returns if eating patterns return to what caused the weight gain initially. Keto is a useful tool, not a permanent identity you have to adopt."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people who start keto have already read approximately seventeen articles about it. They know the 70/25/5 macro split. They've heard about ketosis. And yet, within three weeks, they're eating Cheez-Its at 11pm and wondering what went wrong. This pattern suggests the issue often lies with how keto is explained, not with the person attempting it.

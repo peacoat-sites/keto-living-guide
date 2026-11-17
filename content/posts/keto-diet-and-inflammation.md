@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most of what you'll read about keto and inflammation falls into one of two camps: breathless claims that it "cures" autoimmune disease, or dismissive warnings that all that saturated fat will inflame your arteries into oblivion. Both miss the actual picture, which is messier and more conditional than either side admits.
 

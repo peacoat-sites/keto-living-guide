@@ -1,6 +1,7 @@
 ---
 title: "Signs You're in Ketosis: 5 Ways to Tell Without Test Strips"
 date: 2026-08-04T15:05:50.897524+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the physical signs and symptoms that indicate you're in ketosis, from energy levels to breath changes, without needing expensive test strips."
 image: "/img/heroes/17072292.jpg"

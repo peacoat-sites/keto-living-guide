@@ -1,6 +1,7 @@
 ---
 title: "Is Quinoa Keto Friendly? Carbs and Alternatives Explained"
 date: 2026-07-18T14:00:09.296443+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn whether quinoa fits into a keto diet, its carb content per serving, and what low-carb substitutes work best for keto meals."
 image: "/img/heroes/9893173.jpg"

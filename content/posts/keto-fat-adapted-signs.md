@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up at 6 a.m., and breakfast sounds optional. Not because you're white-knuckling through some fasting protocol, but because you're actually not hungry. Three weeks ago you were ransacking the pantry by 9 a.m. Now something's shifted. If you've been doing keto for a few weeks and noticing patterns like this, your body's probably making the jump to [fat adaptation](/how-to-become-fat-adapted/). It feels nothing like what people expect.
 

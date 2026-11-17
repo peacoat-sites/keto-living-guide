@@ -1,6 +1,7 @@
 ---
 title: "Keto at Chick-fil-A: 10 Menu Items Under 10g Carbs"
 date: 2026-07-21T14:40:22.541482+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find the best low-carb Chick-fil-A orders for keto diets. Discover 10 menu items with under 10g net carbs to stay in ketosis."
 image: "/img/heroes/12261078.jpg"

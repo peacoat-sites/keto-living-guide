@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Chicken is the most purchased protein in the United States, with Americans eating roughly 100 pounds of it per year per person. Yet somehow, it's also the protein that people on keto complain about the most. Common complaints include that chicken is boring, that it turns out dry, or that eating it night after night gets tedious. Chicken and keto are genuinely a perfect match. The problem isn't the protein. It's the approach.
 

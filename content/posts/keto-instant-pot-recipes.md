@@ -1,6 +1,7 @@
 ---
 title: "68% Faster Meals: Keto Instant Pot Recipes That Work"
 date: 2026-07-27T15:27:03.206590+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover keto-friendly Instant Pot recipes that save time and carbs. Simple, delicious meals for low-carb diets."
 image: "/img/heroes/551997.jpg"

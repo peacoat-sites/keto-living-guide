@@ -1,6 +1,7 @@
 ---
 title: "Can a Ketogenic Diet Help Treat Anorexia Nervosa?"
 date: 2026-08-13T14:02:00.848150+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore whether ketogenic diets can support anorexia nervosa treatment. Learn about nutritional approaches, medical perspectives, and recovery strategies for ea"
 image: "/img/heroes/128401.jpg"

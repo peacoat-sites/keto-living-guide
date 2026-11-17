@@ -1,6 +1,7 @@
 ---
 title: "Keto Breath: 7 Proven Ways to Get Rid of It Fast"
 date: 2026-07-12T14:08:26.264820+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Struggling with keto breath? Learn what causes that fruity odor on a ketogenic diet and discover effective ways to eliminate it without quitting keto."
 image: "/img/heroes/8846593.jpg"

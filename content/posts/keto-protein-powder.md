@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most keto protein powder advice stops at "check the carbs on the label." That's table stakes. The harder questions, the ones almost nobody addresses clearly, are about what the protein actually does to your ketosis, whether the product is worth the premium price, and why so many people feel worse after adding a protein shake to a keto diet, not better.
 

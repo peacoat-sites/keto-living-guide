@@ -1,6 +1,7 @@
 ---
 title: "Best Keto Tortillas: Top Options Reviewed and Compared"
 date: 2026-08-01T14:09:27.282923+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find the best keto tortillas for your low-carb diet. We review top brands, compare nutrition facts, and help you choose the right option."
 image: "/img/heroes/8064384.jpg"

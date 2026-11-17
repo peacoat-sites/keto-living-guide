@@ -1,6 +1,7 @@
 ---
 title: "Is Oatmeal Keto Friendly? Net Carbs and Better Alternatives"
 date: 2026-07-15T14:23:57.843065+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why oatmeal doesn't fit most keto diets, plus low-carb swaps that work for your macros."
 image: "/img/heroes/4725762.jpg"

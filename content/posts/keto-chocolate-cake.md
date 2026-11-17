@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most keto chocolate cake recipes will lie to you. Not maliciously, just optimistically. They'll show you a glossy photo of something that looks like it came out of a bakery, and then you'll follow the instructions exactly and end up with a dense, eggy disc that tastes vaguely of almond flour and disappointment. The classic mistakes are worth knowing about, and some recipes genuinely deliver better results than others.
 

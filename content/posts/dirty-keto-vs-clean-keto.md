@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: two people are both "doing keto." One eats bacon, string cheese, and fast food bunless burgers every single day. The other meal-preps salmon, roasted vegetables, and avocado. Both are hitting under 20 grams of net carbs. Both are in ketosis. One of them feels amazing after three months. The other is exhausted, constipated, and quietly wondering why everyone said this diet would change their life.
 

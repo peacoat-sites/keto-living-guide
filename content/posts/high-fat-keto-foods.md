@@ -23,7 +23,7 @@ faqs:
    a: "Canned sardines or mackerel (Wild Planet is a good brand), string cheese or babybel, hard boiled eggs, and deli-sliced salami or pepperoni with an avocado cover most situations. Not glamorous, but genuinely practical."
  - q: "Do I need to track fat grams or can I just eat to satiety?"
    a: "For most people who are new to keto, some loose tracking for the first two to four weeks builds useful intuition. After that, many people do fine eating to satiety because fat and protein together are genuinely satiating. But if your results have stalled or never started, tracking for a week usually reveals exactly where the problem is."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people start keto thinking they need to cut carbs, then figure out the fat part later. That's backwards, and it causes a lot of unnecessary frustration.
 

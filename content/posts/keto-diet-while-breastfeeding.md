@@ -23,7 +23,7 @@ faqs:
    a: "Once you've fully weaned or significantly reduced nursing sessions, your body's metabolic demands shift back closer to baseline and strict keto becomes a more reasonable option. If you're still exclusively breastfeeding a newborn or young infant, that's not the time to experiment with 20g carb days."
  - q: "Do I need to take any extra supplements on low-carb while breastfeeding?"
    a: "Yes, and more than on keto alone. You'll want to continue your prenatal vitamin, pay close attention to electrolytes (sodium, potassium, magnesium), make sure you're getting enough choline and iodine, and watch omega-3 intake. Iodine in particular gets missed on low-carb diets that cut out dairy and grains, and it's important for infant brain development."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Three days into strict keto after my second delivery, I hit a wall that had nothing to do with carb cravings. My milk supply tanked, I felt dizzy every time I stood up, and I was more exhausted than the newborn haze alone could explain. I thought I was doing everything right. I wasn't.

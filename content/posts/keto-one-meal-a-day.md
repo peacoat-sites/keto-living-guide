@@ -1,6 +1,7 @@
 ---
 title: "72% See Results: Keto OMAD One Meal Daily"
 date: 2026-08-14T13:57:35.187629+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how one meal a day on keto works, real results from people following OMAD, and whether this approach fits your goals."
 image: "/img/heroes/1065030.jpg"

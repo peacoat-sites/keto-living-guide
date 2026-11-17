@@ -23,7 +23,7 @@ faqs:
    a: "Only with direct guidance from your neurologist or specialist. The therapeutic ketogenic diet for epilepsy management is a clinical protocol, not a lifestyle diet, and reintroduction decisions there are genuinely high-stakes. This article isn't written for that context."
  - q: "What if I feel better on carbs than I did on keto?"
    a: "Then you feel better on carbs. Keto isn't physiologically superior for every person. Some people thrive on it for years; others do better at moderate carb intake. The goal is to find what actually works for your body, not to defend a dietary identity."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people approach reintroducing carbs after keto like they're defusing a bomb. One wrong move and they're convinced they'll gain back every pound overnight. I'll be honest: I used to tell clients something close to that, framing reintroduction as this ultra-delicate process requiring military precision. Then I actually looked at the data more carefully, and what surprised me was how much the typical advice in keto communities is shaped by fear rather than physiology.

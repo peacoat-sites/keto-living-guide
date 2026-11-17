@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Three days into keto. Eggs, bacon, salad, nothing else. Your head is pounding, your legs feel like wet cement, and you just snapped at your coworker over something you can't even remember. You probably have keto flu, and as miserable as it feels, it's actually a sign that something real is happening inside your body.
 

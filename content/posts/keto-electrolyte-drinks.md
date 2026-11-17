@@ -1,6 +1,7 @@
 ---
 title: "Keto Electrolyte Drinks: Stay Hydrated on Low-Carb"
 date: 2026-07-22T14:37:27.702951+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which electrolyte drinks work best for keto diets, why they matter, and how to choose options without hidden sugars."
 image: "/img/heroes/4853241.jpg"

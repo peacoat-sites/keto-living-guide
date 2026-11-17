@@ -23,7 +23,7 @@ author: "Jake Torres"
 author_slug: "jake-torres"
 author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people quit keto at dinner. Not breakfast, when eggs are easy. Not lunch, when a salad feels virtuous. It's 6pm, the family wants pasta, you're staring at a block of cheese, and something breaks. The plan doesn't fail because keto is hard. It fails because nobody gave them real dinners that actually taste like dinner.
 

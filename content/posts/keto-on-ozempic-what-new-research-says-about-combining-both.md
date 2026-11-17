@@ -1,6 +1,7 @@
 ---
 title: "Keto on Ozempic: What New Research Says About Combining Both"
 date: 2026-07-09T15:47:39.686584+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what new research reveals about combining keto and Ozempic for weight loss, blood sugar control, and potential risks you should know before trying both"
 image: "/img/heroes/13376599.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The 2025-2030 Dietary Guidelines Finally Validate Low-Carb Eating"
 date: 2026-07-26T14:12:14.047430+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The 2025-2030 Dietary Guidelines Finally Validate Low-Carb Eating. Learn how updated nutrition recommendations now support low-carbohydrate diets for weight man"
 image: "/img/heroes/5693047.jpg"

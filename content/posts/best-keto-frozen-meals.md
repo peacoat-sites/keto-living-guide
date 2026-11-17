@@ -23,7 +23,7 @@ faqs:
    a: "If you're comparing it to buying ingredients and cooking every night, probably not on a pure cost basis. If you're comparing it to eating out or ordering delivery regularly, it can actually be cheaper and significantly better for your macros. The meal quality is genuinely higher than shelf-stable frozen options."
  - q: "Why do so many frozen meals say 'keto-friendly' but have high carbs?"
    a: "Because 'keto-friendly' has no regulatory definition in the U.S. Brands can put it on any packaging they want. It often means 'lower carb than our standard product' rather than 'appropriate for a ketogenic diet.' Flip the box and do the math yourself every time."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most frozen meals marketed as "keto" are not actually keto. That's the thing nobody tells you upfront, and it took me going through a ridiculous number of cardboard boxes before I figured it out.

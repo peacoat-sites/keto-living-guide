@@ -12,7 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "what-usdas-2026-guidelines-mean-for-keto-the-quality-question"
 affiliate_disclosure: false
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 For the first time in 50 years, the U.S. government just officially blessed low-carb diets as a legitimate strategy for type 2 diabetes, metabolic syndrome, and insulin resistance. If you've been doing keto quietly, wondering if you're going against nutritional science, January 2026 changed something important. The USDA's updated dietary guidelines now treat low-carb approaches as equally valid to traditional calorie restriction.

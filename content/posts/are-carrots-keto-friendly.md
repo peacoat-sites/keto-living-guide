@@ -1,6 +1,7 @@
 ---
 title: "Are Carrots Keto Friendly? 11.4g Net Carbs Per Cup"
 date: 2026-08-08T13:29:28.530312+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Carrots contain 11.4g net carbs per cup, making them questionable for strict keto. Learn which vegetables work better for ketogenic diets."
 image: "/img/heroes/33293165.jpg"

@@ -23,7 +23,7 @@ faqs:
     a: "Probably not, unless you're doing keto for a specific therapeutic reason (epilepsy management, cancer metabolic therapy) or you're troubleshooting a stall. Plenty of people do keto effectively by tracking carbs and paying attention to how they feel. Testing is a tool, not a requirement."
   - q: "Why did my ketones drop after I started exercising more?"
     a: "High-intensity exercise burns through ketones quickly and can temporarily drop your BHB reading. Paradoxically, this is a sign things are working: your muscles are using the ketones you're producing. Lower readings post-exercise don't mean you're out of ketosis; they mean your body is actually consuming what it makes."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people testing ketones for the first time have no idea what number they're looking at. They prick their finger, get a reading of 0.4 mmol/L, and either panic that it's too low or assume they've failed keto entirely. This confusion is fixable with just a little context.
 

@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who end up going keto don't do it because they read a study. They do it because something stopped working. The scale hasn't moved in six weeks. They're tired after lunch every single day. Their doctor mentioned their fasting glucose is "trending up." The keto diet gets a lot of hype and a fair amount of eye-rolls, but underneath both reactions there's a real body of evidence worth understanding before you decide whether this way of eating makes sense for you.
 

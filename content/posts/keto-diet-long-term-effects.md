@@ -1,6 +1,7 @@
 ---
 title: "30% Weight Loss on Keto: Long-Term Health Effects Explained"
 date: 2026-08-02T14:11:35.044039+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what happens to your body after months on keto. Real data on metabolic changes, muscle loss, and sustainable results."
 image: "/img/heroes/7991942.jpg"

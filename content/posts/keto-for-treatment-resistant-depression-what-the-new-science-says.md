@@ -12,7 +12,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-for-treatment-resistant-depression-what-the-new-science-says"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 For years, psychiatrists have been quietly warning that roughly 30% of people with major depression don't respond adequately to antidepressants. That's not a fringe statistic. It's been sitting in the literature for decades, largely without a satisfying answer. So when a randomized clinical trial out of the University of Oxford landed in *JAMA Psychiatry* on February 4, 2026, showing that a ketogenic diet outperformed a plant-based control diet in reducing depression symptoms among treatment-resistant patients, it didn't just generate headlines. It forced a genuine conversation about whether metabolic intervention belongs in the psychiatrist's toolkit.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Not in the way most people fear. Gluconeogenesis is regulated by demand, not just protein supply. Hitting 1 gram per pound of bodyweight won't prevent ketosis in an adapted individual. If you're constantly testing your ketones and they're low, look at total calories and hidden carbs before blaming protein."
  - q: "What's the biggest mistake people make on a keto bodybuilding plan?"
    a: "Underrating protein and overrating fat. Keto's identity as a 'high-fat diet' leads a lot of people to keep piling in butter and oil while protein sits at 100g a day or less. Fat is a fuel source here, not a building block. Muscle is built from protein. Get the protein right first, then fill remaining calories with fat."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people start keto for fat loss, then decide a few months in that they also want to actually look like they lift. That's where things get complicated, because almost every keto resource out there is built around one goal or the other, not both. A common issue for people trying to build muscle on keto is inadequate protein intake and poor attention to nutrient timing, even when training is dialed in.

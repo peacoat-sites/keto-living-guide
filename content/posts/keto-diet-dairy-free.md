@@ -23,7 +23,7 @@ faqs:
    a: "Most nut-based cheeses are low-carb enough to fit keto (usually 1-3g net carbs per ounce), and some melt acceptably well for cooking. They don't behave like real cheese in every context, but for topping dishes or adding flavor, they're fine. Read the label carefully because some brands add tapioca starch."
  - q: "How do I know if dairy is actually causing my symptoms?"
    a: "Do a strict elimination for four weeks, then reintroduce one dairy product at a time and wait 48-72 hours between each. This is the standard elimination protocol, and it's more informative than any allergy test for non-IgE-mediated reactions. A registered dietitian can walk you through it if you want a more structured approach."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most keto content treats dairy as a minor footnote: "Oh, sensitive to dairy? Just swap the cheese." That's not helpful. Going dairy-free on keto means rethinking your fat sources, your breakfast options, your baked goods, your coffee, and, if you're not careful, [your electrolyte intake](/electrolytes-on-keto/). It's a real restructuring, not a quick swap.
 

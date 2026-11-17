@@ -12,7 +12,7 @@ author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
 slug: "keto-diet-shows-promise-for-treatment-resistant-depression"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 For a long time, the conversation around ketogenic diets and mental health lived in a corner of the internet populated by biohackers and testimonial threads. Researchers were skeptical, psychiatrists were largely uninterested, and anyone suggesting that what you eat could move the needle on serious depression was easy to dismiss. That's changing fast, and a paper published in *JAMA Psychiatry* on February 4, 2026 is probably the single biggest reason why.
 

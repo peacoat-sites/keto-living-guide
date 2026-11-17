@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet After 50: How 20% Loss Is Achievable"
 date: 2026-07-23T14:52:41.765927+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how the ketogenic diet helps women and men over 50 lose weight effectively with proven strategies and realistic expectations."
 image: "/img/heroes/8507670.jpg"

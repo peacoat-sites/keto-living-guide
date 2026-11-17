@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet on $50 a Week: Budget-Friendly Meal Plan"
 date: 2026-07-19T14:08:35.085027+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to do keto on just $50 weekly with affordable grocery staples and simple meal planning strategies for weight loss on a budget."
 image: "/img/heroes/27175870.jpg"

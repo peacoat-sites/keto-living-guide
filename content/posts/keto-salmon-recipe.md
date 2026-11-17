@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Salmon might be the single most forgiving fish you can cook on keto, and somehow people still manage to ruin it. Spending $18 on a beautiful wild-caught fillet only to turn it into a gray, chalky disappointment by overcooking it two minutes past done is a common mistake. So before we get to any actual recipe, the one thing that separates good keto salmon from great keto salmon is fat timing.
 

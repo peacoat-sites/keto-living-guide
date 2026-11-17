@@ -23,7 +23,7 @@ faqs:
    a: "The adjustment phase is the most acute period, but most people who stay on keto long-term find they feel better with some ongoing sodium supplementation, especially if they exercise. Your kidneys continue to excrete sodium at higher rates than on a higher-carb diet. It doesn't have to be a daily supplement forever, many people just salt their food liberally and that's enough once they're adapted."
  - q: "What's the fastest fix if I'm feeling terrible right now?"
    a: "Make a cup of warm broth, a product like Kettle & Fire beef broth has around 580 mg of sodium per cup, and the warmth seems to help people feel better quickly. Add a pinch of NoSalt if you have it. Drink it slowly. Most people feel noticeably better within an hour."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you've made it about a week into keto and you feel like you got hit by a truck, you're not imagining it. The fatigue, the headaches, the muscle cramps that wake you at 3am, that's not your body rejecting low-carb eating. That's electrolyte depletion, and it's one of the most predictable and fixable things in all of nutrition.

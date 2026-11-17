@@ -1,6 +1,7 @@
 ---
 title: "Why Keto Isn't Working: 7 Reasons You're Not Losing Weight"
 date: 2026-07-10T15:18:42.039862+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Stuck on keto with no results? Discover the most common reasons your weight loss has stalled and exactly how to fix each one."
 image: "/img/heroes/14537684.jpg"

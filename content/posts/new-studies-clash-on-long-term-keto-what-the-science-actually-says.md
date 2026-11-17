@@ -12,7 +12,7 @@ author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
 slug: "new-studies-clash-on-long-term-keto-what-the-science-actually-says"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably seen the headlines this spring bouncing in different directions. One week, keto's fixing your pancreas. The next, it's destroying your liver. If you've been low-carb for a while, or you're thinking about it for blood sugar control, the whiplash is real. The honest answer is: both kind of, and that's exactly the problem.
 

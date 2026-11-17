@@ -23,7 +23,7 @@ faqs:
    a: "The store-bought options I've tried, including a few that charge $8-10 per crust, have mostly disappointed me on texture and flavor. The good ones are okay. Fathead is better, cheaper, and you know exactly what's in it. A batch costs maybe $3 in ingredients."
  - q: "Will this actually kick me out of ketosis?"
    a: "A well-made keto pizza with fathead crust almost certainly won't, assuming you're otherwise sticking to your carb targets. What does derail people is using a recipe that seems keto-friendly but has hidden carbs in the sauce or sausage. Read labels on processed toppings especially."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most keto pizza attempts fail in the same way: someone follows a popular recipe, pulls a soggy disc out of the oven, takes one bite, and decides keto pizza is a lie. Bad keto pizza is genuinely bad. But a well-made version holds up well enough that non-keto eaters can enjoy it.

@@ -12,7 +12,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people pick a keto app the same way they pick a Netflix show: scroll for two minutes, grab something popular, and wonder why it's not working for them three weeks later. I did exactly that when I first started [tracking macros](/keto-tracker-apps/), and I spent an embarrassing amount of time logging food in an app that wasn't even designed with low-carb eating in mind.
 

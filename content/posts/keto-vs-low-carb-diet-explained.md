@@ -23,7 +23,7 @@ author: "Ryan Park"
 author_slug: "ryan-park"
 author_title: "Fitness Editor"
 author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably typed some version of "keto vs low carb" into a search bar at least once already, maybe while standing in a grocery store aisle trying to decide if the almond flour tortillas are going to fit your plan. Or maybe you've been doing "low carb" for a few weeks and someone told you it doesn't count unless you're actually in ketosis. Either way, you're here because the line between these two approaches feels blurry, and the internet tends to make it blurrier with confident-sounding contradictions that don't actually help you make a decision.
 

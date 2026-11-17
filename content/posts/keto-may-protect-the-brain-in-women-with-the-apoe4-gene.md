@@ -1,6 +1,7 @@
 ---
 title: "Keto May Protect the Brain in Women with the APOE4 Gene"
 date: 2026-06-24T15:23:07.234336+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how a ketogenic diet may help protect brain health in women carrying the APOE4 gene, a key risk factor for Alzheimer's disease and cognitive decline."
 image: "/img/heroes/5714319.jpg"

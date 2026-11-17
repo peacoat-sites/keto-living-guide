@@ -1,6 +1,7 @@
 ---
 title: "Breaking a Keto Stall: 7 Proven Ways to Start Losing Again"
 date: 2026-07-09T15:44:55.061184+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Hit a plateau on keto? Discover the real reasons your weight loss has stalled and exactly what to do to break through it fast."
 image: "/img/heroes/725991.jpg"

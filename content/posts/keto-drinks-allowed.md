@@ -23,7 +23,7 @@ author: "Emma Lawson"
 author_slug: "emma-lawson"
 author_title: "Nutrition Coach"
 author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. I've heard this moment described by clients more times than I can count, and it reveals something most keto guides skip: drinks can silently wreck your carb count until they actually do.
 

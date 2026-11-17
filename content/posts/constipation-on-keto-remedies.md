@@ -1,6 +1,7 @@
 ---
 title: "Keto Constipation: 7 Fast Remedies That Actually Work"
 date: 2026-07-08T15:01:31.184938+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Struggling with constipation on keto? Discover 7 proven remedies to get relief fast and keep your digestive system running smoothly on a low-carb diet."
 image: "/img/heroes/3038242.jpg"

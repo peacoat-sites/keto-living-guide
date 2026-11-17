@@ -23,7 +23,7 @@ author: "Mark Chen"
 author_slug: "mark-chen"
 author_title: "Nutrition Researcher"
 author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.
 

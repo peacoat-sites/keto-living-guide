@@ -23,7 +23,7 @@ faqs:
     a: "It's a solid source of vitamin C (about 77% of the daily value per cup), vitamin K, and folate. It also contains sulforaphane, a compound that's gotten some research attention for potential anti-inflammatory properties, though the research is preliminary and I wouldn't overstate it."
   - q: "What's the best way to store cauliflower to keep it fresh longer?"
     a: "Keep it unwashed in the refrigerator, ideally stem-side down or in a loose plastic bag. A whole head usually lasts 4-5 days. If you've already riced or cut it, store it in an airtight container and use it within 2-3 days, or freeze it in a single layer on a baking sheet before transferring to a bag."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Cauliflower gets more credit than it deserves on keto. There, I said it.

@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet for Multiple Sclerosis: What the Newest Evidence Shows"
 date: 2026-07-15T14:26:01.359217+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore the latest scientific evidence on how ketogenic diet may help manage Multiple Sclerosis symptoms. Discover potential benefits and considerations for MS "
 image: "/img/heroes/4553029.jpg"

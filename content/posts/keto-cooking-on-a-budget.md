@@ -12,7 +12,7 @@ author_title: "Culinary Nutritionist"
 author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
 slug: "keto-cooking-on-a-budget"
 affiliate_disclosure: false
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people come to me after they've already blown their grocery budget once or twice trying to eat keto. They've bought the almond flour, the grass-fed everything, the fancy MCT oil, the $12 avocado oil mayo. Then they look at the receipt and quietly wonder if this diet is actually designed for people who make more money than they do.
 

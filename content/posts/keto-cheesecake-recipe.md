@@ -23,7 +23,7 @@ faqs:
    a: "Allulose wins on texture, especially once the cheesecake is chilled. Erythritol can recrystallize in cold, high-fat environments, which creates a faint grittiness some people notice and some don't. If you already have a powdered erythritol blend at home, use it, it's fine. If you're buying specifically for this, get allulose."
  - q: "How many carbs are in a slice of keto cheesecake?"
    a: "Using this recipe with allulose and the almond-pecan crust, expect roughly 4-5 grams of net carbs per slice (1/12 of a 9-inch cake). This can vary by brand, so track your specific ingredients if precision matters to you."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common assumption on keto is that cheesecake is off the table. After weeks of staying on plan, it's easy to feel like one slice at a birthday party means everything is ruined. But cheesecake can actually work well on keto with the right recipe.

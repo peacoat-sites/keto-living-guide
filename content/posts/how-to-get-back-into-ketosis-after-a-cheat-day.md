@@ -1,6 +1,7 @@
 ---
 title: "Getting Back Into Ketosis After a Cheat Day: 5 Fast Methods"
 date: 2026-08-06T14:57:50.738606+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Knocked out of ketosis? Learn proven strategies to re-enter ketosis quickly after a cheat day and get back on track with your keto diet."
 image: "/img/heroes/5463885.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "It can be. If you're doing more than 45 minutes of moderate-to-intense exercise four or more times per week, you likely need 1,750-2,000 calories to support performance and recovery. Persistent fatigue, declining workout quality, or difficulty sleeping are signs you've dropped too low."
  - q: "Do I need to use MCT oil on a 1,500-calorie keto plan?"
    a: "No, it's optional. MCT oil (like Bulletproof Brain Octane at around $25 for 16oz on Amazon, site may earn a commission) can help some people get into ketosis faster initially, but it adds calories that count toward your daily total. At 1,500 calories, I'd rather people use those fat grams for whole food sources that carry more micronutrients."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Fifteen hundred calories on keto isn't some magic number, but it's close to where a lot of people actually land when they're losing weight steadily without feeling like they're starving. If you've been bouncing between "eat less" advice that leaves you miserable and keto plans that feel like a butter-fueled free-for-all, you might be wondering if there's a middle ground that actually works. There is. And it's more straightforward than most meal-plan articles make it sound.

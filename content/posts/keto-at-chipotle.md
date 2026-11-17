@@ -23,7 +23,7 @@ faqs:
    a: "It can be, depending on what's in it. The 'lifestyle bowls' they market include a 'keto' option that's essentially a salad bowl with their standard keto-friendly toppings. Check the specific build on the app before ordering because the exact configuration has changed at various points, and you want to verify what goes into it at your location."
  - q: "Can I have the fajita vegetables?"
    a: "Yes. Fajita veggies (peppers and onions, cooked in a small amount of oil) run about 5 grams of net carbs. They add bulk, flavor, and actual fiber. Include them."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume fast-casual Mexican food is basically off-limits on keto. I used to think the same thing. Then I started actually mapping out what Chipotle puts in each component, and what surprised me was just how keto-adaptable the menu is once you stop thinking about it as a burrito restaurant and start treating it as a protein-and-fat assembly station.
 

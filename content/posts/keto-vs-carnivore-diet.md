@@ -23,7 +23,7 @@ faqs:
     a: "If you're including organ meats, especially liver, a few times per week, the gaps are smaller than you'd think. The main risks are vitamin C (manageable with raw liver), folate, and certain antioxidants. If you're doing strict carnivore without variety, it's worth running bloodwork every 3 to 6 months. This isn't optional; it's just responsible."
   - q: "How long should I try one of these before deciding if it's working?"
     a: "Four weeks is enough to assess basic tolerability and initial weight response. Twelve weeks is the minimum to assess metabolic changes meaningfully. I'd caution against switching or quitting before the 30-day mark, since the adaptation period on both diets includes a rough stretch that many people mistake for the diet not working."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people come to me after they've already done keto for a while. They've lost some weight, felt pretty good for a stretch, and then hit a wall. Or they've heard about carnivore from someone at the gym, or stumbled into a rabbit hole of YouTube videos featuring guys eating nothing but ribeyes, and now they're wondering: is that actually better? Should I have been doing that all along?

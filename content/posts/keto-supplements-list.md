@@ -23,7 +23,7 @@ author: "Dr. Sarah Mitchell"
 author_slug: "sarah-mitchell"
 author_title: "Medical Reviewer"
 author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're three days into keto, you feel like you got hit by a truck, and someone in a Facebook group just told you to "take some electrolytes." Great advice, but which ones? How much? And while you're at it, what about all those other supplements people keep mentioning: [MCT oil](/mct-oil-benefits-keto/), exogenous ketones, magnesium glycinate, digestive enzymes? The supplement aisle (and the internet) can feel overwhelming fast. Let me cut through the noise.
 

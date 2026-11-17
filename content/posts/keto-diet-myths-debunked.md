@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet Myths Debunked: What 60% of People Get Wrong"
 date: 2026-07-24T14:25:27.562956+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the truth about ketogenic diets. We debunk common keto myths with real science and help you understand what actually works."
 image: "/img/heroes/18535642.jpg"

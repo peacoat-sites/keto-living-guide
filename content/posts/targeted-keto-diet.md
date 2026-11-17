@@ -23,7 +23,7 @@ author: "Diana Walsh"
 author_slug: "diana-walsh"
 author_title: "Nutrition Coach"
 author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've been doing keto for a few months. Fat loss is going well, you feel good most of the time, but your gym sessions feel flat. You're losing strength, your legs feel heavy, and that last set just isn't happening. You've read that carbs are the enemy, so you gut it out. For people who train hard, standard keto might actually be working against you, not for you. The targeted ketogenic diet can help: it's a practical approach many people miss despite doing 90% of their diet right.
 

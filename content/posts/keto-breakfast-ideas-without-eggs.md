@@ -1,6 +1,7 @@
 ---
 title: "18 Keto Breakfast Ideas That Contain Zero Eggs"
 date: 2026-07-10T15:16:04.736076+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Skip the eggs without breaking ketosis. These 18 keto breakfast ideas keep fat at 65% of calories with zero eggs required."
 image: "/img/heroes/3957527.jpg"
