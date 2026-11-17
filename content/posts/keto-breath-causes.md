@@ -25,13 +25,13 @@ faqs:
     a: "Worth investigating rather than ignoring. Persistent strong breath past the typical adaptation window usually points to very high protein intake, very aggressive caloric restriction, or (less commonly) a medical issue worth ruling out with a doctor. It's not dangerous on its own, but it's a signal worth paying attention to."
 ---
 
-Nobody warns you about the breath. The diet changes, the [meal prep](/how-to-meal-prep-keto-lunches-for-the-week/), the first week of fatigue ,  sure, plenty of coverage on all of that. But the smell? Most articles either skip it entirely or bury it under reassurances like "it fades!" without explaining *why* it happens or what you can actually do about it. That's where the useful information lives.
+Nobody warns you about the breath. The diet changes, the [meal prep](/how-to-meal-prep-keto-lunches-for-the-week/), the first week of fatigue, sure, plenty of coverage on all of that. But the smell? Most articles either skip it entirely or bury it under reassurances like "it fades!" without explaining *why* it happens or what you can actually do about it. That's where the useful information lives.
 
 [Keto breath](/keto-breath-how-to-get-rid-of-it/) is real, it's distinctive, and it's not the same as regular bad breath. Understanding what's causing it changes what you do about it.
 
-The short version: it's acetone. You're exhaling a ketone body through your lungs, and acetone smells fruity, slightly chemical, sometimes metallic. Clients describe it as overripe fruit, nail polish remover, or something vaguely industrial. If you've ever smelled a diabetic in ketoacidosis, it's a milder version of that same compound ,  though the underlying physiology is completely different and much less alarming in dietary ketosis.
+The short version: it's acetone. You're exhaling a ketone body through your lungs, and acetone smells fruity, slightly chemical, sometimes metallic. Clients describe it as overripe fruit, nail polish remover, or something vaguely industrial. If you've ever smelled a diabetic in ketoacidosis, it's a milder version of that same compound, though the underlying physiology is completely different and much less alarming in dietary ketosis.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto breath is caused primarily by exhaled acetone, a ketone body, not by oral bacteria or food odor.</li><li style="margin:5px 0">It typically peaks in weeks 1-3 of keto, then fades as your body adapts and ketone production stabilizes.</li><li style="margin:5px 0">Staying well-hydrated and increasing electrolyte intake can reduce intensity noticeably.</li><li style="margin:5px 0">Mints and mouthwash mask it temporarily; they don't address the source.</li><li style="margin:5px 0">If the smell persists strongly beyond 6-8 weeks, revisit your protein intake ,  excess protein can prolong it.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Keto breath is caused primarily by exhaled acetone, a ketone body, not by oral bacteria or food odor.</li><li style="margin:5px 0">It typically peaks in weeks 1-3 of keto, then fades as your body adapts and ketone production stabilizes.</li><li style="margin:5px 0">Staying well-hydrated and increasing electrolyte intake can reduce intensity noticeably.</li><li style="margin:5px 0">Mints and mouthwash mask it temporarily; they don't address the source.</li><li style="margin:5px 0">If the smell persists strongly beyond 6-8 weeks, revisit your protein intake, excess protein can prolong it.</li></ul></div>
 
 ## What's Actually Happening in Your Body
 
@@ -47,7 +47,7 @@ Breath intensity isn't uniform. A few factors push it higher:
 
 **Ketone production rate.** If you're producing ketones faster than your cells are using them, you have excess circulating. New keto dieters often overproduce relative to utilization because their cells aren't yet efficient at running on fat. Keto-adaptation (typically 4-8 weeks for most people, though the research here is honestly variable) narrows that gap.
 
-**Protein intake.** This one gets missed constantly. Gluconeogenesis ,  the process by which your liver converts amino acids to glucose ,  can produce acetone as a byproduct when protein intake is very high. If you're eating 200g of protein daily and wondering why your breath is still sharp at week ten, that's where I'd look first.
+**Protein intake.** This one gets missed constantly. Gluconeogenesis, the process by which your liver converts amino acids to glucose, can produce acetone as a byproduct when protein intake is very high. If you're eating 200g of protein daily and wondering why your breath is still sharp at week ten, that's where I'd look first.
 
 **Dehydration.** Low water intake concentrates acetone in your exhaled breath. It also concentrates everything else in your body, which creates a second layer of odor from concentrated urine compounds that can show up in breath. Staying at 2-3 liters of water daily can help reduce keto breath noticeably.
 
@@ -59,11 +59,11 @@ The internet offers a lot of remedies. Most of them work on different problems t
 
 **1. Time.** This is the real answer. As your cells adapt and you develop better metabolic machinery for burning ketones, your body uses more of what it produces and exhales less. Most people notice significant improvement by week four; by month three, keto breath is often gone or very mild. You can't shortcut this.
 
-**2. Water intake.** Cheap, immediate partial effect. Aim for at least 2.5 liters daily. Add electrolytes (sodium especially) if you're peeing clear every hour ,  that's a sign you're flushing without absorbing.
+**2. Water intake.** Cheap, immediate partial effect. Aim for at least 2.5 liters daily. Add electrolytes (sodium especially) if you're peeing clear every hour, that's a sign you're flushing without absorbing.
 
 **3. Moderate your protein.** Controversial to say this in keto circles, but if your breath is persistent past eight weeks, look at your protein numbers. 1.2-1.7g per kg of body weight is a reasonable target for most people. Going much higher without a specific reason (heavy strength training, body recomp) is probably contributing.
 
-**4. Dental hygiene ,  for the wrong reason.** Brushing and tongue scraping won't touch acetone, but they will clear out any bacterial load that's layering on top of it. So yes, do it, just don't expect it to solve the core problem.
+**4. Dental hygiene, for the wrong reason.** Brushing and tongue scraping won't touch acetone, but they will clear out any bacterial load that's layering on top of it. So yes, do it, just don't expect it to solve the core problem.
 
 **5. Green tea or fresh herbs.** Anecdotally, chlorophyll-rich foods and drinks seem to help some people. The evidence is thin and mostly comes from older lab studies on breath odor in general. Worth trying because the downside is zero.
 
@@ -80,7 +80,7 @@ The internet offers a lot of remedies. Most of them work on different problems t
 
 I get this one regularly, so worth addressing directly: keto breath and DKA breath smell similar because they're caused by the same compound. But the comparison ends there.
 
-In diabetic ketoacidosis, ketone levels in blood can reach 20 mmol/L or higher. In dietary ketosis, you're typically working in the 0.5-3 mmol/L range, occasionally higher in extended fasting. The smell intensity in DKA is dramatically more pronounced; people around the patient can usually detect it without being close. If you're a non-diabetic eating a ketogenic diet, you're not at risk for DKA ,  you don't have the insulin signaling problem that drives uncontrolled ketone production. If you're a type 1 diabetic or have type 2 with insulin issues, talk to your doctor before doing keto. That's not a disclaimer for its own sake; it's actually important here.
+In diabetic ketoacidosis, ketone levels in blood can reach 20 mmol/L or higher. In dietary ketosis, you're typically working in the 0.5-3 mmol/L range, occasionally higher in extended fasting. The smell intensity in DKA is dramatically more pronounced; people around the patient can usually detect it without being close. If you're a non-diabetic eating a ketogenic diet, you're not at risk for DKA, you don't have the insulin signaling problem that drives uncontrolled ketone production. If you're a type 1 diabetic or have type 2 with insulin issues, talk to your doctor before doing keto. That's not a disclaimer for its own sake; it's actually important here.
 
 ## Scenario Examples
 
@@ -92,10 +92,10 @@ Endurance athlete cycling keto for body composition, measuring blood ketones dai
 
 ## Sources
 
-- Musa-Veloso K, et al. (2002): "Breath acetone is a reliable indicator of ketosis in adults consuming ketogenic meals." *American Journal of Clinical Nutrition* ,  foundational work on exhaled acetone as a ketosis marker.
-- Taboulet P, et al. (2007): "Correlation between urine ketones and blood glucose and ketones in diabetic patients." *Diabetes & Metabolism* ,  contextualizes ketone production levels across different metabolic states.
-- Paoli A, et al. (2013): "Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets." *European Journal of Clinical Nutrition* ,  covers keto-adaptation timeline and metabolic changes.
-- Laffel L (1999): "Ketone bodies: a review of physiology, pathophysiology and application of monitoring to diabetes." *Diabetes/Metabolism Research and Reviews* ,  useful background on acetone specifically.
+- Musa-Veloso K, et al. (2002): "Breath acetone is a reliable indicator of ketosis in adults consuming ketogenic meals." *American Journal of Clinical Nutrition*, foundational work on exhaled acetone as a ketosis marker.
+- Taboulet P, et al. (2007): "Correlation between urine ketones and blood glucose and ketones in diabetic patients." *Diabetes & Metabolism*, contextualizes ketone production levels across different metabolic states.
+- Paoli A, et al. (2013): "Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets." *European Journal of Clinical Nutrition*, covers keto-adaptation timeline and metabolic changes.
+- Laffel L (1999): "Ketone bodies: a review of physiology, pathophysiology and application of monitoring to diabetes." *Diabetes/Metabolism Research and Reviews*, useful background on acetone specifically.
 
 ---
 

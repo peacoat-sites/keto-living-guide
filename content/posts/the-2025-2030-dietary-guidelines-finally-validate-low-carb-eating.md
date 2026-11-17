@@ -70,7 +70,7 @@ The 2025–2030 Dietary Guidelines represent the most meaningful federal acknowl
 ## Sources
 - [Keto-Mojo: Position on the 2025–2030 Dietary Guidelines for Americans](https://keto-mojo.com/article/keto-mojos-position-on-the-2025-2030-dietary-guidelines-for-americans/) (February 2, 2026)
 - [Atkins: Low Carb and the New 2026 Dietary Guidelines](https://www.atkins.com/expertise/low-carb-and-2026-dietary-guidelines) (February 26, 2026)
-- [BeKeto: New Food Pyramid 2026 ,  A Game-Changing Shift in Dietary Guidelines](https://beketo.uk/new-food-pyramid-2026/) (April 2, 2026)
+- [BeKeto: New Food Pyramid 2026, A Game-Changing Shift in Dietary Guidelines](https://beketo.uk/new-food-pyramid-2026/) (April 2, 2026)
 - [National CACFP Association: 2025-2030 Dietary Guidelines for Americans Released](https://www.cacfp.org/2026/01/08/2025-2030-dietary-guidelines-for-americans-released/) (January 8, 2026)
 - [Wikipedia: Jeff Volek](https://en.wikipedia.org/wiki/Jeff_Volek) (2026)
 

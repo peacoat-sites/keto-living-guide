@@ -43,7 +43,7 @@ Here's how a typical month breaks down, based on aggregated data from the Virta 
 | Week 2 | 1–3 lbs | 0.75–1.5 lbs | Ketosis establishing, appetite suppression starting |
 | Week 3 | 0.5–2 lbs | 0.75–1.5 lbs | Fat oxidation, some water fluctuation |
 | Week 4 | 0.5–2 lbs | 0.75–1.5 lbs | Fat loss, possible stall as cortisol normalizes |
-| **Total** | **6–15 lbs** | **2.75–5.5 lbs** | ,  |
+| **Total** | **6–15 lbs** | **2.75–5.5 lbs** |, |
 
 What surprises most clients when I show them this breakdown: they feel like the diet stopped working in weeks three and four, when in fact that's when actual fat loss is most consistent. Week one is dramatic but metabolically shallow. Week three, when someone is staring at a half-pound loss, is often when genuine adaptation is happening.
 

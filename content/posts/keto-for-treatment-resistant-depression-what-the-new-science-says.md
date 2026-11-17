@@ -65,9 +65,9 @@ The honest position is that we're watching a field develop in real time. The ear
 ## Sources
 
 - [Keto Diet A Potential Treatment For Depression, Trial Shows](https://www.usnews.com/news/health-news/articles/2026-02-06/keto-diet-a-potential-treatment-for-depression-trial-shows) (February 6, 2026)
-- [A Ketogenic Diet for Treatment-Resistant Depression: A Randomized Clinical Trial , JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844388) (February 4, 2026)
-- [Awareness and Best Practices in Using Ketogenic Therapy to Treat Serious Mental Illness: A Modified Delphi Consensus , Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1749406/full) (January 2026)
-- [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness , Stanford Medicine](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html) (April 1, 2024)
+- [A Ketogenic Diet for Treatment-Resistant Depression: A Randomized Clinical Trial, JAMA Psychiatry](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2844388) (February 4, 2026)
+- [Awareness and Best Practices in Using Ketogenic Therapy to Treat Serious Mental Illness: A Modified Delphi Consensus, Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1749406/full) (January 2026)
+- [Pilot Study Shows Ketogenic Diet Improves Severe Mental Illness, Stanford Medicine](https://med.stanford.edu/news/all-news/2024/04/keto-diet-mental-illness.html) (April 1, 2024)
 
 *Photo: [mali maeder](https://www.pexels.com/@mali) via Pexels*
 

@@ -85,7 +85,7 @@ One thing nobody tells you about allulose specifically: it browns faster than su
 
 ## Sources
 
-- Nutrients (2021): "Allulose: Physiology, Metabolism, and Safety" ,  confirms near-zero glycemic response in human subjects.
+- Nutrients (2021): "Allulose: Physiology, Metabolism, and Safety", confirms near-zero glycemic response in human subjects.
 - *Nature Medicine* (2023), Hazen et al., Cleveland Clinic: Study linking plasma erythritol levels to cardiovascular event risk in high-risk patients; important but not conclusive for general population.
 - FDA GRAS Notification (2019): FDA ruling that allulose may be excluded from "added sugars" labeling; available via FDA.gov regulatory database.
 - Nutrients meta-analysis (2022): Compiled glycemic index values for common low-calorie sweeteners across 14 controlled studies.

@@ -68,11 +68,11 @@ If you're eating keto and healthy, keep working with your care team on regular s
 
 ## Sources
 
-- [Ketogenic diets may increase cancer risk in the small intestine ,  MIT News](https://news.mit.edu/2026/ketogenic-diets-may-increase-cancer-risk-small-intestine-0715) (July 15, 2026)
-- [Ketogenic diet may increase small intestine cancer risk in mice ,  News-Medical.net](https://www.news-medical.net/news/20260715/Ketogenic-diet-may-increase-small-intestine-cancer-risk-in-mice.aspx) (July 15, 2026)
-- [Ketogenic Diet Shows Opposite Effects on Cancer Risk in Mouse Small Intestine and Colon ,  GEN](https://www.genengnews.com/topics/cancer/ketogenic-diet-shows-opposite-effects-on-cancer-risk-in-mouse-small-intestine-and-colon/) (July 16, 2026)
-- [Could The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory ,  ScienceAlert](https://www.sciencealert.com/could-the-keto-diet-be-fueling-cancer-new-study-challenges-popular-theory) (July 16, 2026)
-- [New study suggests the keto diet may increase cancer risk ,  WFLA/NewsNation](https://www.wfla.com/news/national/could-the-keto-diet-be-increasing-your-cancer-risk/) (July 16, 2026)
+- [Ketogenic diets may increase cancer risk in the small intestine, MIT News](https://news.mit.edu/2026/ketogenic-diets-may-increase-cancer-risk-small-intestine-0715) (July 15, 2026)
+- [Ketogenic diet may increase small intestine cancer risk in mice, News-Medical.net](https://www.news-medical.net/news/20260715/Ketogenic-diet-may-increase-small-intestine-cancer-risk-in-mice.aspx) (July 15, 2026)
+- [Ketogenic Diet Shows Opposite Effects on Cancer Risk in Mouse Small Intestine and Colon, GEN](https://www.genengnews.com/topics/cancer/ketogenic-diet-shows-opposite-effects-on-cancer-risk-in-mouse-small-intestine-and-colon/) (July 16, 2026)
+- [Could The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory, ScienceAlert](https://www.sciencealert.com/could-the-keto-diet-be-fueling-cancer-new-study-challenges-popular-theory) (July 16, 2026)
+- [New study suggests the keto diet may increase cancer risk, WFLA/NewsNation](https://www.wfla.com/news/national/could-the-keto-diet-be-increasing-your-cancer-risk/) (July 16, 2026)
 
 *Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 

@@ -69,11 +69,11 @@ This is a story worth following. Not because it proves keto works against brain 
 
 ## Sources
 
-- [Diet2Treat Trial Listing ,  CenterWatch / ClinicalTrials.gov](https://www.centerwatch.com/clinical-trials/listings/NCT05708352/a-phase-2-study-of-the-ketogenic-diet-vs-standard-anti-cancer-diet-guidance-for-patients-with-glioblastoma-in-combination-with-standard-of-care-treatment) (Updated May 4, 2026)
-- [Ketogenic Diet Influence on Glioblastoma ,  Froedtert & MCW](https://www.froedtert.com/stories/ketogenic-diet-influence-glioblastoma) (August 10, 2026)
-- [Efficacy and Safety of Ketogenic Diet in Glioblastoma: Updated Systematic Review ,  Neurological Sciences (Springer)](https://link.springer.com/article/10.1007/s10072-026-09035-y) (April 25, 2026)
-- [DIET2TREAT Phase 2 Trial ,  UCSF Brain Tumor Center](https://braintumorcenter.ucsf.edu/clinical-trial/randomized-controlled-phase-ii-study-ketogenic-diet-versus-standard-dietary-guidance) (2026)
-- [Ketogenic Diet in 2026: What's New and Effective ,  EP Wellness](https://wellnessdoctorrx.com/ketogenic-diet-in-2026-whats-new-and-effective/) (February 9, 2026)
+- [Diet2Treat Trial Listing, CenterWatch / ClinicalTrials.gov](https://www.centerwatch.com/clinical-trials/listings/NCT05708352/a-phase-2-study-of-the-ketogenic-diet-vs-standard-anti-cancer-diet-guidance-for-patients-with-glioblastoma-in-combination-with-standard-of-care-treatment) (Updated May 4, 2026)
+- [Ketogenic Diet Influence on Glioblastoma, Froedtert & MCW](https://www.froedtert.com/stories/ketogenic-diet-influence-glioblastoma) (August 10, 2026)
+- [Efficacy and Safety of Ketogenic Diet in Glioblastoma: Updated Systematic Review, Neurological Sciences (Springer)](https://link.springer.com/article/10.1007/s10072-026-09035-y) (April 25, 2026)
+- [DIET2TREAT Phase 2 Trial, UCSF Brain Tumor Center](https://braintumorcenter.ucsf.edu/clinical-trial/randomized-controlled-phase-ii-study-ketogenic-diet-versus-standard-dietary-guidance) (2026)
+- [Ketogenic Diet in 2026: What's New and Effective, EP Wellness](https://wellnessdoctorrx.com/ketogenic-diet-in-2026-whats-new-and-effective/) (February 9, 2026)
 
 *Photo: [Ivan Vi](https://www.pexels.com/@juanvidas) via Pexels*
 

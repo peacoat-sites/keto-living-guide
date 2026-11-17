@@ -67,11 +67,11 @@ The science here is real, the mechanism is specific, and the researchers behind 
 
 ## Sources
 
-- [β-hydroxybutyrate enhances the metabolic fitness of CAR T cells in cancer ,  Cell](https://www.cell.com/cell/abstract/S0092-8674(26)00169-8) (March 6, 2026)
-- [Ketone Supplementation Improves Immunotherapy Outcomes in Mice; Human Clinical Trial Underway ,  Arc Institute](https://arcinstitute.org/news/ketone-supplementation-immunotherapy) (March 6, 2026)
-- [Ketone Fuel Strengthens CAR T Cell Cancer Therapy ,  Technology Networks](https://www.technologynetworks.com/cancer-research/news/ketone-supplementation-strengthens-the-antitumor-activity-of-car-t-cells-410447) (March 9, 2026)
-- [Ketogenic Diet and β-Hydroxybutyrate May Enhance CAR T-Cell Therapy Efficacy ,  Pharmacy Times](https://www.pharmacytimes.com/view/ketogenic-diet-and--hydroxybutyrate-may-enhance-car-t-cell-therapy-efficacy) (May 4, 2026)
-- [BHB & CAR-T for Lymphomas ,  ClinicalTrials.gov (Abramson Cancer Center, Penn Medicine)](https://clinicaltrials.gov/study/NCT06610344) (February 2026)
+- [β-hydroxybutyrate enhances the metabolic fitness of CAR T cells in cancer, Cell](https://www.cell.com/cell/abstract/S0092-8674(26)00169-8) (March 6, 2026)
+- [Ketone Supplementation Improves Immunotherapy Outcomes in Mice; Human Clinical Trial Underway, Arc Institute](https://arcinstitute.org/news/ketone-supplementation-immunotherapy) (March 6, 2026)
+- [Ketone Fuel Strengthens CAR T Cell Cancer Therapy, Technology Networks](https://www.technologynetworks.com/cancer-research/news/ketone-supplementation-strengthens-the-antitumor-activity-of-car-t-cells-410447) (March 9, 2026)
+- [Ketogenic Diet and β-Hydroxybutyrate May Enhance CAR T-Cell Therapy Efficacy, Pharmacy Times](https://www.pharmacytimes.com/view/ketogenic-diet-and--hydroxybutyrate-may-enhance-car-t-cell-therapy-efficacy) (May 4, 2026)
+- [BHB & CAR-T for Lymphomas, ClinicalTrials.gov (Abramson Cancer Center, Penn Medicine)](https://clinicaltrials.gov/study/NCT06610344) (February 2026)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

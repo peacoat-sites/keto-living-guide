@@ -71,7 +71,7 @@ The UC findings don't settle the question of optimal keto fat composition. They 
 - [EurekAlert: Some ketogenic diets found to cause mitochondrial stress and lead to inflammation](https://www.eurekalert.org/news-releases/1151133) (published 2026-11-13)
 - [ScienceAlert: Some Ketogenic Diets May Increase Inflammation And Mitochondrial Stress](https://www.sciencealert.com/some-ketogenic-diets-may-increase-inflammation-and-mitochondrial-stress) (published 2026-11-14)
 - [Knowridge: Why some keto diets may increase inflammation](https://knowridge.com/2026/11/why-some-keto-diets-may-increase-inflammation/) (published 2026-11-14)
-- [ClinicalTrials.gov: KETO-IM ,  Metabolic and Inflammatory Outcomes of the Ketogenic Diet Comparing Saturated and Unsaturated Fat Sources](https://clinicaltrials.gov/study/NCT05681468) (last verified 2026-10)
+- [ClinicalTrials.gov: KETO-IM, Metabolic and Inflammatory Outcomes of the Ketogenic Diet Comparing Saturated and Unsaturated Fat Sources](https://clinicaltrials.gov/study/NCT05681468) (last verified 2026-10)
 
 *Photo: [ready made](https://www.pexels.com/@readymade) via Pexels*
 
