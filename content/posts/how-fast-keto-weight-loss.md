@@ -21,8 +21,8 @@ faqs:
    a: "The most accurate at-home method is a blood ketone meter. Nutritional ketosis is generally defined as blood ketone levels between 0.5 and 3.0 mmol/L. Urine strips are cheaper but less reliable after the first few weeks because your body gets better at using ketones rather than excreting them. Breath meters fall somewhere in between. Symptoms like reduced hunger, mental clarity, and a slightly metallic or fruity taste in the mouth are common early signs, but they're not a reliable long-term indicator."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You step on the scale three days into keto and see a number that seems almost impossible. Four pounds gone. Maybe five. Your jeans are looser. You feel lighter. Then week two arrives, and the scale barely moves. Was that first-week magic real, or were you just seeing things? Both, kind of. Understanding exactly what happened, and what comes next, is what separates people who succeed on keto long-term from people who quit in frustration.

@@ -21,8 +21,8 @@ faqs:
    a: "It depends on the source of those extra net carbs. If you went over because you ate an extra cup of broccoli, almost certainly not. If you went over because you had a maltitol-heavy candy bar and you underestimated the impact, possibly yes. Ketosis is driven by actual blood glucose and insulin response, not the number in your app. The only reliable way to know is to test ketones directly. If you're getting kicked out of ketosis at carb levels that should theoretically keep you in, the usual culprits are hidden sugars, underestimated portions, or sugar alcohols that aren't as inert as advertise"
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're three weeks into keto, you've been diligent about staying under 20 grams of carbs per day, and then a friend tells you that you've been counting wrong the whole time. Maybe you've been tracking total carbs when you should be tracking net carbs, or vice versa. Suddenly a food that seemed off-limits looks fair game, and a snack you've been eating freely might be the reason you haven't hit ketosis yet. This single distinction causes more confusion among beginners than almost any other keto concept. Let's untangle it.

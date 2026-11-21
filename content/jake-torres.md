@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Culinary Nutritionist"
-author_specialty: "Keto Cooking & Recipe Development"
+author_title: "Keto Recipes"
+author_specialty: "Keto Recipes"
 ---
 
-Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development.
+Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Keto Living Guide articles are written and checked](/editorial-standards/)

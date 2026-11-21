@@ -21,8 +21,8 @@ faqs:
    a: "Keto can be remarkably effective for type 2 diabetes management, with some clinical trials showing significant reductions in HbA1c and medication requirements. It's also a situation where medical supervision is non-negotiable. If you're on insulin or sulfonylureas, your medication needs can drop quickly as blood sugar improves, and without adjustment you risk hypoglycemia. Talk to your doctor before starting. If your doctor dismisses the question entirely without engaging with the research, it may be worth seeking a second opinion from someone with a background in metabolic health."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Culinary Nutritionist"
-author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
+author_title: "Keto Recipes"
+author_bio: "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who start keto quit within the first week. Not because the diet doesn't work, but because they feel absolutely terrible and have no idea why. The headache hits on day two. By day four, their legs feel like concrete. They're irritable, exhausted, and wondering if they've made a terrible mistake. That suffering is real, but it's also almost entirely preventable if you know what's actually happening inside your body and what to do about it.

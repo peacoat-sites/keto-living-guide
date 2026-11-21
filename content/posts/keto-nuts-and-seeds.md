@@ -6,10 +6,10 @@ description: "Discover the best keto nuts and seeds to snack on, boost healthy f
 image: "/img/heroes/4753637.jpg"
 categories: ["basics"]
 tags: ["keto", "nuts", "seeds"]
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 slug: "keto-nuts-and-seeds"
 affiliate_disclosure: false
 faqs:

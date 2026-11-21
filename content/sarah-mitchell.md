@@ -1,12 +1,14 @@
 ---
-title: "Dr. Sarah Mitchell"
+title: "Sarah Mitchell"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
 hide_title: true
-author_name: "Dr. Sarah Mitchell"
+author_name: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_specialty: "Metabolic Health & Nutritional Ketosis"
+author_title: "Metabolic Health"
+author_specialty: "Metabolic Health"
 ---
 
-Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life.
+Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards.
+
+[How Keto Living Guide articles are written and checked](/editorial-standards/)

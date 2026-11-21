@@ -21,8 +21,8 @@ faqs:
    a: "If you're eating enough fat and enough total calories, no. Hunger at night usually means one of three things: the dinner was too low in fat, total calories were too restricted, or electrolytes are low (which mimics hunger). A fat-forward dinner like crispy chicken thighs with creamed spinach or a ribeye with buttered asparagus should carry most people comfortably to the next morning. If it doesn't, a small snack of cheese, a hard-boiled egg, or a handful of macadamia nuts is entirely keto-compatible."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Culinary Nutritionist"
-author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
+author_title: "Keto Recipes"
+author_bio: "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people quit keto at dinner. Not breakfast, when eggs are easy. Not lunch, when a salad feels virtuous. It's 6pm, the family wants pasta, you're staring at a block of cheese, and something breaks. The plan doesn't fail because keto is hard. It fails because nobody gave them real dinners that actually taste like dinner.

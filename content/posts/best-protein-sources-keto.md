@@ -21,8 +21,8 @@ faqs:
    a: "MCT oil is a useful tool when you're eating leaner proteins like chicken breast or fish and need to bring your fat ratio up without adding bulk. It's also one of the few fat sources that directly boosts ketone production regardless of overall diet composition. Start with one teaspoon per day and increase gradually to avoid digestive distress, which is a real and unpleasant consequence of jumping in too fast. Quality MCT oil is widely available and easy to add to coffee, smoothies, or sauces. (This site may earn a commission on purchases made through affiliate links.)"
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people jumping into keto spend the first week obsessing over carb counts and fat sources, then realize somewhere around day ten that they have absolutely no idea how much protein they're eating or where it's coming from. That's not a minor oversight. Get protein wrong on keto and you'll either lose muscle mass, stall fat loss, or accidentally knock yourself out of ketosis by eating too much of the wrong stuff. The frustrating part is that the fix isn't complicated once you understand what's actually happening.

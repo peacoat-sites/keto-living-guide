@@ -19,10 +19,10 @@ faqs:
     a: "The timeline is the same as any keto diet: typically 2-4 days of strict carb restriction, though it can take up to a week. Exercise, fasting, and keeping carbs genuinely low (not 'low-ish') speeds the process. MCT oil can also help accelerate ketone production during this phase."
   - q: "Is it safe long-term?"
     a: "Honest answer: we don't have great long-term data specifically on vegetarian keto as a combined pattern. There are solid individual studies on ketogenic diets generally, and a long literature on vegetarian diets. Combined, the data is thinner. Most registered dietitians recommend working with someone who can monitor your labs (B12, iron, lipids, kidney function) annually at minimum. It's not a diet to do in total isolation from medical oversight, especially if you have any underlying conditions."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people assume vegetarian keto is some fringe experiment cooked up by people who couldn't commit fully to either diet. I've heard that dismissal plenty of times. But I've also watched clients follow it consistently for months, improve their bloodwork, lose weight they'd been trying to lose for years, and feel genuinely good doing it. So let me tell you what actually makes it hard, what makes it work, and where most of the advice out there misses the point.

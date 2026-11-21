@@ -19,10 +19,10 @@ faqs:
    a: "Not necessarily, and this is one of the diet's practical advantages. Many people eat to satiety and lose weight without explicit calorie counting, because ketones and fat are highly satiating. That said, if you've been on keto for a month without progress, tracking calories for a week or two is a useful diagnostic. Some people underestimate portion sizes of calorie-dense foods like nuts, cheese, and olive oil."
  - q: "Is keto safe long-term?"
    a: "The honest answer is: we have strong evidence it's safe and beneficial for at least 1-2 years, and longer in specific therapeutic populations like those using it for epilepsy management. Beyond that, large-scale long-term data is sparse. The concerns most often raised (kidney stress, bone density, lipid changes) don't have strong supporting evidence in otherwise healthy people following a well-formulated ketogenic diet that includes vegetables. Annual check-ins with your doctor, including a lipid panel and kidney function tests, are a sensible precaution."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You ate a perfectly reasonable lunch, maybe a sandwich and some fruit, and two hours later you're face-down in the office snack bowl wondering why you can't stop thinking about food. That crash, that relentless hunger, that 3pm fog: it's not a willpower problem. It's a fuel problem. The ketogenic diet was built around solving exactly this, by switching the fuel your body runs on from sugar to fat. Here's what that actually means, and whether it might work for you.

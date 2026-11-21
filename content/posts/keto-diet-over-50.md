@@ -21,8 +21,8 @@ faqs:
    a: "Calories still matter, even on a ketogenic diet. The appetite suppression that keto provides often naturally reduces calorie intake, but this doesn't happen for everyone. Other common culprits in this age group: thyroid issues (worth ruling out with bloodwork), too-low protein causing muscle loss alongside fat, and stress-driven cortisol elevation that stalls fat loss regardless of diet. If you've been strict for six weeks with no movement on the scale, it's time to look at total intake with a food log."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.

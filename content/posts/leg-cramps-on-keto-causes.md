@@ -9,8 +9,8 @@ categories: ["Keto Side Effects"]
 tags: ["cramps", "keto", "causes"]
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "leg-cramps-on-keto-causes"
 affiliate_disclosure: false
 faqs:

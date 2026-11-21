@@ -21,8 +21,8 @@ faqs:
    a: "You'll regain the water weight from the first two weeks, almost guaranteed, because reintroducing carbs refills glycogen and brings the water back with it. Fat regain depends entirely on what you do next. If you go back to the eating habits that led to weight gain originally, yes, the weight will come back. Some people use keto as a long-term lifestyle. Others use it for a 3 to 6 month reset and then transition to a whole-foods, moderate-carb diet. The goal should always be building eating habits you can sustain, not just tolerating a protocol until you hit a goal weight."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Maria stepped on the scale every Monday morning for three months. Salads, calorie counting, five days of cardio a week. The needle barely moved. She was eating around 1,400 calories a day and stuck at 185 pounds until she switched to keto. Six weeks later, she'd dropped 14 pounds. Magic? No. A fluke? Also no. What actually changed was *how her body was burning fuel*, and for a lot of people who've hit a wall, that shift makes all the difference.

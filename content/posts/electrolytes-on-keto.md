@@ -21,8 +21,8 @@ faqs:
    a: "Yes, it's possible, but it requires consistent, deliberate meal planning. A day with two cups of leafy greens, a whole avocado, a 6-oz portion of salmon, pumpkin seeds as a snack, and food seasoned generously with salt can cover most of your bases. Where people run into trouble is eating the same three or four keto staples repeatedly without tracking. Chicken breast and cheese every day won't cut it. Variety matters. A good food tracking app like Cronometer, which actually shows micronutrients unlike most trackers, is worth using for at least a few weeks to see where your gaps are."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're three days into keto, feeling pretty smug about ditching bread and pasta, and then something hits you: a throbbing headache that won't quit, shaky legs, and fatigue so heavy it feels like someone strapped weights to your eyelids. You Google "keto side effects" and land on "keto flu." Most articles tell you to just push through it. Here's what they leave out: what you're experiencing isn't actually a carb-withdrawal crisis. It's an electrolyte emergency, and you could've prevented almost all of it.

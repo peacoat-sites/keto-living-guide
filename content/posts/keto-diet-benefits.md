@@ -21,8 +21,8 @@ faqs:
    a: "It's a matter of degree. A general low-carb diet might cap carbs at 100-150g per day, which reduces blood sugar swings and improves insulin sensitivity but doesn't reliably produce ketosis. Keto requires staying under 50g net carbs per day (often under 20-25g to be reliable), which is specific enough to trigger significant ketone production. Some people do better with standard low carb and never feel the need to go all the way to ketosis, and that's a completely valid approach."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who end up going keto don't do it because they read a study. They do it because something stopped working. The scale hasn't moved in six weeks. They're tired after lunch every single day. Their doctor mentioned their fasting glucose is "trending up." The keto diet gets a lot of hype and a fair amount of eye-rolls, but underneath both reactions there's a real body of evidence worth understanding before you decide whether this way of eating makes sense for you.

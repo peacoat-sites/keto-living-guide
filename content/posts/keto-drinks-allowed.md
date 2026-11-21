@@ -21,8 +21,8 @@ faqs:
    a: "Some are, some aren't. Zero-sugar versions of drinks like Monster or Bang are technically zero carbs, but they often contain high doses of caffeine and other stimulants that may not be appropriate for everyone. The original, full-sugar versions of most energy drinks have 25 to 30 grams of carbs per can. Always check the label. If you're sensitive to stimulants or have any cardiovascular concerns, talking to your doctor before relying on energy drinks daily is a reasonable precaution."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing in front of the drink fridge at a gas station, keto-committed, and suddenly everything looks suspicious. The sparkling water might have "natural flavors." The zero-sugar sports drink has ingredients you can't pronounce. The black coffee is safe, obviously, but you already had three cups today. I've heard this moment described by clients more times than I can count, and it reveals something most keto guides skip: drinks can silently wreck your carb count until they actually do.

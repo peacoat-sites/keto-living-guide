@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily, but it requires attention. Very low carb diets can be muscle-sparing when protein intake is adequate, typically 1.2 to 1.6 grams per kilogram of body weight daily, and when you're resistance training. The concern about muscle loss on keto often comes from early studies where protein was too low, or from individuals who weren't strength training. If you're eating enough protein and lifting weights, you can preserve lean mass on keto. Some studies actually show favorable outcomes for body composition, with fat loss exceeding muscle retention at a higher ratio than calorie restri"
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably typed some version of "keto vs low carb" into a search bar at least once already, maybe while standing in a grocery store aisle trying to decide if the almond flour tortillas are going to fit your plan. Or maybe you've been doing "low carb" for a few weeks and someone told you it doesn't count unless you're actually in ketosis. Either way, you're here because the line between these two approaches feels blurry, and the internet tends to make it blurrier with confident-sounding contradictions that don't actually help you make a decision.

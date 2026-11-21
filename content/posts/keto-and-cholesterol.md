@@ -21,8 +21,8 @@ faqs:
    a: "MCT oil (medium-chain triglycerides) appears to have a more neutral effect on LDL than long-chain saturated fats like those in butter or coconut oil, though it's not a cholesterol-lowering agent. Some research suggests MCTs may modestly raise HDL. If you're using it, moderate amounts (1 to 2 tablespoons daily) are typical starting doses. If your lipids are already a concern, it's worth mentioning to your doctor. A quality MCT oil like Bulletproof Brain Octane or similar products may be easier on digestion than cheaper alternatives. (This site may earn a commission on qualifying purchases.)"
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A lipid panel showing total cholesterol up 30 points after starting keto can trigger concern, especially if a doctor recommends stopping the diet. That puts you in a tough spot: trust the online enthusiasm, or heed the medical warning. Before panicking, it helps to understand what's actually happening with your cholesterol markers.

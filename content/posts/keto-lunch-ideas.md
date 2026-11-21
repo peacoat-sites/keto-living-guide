@@ -21,8 +21,8 @@ faqs:
    a: "Often, yes. The typical post-lunch energy slump is largely driven by a spike and drop in blood sugar, which carbohydrate-heavy meals trigger. A fat and protein-forward keto lunch produces a much flatter blood glucose response, which tends to mean steadier energy through the afternoon. Many people find this is one of the most noticeable early benefits of the diet."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Picture this: it's 12:30 pm, you're hungry, your coworkers are ordering pizza, and you're staring into the fridge wondering if string cheese and leftover chicken count as lunch. Technically, yes. But you deserve better than that.

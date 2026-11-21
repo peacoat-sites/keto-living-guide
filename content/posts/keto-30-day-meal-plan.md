@@ -21,8 +21,8 @@ faqs:
    a: "Honestly? It varies substantially based on starting point, adherence, and individual metabolism. People with more body fat to lose, higher starting insulin levels, or those switching from a high-sugar diet tend to see more dramatic early results. What most people can realistically expect after 30 solid days: reduced appetite, less reliance on snacking, improved energy stability, and some degree of fat loss. Specific numbers depend on too many individual variables to quote honestly, and anyone promising a specific outcome for everyone is selling something. Consult with a registered dietitian or"
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people who try a 30-day keto meal plan spend the first week white-knuckling through hunger, the second week googling "keto plateau already?", and somewhere around day 18, they're eating plain chicken thighs over the sink because they ran out of ideas. The plan they downloaded looked great as a PDF. It just didn't survive contact with a real week.

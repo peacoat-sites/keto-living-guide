@@ -21,8 +21,8 @@ faqs:
    a: "Most people notice carb cravings fading significantly between days 10 and 21. The first week is often the hardest, particularly if you're experiencing keto flu symptoms like fatigue, headaches, or brain fog. Those symptoms are real and usually related to electrolyte shifts, not starvation. Once your body adapts to running on fat, the idea of a bowl of sugary cereal genuinely starts to lose its appeal. That transition is different for everyone, but it almost always comes. Mornings don't have to be a negotiation between what you want to eat and what your diet allows. The breakfasts above aren't"
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people assume that giving up breakfast cereals, toast, and orange juice means mornings become a sad, repetitive scrambled-egg routine. That assumption kills more keto diets than cheat days do. The truth? Breakfast on keto can be more satisfying, more varied, and honestly more delicious than whatever you were eating before. Once you understand which ingredients work and which ones quietly sabotage your macros, the whole thing clicks into place.

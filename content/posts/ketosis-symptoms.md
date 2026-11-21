@@ -21,8 +21,8 @@ faqs:
    a: "No, and this is an important misconception to clear up. Symptom intensity doesn't correlate with fat loss or ketone levels. Someone who feels miserable during the transition isn't losing more weight than someone who sails through it. What actually drives fat loss on keto is a sustained caloric deficit, maintained over time, with adequate protein to protect muscle mass. Darker urine strips don't mean faster results either. Focus on food quality, consistency, and total intake tracked with a kitchen scale for accuracy, not on how bad you feel."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You started eating keto three days ago, and something feels off. Your head is pounding, your mouth tastes like you've been chewing on pennies, and you're somehow both exhausted and weirdly energized at the same time. Before you Google your symptoms in a panic and convince yourself you have a rare metabolic disorder, take a breath. What you're experiencing is almost certainly your body crossing the threshold into ketosis, and most of it is completely normal. Some of it is even a good sign.

@@ -21,8 +21,8 @@ faqs:
    a: "Cooking oils and plain fats have zero carbs, so no. Black coffee has trace carbs (under 1 gram per cup) that you can reasonably ignore. Where it gets important is with cream, flavored creamers, and any sweeteners. Heavy cream has about 0.4 grams of carbs per tablespoon, which is minimal but adds up if you're using several tablespoons daily. Flavored coffee creamers, even 'sugar-free' versions, can have 1 to 2 grams per tablespoon from thickeners and fillers. If you're drinking three or four cups of coffee a day with seasoned cream, it's worth logging."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're four days into keto. You've ditched the bread and pasta, you're drowning yourself in water, and somehow you feel worse than before. The scale hasn't moved. You search "how many carbs per day on keto" and get three completely different answers: 20 grams, 50 grams, net carbs only. You close the tabs and eat a handful of almonds, suddenly paranoid that was a mistake.

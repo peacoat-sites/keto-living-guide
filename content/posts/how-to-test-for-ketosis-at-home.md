@@ -21,8 +21,8 @@ faqs:
    a: "Fasted morning testing gives you the most consistent baseline for tracking over time. That said, your ketones will be at their natural daily low in the morning, so don't panic if the number seems modest. Late afternoon tends to show higher readings for most people. The key is picking one consistent time rather than comparing a 7am reading to a 4pm reading and drawing conclusions."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people test for ketosis at home and walk away more confused than they started. Not because they're doing it wrong, necessarily. Because they're using the wrong tool for what they're actually trying to figure out.

@@ -21,8 +21,8 @@ faqs:
    a: "The research is thinner here, which is frustrating. Some women report menstrual irregularities, particularly at very low calorie intakes combined with keto. Thyroid function is another area worth monitoring, since some women see T3 shift downward in extended ketosis. These aren't universal effects, but they're worth watching for, especially if you notice changes in energy, hair loss, or cycle disruption."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who ask me this have already been doing keto for three to six months. They've lost weight, they feel sharper, maybe their doctor mentioned their fasting glucose looked better. And now they're quietly worried they're doing something they'll regret in ten years.

@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_specialty: "Keto Science & Evidence Review"
+author_title: "Keto Research"
+author_specialty: "Keto Research"
 ---
 
-Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research.
+Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Keto Living Guide articles are written and checked](/editorial-standards/)

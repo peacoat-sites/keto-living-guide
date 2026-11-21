@@ -1,44 +1,44 @@
 [
   {
-    "slug": "sarah-mitchell",
-    "name": "Dr. Sarah Mitchell",
-    "title": "Medical Reviewer",
-    "specialty": "Metabolic Health & Nutritional Ketosis",
-    "bio": "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
-  },
-  {
-    "slug": "jake-torres",
-    "name": "Jake Torres",
-    "title": "Culinary Nutritionist",
-    "specialty": "Keto Cooking & Recipe Development",
-    "bio": "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
+    "slug": "diana-walsh",
+    "name": "Diana Walsh",
+    "title": "Keto Meal Planning",
+    "specialty": "Keto Meal Planning",
+    "bio": "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "emma-lawson",
     "name": "Emma Lawson",
-    "title": "Nutrition Coach",
-    "specialty": "Low-Carb Lifestyle & Habit Building",
-    "bio": "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+    "title": "Keto Habits",
+    "specialty": "Keto Habits",
+    "bio": "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
-    "slug": "ryan-park",
-    "name": "Ryan Park",
-    "title": "Fitness Editor",
-    "specialty": "Keto Performance & Strength Training",
-    "bio": "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
-  },
-  {
-    "slug": "diana-walsh",
-    "name": "Diana Walsh",
-    "title": "Nutrition Coach",
-    "specialty": "Practical Keto & Family Meal Planning",
-    "bio": "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+    "slug": "jake-torres",
+    "name": "Jake Torres",
+    "title": "Keto Recipes",
+    "specialty": "Keto Recipes",
+    "bio": "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "mark-chen",
     "name": "Mark Chen",
-    "title": "Nutrition Researcher",
-    "specialty": "Keto Science & Evidence Review",
-    "bio": "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+    "title": "Keto Research",
+    "specialty": "Keto Research",
+    "bio": "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "ryan-park",
+    "name": "Ryan Park",
+    "title": "Keto and Training",
+    "specialty": "Keto and Training",
+    "bio": "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+  },
+  {
+    "slug": "sarah-mitchell",
+    "name": "Sarah Mitchell",
+    "title": "Metabolic Health",
+    "specialty": "Metabolic Health",
+    "bio": "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
   }
 ]

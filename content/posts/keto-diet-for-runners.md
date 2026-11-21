@@ -21,8 +21,8 @@ faqs:
     a: "It's useful early on to confirm you're actually in ketosis, but I wouldn't obsess over it long-term. Blood ketone meters like the Keto-Mojo are more accurate than urine strips, which become unreliable once you're adapted. After a few months, how your training feels and recovers tells you more than a number on a meter."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most runners quit keto within three weeks. Not because keto failed them, but because nobody tells them what the first month actually feels like when you're running on fumes.

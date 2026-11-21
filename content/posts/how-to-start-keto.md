@@ -21,8 +21,8 @@ faqs:
    a: "Plateaus on keto usually come down to a few culprits. Calories crept up without you noticing. Carbs crept up without you noticing (this is the most common cause). Or you've simply lost enough that your maintenance calories have dropped and your current intake matches them. Start by accurately tracking everything for a week. Look for hidden carbs. If macros and calories look right, try adding a 16:8 intermittent fasting window. If the plateau persists beyond three to four weeks despite accurate tracking, it may be worth taking a one-week 'diet break' at maintenance calories before returning to"
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Culinary Nutritionist"
-author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
+author_title: "Keto Recipes"
+author_bio: "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people quit keto within the first two weeks. Not because it doesn't work, but because they expect it to feel like every other low-calorie diet they've tried, get blindsided by fatigue and headaches around day three, and assume they're doing something wrong. They're not. That misery has a name, and once you understand what's actually happening inside your body during those first days, starting keto stops feeling like a gamble.

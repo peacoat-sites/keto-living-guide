@@ -21,8 +21,8 @@ faqs:
    a: "There are some good options. Allulose with a small amount of blackstrap molasses (about half a teaspoon per cup of sweetener) mimics brown sugar's flavor reasonably well with minimal carb impact from the molasses. Several commercial brown sugar substitutes use erythritol or allulose with natural flavoring. Check the label for any maltitol, brown rice syrup, or other high-glycemic fillers, which occasionally appear even in products marketed to keto consumers."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been doing keto for three weeks, you're staying under 20 grams of carbs, and you decide to reward yourself with a "keto brownie" made with a popular sweetener blend you grabbed at the grocery store. Two hours later, you're stalled, bloated, and reading ingredient labels with a flashlight. The sweetener was the problem, and the bag never told you why.

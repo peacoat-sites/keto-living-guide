@@ -19,8 +19,8 @@ faqs:
    a: "No. Twenty grams is a commonly used starting point because it puts most people into ketosis reliably, but some people need to go lower (closer to 15g) and others can sustain ketosis at 30-40g, especially with regular exercise. The only way to know where you land is to test, either with blood ketone strips (most accurate), urine strips (rough but cheap), or a breath meter. Don't assume you're in ketosis based on carb counts alone, especially early on."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people doing keto get the carb math wrong in the same direction: they trust the number on the front of the package. That figure, "total carbs", almost always overstates what your body actually processes. A common pattern is people stalling for weeks while convinced they're doing everything right, only to discover they're eating 40 grams of net carbs a day when they thought they were eating 20. The fix wasn't discipline or willpower. It was arithmetic.

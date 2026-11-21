@@ -21,8 +21,8 @@ faqs:
    a: "No. The goal is not permanent dietary restriction but improving your underlying insulin sensitivity enough that you need less restriction to maintain good metabolic function. Some women find that after 6-12 months of low-carb eating, they can reintroduce moderate amounts of quality carbohydrates without their symptoms returning. Others do better with long-term low-carb eating. This is genuinely individual, and the right answer depends on how your labs and symptoms respond over time."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably done the research. You know your diagnosis, you've heard that diet matters, and somewhere along the way someone mentioned keto. Maybe your doctor brought it up, maybe you found it in a forum at 11pm while trying to make sense of why losing weight feels so much harder for you than it does for everyone else. If that sounds familiar, you're not imagining things, and you're not alone. PCOS affects roughly 1 in 10 women of reproductive age, and the metabolic component of this condition makes standard dietary advice genuinely less effective for many people who have it.

@@ -21,8 +21,8 @@ faqs:
    a: "Going back to high-carb eating for an extended period will undo it, though people who've been fat-adapted before tend to re-adapt faster the second time. An occasional high-carb meal is unlikely to derail months of adaptation, but making it a regular habit will. The body is efficient: it uses whatever fuel is consistently available."
 author: "Emma Lawson"
 author_slug: "emma-lawson"
-author_title: "Nutrition Coach"
-author_bio: "Emma Lawson is a certified nutrition coach who has worked with hundreds of clients navigating low-carb transitions. She specializes in the behavioral side of dietary change: building habits, managing social situations, and keeping momentum past the first month. Her work at Keto Living Guide focuses on practical lifestyle guidance and long-term adherence strategies."
+author_title: "Keto Habits"
+author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think they failed keto. What actually happened is they quit before fat adaptation kicked in.

@@ -21,8 +21,8 @@ faqs:
    a: "The most reliable low-cost signal is how you feel after about two to three weeks of consistent eating below 20 to 30 grams of net carbs per day. Reduced hunger, steadier energy, and the absence of blood sugar swings are practical markers. Urine ketone strips are inexpensive and available at most pharmacies, and while they're not perfectly accurate for established keto dieters (your body becomes more efficient at using ketones over time, so excretion drops), they're useful early on as a rough confirmation. Blood ketone meters are more accurate but cost more. For most people, consistent eating a"
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've probably seen those beautifully photographed keto meal plans: wild-caught salmon, grass-fed ribeyes, organic avocado everything. And for many people, that first reaction isn't inspiration. It's frustration. Because that costs a fortune, and nobody told you keto was supposed to be a luxury diet. It doesn't have to be. Some of the most metabolically effective keto foods are also some of the cheapest foods in any grocery store. The disconnect between how keto gets marketed and how it can actually be lived is real, and it's worth talking about honestly.

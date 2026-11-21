@@ -21,8 +21,8 @@ faqs:
    a: "The carb content of what you eat matters more than the number of snacks. You can eat three or four low-carb snacks throughout the day and stay in ketosis if they each have 1 to 2g net carbs. What gets people in trouble is portion creep, eating multiple servings of nuts without tracking, or reaching for snacks that seem keto but have hidden carbs. If you want to verify you're still in ketosis, Keto-Mojo and similar ketone testing meters give you an accurate blood reading. The transition to keto snacking doesn't have to feel like deprivation. Honestly, once you've got a go-to list of snacks that"
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're standing in front of the pantry at 3 p.m., hunger kicking in, and everything you reach for has more carbs than your entire daily budget. Sound familiar? This is the moment that breaks most keto dieters, not the meals, but the snacks. The good news: there are dozens of satisfying, genuinely delicious options that won't touch your ketosis. This guide lays them all out, organized by category, so you can stop guessing and start snacking with confidence.

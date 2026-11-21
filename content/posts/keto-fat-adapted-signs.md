@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily. Check your electrolyte intake first: this resolves more 'still tired' cases than anything else. Also look at total calorie intake, sleep quality, and stress load. If you're genuinely eating under 20-25 grams of net carbs daily, getting enough fat and calories, and managing electrolytes, consider consulting with a dietitian or your doctor to rule out thyroid issues or other factors. Keto isn't a cure-all, and some fatigue has nothing to do with macros."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You wake up at 6 a.m., and breakfast sounds optional. Not because you're white-knuckling through some fasting protocol, but because you're actually not hungry. Three weeks ago you were ransacking the pantry by 9 a.m. Now something's shifted. If you've been doing keto for a few weeks and noticing patterns like this, your body's probably making the jump to [fat adaptation](/how-to-become-fat-adapted/). It feels nothing like what people expect.

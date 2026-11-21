@@ -19,10 +19,10 @@ faqs:
    a: "It can. Muscle glycogen depletion from exercise creates more room for dietary carbohydrates before you overflow into glucose-fueled metabolism. This is the principle behind targeted ketogenic diets (TKD), where small carb amounts are consumed around workouts. Athletes doing significant endurance or resistance training often find they can sustain ketosis at higher carb intakes than sedentary individuals. The effect is real but the magnitude varies considerably between people."
  - q: "What happens if I go over 20 grams one day?"
    a: "Probably not much, especially if you're already adapted. A single excess will temporarily reduce ketone production, but a metabolically adapted person typically returns to ketosis within 24 hours. The disruption is more significant during the initial weeks of adaptation. Persistent daily overages above your personal threshold will impair ketosis long-term. One bad day won't derail weeks of progress."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people starting keto land on 20 grams of net carbs per day because someone told them to. A blog post, a Reddit thread, a friend who lost 40 pounds. And it works, at least at first, so nobody asks where the number actually came from. What surprises me, even after years of working with clients on this, is how few people understand *why* 20 grams became the default, what the research actually says about it, and whether that specific number is doing them any favors or just creating unnecessary misery.

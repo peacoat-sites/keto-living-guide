@@ -19,10 +19,10 @@ faqs:
    a: "Clean keto does not require premium-label foods to be effective. Conventional eggs are still nutrient-dense. Frozen spinach and broccoli are just as nutritious as fresh. Canned sardines are among the best omega-3 sources available anywhere and cost almost nothing. The clean vs. dirty distinction is about processed vs. whole food, not budget vs. premium. You can eat genuinely well on this approach without spending more than you would on convenience food."
  - q: "Should I consult a doctor or dietitian before starting keto?"
    a: "Yes, and I'd say this even without the YMYL disclaimer prompting me to. If you're managing diabetes, cardiovascular disease, kidney issues, or are on medications, keto can affect how your body responds to those conditions in ways that need monitoring. A registered dietitian who works with low-carb diets can also help you navigate the food quality side of things in a way that's personalized to your labs, your lifestyle, and your history. Generic advice, including this article, has limits. The real question was never 'which one gets you into ketosis faster.' Both do. The question is what you're"
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: two people are both "doing keto." One eats bacon, string cheese, and fast food bunless burgers every single day. The other meal-preps salmon, roasted vegetables, and avocado. Both are hitting under 20 grams of net carbs. Both are in ketosis. One of them feels amazing after three months. The other is exhausted, constipated, and quietly wondering why everyone said this diet would change their life.

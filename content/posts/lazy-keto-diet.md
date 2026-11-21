@@ -19,10 +19,10 @@ faqs:
    a: "They're not required, but they're useful early on. A pack of urine ketone strips is inexpensive and gives you a rough confirmation that your carb ceiling is working. Blood ketone meters are more accurate but overkill for most people doing lazy keto for general health and weight loss. Use strips for a few weeks to calibrate, then stop if you want."
  - q: "What are the most common reasons lazy keto stops working?"
    a: "Three patterns come up repeatedly. One: carb creep, where portion sizes and hidden carbs slowly push you over your daily limit without you noticing. Two: protein displacement, where you're eating enough protein that your fat intake is relatively low and ketosis is inconsistent. Three: caloric surplus, eating more total food than your body needs even if every choice is low-carb. A three-day food log usually identifies which one is happening."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've been tracking every gram of food for three weeks. Carbs, fat, protein, fiber, net carbs, calories. Your phone is full of barcode scans and your lunch break disappears into MyFitnessPal. You're doing everything right, and you're exhausted by it. If that sounds familiar, lazy keto exists for a reason, and it works better than most strict-keto advocates want to admit.

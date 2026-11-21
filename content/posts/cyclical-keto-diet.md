@@ -21,8 +21,8 @@ faqs:
    a: "Yes. People managing epilepsy with ketosis, those with type 1 or type 2 diabetes (especially on insulin or certain medications), anyone with a history of disordered eating, and people with known metabolic disorders should consult their healthcare provider before experimenting with carb cycling. The periodic high-carbohydrate intake introduces variables that can have real clinical consequences in those situations."
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been strict keto for three months. The weight was moving, you felt sharper, and you'd finally figured out what to eat. Then came the plateau, the fatigue during workouts, and honestly, the growing exhaustion of saying no to everything. You're not failing. You might just be ready for a more advanced approach.

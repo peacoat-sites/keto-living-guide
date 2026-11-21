@@ -21,8 +21,8 @@ faqs:
    a: "For high-heat cooking like searing or roasting, avocado oil is excellent because its smoke point sits around 500°F. Butter adds rich flavor and pairs naturally with the savory notes of chicken but burns more easily, so it's better for finishing or medium-heat cooking. Ghee combines the best of both worlds with a higher smoke point than butter and the same rich flavor. Olive oil works well for lower-heat methods or as a finishing drizzle. What you want to avoid is cooking spray with additives or low-fat options that strip out the dietary fat you actually need."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Chicken is the most purchased protein in the United States, with Americans eating roughly 100 pounds of it per year per person. Yet somehow, it's also the protein that people on keto complain about the most. Common complaints include that chicken is boring, that it turns out dry, or that eating it night after night gets tedious. Chicken and keto are genuinely a perfect match. The problem isn't the protein. It's the approach.

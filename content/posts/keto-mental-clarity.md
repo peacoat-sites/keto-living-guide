@@ -19,10 +19,10 @@ faqs:
    a: "Large amounts of fat in a single meal can cause a temporary dip in alertness in some people, particularly saturated fat from things like heavy cream or fatty meat. This isn't universal, but it's real. If you notice this pattern, try distributing fat more evenly across the day rather than front-loading it, and pay attention to whether specific sources are the culprit."
  - q: "Is the mental clarity just placebo effect?"
    a: "Some of it probably is, and I don't think that's a reason to dismiss it. Placebo effects on cognitive symptoms are real and meaningful. But the mechanisms I described above, ketone metabolism, glucose stability, electrolyte balance, and sleep improvement, are physiologically sound. The honest answer is: it's likely some of both, and for most people, it doesn't much matter why it works if it works."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A lot of people come to keto for weight loss. But they stay for the brain.

@@ -19,10 +19,10 @@ faqs:
    a: "Stalls are almost always one of four things: too many carbs sneaking in (sauces, dressings, protein bars), too much protein converting to glucose via gluconeogenesis, too little protein causing muscle loss, or a caloric surplus from fat. Track everything for one week with an app like Cronometer and look for the leak. Also check your sleep and stress levels. Both can stall fat loss without a single dietary change."
  - q: "Do I need to exercise on keto, or will the diet do the work alone?"
    a: "Keto alone will produce fat loss, but strength training is the single best investment a woman over 40 can make for her long-term health and body composition. Muscle is metabolically active tissue. It improves insulin sensitivity, raises your resting metabolic rate, and protects against osteoporosis. Aim for two to three resistance training sessions per week. You don't need intense cardio; walks, lifting, and yoga are all compatible with keto."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're eating fewer than 1,400 calories a day, bread and pasta disappeared months ago, and the scale hasn't moved in six weeks. That sound about right? For plenty of women in their 40s and 50s, this is just life now. The stuff that worked at 28 doesn't work anymore. And no, it's not a willpower thing. Your body changed.

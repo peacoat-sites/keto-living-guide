@@ -21,8 +21,8 @@ faqs:
    a: "Ketogenic diets have shown real promise for improving insulin sensitivity and blood sugar regulation. Many people with Type 2 diabetes use it successfully. However, if you're on medication for diabetes, insulin especially, you need to involve your doctor before starting. Carb reduction can change your medication needs quickly, and adjustments may be required. Our deep-dive on keto and insulin resistance is worth reading if this applies to you."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people who quit keto in the first two weeks don't fail because the diet is too hard. They fail because they had no plan. They opened the fridge on Monday morning, stared at a block of cheese and some leftover chicken, and had no idea what came next. Sound familiar? A solid beginner meal plan fixes that problem before it starts.

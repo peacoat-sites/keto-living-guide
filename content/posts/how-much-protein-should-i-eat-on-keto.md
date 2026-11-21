@@ -21,8 +21,8 @@ faqs:
    a: "Indirectly, yes. Higher protein intakes can increase urinary calcium excretion slightly, though the clinical significance of this in healthy individuals eating adequate calcium is debated. On keto specifically, electrolyte management matters regardless of protein level, since carb restriction reduces insulin and increases renal excretion of sodium, magnesium, and potassium. A quality electrolyte supplement is worth using especially in the first few months."
 author: "Jake Torres"
 author_slug: "jake-torres"
-author_title: "Culinary Nutritionist"
-author_bio: "Jake Torres pairs professional kitchen training with nutrition to develop keto recipes that are actually tested and actually work. He cares as much about flavor as macros. At Keto Living Guide he covers keto cooking and recipe development."
+author_title: "Keto Recipes"
+author_bio: "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most keto content tells you to keep protein "moderate" and stops there. That single vague word has probably cost more people their results than any other piece of dietary advice online. Some eat too little and lose muscle while the scale barely budges. Others eat more, panic about gluconeogenesis turning their steak into glucose, and cut back for no reason. The research on protein and ketosis is messier than either camp admits, and getting this number right is probably the most underrated lever in a keto diet.

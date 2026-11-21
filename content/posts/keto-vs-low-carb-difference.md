@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely, and some people do this deliberately. Strict keto for a defined period, then a maintenance phase at 75 to 100 grams of net carbs. The transition out of ketosis is faster than the transition in: add 50 grams of carbs and most people exit ketosis within a day. Going back in takes the usual two to four days minimum."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been eating "low carb" for three weeks, but your coworker who "does keto" says you're not actually in ketosis. You cut bread and pasta. Isn't that the same thing? Not exactly, and the difference matters more than most keto blogs will tell you.

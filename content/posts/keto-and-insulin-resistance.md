@@ -21,8 +21,8 @@ faqs:
    a: "This is a non-negotiable one to discuss with your doctor before starting. Keto lowers blood glucose significantly and quickly. If you're taking sulfonylureas or insulin, your dose may need to be reduced almost immediately to avoid hypoglycemia. The diet can be powerful precisely because it works, and that effectiveness can interact with medication in ways that need medical supervision."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your fasting insulin just came back at 28 µIU/mL. Normal is under 10. Your blood sugar looks fine on paper, but your body's been quietly working overtime for years, pumping out insulin just to keep glucose in check. That gap between normal blood sugar and sky-high insulin is exactly where insulin resistance lives, and a lot of people spend a decade there before anyone gives them a real explanation.

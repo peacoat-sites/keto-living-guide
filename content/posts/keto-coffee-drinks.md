@@ -19,10 +19,10 @@ faqs:
    a: "It can be for some people, particularly if you're adapted to fat-fueling and genuinely not hungry in the morning. For others, 300-500 calories of mostly fat is not enough and leads to overeating later. Neither outcome is more correct. Pay attention to how you feel three hours later, not how the drink looks on paper."
  - q: "What's the easiest keto coffee for someone just starting out?"
    a: "Heavy cream in black coffee. Not a blended butter bomb, not an MCT oil protocol. Two to four tablespoons of heavy cream, whatever coffee you'd normally make. Get used to no sugar first. Once that's comfortable, you can layer in more complexity if you want to."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most keto coffee content is a butter-in-a-blender fantasy that ignores what people actually want: something that tastes good, fits a real morning, and doesn't require a culinary degree or a $500 blender. Let's fix that.

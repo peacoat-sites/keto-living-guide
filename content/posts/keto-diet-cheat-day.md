@@ -21,8 +21,8 @@ faqs:
    a: "Technically this is called cyclical keto, and some people do it intentionally. But 'normally' covers a huge range. If your weekend eating involves 300+ grams of carbs a day, you're spending a significant chunk of every week outside of ketosis. For some goals, that's fine. For others, it'll stall your progress more than you expect."
 author: "Diana Walsh"
 author_slug: "diana-walsh"
-author_title: "Nutrition Coach"
-author_bio: "Diana Walsh is a certified nutrition coach who helps busy families make low-carb eating sustainable without spending hours in the kitchen. She built her own system of pantry staples and simple swaps after going keto herself. At Keto Living Guide she covers practical meal planning and family-friendly keto."
+author_title: "Keto Meal Planning"
+author_bio: "Diana Walsh is the byline used at Keto Living Guide for articles on practical meal planning, pantry staples and family-friendly low-carb cooking. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You've been strict for three weeks. Maybe four. The scale's been moving, your pants fit different, and then Saturday arrives with a birthday dinner, cake, and that voice in your head: *one day won't kill me.*

@@ -19,10 +19,10 @@ faqs:
    a: "Yes, it's actually designed with beginners in mind. If you're brand new, pair it with our keto diet for beginners guide to understand the full framework. Knowing the 'why' behind the rules helps you stay on track when you inevitably face a situation the plan didn't anticipate."
  - q: "Will I actually lose weight in the first week?"
    a: "Most people see a drop of 3-7 lbs in the first week, though most of that is water weight as glycogen stores empty out. Real fat loss starts in week two and beyond. Don't let the first week's dramatic drop mislead you, and don't get discouraged if it slows down after that. Both are normal."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people quit keto in week one. Not because it doesn't work. They just open the fridge Monday morning with nothing planned, no prep, no clue what to eat that isn't cereal. That moment kills the whole thing. They're back to toast by Tuesday. A real meal plan removes that friction. You know what to eat, you've already bought it, and you're not making desperate decisions at 7am when you're not ready to make them.

@@ -17,10 +17,10 @@ faqs:
    a: "This is where knowing your formula helps. At almost any restaurant, you can find something that fits: a bunless burger with a side salad, a grilled protein over greens, eggs and bacon at a breakfast spot. The problem isn't usually availability, it's decision fatigue in the moment. Having a mental shortlist of two or three 'safe orders' at common restaurant types (fast casual, American, Mexican) eliminates the scramble. For travel, individually packaged keto snacks like nuts, jerky, and cheese crisps are worth keeping in your bag for the gap between prepped meals."
  - q: "I've been doing keto for three weeks and I'm still not seeing the results I expected. Is my meal prep the problem?"
    a: "Possibly, but probably not in the way you think. The most common culprit isn't the food itself, it's hidden carbs in sauces, dressings, and packaged foods, or underestimating portions. 'Keto-friendly' on a label doesn't always mean low-carb, and some products marketed to keto dieters have surprisingly high carb counts. I'd recommend one week of honest, precise logging with a food scale, because most people are surprised by what they find. Beyond that, sleep, stress, and hormonal factors genuinely affect results, which is why working with a dietitian or physician is worth considering if you've"
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A common pattern: someone packs a sad desk salad on Monday, powers through it, and by Wednesday is dropping $14 on a burrito bowl and telling themselves they'll "get back on track next week." This isn't a willpower problem. It's a logistics problem, and it's fixable with about two hours on a Sunday.

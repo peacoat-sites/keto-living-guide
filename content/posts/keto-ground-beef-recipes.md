@@ -21,8 +21,8 @@ faqs:
    a: "No. Ketosis is determined by carbohydrate intake, not by eating ground beef repeatedly. As long as you're staying under your personal carb threshold (usually 20 to 50 grams of net carbs per day), you'll stay in ketosis. The variety of preparation methods means you can eat ground beef daily without boredom. The recipes above are proof of that. If you're curious about how quickly your body enters and exits ketosis, our article on how long to enter ketosis covers it in detail."
 author: "Ryan Park"
 author_slug: "ryan-park"
-author_title: "Fitness Editor"
-author_bio: "Ryan Park is a certified strength coach who trains keto athletes and has competed in powerlifting while maintaining a strict ketogenic diet. He writes about the intersection of low-carb eating and physical performance, with particular focus on strength, endurance adaptation, and body composition. At Keto Living Guide, he covers everything from keto workout fueling to electrolyte management."
+author_title: "Keto and Training"
+author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Ground beef sits in your fridge. It's 6 p.m. You're hungry, you're trying to stay under 20 grams of net carbs today, and you have zero interest in eating a plain burger patty for the third time this week. Sound familiar? Ground beef might be the single most versatile protein in the keto pantry. It's cheap, fast to cook, and takes on flavors from Korean gochujang bowls to Italian-style stuffed peppers without blinking. Let's get into it.

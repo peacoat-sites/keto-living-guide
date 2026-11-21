@@ -19,8 +19,8 @@ faqs:
    a: "On a strict ketogenic diet, yes, grains present a significant carb challenge. Even 'ancient grains' like quinoa, farro, and amaranth carry 30 to 40 grams of net carbs per cooked cup. If your goal is ketosis specifically, grains are effectively off the table in any meaningful quantity. That said, keto isn't the only valid form of low-carb eating. If your goals shift, or if you're maintaining rather than losing, some people do incorporate very small amounts of certain grains. What I'd caution against is the common pattern of reintroducing grains 'just a little' without tracking, which tends to s"
 author: "Mark Chen"
 author_slug: "mark-chen"
-author_title: "Nutrition Researcher"
-author_bio: "Mark Chen tracks the research on low-carb and ketogenic diets, separating what studies actually show from what gets oversold online. He writes evidence reviews in plain language. At Keto Living Guide he covers keto science and emerging research."
+author_title: "Keto Research"
+author_bio: "Mark Chen is the byline used at Keto Living Guide for articles on what published research on ketogenic diets does and does not show. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who "try keto and fail" didn't actually fail because they lacked willpower. They failed because something they genuinely considered healthy was quietly keeping them out of ketosis the entire time. For example, someone might cut out bread and pasta, feel great for a week, then hit a plateau. Their food log reveals a daily smoothie made with a banana, some oat milk, and "just a tablespoon" of honey. That's easily 50 to 60 grams of carbohydrates in a single drink, enough to knock most people out of ketosis before 9am. The list of foods that can derail keto is longer and more surprising than most guides let on.

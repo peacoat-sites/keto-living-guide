@@ -19,10 +19,10 @@ faqs:
    a: "Pure spirits like vodka, whiskey, gin, and tequila have zero carbs. Dry wines have about 3 to 4 grams of carbs per 5-ounce glass. Beer is mostly too high, though some light lagers and hard seltzers fall in the 2 to 4 gram range. The real issue is that alcohol slows fat oxidation while your liver processes it, which can stall weight loss even when the carbs are low. An occasional drink rarely derails a well-established keto practice. Daily drinking might."
  - q: "Do I need to buy special 'keto' products?"
    a: "No. The 'keto' label on packaged foods often means little beyond a marketing charge. Most of what you need is whole food that has always been low-carb: meat, fish, eggs, cheese, vegetables, olive oil, butter. Some keto specialty products are genuinely useful, particularly almond flour, coconut flour, and erythritol for baking. But walking into a grocery store and buying real, unprocessed food is still the most effective, most affordable approach."
-author: "Dr. Sarah Mitchell"
+author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
-author_title: "Medical Reviewer"
-author_bio: "Dr. Sarah Mitchell is a physician who spent years watching patients struggle with metabolic syndrome before discovering how profoundly dietary changes could shift outcomes. She now focuses her practice on nutritional ketosis, insulin resistance, and long-term low-carb adherence. At Keto Living Guide, she reviews all health-related content for medical accuracy and adds clinical context that bridges the gap between research and real life."
+author_title: "Metabolic Health"
+author_bio: "Sarah Mitchell is the byline used at Keto Living Guide for articles on the metabolic side of keto: insulin resistance, blood sugar, cholesterol changes and medication questions. It is a pen name, not a physician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people tank on keto in the first two weeks, but not because the diet is too hard. They walk into a grocery store completely lost, grab some avocados and bacon, go home, and eat an 80-gram carb dinner without realizing it. A solid food list isn't just convenience. It's the difference between actually hitting ketosis and eating a weird, unsatisfying version of your old diet.
