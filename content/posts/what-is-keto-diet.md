@@ -54,7 +54,7 @@ The underlying mechanism is more interesting than "eating fat burns fat." When y
 
 On keto, insulin levels stay low and stable. Your fat cells become accessible for energy. Your body shifts from being a sugar-burner to a fat-burner, both dietary fat and stored body fat. Researchers call this metabolic flexibility, or more specifically, fat adaptation, and it takes most people between two and six weeks to fully develop.
 
-The hunger regulation piece is significant. Ketones appear to suppress ghrelin, the hormone that triggers hunger, and may directly signal satiety in the brain. A 2013 study published in *Obesity* found that subjects following a ketogenic diet reported significantly lower hunger despite eating in a calorie deficit. I've watched this play out with clients repeatedly: the first week is brutal, but by week three, many of them forget to eat lunch. Not because they're restricting, but because they're genuinely not hungry.
+The hunger regulation piece is significant. Ketones appear to suppress ghrelin, the hormone that triggers hunger, and may directly signal satiety in the brain. A 2013 study published in *Obesity* found that subjects following a ketogenic diet reported significantly lower hunger despite eating in a calorie deficit. This pattern is commonly reported: the first week is brutal, but by week three, many people forget to eat lunch. Not because they're restricting, but because they're genuinely not hungry.
 
 There's also solid clinical evidence for keto beyond weight loss. The diet has been used since the 1920s to control drug-resistant epilepsy, and it remains a standard treatment today. More recent research has examined its role in Type 2 diabetes management, with some studies showing meaningful reductions in HbA1c and medication requirements. The evidence on cardiovascular markers is more mixed. LDL can go either direction depending on the individual, but HDL typically rises and triglycerides tend to drop significantly.
 
@@ -135,7 +135,6 @@ The key distinguishing feature of keto is the consistent production of ketones. 
 - has examined its role in Type 2 diabetes management
 - menstrual cycle disruptions in the first few months on keto
 
-
 Keto isn't magic and it's not for everyone.
 
 People with Type 1 diabetes should only attempt keto under close medical supervision because of ketoacidosis risk. People with a history of eating disorders may find the restriction framework counterproductive or harmful. Anyone with gallbladder issues or a history of pancreatitis should talk to a physician first, since the high fat load can be problematic.
@@ -144,7 +143,7 @@ Women sometimes report menstrual cycle disruptions in the first few months on ke
 
 The long-term data on keto beyond two years is limited. We have excellent short and medium-term evidence, but "what happens after a decade of ketogenic eating" isn't yet well-studied in large populations. Most physicians would say cycling on and off, or transitioning to a less strict low-carb maintenance pattern after reaching your goals, is reasonable.
 
-And one more thing: vegetables still matter. I've seen people interpret "eat fat and protein" as a license to eat processed deli meat and skip plants entirely. Non-starchy vegetables provide fiber, micronutrients, and phytochemicals that matter regardless of your macros. Load your plate with them.
+And one more thing: vegetables still matter. It is common for people to interpret "eat fat and protein" as a license to eat processed deli meat and skip plants entirely. Non-starchy vegetables provide fiber, micronutrients, and phytochemicals that matter regardless of your macros. Load your plate with them.
 
 ---
 

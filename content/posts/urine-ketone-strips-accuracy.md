@@ -38,7 +38,7 @@ So the strip is measuring the metabolite you're using less of, not more of.
 
 The color chart on the Ketostix packaging (the most common brand, currently around $10-12 for 50 strips) runs from beige through pink to deep purple, representing trace, small, moderate, and large ketone concentrations. Most people think deeper purple means they're doing better. That's the first mistake. Ketone levels in urine reflect overflow, not efficiency. Your kidneys dump excess ketones they can't reuse. As your body becomes keto-adapted, it gets better at using ketones rather than excreting them, so urine readings often go down even as metabolic ketosis is humming along perfectly.
 
-I see this constantly with longer-term clients. Someone's been strict keto for six weeks, feeling great, losing fat, sleeping well. They test and get a trace reading. They panic. They haven't cheated. Nothing's wrong. Their mitochondria just got better at the job.
+This pattern comes up constantly with longer-term keto practitioners. Someone's been strict keto for six weeks, feeling great, losing fat, sleeping well. They test and get a trace reading. They panic. They haven't cheated. Nothing's wrong. Their mitochondria just got better at the job.
 
 ## The Hydration Problem Nobody Talks About Enough
 
@@ -46,7 +46,7 @@ Urine strips are concentration-dependent. Drink a liter of water an hour before 
 
 Urine ketone readings often drop after workouts and when you're well-hydrated. Testing first morning urine typically gives more reliable results than afternoon readings, since urine is more concentrated after a night without fluids.
 
-Concrete example: Client testing at 2pm after 1.5L water intake, reading trace/negative → switched to first-morning void → reading moderate/large for the same dietary intake. Same person, same diet, different time of day.
+For example, someone testing at 2pm after 1.5L water intake might read trace/negative, then switch to a first-morning void and read moderate/large for the same dietary intake. Same person, same diet, different time of day.
 
 Timing matters more than most strip instructions admit.
 
@@ -58,7 +58,7 @@ For someone in the first two weeks of keto, urine strips are perfectly adequate 
 
 They're also a cheap sanity check after a high-carb event. Had pizza at a work dinner? Testing the next morning tells you quickly whether you've knocked yourself out of ketosis. You don't need precision there. You need a rough signal. The strip delivers.
 
-Scenario: Client suspects a restaurant meal knocked them out of ketosis, unsure whether to reset or continue → urine strip next morning shows negative → they extend fasting window by four hours and retest → moderate reading confirms return to ketosis, no need for a full restart.
+For example, if someone suspects a restaurant meal knocked them out of ketosis, a urine strip the next morning might show negative, prompting them to extend their fasting window by four hours; a retest showing moderate ketones would confirm a return to ketosis with no need for a full restart.
 
 The strip did its job. Nobody needed a blood meter for that.
 
@@ -72,11 +72,11 @@ The strip did its job. Nobody needed a blood meter for that.
 
 If you're using ketosis therapeutically, meaning for epilepsy management, metabolic disease, or serious fat loss tracking, the precision gap matters. Blood ketone meters like the Keto-Mojo (currently around $60 for the meter, roughly $1-1.50 per test strip) measure BHB directly from a finger stick. That's the number that matters clinically. The target range for nutritional ketosis is typically 0.5-3.0 mmol/L BHB. Your urine strip can't tell you whether you're at 0.6 or 2.4. That's a meaningful difference if you're trying to hit a therapeutic window.
 
-I'll be honest: I thought [blood meters](/best-ketone-meter/) were overkill for most people for years. I recommended urine strips almost universally. Then I started using a Keto-Mojo with a small group of clients tracking metabolic health markers, and the feedback quality was genuinely different. One client who was getting "large" on urine strips was actually running at 0.8 mmol/L, perfectly fine but not the high-ketosis state she thought she was in. Another client showing "trace" on urine strips was at 1.4 mmol/L in the blood. The strips had the ranking almost backwards.
+It is easy to assume that [blood meters](/best-ketone-meter/) are overkill for most people. Many keto practitioners recommend urine strips almost universally at first. When blood meters are used alongside urine strips with people tracking metabolic health markers, the difference in feedback quality becomes apparent. For example, someone getting "large" on urine strips might actually be running at 0.8 mmol/L, perfectly fine but not the high-ketosis state they assumed. Another person showing "trace" on urine strips might measure 1.4 mmol/L in the blood. The strips had the ranking almost backwards.
 
-That changed how I counsel people who have specific therapeutic goals. For general low-carb maintenance? Urine strips are fine. For precision? They're not the right tool.
+This distinction matters for anyone with specific therapeutic goals. For general low-carb maintenance, urine strips are fine. For precision, they are not the right tool.
 
-Breath acetone meters (like the Biosense, around $200) sit somewhere in the middle. No recurring strip cost, measures a different ketone again (acetone, the one you exhale), and the correlation to BHB is decent but not perfect. As of July 2026, the research on breath meters is more encouraging than it was a few years ago, but I wouldn't call them validated for therapeutic use quite yet.
+Breath acetone meters (like the Biosense, around $200) sit somewhere in the middle. No recurring strip cost, measures a different ketone again (acetone, the one you exhale), and the correlation to BHB is decent but not perfect. As of July 2026, the research on breath meters is more encouraging than it was a few years ago, But they are not yet widely validated for therapeutic use.
 
 ## Reading Your Strip Correctly: The Actual Protocol
 

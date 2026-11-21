@@ -46,11 +46,11 @@ Here's how a typical month breaks down, based on aggregated data from the Virta 
 | Week 4 | 0.5–2 lbs | 0.75–1.5 lbs | Fat loss, possible stall as cortisol normalizes |
 | **Total** | **6–15 lbs** | **2.75–5.5 lbs** |, |
 
-What surprises most clients when I show them this breakdown: they feel like the diet stopped working in weeks three and four, when in fact that's when actual fat loss is most consistent. Week one is dramatic but metabolically shallow. Week three, when someone is staring at a half-pound loss, is often when genuine adaptation is happening.
+What surprises most people when they see this breakdown is that the diet can feel like it has stopped working in weeks three and four, when in fact that's when actual fat loss is most consistent. Week one is dramatic but metabolically shallow. Week three, when someone is staring at a half-pound loss, is often when genuine adaptation is happening.
 
 ## The Keto Flu Is Real, and Electrolytes Are Not Optional
 
-I'll be honest: for years I underestimated how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
+It is easy to underestimate how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
 
 The mechanism isn't mysterious. When insulin drops, the kidneys excrete sodium more aggressively. Sodium loss pulls potassium and magnesium with it. Within 48 to 72 hours, electrolyte depletion is the primary driver of symptoms, not some inherent toxicity of the metabolic shift.
 
@@ -70,7 +70,7 @@ As of July 2026, the general consensus in nutrition research is that 30 days of 
 
 ## What Actually Determines Your 30-Day Results
 
-Three factors explain most of the variance I've seen across clients:
+Three factors explain most of the variance seen across people trying keto:
 
 Starting metabolic status matters enormously. Someone with a fasting glucose above 100 mg/dL and a triglyceride-to-HDL ratio above 3.0 will almost always see striking improvements in 30 days. Someone who is already metabolically lean and healthy may feel fine but won't see dramatic biomarker shifts.
 
@@ -78,11 +78,11 @@ Calorie intake is the variable people want to ignore. Keto suppresses appetite t
 
 Sleep and stress interact with everything. Cortisol impairs ketosis by raising blood glucose. People with perfect macros often stall at week three when sleeping only five hours a night. This is not unique to keto, but the protocol isn't a workaround for chronic stress.
 
-Worked examples from my practice:
+Consider these representative examples:
 
-Client with Type 2 diabetes, starting A1c 7.8%, 30 days strict keto (under 20g net carbs) → fasting glucose dropped from 168 mg/dL to 112 mg/dL, scale weight down 11 lbs (roughly 4 lbs estimated fat, 7 lbs water/glycogen).
+For example, someone with Type 2 diabetes and a starting A1c of 7.8% following 30 days of strict keto (under 20g net carbs) might see fasting glucose drop from around 168 mg/dL to 112 mg/dL, with scale weight down 11 lbs (roughly 4 lbs estimated fat, 7 lbs water/glycogen).
 
-Client who was already at a healthy BMI, starting keto for "clarity and energy" → felt noticeably better by day 10, scale weight down 3 lbs, lipids essentially unchanged, returned to a moderate low-carb approach (under 100g carbs) long-term.
+For example, someone already at a healthy BMI who starts keto for clarity and energy might feel noticeably better by day 10, see scale weight drop about 3 lbs, find lipids essentially unchanged, and settle into a moderate low-carb approach (under 100g carbs) long-term.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average 30-Day Changes on Ketogenic Diet by Marker</div><div class="sc-row"><span class="sc-label">HDL Cholesterol</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">8 % change</span></div><div class="sc-row"><span class="sc-label">LDL Cholesterol</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10 % change</span></div><div class="sc-src">Source: Virta Health clinical trial data &amp; Nutrients 2021 meta-analysis</div></div>
 
@@ -98,7 +98,7 @@ Client who was already at a healthy BMI, starting keto for "clarity and energy" 
 
 ---
 
-If you're tracking your own results carefully, a good kitchen scale (I use the OXO Good Grips at around $50) and a basic blood glucose monitor will tell you more about your actual progress than the bathroom scale alone. A box of ketone urine strips (Ketostix run about $10 for 50) won't give you precise readings, but they'll confirm you're in the right zone during the first two weeks. (Disclosure: this site may earn a commission on purchases through product links.)
+If you're tracking your own results carefully, a good kitchen scale (such as the OXO Good Grips at around $50) and a basic blood glucose monitor will tell you more about your actual progress than the bathroom scale alone. A box of ketone urine strips (Ketostix run about $10 for 50) won't give you precise readings, but they'll confirm you're in the right zone during the first two weeks. (Disclosure: this site may earn a commission on purchases through product links.)
 
 Thirty days is genuinely enough time to know whether keto is working for you physiologically. It's not enough time to know whether it's sustainable, or whether the results hold at six months. That's a different question, and one the 30-day photos don't answer.
 

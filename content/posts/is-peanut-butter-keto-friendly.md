@@ -38,7 +38,7 @@ Two tablespoons of plain peanut butter (the natural, no-added-sugar kind, think 
 
 For strict keto, where most people are targeting 20-25 grams of net carbs daily, a single two-tablespoon serving uses up roughly 25-30% of your daily carb budget. That's not disqualifying. But it's substantial. The practical challenge is that most people don't measure carefully. Spooning directly from the jar during meal prep easily leads to four or five tablespoons without thinking about it.
 
-The comparison table below gives you a realistic side-by-side of peanut butter against the nut and seed butters that clients ask me about most often:
+The comparison table below gives you a realistic side-by-side of peanut butter against the nut and seed butters that come up most often in keto communities:
 
 | Butter (2 tbsp) | Net Carbs (g) | Fat (g) | Protein (g) | Approx. Price/jar |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ The comparison table below gives you a realistic side-by-side of peanut butter a
 | Cashew butter | 8 | 14 | 6 | $10-14 |
 | Tahini (sesame) | 3 | 16 | 5 | $7-10 |
 
-A few things jump out here. Cashew butter, which many people assume is "healthier," actually has more net carbs than peanut butter. Macadamia nut butter is the clear keto winner on carbs, but at $18-24 a jar, it's a financial commitment most of my clients don't sustain. Almond butter at roughly half the carbs of peanut butter is probably the most practical swap for someone who genuinely loves nut butter and is trying to tighten up their carb intake.
+A few things jump out here. Cashew butter, which many people assume is "healthier," actually has more net carbs than peanut butter. Macadamia nut butter is the clear keto winner on carbs, but at $18-24 a jar, it's a financial commitment most people don't sustain long-term. Almond butter at roughly half the carbs of peanut butter is probably the most practical swap for someone who genuinely loves nut butter and is trying to tighten up their carb intake.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Net carbs per 2 tbsp serving by nut/seed butter</div><div class="sc-row"><span class="sc-label">Pecan butter</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">1 grams ne</span></div><div class="sc-row"><span class="sc-label">Macadamia</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">2 grams ne</span></div><div class="sc-row"><span class="sc-label">Almond butter</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">3 grams ne</span></div><div class="sc-row"><span class="sc-label">Tahini</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">3 grams ne</span></div><div class="sc-row"><span class="sc-label">Sunflower seed</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">5 grams ne</span></div><div class="sc-row"><span class="sc-label">Peanut butter</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">6 grams ne</span></div><div class="sc-row"><span class="sc-label">Cashew butter</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">8 grams ne</span></div><div class="sc-src">Source: USDA FoodData Central, 2026</div></div>
 
@@ -60,37 +60,31 @@ Here's what most people don't realize: peanuts have a glycemic index of around 1
 
 Peanuts also contain a meaningful amount of oleic acid, the same monounsaturated fat in olive oil that tends to show up favorably in cardiovascular research. A 2020 analysis in the *Journal of Nutrition* found that regular peanut consumption was associated with modest improvements in LDL particle size, which is a more nuanced marker than total LDL. I'm not saying peanut butter is a health food in some magical sense, but the "peanuts are bad fat" take from early low-carb communities was always oversimplified.
 
-What the research doesn't resolve cleanly: how individual people respond to peanuts metabolically. I have clients who eat a tablespoon of natural peanut butter daily, test their ketones an hour later, and show zero disruption. I have other clients, particularly those who are more insulin-resistant or who are in the early stages of keto adaptation, who seem to stall with it. If you're not using a meter, you're guessing. A blood ketone meter (the Keto-Mojo is the one I recommend, currently around $49.99 for the unit) will tell you more about your individual response than any general guideline I can give you.
+What the research doesn't resolve cleanly: how individual people respond to peanuts metabolically. Some people eat a tablespoon of natural peanut butter daily, test their ketones an hour later, and show zero disruption. Others, particularly those who are more insulin-resistant or who are in the early stages of keto adaptation, seem to stall with it. If you're not using a meter, you're guessing. A blood ketone meter (the Keto-Mojo is a widely recommended option, currently around $49.99 for the unit) will tell you more about your individual response than any general guideline.
 
 ## The "Natural" vs. "Regular" Problem
 
 This is where people lose money and carbs simultaneously.
 
-Jif, Skippy, Peter Pan: every one of their standard products contains added sugar. Jif Creamy, per USDA data, has 3 grams of sugar per two tablespoons. That pushes net carbs up to 7-8 grams and introduces sugar that's genuinely unnecessary on keto. Skippy Natural has less added sugar but still has 1 gram per serving. The rule I tell every client: if the label says anything other than "peanuts" and maybe "salt," put it back.
+Jif, Skippy, Peter Pan: every one of their standard products contains added sugar. Jif Creamy, per USDA data, has 3 grams of sugar per two tablespoons. That pushes net carbs up to 7-8 grams and introduces sugar that's genuinely unnecessary on keto. Skippy Natural has less added sugar but still has 1 gram per serving. The rule of thumb: if the label says anything other than "peanuts" and maybe "salt," put it back.
 
 Reduced Fat Jif, for example, has 15 grams of net carbs per serving because removing fat from peanut butter means adding back starch and sugar to maintain texture. "Reduced fat" on peanut butter is one of the most backwards things in a grocery store.
 
-Current as of July 2026, the brands I consistently recommend to clients are Justin's Classic Peanut Butter (6g net carbs, no added sugar, about $8.99 for 16 oz), Smucker's Natural ($5.99 for 16 oz, stirs easily, no frills), and Crazy Richard's ($7.49 for 16 oz, literally one ingredient: peanuts).
+Current as of July 2026, the brands most consistently worth reaching for are Justin's Classic Peanut Butter (6g net carbs, no added sugar, about $8.99 for 16 oz), Smucker's Natural ($5.99 for 16 oz, stirs easily, no frills), and Crazy Richard's ($7.49 for 16 oz, literally one ingredient: peanuts).
 
 ## How to Make It Fit (Or Decide It Shouldn't)
 
-**Scenario 1:** A client targeting 20g net carbs daily wants to include peanut butter.
-Action taken: 1.5 tbsp natural peanut butter (about 4.5g net carbs) added to a protein shake with unsweetened almond milk, planned as a post-workout snack. Rest of the day: eggs, leafy greens, fatty fish, no other high-carb foods.
-Result: She maintained ketosis consistently (blood ketones measured at 1.2-1.8 mmol/L) and didn't feel deprived. She told me later that having it on the plan is what kept her from going off-plan entirely.
+For example, someone targeting 20g net carbs daily could include 1.5 tbsp natural peanut butter (about 4.5g net carbs) in a protein shake with unsweetened almond milk as a post-workout snack, with the rest of the day built around eggs, leafy greens, and fatty fish. This approach can allow for consistent ketosis while preventing the sense of deprivation that often derails strict low-carb eating.
 
-**Scenario 2:** A client who was stalling at 25 lbs lost on keto, couldn't figure out why.
-Action taken: Tracked portions carefully for two weeks. Discovered he was eating 4-5 tablespoons of peanut butter daily, approximately 14-16g net carbs from that alone, often before bed.
-Result: Swapped to 1 tablespoon of macadamia nut butter (1g net carbs) as an occasional treat, dropped the habit of eating it nightly. Lost an additional 8 lbs over the following six weeks. The peanut butter wasn't the only factor, but it was where the carbs were hiding.
+For example, someone stalling on keto might find, after tracking carefully for two weeks, that 4-5 tablespoons of peanut butter per day is adding 14-16g net carbs from that source alone, often consumed before bed without much thought. Swapping to 1 tablespoon of macadamia nut butter (1g net carbs) as an occasional treat and dropping the nightly habit can be enough to restart progress. Peanut butter may not be the only factor, but it is a common place where carbs hide.
 
-**Scenario 3:** A client with IBS who couldn't tolerate most keto snacks.
-Action taken: Natural peanut butter was one of the few high-fat foods she could eat without GI distress. Used it at 2 tablespoons daily with celery sticks, kept all other carbs to under 15g.
-Result: Maintained ketosis and felt good. Not every keto approach looks the same, and for her, peanut butter was a tool worth the carb cost.
+For example, someone with IBS who cannot tolerate most keto snacks may find that natural peanut butter is one of the few high-fat foods that does not trigger GI distress. Using 2 tablespoons daily with celery sticks, while keeping all other carbs under 15g, can support ketosis without digestive issues. Not every keto approach looks the same, and in cases like this, peanut butter can be a tool worth the carb cost.
 
 ## The Aflatoxin Concern (Real, But Put in Perspective)
 
 You'll occasionally see keto forums warning about aflatoxins in peanuts. Aflatoxins are naturally occurring mold toxins, and peanuts do have higher contamination rates than tree nuts because they grow underground. The FDA monitors this. According to FDA action levels, commercially sold peanut butter in the U.S. must test below 20 parts per billion for total aflatoxins. Large brands like Jif and Smucker's test regularly, and no major U.S. peanut butter recall for aflatoxin contamination has occurred in recent memory.
 
-Is the risk zero? No. Is it a meaningful health concern for someone eating two tablespoons of peanut butter a few times a week? I don't think so, and I don't lose sleep over it. If you're eating a pound a day and sourcing from unregulated suppliers, that's a different conversation.
+Is the risk zero? No. Is it a meaningful health concern for someone eating two tablespoons of peanut butter a few times a week? The evidence suggests it is not a significant concern at typical serving sizes. If you're eating a pound a day and sourcing from unregulated suppliers, that's a different conversation.
 
 ## Sources
 

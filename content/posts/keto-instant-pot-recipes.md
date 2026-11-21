@@ -26,7 +26,7 @@ faqs:
     a: "You can, technically. Cheesecake is the most popular example and it works well (water bath method, springform pan, 25-30 minutes on high pressure). Chocolate lava cakes in mason jars are another. I don't spend much time on IP keto desserts personally, because the recipes almost always require almond flour and erythritol, which brings its own issues for people sensitive to sugar alcohols. Worth trying if dessert is important to your sustainability on keto, though."
 ---
 
-Roughly 68% of people who buy an Instant Pot use it fewer than five times before it ends up in a cabinet. I've seen this play out in my own practice, client after client telling me they bought one because someone in a Facebook group swore it would change their [meal prep](/how-to-meal-prep-keto-lunches-for-the-week/) life. And for keto specifically, the underuse rate might be even higher, because most of the recipe content online is not written for people actually tracking macros. It's written for pageviews.
+Roughly 68% of people who buy an Instant Pot use it fewer than five times before it ends up in a cabinet. This plays out constantly, with people buying one because someone in a Facebook group swore it would change their [meal prep](/how-to-meal-prep-keto-lunches-for-the-week/) life. And for keto specifically, the underuse rate might be even higher, because most of the recipe content online is not written for people actually tracking macros. It's written for pageviews.
 
 So here's where you probably are right now: you've got a pressure cooker, you're eating low-carb or trying to, and you want recipes that are genuinely useful rather than "keto-friendly pot roast" posts where someone calls it keto because they skipped the potatoes. You might be wondering if the Instant Pot is even worth the effort for [keto cooking](/keto-cooking-on-a-budget/), or if you should just stick to your sheet pan and cast iron. Fair question. My honest take: for three specific use cases, nothing beats it. For everything else, it's just okay.
 
@@ -36,7 +36,7 @@ Let me be specific about what those three cases are, what the [research says abo
 
 ## Why the Instant Pot Actually Makes Sense for Keto (and Why It's Overhyped for the Rest)
 
-Keto cooking is mostly high-fat animal protein and low-starch vegetables. Tough cuts, long braises, collagen-rich bones. Those are the exact foods that benefit from pressure cooking. A chuck roast that needs 3.5 hours in a Dutch oven takes 60-75 minutes under pressure. Chicken thighs that would dry out in an oven come out genuinely moist in 15 minutes. A 3-pound pork shoulder shows negligible difference in connective tissue breakdown between a 4-hour oven braise and a 55-minute Instant Pot cook. The texture was nearly identical. The time difference was not.
+Keto cooking is mostly high-fat animal protein and low-starch vegetables. Tough cuts, long braises, collagen-rich bones. Those are the exact foods that benefit from pressure cooking. A chuck roast that needs 3.5 hours in a Dutch oven takes 60-75 minutes under pressure. Chicken thighs that would dry out in an oven come out genuinely moist in 15 minutes. A 3-pound pork shoulder shows negligible difference in connective tissue breakdown between a 4-hour oven braise and a 55-minute Instant Pot cook, with texture coming out nearly identical. The time difference was not.
 
 Here's what I tell people who ask if they need a fancy model: you don't. The Instant Pot Duo 6-quart (currently around $89 at Costco and Amazon as of July 2026) does everything this article covers. The Pro Plus and Ultra models add Wi-Fi and sous vide modes that are genuinely useless for most people. Save the $50.
 
@@ -56,7 +56,7 @@ Before you cook anything, it's worth knowing what you're actually working with n
 | Chicken Thigh (bone-in) | 1 thigh | 0g | 24g | 11g | 200 |
 | Pork Ribs (dry rub) | 3 oz | 2g | 21g | 17g | 245 |
 
-A few things jump out at me here. First, pure protein-and-fat recipes are the safest bet, zero surprises. The butter chicken is where things get tricky, because most recipes online add tomato paste in amounts that push net carbs into a range that matters if you're strict keto (under 20g/day). Use 1 tablespoon max, not the 3-4 tablespoons some recipes call for. Second, egg bites are criminally underrated as a meal prep item. Make 14 at once, refrigerate, done for the week.
+A few things stand out here. First, pure protein-and-fat recipes are the safest bet, zero surprises. The butter chicken is where things get tricky, because most recipes online add tomato paste in amounts that push net carbs into a range that matters if you're strict keto (under 20g/day). Use 1 tablespoon max, not the 3-4 tablespoons some recipes call for. Second, egg bites are criminally underrated as a meal prep item. Make 14 at once, refrigerate, done for the week.
 
 ## Three Recipes Worth Actually Making
 
@@ -64,21 +64,21 @@ A few things jump out at me here. First, pure protein-and-fat recipes are the sa
 
 2-3 lbs of beef knuckles or chicken carcasses (ask your butcher, they're often free or close to it), two tablespoons apple cider vinegar (this is not optional, the acidity pulls collagen from the bones), a few peppercorns and a bay leaf. Cover with cold water to the max fill line. Seal it. Set to high pressure for 3 hours, then let it natural release. The liquid should gel when refrigerated. If it doesn't gel, your broth doesn't have enough collagen, get bones with more connective tissue next time.
 
-One thing you won't know until you've done it: the broth will smell slightly off when the lid first opens. Sulfurous, almost. That's normal and goes away within a minute. Don't panic and throw it out.
+One thing to expect: the broth will smell slightly off when the lid first opens. Sulfurous, almost. That's normal and goes away within a minute. Don't panic and throw it out.
 
-**Pulled Pork.** Scenario: You have 90 minutes and need lunches for 4 days. A 2.5-pound pork shoulder, salt, pepper, smoked paprika, garlic powder. Add 1/2 cup chicken broth to the pot. Manual high pressure, 60 minutes, natural release 15 minutes. Shred with forks. That's it. No sugar, no BBQ sauce, nothing keto-unfriendly. Result: roughly 6-7 servings at about 28g protein and 0 net carbs each. Pair it with roasted cabbage or cauliflower rice and you have a full keto meal under 5g net carbs.
+**Pulled Pork.** For example, if you have 90 minutes and need lunches for 4 days, this approach works well. A 2.5-pound pork shoulder, salt, pepper, smoked paprika, garlic powder. Add 1/2 cup chicken broth to the pot. Manual high pressure, 60 minutes, natural release 15 minutes. Shred with forks. That's it. No sugar, no BBQ sauce, nothing keto-unfriendly. That yields roughly 6-7 servings at about 28g protein and 0 net carbs each. Pair it with roasted cabbage or cauliflower rice and you have a full keto meal under 5g net carbs.
 
-The one mistake I see constantly: people add too much liquid because they're scared of the burn warning. You only need enough to create steam. Half a cup is sufficient for most braises up to 3 pounds. More liquid means more diluted flavor in the final product.
+The most common mistake is adding too much liquid out of fear of the burn warning. You only need enough to create steam. Half a cup is sufficient for most braises up to 3 pounds. More liquid means more diluted flavor in the final product.
 
-**Keto Egg Bites.** This one took me a few tries to get right. The Starbucks version has about 9g of carbs and costs $5.45 for two bites (as of this summer). Making them at home costs roughly $0.40 per bite and drops carbs to 1-2g.
+**Keto Egg Bites.** This recipe takes a few tries to get right. The Starbucks version has about 9g of carbs and costs $5.45 for two bites (as of this summer). Making them at home costs roughly $0.40 per bite and drops carbs to 1-2g.
 
-The setup requires a silicone egg mold (the MKOUO one on Amazon runs about $9 and is what I use) and the Instant Pot's steam rack. Blend 6 eggs with 1/4 cup cream cheese, 1/4 cup heavy cream, salt, and whatever mix-ins you want (bacon, gruyere, and chives is the classic). Pour into the molds, cover loosely with foil, add 1 cup water to the IP, place the mold on the steam rack. Steam for 8 minutes, quick release. They come out silky, not rubbery. The foil is non-negotiable, without it, condensation drips in and changes the texture completely.
+The setup requires a silicone egg mold (the MKOUO one on Amazon runs about $9) and the Instant Pot's steam rack. Blend 6 eggs with 1/4 cup cream cheese, 1/4 cup heavy cream, salt, and whatever mix-ins you want (bacon, gruyere, and chives is the classic). Pour into the molds, cover loosely with foil, add 1 cup water to the IP, place the mold on the steam rack. Steam for 8 minutes, quick release. They come out silky, not rubbery. The foil is non-negotiable, without it, condensation drips in and changes the texture completely.
 
 ## Getting the Electrolyte and Fat Balance Right
 
 You might be wondering whether bone broth alone covers your electrolyte needs. It doesn't, fully. A 2021 analysis published in *Nutrients* found that homemade bone broth provides between 135-175mg sodium per cup and negligible potassium. You need closer to 3,000-5,000mg sodium and 1,000-3,500mg potassium daily on keto, per recommendations from the Virta Health clinical team's patient protocols. Broth is a start, not a solution.
 
-Practically speaking: salt your food aggressively, use potassium-rich low-carb foods (avocado, spinach, salmon), and consider a supplement like LMNT or Redmond Re-Lyte, which run about $1.50-$2.00 per serving and dissolve easily into broth. I'd skip the fancy electrolyte gummies, most have enough filler carbs to matter if you're tracking closely.
+Practically speaking: salt your food aggressively, use potassium-rich low-carb foods (avocado, spinach, salmon), and consider a supplement like LMNT or Redmond Re-Lyte, which run about $1.50-$2.00 per serving and dissolve easily into broth. Skipping the fancy electrolyte gummies is wise, as most have enough filler carbs to matter if you're tracking closely.
 
 The fat balance in IP recipes can be tricky because pressure cooking doesn't render fat the same way dry-heat cooking does. Short ribs cooked in the IP will have a thicker fat layer sitting on top of the braising liquid when they're done. Skim it or don't, based on your goals. If you're using fat for satiety, leave it. If you're getting plenty of fat from other sources in your day, skim most of it.
 

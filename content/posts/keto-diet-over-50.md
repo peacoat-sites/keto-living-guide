@@ -25,19 +25,19 @@ author_title: "Keto and Training"
 author_bio: "Ryan Park is the byline used at Keto Living Guide for articles on low-carb eating alongside strength training and endurance exercise. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. I see this constantly in my practice: people who did everything "right" and still felt off, or didn't lose weight the way they expected, or got results but then hit a wall they couldn't explain.
+Something shifts after 50. Not dramatically, not all at once, but enough that the low-carb approach that worked fine for your colleague in her 40s might land differently for you. Many people do everything "right" and still feel off, or don't lose weight the way they expected, or get results but then hit a wall they can't explain.
 
-You might be wondering whether keto is even a good idea at your age, or whether it needs tweaking, or honestly whether the whole thing is worth the effort. Those are fair questions. Let me try to answer them like someone who has actually worked through this with real people, not just read the studies.
+You might be wondering whether keto is even a good idea at your age, or whether it needs tweaking, or honestly whether the whole thing is worth the effort. Those are fair questions. The goal here is to answer them with practical guidance grounded in both research and real-world application.
 
 ## What actually changes after 50 (and why it matters for keto)
 
 The big one is metabolism, but not in the vague way people usually mean it. After 50, most people are dealing with some combination of slower muscle protein synthesis, declining estrogen or testosterone, reduced insulin sensitivity, and a gut microbiome that responds differently to dietary changes than it did at 35. Women going through perimenopause or post-menopause often see fat redistribution toward the abdomen even without major weight gain. Men typically see a slower but steady drop in testosterone that affects body composition.
 
-Here's what I tell people: keto can work beautifully with all of this. But only if you understand that you're not just "cutting carbs." You're working with a body that has different priorities now.
+Keto can work beautifully with all of this. But only if you understand that you're not just "cutting carbs." You're working with a body that has different priorities now.
 
 The good news is that ketogenic diets show real promise specifically for the metabolic issues that become more common after 50. A 2021 review published in *Nutrients* looked at low-carb diets in adults over 50 and found meaningful improvements in triglycerides, fasting insulin, and visceral fat. Those aren't small things. Visceral fat in particular is strongly linked to cardiovascular risk, and it responds well to carbohydrate restriction.
 
-What doesn't change: you still need to eat enough food. I cannot tell you how many clients over 50 come to me eating 1,100 calories a day because they've conflated "low carb" with "as little food as possible." That's a fast road to muscle loss, fatigue, and a metabolism that genuinely does slow down in response to under-eating.
+What doesn't change: you still need to eat enough food. Many people over 50 fall into the trap of eating only 1,100 calories a day because they've conflated "low carb" with "as little food as possible." That's a fast road to muscle loss, fatigue, and a metabolism that genuinely does slow down in response to under-eating.
 
 ## Protein: the variable most people get wrong
 
@@ -52,7 +52,7 @@ Most keto guidance for general audiences recommends moderate protein, somewhere 
 
 The reason is anabolic resistance. Older muscle tissue doesn't respond as efficiently to protein signals as younger tissue does. To get the same muscle-protein synthesis response, you need more protein. The current research points toward something closer to 1.0 to 1.2 grams per pound of lean body mass for adults over 50, especially if you're active.
 
-This trips people up because higher protein can potentially reduce ketone production at very high intakes. Honestly? I'd worry less about hitting optimal ketone numbers and more about protecting your muscle mass. Deep ketosis is not the goal. Sustainable metabolic health is. Those are related but not the same thing.
+This trips people up because higher protein can potentially reduce ketone production at very high intakes. Honestly? The priority should be protecting muscle mass rather than hitting optimal ketone numbers. Deep ketosis is not the goal. Sustainable metabolic health is. Those are related but not the same thing.
 
 Make sure you've set a custom protein target in your tracking app (Cronometer is free and more accurate than most) rather than accepting the default. The default is usually too low for someone your age.
 
@@ -64,7 +64,7 @@ Blood pressure medications (common in this age group) often affect potassium lev
 
 Heart palpitations sometimes occur on keto and can often be traced to magnesium deficiency. Please don't self-diagnose, but do take this seriously and talk to your doctor before starting if you're on any cardiac or blood pressure medication.
 
-For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) are what I recommend most consistently. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)) also helps with sleep, which brings me to the next thing.
+For supplementation, [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolyte+packets&tag=contentportfo-20) are a consistently well-regarded option. *(Disclosure: this site may earn a commission on purchases.)* They're unflavored or lightly flavored, have no sugar, and the sodium-potassium-magnesium ratio is close to what most people need. A magnesium glycinate supplement at night (like [this one from Pure Encapsulations](https://www.amazon.com/s?k=pure+encapsulations+magnesium+glycinate&tag=contentportfo-20)) also helps with sleep, which brings me to the next thing.
 
 ## Sleep, hormones, and the adaptation window
 

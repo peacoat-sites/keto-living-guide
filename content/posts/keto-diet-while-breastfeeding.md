@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Three days into strict keto after my second delivery, I hit a wall that had nothing to do with carb cravings. My milk supply tanked, I felt dizzy every time I stood up, and I was more exhausted than the newborn haze alone could explain. I thought I was doing everything right. I wasn't.
+Starting strict keto in the early postpartum weeks can hit a wall that has nothing to do with carb cravings. Milk supply can drop, dizziness when standing becomes common, and exhaustion goes beyond what the newborn haze alone explains.  
 
-That experience is why I'm careful, maybe overly careful, about how I advise new mothers on this topic. Because the question isn't really "can I do keto while breastfeeding?" The real question is what version of low-carb is actually safe, what the research supports versus what the keto community just assumes, and where the risks are that nobody talks about.
+That pattern is why careful guidance on this topic matters so much for new mothers. Because the question isn't really "can I do keto while breastfeeding?" The real question is what version of low-carb is actually safe, what the research supports versus what the keto community just assumes, and where the risks are that nobody talks about.
 
 Let me give you the honest picture.
 
@@ -40,7 +40,7 @@ Here's what I know for certain: breast milk composition is remarkably resilient.
 
 What's less settled is the carbohydrate question. Human milk naturally contains lactose, and your body synthesizes that lactose from glucose. Theoretically, severe carbohydrate restriction could affect milk volume, though the evidence here is genuinely mixed. Individual tolerance varies widely. Some people breastfeed comfortably on 50 grams of net carbs per day, while others see a supply dip at anything under 100 grams.
 
-What I have not seen solid clinical research on, and I'll be direct about this, is [strict ketogenic diet](/is-keto-safe-long-term/)s (under 20-30g carbs/day) in exclusively breastfeeding women over an extended period. Most studies look at weight loss broadly in postpartum women or at ketogenic diets in non-lactating adults. The specific overlap is thin. Anyone telling you the data is conclusive either way is overselling what we have.
+Solid clinical research is lacking on [strict ketogenic diet](/is-keto-safe-long-term/)s (under 20-30g carbs/day) in exclusively breastfeeding women over an extended period. Most studies look at weight loss broadly in postpartum women or at ketogenic diets in non-lactating adults. The specific overlap is thin. Anyone telling you the data is conclusive either way is overselling what we have.
 
 There's one thing the research does support clearly: caloric restriction in breastfeeding women is associated with reduced milk supply. The Academy of Nutrition and Dietetics currently recommends an additional 330-400 calories per day above pre-pregnancy needs during lactation. Strict keto often reduces appetite significantly, which means many women accidentally undereating without realizing it.
 
@@ -66,9 +66,9 @@ I want to be careful not to catastrophize here because for the vast majority of 
 | Moderate Low-Carb | 100-130g/day | 1,800-2,000+ | Lower; aligns with Academy of Nutrition & Dietetics guidance | Steady; sustainable | Recommended approach; maintains milk composition; meets protein needs |
 | Standard Postpartum | 150-200g/day | 2,200-2,500+ | Minimal | Slower | Baseline; provides additional 330-400 calories above pre-pregnancy needs |
 
-My practical position, as of July 2026 and consistent with what most lactation-informed dietitians I respect are saying: a moderate low-carb approach is likely fine for most breastfeeding women. A strict ketogenic diet with the goal of getting into deep ketosis is a different conversation and carries more unknowns.
+The current practical position, as of July 2026 and consistent with what most lactation-informed dietitians are saying, is that a moderate low-carb approach is likely fine for most breastfeeding women. A strict ketogenic diet with the goal of getting into deep ketosis is a different conversation and carries more unknowns.
 
-Here's the framework I use with clients who want to reduce carbs postpartum:
+Here is a practical framework for breastfeeding women who want to reduce carbs postpartum:
 
 **Start higher than you think you need to.** A ceiling of 100-130g net carbs per day is genuinely low-carb and will produce meaningful metabolic benefits for most people. You don't need to be at 20g to lose weight. You need to be in a modest deficit with good protein and fat.
 
@@ -86,13 +86,13 @@ The solution wasn't to quit low-carb. It was to eat more. Aim for at least 1,800
 
 ## Real-World Scenarios from My Practice
 
-A client I'll call Mara came to me at 10 weeks postpartum. She'd been doing strict keto, around 25g carbs per day, for three weeks. Supply was noticeably down and she was exhausted beyond what the circumstances explained.
+For example, consider a woman at 10 weeks postpartum who has been doing strict keto, around 25g carbs per day, for three weeks with noticeably reduced supply and unexplained exhaustion. She'd been doing strict keto, around 25g carbs per day, for three weeks. Supply was noticeably down and she was exhausted beyond what the circumstances explained.
 
-*We raised her carbs to 80-100g per day, prioritizing starchy vegetables and a small amount of oats. We also increased her total calories by about 400/day. Within 10 days, supply rebounded. She lost 14 pounds over the next 12 weeks. Not as fast as she wanted, but steadily.*
+Raising carbs to 80-100g per day, prioritizing starchy vegetables and a small amount of oats, and increasing total calories by about 400 per day can allow supply to rebound within roughly 10 days, with steady weight loss of around 14 pounds over the following 12 weeks.
 
-Another client tried the same moderate approach from the start. Stayed at 80-90g net carbs, hit her protein targets, kept calories up.
+For someone who takes the moderate approach from the start, the outcomes tend to be even more straightforward. Stayed at 80-90g net carbs, hit her protein targets, kept calories up.
 
-*She maintained full supply throughout and lost 22 pounds over 6 months postpartum without a single supply scare.*
+Maintaining full supply throughout while losing around 22 pounds over 6 months postpartum, without a single supply scare, is a realistic outcome when calories and carbs are kept at moderate levels from the beginning.
 
 The contrast isn't "keto works or it doesn't." It's that the aggressive version creates unnecessary risk when a moderate version gets you almost all the same results.
 

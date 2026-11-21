@@ -26,7 +26,7 @@ faqs:
     a: "Hemp seeds work surprisingly well as a quinoa stand-in in salads: similar nutty flavor, some bite, protein content that's actually slightly higher per gram, and almost no net carbs. Riced cauliflower (lightly roasted and cooled) also mimics the bulk and absorbs dressings similarly to cooked quinoa."
 ---
 
-Quinoa gets a weirdly reverent treatment in food culture, and for years I assumed it was basically an honorary vegetable. High protein, gluten-free, ancient grain, beloved by every nutrition-adjacent Instagram account since roughly 2014. So when clients started asking me whether quinoa could fit into their keto diets, I actually had to stop and look at the numbers properly instead of going off vibe. What I found was pretty clear, and a little disappointing if you were hoping for good news.
+Quinoa gets a weirdly reverent treatment in food culture, and for years I assumed it was basically an honorary vegetable. High protein, gluten-free, ancient grain, beloved by every nutrition-adjacent Instagram account since roughly 2014. So when the question of whether quinoa can fit into a keto diet comes up, it requires looking at the numbers properly rather than going off vibe. What I found was pretty clear, and a little disappointing if you were hoping for good news.
 
 The short version: quinoa is not keto-friendly for the vast majority of people doing a standard [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/). But there's more texture to that answer than a flat no, and the details matter depending on where you're sitting on the low-carb spectrum.
 
@@ -54,7 +54,7 @@ What surprised me when I actually dug into this was how much quinoa's reputation
 
 You'll sometimes see quinoa defended with its glycemic index of around 53, which is "low to moderate" by GI standards. And that's technically true. But here's where I think people get tripped up: GI measures how fast blood sugar rises, not how much it rises. Glycemic load accounts for both speed and volume, and quinoa's glycemic load per standard serving comes in around 13-18 depending on the source. That's not alarming for someone eating a balanced 2,000-calorie diet, but for someone trying to maintain ketosis, even a moderate glucose spike can push them out.
 
-I made this mistake myself early in my career. I was working with a client, a marathon runner named David who was experimenting with fat-adaptation, and I suggested quinoa as a "safe" carb source post-long-run because of its favorable GI. He was tracking ketones and couldn't figure out why he kept stalling. Turned out that even his 3/4-cup portions were enough to interrupt his metabolic state. We swapped to smaller sweet potato portions timed immediately post-run, which gave him less total volume with more intentional glucose delivery. His ketone readings stabilized within a week.
+ Consider a marathon runner experimenting with fat-adaptation who uses quinoa as a "safe" carb source post-long-run because of its favorable GI. Tracking ketones, it can be hard to figure out why progress keeps stalling. Even 3/4-cup portions can be enough to interrupt the metabolic state. Swapping to smaller sweet potato portions timed immediately post-run provides less total volume with more intentional glucose delivery. Ketone readings can stabilize within a week of making that adjustment.
 
 ## Can You Make It Work at All?
 
@@ -80,7 +80,7 @@ Shirataki rice (konjac-based) has about 1g net carb per cup. The texture is diff
 
 For people who want to stay grain-adjacent, there's always flaxseed meal, which can be cooked into a hot porridge texture with coconut milk and adds meaningful fiber and omega-3s in the process.
 
-Scenario: Client trying to maintain a Mediterranean-influenced eating pattern on keto, used to building meals around quinoa bowls → swapped to a base of 1 cup riced cauliflower plus 2 tbsp hemp seeds, topped with roasted salmon, olives, and cucumber → hit similar protein and satiation targets, dropped from ~42g net carbs per lunch to under 8g net carbs per lunch.
+For example, someone trying to maintain a Mediterranean-influenced eating pattern on keto who is used to building meals around quinoa bowls could swap to a base of 1 cup riced cauliflower plus 2 tbsp hemp seeds, topped with roasted salmon, olives, and cucumber, hitting similar protein and satiation targets while dropping from roughly 42g net carbs per lunch to under 8g net carbs per lunch.
 
 ## Sources
 

@@ -64,7 +64,7 @@ It varies a lot. But it's almost always shorter than people fear.
 
 For most people, the worst symptoms peak around days 2 through 4 and begin fading by day 7. By week two, most people feel significantly better. Some report energy levels that exceed their pre-keto baseline once they're fully fat-adapted.
 
-A smaller group, maybe 20 to 30 percent from what I see, has a rougher experience. Symptoms linger for two weeks or more. This usually happens when they're not replacing electrolytes, not eating enough fat (a common beginner mistake), or have metabolic factors like insulin resistance that slow the transition.
+A smaller group, maybe 20 to 30 percent, has a rougher experience. Symptoms linger for two weeks or more. This usually happens when they're not replacing electrolytes, not eating enough fat (a common beginner mistake), or have metabolic factors like insulin resistance that slow the transition.
 
 Full [fat adaptation](/how-to-become-fat-adapted/), where your body runs efficiently on fat and ketones without residual sluggishness, takes 4 to 12 weeks. The keto flu is just the acute opening phase.
 
@@ -78,7 +78,7 @@ Age, fitness level, how high-carb your previous diet was, and your individual bi
 | Potassium | 3,000-4,000 mg | Avocados (~700 mg each), leafy greens, salmon | Avoid high-dose supplements without medical supervision |
 | Magnesium | 300-500 mg | Magnesium glycinate or magnesium malate forms preferred | Better absorption; magnesium oxide may cause digestive issues |
 
-You don't have to just wait it out. Most of the misery is directly addressable. Here's what I recommend to clients, in priority order.
+You don't have to just wait it out. Most of the misery is directly addressable. Here's what to prioritize, in order.
 
 **Step 1: [Fix your electrolytes](/electrolytes-on-keto/) immediately.**
 
@@ -102,7 +102,7 @@ Counterintuitively, drinking more plain water can dilute your sodium further and
 
 **Step 4: Don't exercise hard during the acute phase.**
 
-I know this is hard to hear if you started keto as part of a fitness plan. High-intensity training during days 2 through 5 will deepen your symptoms and drain electrolytes faster. Light walking is fine. Save the lifting and sprinting for week two.
+This can be frustrating for those who started keto as part of a fitness plan. High-intensity training during days 2 through 5 will deepen your symptoms and drain electrolytes faster. Light walking is fine. Save the lifting and sprinting for week two.
 
 **Step 5: Sleep more than you think you need to.**
 
@@ -140,6 +140,6 @@ If you have a fever, that's not keto flu. See a doctor.
 
 **Eating too little protein.** Some people get so fat-focused that they eat inadequate protein. On keto, 0.7 to 1.0 grams of protein per pound of lean body mass is a solid target. Protein supports muscle retention and keeps you satiated in ways pure fat does not.
 
-The first ten days of keto are genuinely the hardest part. Not because the diet is hard to follow, but because your body is performing a real biochemical overhaul, and that process has costs. Get your electrolytes dialed in. Eat enough fat. Rest more than feels necessary. Give it the full two weeks before deciding whether this way of eating works for you. Most people I've coached who pushed through that early rough patch were glad they did.
+The first ten days of keto are genuinely the hardest part. Not because the diet is hard to follow, but because your body is performing a real biochemical overhaul, and that process has costs. Get your electrolytes dialed in. Eat enough fat. Rest more than feels necessary. Give it the full two weeks before deciding whether this way of eating works for you. Most people who push through that early rough patch are glad they did.
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
