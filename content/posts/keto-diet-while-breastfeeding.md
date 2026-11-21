@@ -36,7 +36,7 @@ Let me give you the honest picture.
 
 ## What the Research Actually Shows (and Where It Gets Murky)
 
-Here's what I know for certain: breast milk composition is remarkably resilient. Your body will prioritize the baby. Even on a low-calorie or restricted diet, the fat content and protein content of your milk stay relatively stable. That's the good news, and it's real.
+Breast milk composition is remarkably resilient. Your body will prioritize the baby. Even on a low-calorie or restricted diet, the fat content and protein content of your milk stay relatively stable. That's the good news, and it's real.
 
 What's less settled is the carbohydrate question. Human milk naturally contains lactose, and your body synthesizes that lactose from glucose. Theoretically, severe carbohydrate restriction could affect milk volume, though the evidence here is genuinely mixed. Individual tolerance varies widely. Some people breastfeed comfortably on 50 grams of net carbs per day, while others see a supply dip at anything under 100 grams.
 
@@ -86,13 +86,13 @@ The solution wasn't to quit low-carb. It was to eat more. Aim for at least 1,800
 
 ## Real-World Scenarios from My Practice
 
-For example, consider a woman at 10 weeks postpartum who has been doing strict keto, around 25g carbs per day, for three weeks with noticeably reduced supply and unexplained exhaustion. She'd been doing strict keto, around 25g carbs per day, for three weeks. Supply was noticeably down and she was exhausted beyond what the circumstances explained.
+For example, consider a breastfeeding woman who switches to strict keto, around 25g carbs per day, and after three weeks notices a reduced supply and unexplained exhaustion.  
 
 Raising carbs to 80-100g per day, prioritizing starchy vegetables and a small amount of oats, and increasing total calories by about 400 per day can allow supply to rebound within roughly 10 days, with steady weight loss of around 14 pounds over the following 12 weeks.
 
-For someone who takes the moderate approach from the start, the outcomes tend to be even more straightforward. Stayed at 80-90g net carbs, hit her protein targets, kept calories up.
+For someone who takes the moderate approach from the start, outcomes tend to be more straightforward. 
 
-Maintaining full supply throughout while losing around 22 pounds over 6 months postpartum, without a single supply scare, is a realistic outcome when calories and carbs are kept at moderate levels from the beginning.
+Maintaining full supply while losing around 22 pounds over 6 months postpartum, without a supply scare, is a realistic outcome when calories and carbs are kept at moderate levels from the beginning.
 
 The contrast isn't "keto works or it doesn't." It's that the aggressive version creates unnecessary risk when a moderate version gets you almost all the same results.
 
