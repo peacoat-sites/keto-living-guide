@@ -1,5 +1,5 @@
 ---
-title: "Coconut Oil for Keto: 47% Better Fat Absorption?"
+title: "Coconut Oil for Keto: What Its Fats Actually Do"
 date: 2026-11-22T19:58:53.618828+00:00
 draft: false
 description: "Learn how coconut oil supports ketosis with MCT benefits, dosage recommendations, and what science actually shows about keto fat sources."
