@@ -4,7 +4,7 @@ title: "Is Keto Right for You? Take the 2-Minute Quiz"
 description: "Not sure if a ketogenic diet fits your lifestyle? Answer 7 quick questions to find out how well keto matches your habits, goals, and tastes."
 slug: "is-keto-right-for-you"
 date: 2026-05-29T10:00:00+00:00
-categories: ["Diet Basics"]
+categories: ["basics"]
 tags: ["keto", "quiz", "beginners", "lifestyle"]
 author: "Ryan Park"
 author_slug: "ryan-park"

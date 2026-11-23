@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Knocked out of ketosis? Learn proven strategies to re-enter ketosis quickly after a cheat day and get back on track with your keto diet."
 image: "/img/heroes/5463885.jpg"
-categories: ["Diet Basics"]
+categories: ["basics"]
 tags: ["back", "into", "ketosis", "after", "cheat"]
 author: "Jake Torres"
 author_slug: "jake-torres"

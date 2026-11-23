@@ -13,8 +13,8 @@
 /categories/keto-recipes/ /categories/recipes/ 301
 /categories/keto-side-effects/ /categories/health/ 301
 /categories/keto-troubleshooting/ /categories/basics/ 301
-/categories/ketosis/ /categories/diet-basics/ 301
-/categories/macros/ /categories/diet-basics/ 301
+/categories/ketosis/ /categories/basics/ 301
+/categories/macros/ /categories/basics/ 301
 /categories/meal-plans/ /categories/meal-planning/ 301
 /categories/inspiration/ /categories/trending/ 301
 /categories/snacks/ /categories/recipes/ 301
@@ -55,3 +55,5 @@
 /20-grams-carbs-keto/ /keto-carbs-per-day-limit/ 301
 /50-grams-carbs-keto/ /keto-carbs-per-day-limit/ 301
 /keto-lunch-ideas/ /keto-lunch-ideas-for-work/ 301
+/categories/diet-basics/ /categories/basics/ 301
+/categories/keto-basics/ /categories/basics/ 301

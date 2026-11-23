@@ -4,7 +4,7 @@ image: "/img/heroes/3690.jpg"
 description: "Compare net carbs, protein, fat, and calories for common keto foods. Data sourced from the USDA FoodData Central database, updated monthly."
 slug: "keto-food-database"
 date: 2026-05-29T09:00:00+00:00
-categories: ["Diet Basics"]
+categories: ["basics"]
 tags: ["keto", "net carbs", "food database", "macros"]
 author: "Emma Lawson"
 author_slug: "emma-lawson"
