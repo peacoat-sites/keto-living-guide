@@ -31,7 +31,7 @@ Here's the short version: Atkins is a commercial weight-loss program that happen
 
 ## Where They Came From (And Why That History Matters)
 
-Dr. Robert Atkins published *Dr. Atkins' Diet Revolution* in 1972. His core idea was straightforward: restrict carbs, lose weight. The original program had an induction phase (under [20g net carbs](/20-grams-carbs-keto/) daily) followed by a structured reintroduction of carbs. The modern commercial version has splintered into Atkins 20, Atkins 40, and Atkins 100, each named for the daily net carb target. At 40g or 100g of net carbs per day, you're not maintaining ketosis for most people.
+Dr. Robert Atkins published *Dr. Atkins' Diet Revolution* in 1972. His core idea was straightforward: restrict carbs, lose weight. The original program had an induction phase (under [20g net carbs](/keto-carbs-per-day-limit/) daily) followed by a structured reintroduction of carbs. The modern commercial version has splintered into Atkins 20, Atkins 40, and Atkins 100, each named for the daily net carb target. At 40g or 100g of net carbs per day, you're not maintaining ketosis for most people.
 
 Ketogenic diets have an older lineage. Mayo Clinic physicians were using them in the 1920s to treat epilepsy in children. The wellness version you see today is borrowed from that clinical research, but with a consumer twist: it typically targets 20-50g of total carbs per day with explicit attention to staying in ketosis, not just losing weight.
 

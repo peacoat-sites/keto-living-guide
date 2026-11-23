@@ -98,7 +98,7 @@ Raw vegetables are low in carbs and provide fiber that doesn't spike blood sugar
 - **Broccoli and cauliflower florets with ranch**: Two tablespoons of Hidden Valley Ranch is about 2g carbs. A cup of raw broccoli is around 4g net carbs. It's borderline, so watch the portion.
 - **Guacamole**: Make your own or buy Wholly Guacamole single-serve packs. Pair with pork rinds instead of chips.
 
-For the complete breakdown of what you can and can't eat, our [keto diet food list](/keto-diet-food-list/) covers the ground thoroughly.
+For the complete breakdown of what you can and can't eat, our [keto diet food list](/foods-allowed-on-keto/) covers the ground thoroughly.
 
 ### Sweet and Dessert-Style Snacks
 

@@ -26,7 +26,7 @@ faqs:
     a: "If you're in the early weeks of keto (roughly the first four to six weeks), yes, track reasonably carefully, because your body is still adapting and carb slip-ups matter more. If you're keto-adapted and have been doing this for months, a day of eating somewhat intuitively from a well-curated snack bag probably won't derail you. The people who blow their diet on road trips usually do it via a single unplanned crisis stop, not from eating two extra meat sticks."
 ---
 
-Forty-three percent of Americans who start a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) abandon it within the first month, and road trips are one of the most commonly cited reasons why. That's not a statistic from some keto advocacy group trying to scare you into buying their meal plan. That's from a 2023 survey conducted by the Nutrition Society of America across 1,200 low-carb dieters, and it tracks exactly with what I hear from clients every single time summer rolls around.
+Forty-three percent of Americans who start a [ketogenic diet](/foods-to-avoid-on-keto/) abandon it within the first month, and road trips are one of the most commonly cited reasons why. That's not a statistic from some keto advocacy group trying to scare you into buying their meal plan. That's from a 2023 survey conducted by the Nutrition Society of America across 1,200 low-carb dieters, and it tracks exactly with what I hear from clients every single time summer rolls around.
 
 A common pattern: someone has been doing great for six weeks, with ketones up, manageable cravings, and real weight loss. Then a long drive to visit family leads to gas station food around hour four, followed by two weeks trying to get back into ketosis. The good news is it's almost entirely preventable, and the fix is less complicated than most keto content makes it sound.
 
@@ -42,7 +42,7 @@ The foods that genuinely don't need refrigeration and won't destroy your macros:
 
 [Beef jerky](/keto-beef-jerky/) and meat sticks are the obvious one, but the carb count range is enormous. Epic brand meat bars run 1-2g net carbs and about 8-9g protein per bar. Jack Link's Original beef jerky clocks in at 5g net carbs per serving, which is higher than most people realize. Chomps sticks are a current favorite of mine: 0g net carbs, 9g protein, $2.49 per stick at Target (as of July 2026). Check every label. Don't assume.
 
-Macadamia nuts are the most keto-friendly nut by fat-to-carb ratio, and Mauna Loa sells a 1.5oz snack bag with 21g fat and only 2g [net carbs](/how-to-calculate-net-carbs-on-keto/). Walnuts and pecans are solid backup options. I'd steer people away from cashews on keto road trips specifically: they have 8-9g net carbs per ounce, which adds up fast when you're bored and driving.
+Macadamia nuts are the most keto-friendly nut by fat-to-carb ratio, and Mauna Loa sells a 1.5oz snack bag with 21g fat and only 2g [net carbs](/net-carbs-vs-total-carbs/). Walnuts and pecans are solid backup options. I'd steer people away from cashews on keto road trips specifically: they have 8-9g net carbs per ounce, which adds up fast when you're bored and driving.
 
 Pork rinds are underrated, genuinely zero carb, and the texture change from fresh bag to three hours later is negligible. Utz and 4505 both make good versions. A 2oz bag gives you about 130 calories and 9g protein for roughly $1.50.
 

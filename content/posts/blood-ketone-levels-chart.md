@@ -66,7 +66,7 @@ Your BHB levels fluctuate throughout the day and across the week. You'll typical
 
 Blood ketone testing is accurate but not cheap. The Keto-Mojo meter is currently the most popular choice among people doing this seriously, and for good reason: it's been independently validated, and the strips cost around $1 each when you buy in bulk (the GK+ bundle with glucose strips runs about $50 upfront). That's significantly cheaper than older options like Precision Xtra, where strips have historically run $3 to $5 each.
 
-Urine strips like Ketostix are cheap, but they stop working reliably once you're [fat-adapted](/how-to-become-fat-adapted/). Your body stops excreting as many ketones in urine as it learns to use them efficiently. Many people think they've "fallen out of ketosis" when their urine strips go from dark purple to light pink, when actually they've just become more metabolically efficient. Don't rely on urine strips past the first few weeks.
+Urine strips like Ketostix are cheap, but they stop working reliably once you're [fat-adapted](/keto-fat-adapted-signs/). Your body stops excreting as many ketones in urine as it learns to use them efficiently. Many people think they've "fallen out of ketosis" when their urine strips go from dark purple to light pink, when actually they've just become more metabolically efficient. Don't rely on urine strips past the first few weeks.
 
 Breath ketone meters like the Biosense or Ketonix measure acetone, which correlates with BHB but isn't the same thing. They're useful for trend tracking without the ongoing strip cost, but if you want precise numbers, blood testing is the standard. (Note: affiliate links to these products may earn this site a commission.)
 

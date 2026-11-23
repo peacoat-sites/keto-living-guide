@@ -53,7 +53,7 @@ Here's what a typical transition looks like, assuming you're eating 20 grams of 
 
 **Days 2 to 4:** This is when keto flu often peaks for people who don't manage electrolytes. Glycogen depletion accelerates. The kidneys excrete sodium rapidly as insulin drops, pulling magnesium and potassium out with it. Headaches, brain fog, and irritability are common here. Urine [ketone strips](/blood-ketone-levels-chart/) might start showing trace to small levels.
 
-**Days 3 to 5:** For many people, especially those eating a moderate-carb diet before this, blood ketones cross 0.5 mmol/L somewhere in this window. Urine strips often show moderate or large at this point. You're technically in nutritional ketosis now, though you're not yet [fat-adapted](/how-to-become-fat-adapted/).
+**Days 3 to 5:** For many people, especially those eating a moderate-carb diet before this, blood ketones cross 0.5 mmol/L somewhere in this window. Urine strips often show moderate or large at this point. You're technically in nutritional ketosis now, though you're not yet [fat-adapted](/keto-fat-adapted-signs/).
 
 **Days 5 to 10:** If you started from a high-carb baseline, were insulin resistant, or have a larger body, ketosis may only solidify here. Energy starts stabilizing for most people.
 

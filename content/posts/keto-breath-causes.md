@@ -28,7 +28,7 @@ faqs:
 
 Nobody warns you about the breath. The diet changes, the [meal prep](/how-to-meal-prep-keto-lunches-for-the-week/), the first week of fatigue, sure, plenty of coverage on all of that. But the smell? Most articles either skip it entirely or bury it under reassurances like "it fades!" without explaining *why* it happens or what you can actually do about it. That's where the useful information lives.
 
-[Keto breath](/keto-breath-how-to-get-rid-of-it/) is real, it's distinctive, and it's not the same as regular bad breath. Understanding what's causing it changes what you do about it.
+Keto breath is real, it's distinctive, and it's not the same as regular bad breath. Understanding what's causing it changes what you do about it.
 
 The short version: it's acetone. You're exhaling a ketone body through your lungs, and acetone smells fruity, slightly chemical, sometimes metallic. Clients describe it as overripe fruit, nail polish remover, or something vaguely industrial. If you've ever smelled a diabetic in ketoacidosis, it's a milder version of that same compound, though the underlying physiology is completely different and much less alarming in dietary ketosis.
 

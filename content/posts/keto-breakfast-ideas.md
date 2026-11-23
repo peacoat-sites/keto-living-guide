@@ -97,7 +97,7 @@ The biggest predictor of keto success at breakfast isn't which specific foods yo
 
 **Step 3: Prep two or three grab-and-go items.** Make chia pudding, portion out nuts and berries into small containers, or prep a batch of keto granola.
 
-**Step 4: Keep your pantry stocked with the right ingredients.** You need: eggs, full-fat cream or cream cheese, unsweetened almond milk, avocados, smoked salmon, nut butters (almond or peanut, with no added sugar), low-carb berries, aged hard cheeses, and a variety of nuts. A quick look at the [keto diet food list](/keto-diet-food-list/) will confirm what's worth keeping in stock.
+**Step 4: Keep your pantry stocked with the right ingredients.** You need: eggs, full-fat cream or cream cheese, unsweetened almond milk, avocados, smoked salmon, nut butters (almond or peanut, with no added sugar), low-carb berries, aged hard cheeses, and a variety of nuts. A quick look at the [keto diet food list](/foods-allowed-on-keto/) will confirm what's worth keeping in stock.
 
 **Step 5: Assign rough meal types to each day.** Something like: Monday and Thursday are egg cups, Tuesday and Friday are yogurt and berries, Wednesday is smoked salmon and avocado, and weekends are when you try something new. This prevents decision fatigue without locking you into total rigidity.
 

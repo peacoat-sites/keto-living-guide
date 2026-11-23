@@ -25,7 +25,7 @@ author_title: "Keto Recipes"
 author_bio: "Jake Torres is the byline used at Keto Living Guide for articles on keto cooking and recipes, including ingredient swaps and how cooking methods change macros. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about [alcohol on keto](/how-to-start-keto/) than any article I'd read.
+Three drinks into a work happy hour, I realized I had no idea what was actually in my glass. I'd ordered a "vodka soda" from a bartender who apparently interpreted that as "vodka, soda, and a generous pour of something sweet." I was three weeks into a solid keto streak. That night taught me more about [alcohol on keto](/keto-diet-for-beginners/) than any article I'd read.
 
 Here's the honest version of what you need to know.
 

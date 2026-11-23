@@ -4,10 +4,10 @@
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
 /dr.-sarah-mitchell/ /sarah-mitchell/ 301
-/keto-food-list/ /keto-diet-food-list/ 301
+/keto-food-list/ /foods-allowed-on-keto/ 301
 
 # 2026-07-18 duplicate-topic merges
-/keto-may-reverse-pancreatic-stress-in-type-2-diabetes/ /keto-may-reduce-pancreatic-stress-in-type-2-diabetes/ 301
+/keto-may-reverse-pancreatic-stress-in-type-2-diabetes/ /keto-may-repair-pancreas-cells-that-low-fat-diets-cannot/ 301
 
 # 2026-07-18 thin-category consolidation
 /categories/keto-recipes/ /categories/recipes/ 301
@@ -18,3 +18,40 @@
 /categories/meal-plans/ /categories/meal-planning/ 301
 /categories/inspiration/ /categories/trending/ 301
 /categories/snacks/ /categories/recipes/ 301
+/how-to-start-keto/ /keto-diet-for-beginners/ 301
+/keto-diet-food-list/ /foods-allowed-on-keto/ 301
+/what-foods-to-avoid-on-a-ketogenic-diet/ /foods-to-avoid-on-keto/ 301
+/keto-vs-low-carb-difference/ /keto-vs-low-carb-diet-explained/ 301
+/keto-diet-constipation/ /constipation-on-keto-remedies/ 301
+/keto-breath-how-to-get-rid-of-it/ /keto-breath-causes/ 301
+/keto-meal-plan-for-beginners/ /keto-7-day-meal-plan/ 301
+/keto-cooking-on-a-budget/ /keto-meal-plan-on-a-budget/ 301
+/keto-diet-on-50-a-week/ /keto-meal-plan-on-a-budget/ 301
+/how-to-become-fat-adapted/ /keto-fat-adapted-signs/ 301
+/cyclical-keto-diet/ /keto-carb-cycling/ 301
+/keto-diet-shows-promise-for-treatment-resistant-depression/ /keto-for-treatment-resistant-depression-what-the-new-science-says/ 301
+/keto-for-treatment-resistant-depression-what-the-jama-trial-actually-f/ /keto-for-treatment-resistant-depression-what-the-new-science-says/ 301
+/keto-diet-for-mental-illness-what-the-new-science-actually-shows/ /keto-as-mental-health-treatment-what-the-new-research-actually-shows/ 301
+/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/ /keto-as-mental-health-treatment-what-the-new-research-actually-shows/ 301
+/keto-may-reduce-pancreatic-stress-in-type-2-diabetes/ /keto-may-repair-pancreas-cells-that-low-fat-diets-cannot/ 301
+/keto-can-restore-pancreas-function-in-type-2-diabetes-without-big-weig/ /keto-may-repair-pancreas-cells-that-low-fat-diets-cannot/ 301
+/new-mit-study-finds-keto-raises-small-intestine-tumor-risk/ /keto-and-small-intestine-cancer-what-the-new-mit-study-actually-shows/ 301
+/what-the-mit-keto-cancer-study-actually-found-and-what-it-doesnt-mean/ /keto-and-small-intestine-cancer-what-the-new-mit-study-actually-shows/ 301
+/what-the-new-mit-nature-study-on-keto-and-gut-cancer-actually-means/ /keto-and-small-intestine-cancer-what-the-new-mit-study-actually-shows/ 301
+/what-the-new-2025-2030-dietary-guidelines-mean-for-keto-eaters/ /the-2025-2030-dietary-guidelines-finally-validate-low-carb-eating/ 301
+/what-usdas-2026-guidelines-mean-for-keto-the-quality-question/ /the-2025-2030-dietary-guidelines-finally-validate-low-carb-eating/ 301
+/keto-plus-glp-1-what-the-new-research-actually-shows/ /keto-on-ozempic-what-new-research-says-about-combining-both/ 301
+/keto-plus-semaglutide-what-new-research-actually-shows/ /keto-on-ozempic-what-new-research-says-about-combining-both/ 301
+/can-a-ketogenic-diet-help-treat-anorexia-nervosa/ /keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/ 301
+/keto-diet-enters-a-major-brain-cancer-trial-this-summer/ /keto-is-now-being-tested-against-brain-cancer-in-a-major-trial/ 301
+/your-keto-fat-sources-matter-more-than-you-think/ /not-all-keto-fats-are-equal-what-new-research-reveals/ 301
+/keto-diet-over-50/ /keto-diet-for-weight-loss-after-50/ 301
+/keto-for-seniors/ /keto-diet-for-weight-loss-after-50/ 301
+/how-to-know-if-youre-in-ketosis-without-strips/ /how-to-test-for-ketosis-at-home/ 301
+/keto-tracker-apps/ /keto-apps-best/ 301
+/how-to-break-a-keto-stall/ /keto-plateau-weight-loss/ 301
+/keto-bodybuilding-meal-plan/ /keto-muscle-building/ 301
+/how-to-calculate-net-carbs-on-keto/ /net-carbs-vs-total-carbs/ 301
+/20-grams-carbs-keto/ /keto-carbs-per-day-limit/ 301
+/50-grams-carbs-keto/ /keto-carbs-per-day-limit/ 301
+/keto-lunch-ideas/ /keto-lunch-ideas-for-work/ 301

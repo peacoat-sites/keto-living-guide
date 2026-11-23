@@ -28,7 +28,7 @@ faqs:
 
 Most articles about building muscle on keto spend 800 words hyping the diet and about two paragraphs on the part that actually matters: protein, training load, and calorie surplus. Let me fix that.
 
-The short version is that yes, you can build meaningful muscle on a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/). But it's harder than on a higher-carb approach, the margin for error is smaller, and the people telling you keto is "superior for muscle gain" are selling something. The research is more nuanced than the influencer version suggests.
+The short version is that yes, you can build meaningful muscle on a [ketogenic diet](/foods-to-avoid-on-keto/). But it's harder than on a higher-carb approach, the margin for error is smaller, and the people telling you keto is "superior for muscle gain" are selling something. The research is more nuanced than the influencer version suggests.
 
 Lean mass gains on keto depend heavily on execution. Common mistakes include undereating protein, over-restricting calories, or both. The diet itself isn't the limiting factor when these fundamentals slip.
 

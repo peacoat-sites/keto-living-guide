@@ -66,7 +66,7 @@ For most people, the worst symptoms peak around days 2 through 4 and begin fadin
 
 A smaller group, maybe 20 to 30 percent, has a rougher experience. Symptoms linger for two weeks or more. This usually happens when they're not replacing electrolytes, not eating enough fat (a common beginner mistake), or have metabolic factors like insulin resistance that slow the transition.
 
-Full [fat adaptation](/how-to-become-fat-adapted/), where your body runs efficiently on fat and ketones without residual sluggishness, takes 4 to 12 weeks. The keto flu is just the acute opening phase.
+Full [fat adaptation](/keto-fat-adapted-signs/), where your body runs efficiently on fat and ketones without residual sluggishness, takes 4 to 12 weeks. The keto flu is just the acute opening phase.
 
 Age, fitness level, how high-carb your previous diet was, and your individual biochemistry all influence how hard keto flu hits you and how long it sticks.
 

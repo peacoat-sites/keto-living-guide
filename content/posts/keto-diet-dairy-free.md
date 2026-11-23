@@ -73,7 +73,7 @@ Full-fat coconut cream (not coconut milk, the thin stuff) froths reasonably well
 
 Oat milk and most commercial nut milks are off the table because of the carbs. Almond milk (unsweetened) is borderline at 1g net carb per cup. Macadamia milk is the better pick: creamier, lower carb, and [Milkadamia unsweetened](https://www.amazon.com/s?k=milkadamia+unsweetened&tag=contentportfo-20) is around $6 for a half-gallon.
 
-If you're doing any kind of [intermittent fasting protocol](/how-to-become-fat-adapted/) alongside keto, be aware that coconut cream in coffee does break a fast. That's not an argument against it, just context.
+If you're doing any kind of [intermittent fasting protocol](/keto-fat-adapted-signs/) alongside keto, be aware that coconut cream in coffee does break a fast. That's not an argument against it, just context.
 
 ## Cooking and Baking Without Butter
 

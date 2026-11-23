@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Simple keto lunch ideas perfect for work. 12 easy meal prep recipes that keep you in ketosis and satisfy hunger all day long."
 image: "/img/heroes/35439986.jpg"
-categories: ["Keto Recipes"]
+categories: ["Recipes"]
 tags: ["keto", "lunch", "ideas", "work"]
 author: "Sarah Mitchell"
 author_slug: "sarah-mitchell"
@@ -26,7 +26,7 @@ faqs:
     a: "Generally yes, with some caveats. Cooked chicken, hardboiled eggs, and most vegetables hold well for four to five days refrigerated. Avocado-containing dishes should be prepped day-of or with lemon juice to slow browning. Raw fish shouldn't be prepped more than two days out. The USDA recommends cooked poultry be consumed within three to four days of refrigeration, so Thursday/Friday is the outer limit for Sunday-cooked chicken."
 ---
 
-Forty-three percent of people who [start keto](/how-to-start-keto/) quit within three months, and if you dig into the "why," work lunches show up again and again. Not willpower. Not carb cravings at dinner. Lunch, specifically: the 12-minute window between meetings where you're staring at a vending machine or a colleague's birthday cake because you didn't plan anything better.
+Forty-three percent of people who [start keto](/keto-diet-for-beginners/) quit within three months, and if you dig into the "why," work lunches show up again and again. Not willpower. Not carb cravings at dinner. Lunch, specifically: the 12-minute window between meetings where you're staring at a vending machine or a colleague's birthday cake because you didn't plan anything better.
 
 I've run nutrition consultations for over a decade, and the clients who stick to keto long-term share one habit. They've solved lunch. Not perfectly, not expensively, but reliably. The clients who flame out tend to have gorgeous dinner plans and absolutely no system for midday.
 
@@ -36,7 +36,7 @@ This isn't about finding recipes you'll cook once. It's about building a lunch r
 
 ## What Actually Goes Wrong at Work
 
-Most [keto lunch](/keto-lunch-ideas/) advice assumes you have a refrigerator, a microwave, five minutes, and a fork. Sometimes you have all four. Sometimes you have a car, a parking lot, and twelve minutes between site visits.
+Most keto lunch advice assumes you have a refrigerator, a microwave, five minutes, and a fork. Sometimes you have all four. Sometimes you have a car, a parking lot, and twelve minutes between site visits.
 
 The foods that fail hardest: anything with cauliflower rice that's been refrigerated overnight (the texture becomes genuinely unpleasant), egg salad in a warm bag without an ice pack, and "snack plates" that sound great on a blog but leave you hungry by 2pm because they topped out at 300 calories.
 

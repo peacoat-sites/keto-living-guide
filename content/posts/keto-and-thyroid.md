@@ -36,7 +36,7 @@ Let me give you what I actually know, including where my knowledge runs out.
 
 ## What Keto Actually Does to Your Thyroid Hormones
 
-Here's the number most people see and panic over: T3, the active thyroid hormone, typically drops 15-30% on a well-formulated [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/). A 2015 study in the journal *Nutrition* tracked obese patients over 12 weeks and found T3 declined significantly while TSH remained unchanged. Similar findings have shown up in multiple other trials since.
+Here's the number most people see and panic over: T3, the active thyroid hormone, typically drops 15-30% on a well-formulated [ketogenic diet](/foods-to-avoid-on-keto/). A 2015 study in the journal *Nutrition* tracked obese patients over 12 weeks and found T3 declined significantly while TSH remained unchanged. Similar findings have shown up in multiple other trials since.
 
 The conventional interpretation is that this is bad. Lower T3 means slower metabolism, fatigue, [brain fog](/keto-brain-fog/), hair loss. But there's a competing theory that's actually well-supported: when you're burning fat for fuel instead of glucose, your cells may simply need less T3 to maintain the same metabolic rate. Some researchers call this "euthyroid sick syndrome lite," though that term is contested. The more neutral framing is that it could be a physiological adaptation rather than a deficiency.
 
@@ -54,7 +54,7 @@ But "promising" isn't the same as "proven," and this is exactly where keto gets 
 
 What I've seen work: a client named Janet (not her real name) came to me in late 2024 with TPO antibodies around 340 IU/mL and a lot of fatigue. She went strict keto for six months, kept her selenium intake up through Brazil nuts and seafood, had her doctor monitor labs every three months. At the six-month mark, her TPO had dropped to 198 IU/mL and she felt meaningfully better. Not cured. Better.
 
-Scenario → Janet implements strict [keto plus](/keto-plus-glp-1-what-the-new-research-actually-shows/) selenium optimization (200 mcg/day) → TPO antibodies drop 42% over 6 months, fatigue improves substantially, Synthroid dose unchanged.
+Scenario → Janet implements strict [keto plus](/keto-on-ozempic-what-new-research-says-about-combining-both/) selenium optimization (200 mcg/day) → TPO antibodies drop 42% over 6 months, fatigue improves substantially, Synthroid dose unchanged.
 
 That's a real outcome. But I've also had clients with Hashimoto's feel worse on keto, particularly when they under-eat, restrict calories too aggressively, or fail to address iodine intake. Which brings me to something that trips people up constantly.
 

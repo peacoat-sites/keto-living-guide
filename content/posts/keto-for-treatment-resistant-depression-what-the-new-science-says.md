@@ -46,7 +46,7 @@ And it's worth being clear about who this research is targeting. These trials fo
 
 ## What This Means If You're Considering It
 
-If you or someone you care about is dealing with treatment-resistant depression or serious mental illness, this research is worth bringing to your treatment team. That's the honest practical takeaway. A psychiatrist who's current on the literature will know about the Oxford trial and the [metabolic psychiatry framework](/keto-for-mental-illness-inside-the-metabolic-psychiatry-surge/). If they don't, that's a conversation worth having.
+If you or someone you care about is dealing with treatment-resistant depression or serious mental illness, this research is worth bringing to your treatment team. That's the honest practical takeaway. A psychiatrist who's current on the literature will know about the Oxford trial and the [metabolic psychiatry framework](/keto-as-mental-health-treatment-what-the-new-research-actually-shows/). If they don't, that's a conversation worth having.
 
 What I'd push back on is the instinct to try this independently as a substitute for professional mental health care. The trials showing benefit are using keto as an add-on to existing treatment, not a replacement. They're also doing it with monitoring, including labs and clinical oversight, because ketogenic diets affect electrolytes, lipids, kidney function, and medication metabolism. In psychiatric populations specifically, those interactions need professional eyes on them.
 

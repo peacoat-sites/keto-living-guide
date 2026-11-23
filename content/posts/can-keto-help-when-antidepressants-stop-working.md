@@ -54,7 +54,7 @@ The meta-analysis also found that effects were strongest when ketosis was bioche
 
 The honest answer is that researchers are still working this out. Several mechanisms are being investigated. Ketone bodies, especially beta-hydroxybutyrate, appear to have anti-inflammatory effects and may influence neurotransmitter balance, particularly GABA and glutamate. There's also evidence that ketosis reduces neuroinflammation, which is increasingly being studied as a factor in depression. Mitochondrial function is another area of interest. None of this is settled science, but it's not speculation either. It's active investigation.
 
-Stanford Medicine published guidance in April 2025 on ketogenic therapy and serious [mental illness](/keto-diet-for-mental-illness-what-the-new-science-actually-shows/), signaling that at least some major academic medical centers are taking this seriously enough to advise clinicians on it. UCSD launched a clinical trial in 2026 specifically testing therapeutic ketogenic diets for eating disorders including anorexia nervosa and bulimia nervosa. The research interest is widening.
+Stanford Medicine published guidance in April 2025 on ketogenic therapy and serious [mental illness](/keto-as-mental-health-treatment-what-the-new-research-actually-shows/), signaling that at least some major academic medical centers are taking this seriously enough to advise clinicians on it. UCSD launched a clinical trial in 2026 specifically testing therapeutic ketogenic diets for eating disorders including anorexia nervosa and bulimia nervosa. The research interest is widening.
 
 ## What This Means If You're Considering It
 

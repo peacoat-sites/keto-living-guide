@@ -34,7 +34,7 @@ Hormones and low-[carb eating](/the-2025-2030-dietary-guidelines-finally-validat
 
 ## What keto actually does to insulin (this one's real)
 
-The clearest, most well-supported hormonal effect of a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) is on insulin. When you cut carbohydrates below roughly 20-50 grams a day, you remove the primary stimulus for insulin secretion. Insulin drops. Significantly. A 2021 study in *Cell Metabolism* found that participants on a ketogenic diet showed a 33% reduction in fasting insulin levels over four weeks compared to those on a low-fat diet. That's not nothing.
+The clearest, most well-supported hormonal effect of a [ketogenic diet](/foods-to-avoid-on-keto/) is on insulin. When you cut carbohydrates below roughly 20-50 grams a day, you remove the primary stimulus for insulin secretion. Insulin drops. Significantly. A 2021 study in *Cell Metabolism* found that participants on a ketogenic diet showed a 33% reduction in fasting insulin levels over four weeks compared to those on a low-fat diet. That's not nothing.
 
 For people with hyperinsulinemia, type 2 diabetes, or polycystic ovary syndrome (PCOS), this is often the most therapeutically meaningful change keto produces. Lower chronic insulin means less androgen stimulation in PCOS, which is why some women see dramatic improvement in cycle regularity and ovulatory function. This is consistent enough across the published PCOS literature that keto is considered one of the more effective dietary interventions for this condition specifically.
 

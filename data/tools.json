@@ -11,7 +11,7 @@
   },
   {
     "label": "Food List",
-    "url": "/keto-food-list/",
+    "url": "/foods-allowed-on-keto/",
     "icon": "🥑",
     "match": [
       "food",

@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Knocked out of ketosis? Learn proven strategies to re-enter ketosis quickly after a cheat day and get back on track with your keto diet."
 image: "/img/heroes/5463885.jpg"
-categories: ["Ketosis"]
+categories: ["Diet Basics"]
 tags: ["back", "into", "ketosis", "after", "cheat"]
 author: "Jake Torres"
 author_slug: "jake-torres"
@@ -38,7 +38,7 @@ The short version: most people return to measurable ketosis (blood ketones above
 
 After a carb load, your liver and muscles refill their glycogen stores, insulin spikes, and ketone production basically shuts off. This is normal. Your body is doing exactly what it evolved to do. The question is just: how fast can you drain that glycogen tank and flip the switch back?
 
-The average person stores somewhere around 400-500 grams of glycogen total (about 100g in the liver, the rest in muscle). During a typical cheat day, most people eat somewhere between 150-400g of [net carbs](/how-to-calculate-net-carbs-on-keto/), so you're not necessarily filling the tank to the brim, especially if you ate a late lunch and an early dinner versus grazing all day. The timeline is not universal.
+The average person stores somewhere around 400-500 grams of glycogen total (about 100g in the liver, the rest in muscle). During a typical cheat day, most people eat somewhere between 150-400g of [net carbs](/net-carbs-vs-total-carbs/), so you're not necessarily filling the tank to the brim, especially if you ate a late lunch and an early dinner versus grazing all day. The timeline is not universal.
 
 What surprised me going deeper here was how much the *type* of carbs matters less than people think. Fructose gets processed differently (it's metabolized primarily in the liver and has a modest effect on muscle glycogen), but in practical terms, a big pasta dinner versus a big pizza dinner is not going to meaningfully change your re-entry timeline. Total carb load matters. Type, less so.
 

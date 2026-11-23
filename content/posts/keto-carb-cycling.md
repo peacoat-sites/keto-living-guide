@@ -63,7 +63,7 @@ People who've been strict keto for three or more months and hit a genuine platea
 
 People who are miserable eating strict keto long-term and are considering quitting entirely. Planned flexibility beats rigid restriction that ends in abandonment. If one higher-carb day per week keeps someone eating well the other six, that's a better outcome than perfect keto for eight weeks followed by a complete collapse.
 
-People who probably shouldn't bother: anyone in the first six to eight weeks of keto (you're [still adapting](/how-to-become-fat-adapted/), introducing carbs just extends that painful process), anyone with significant metabolic dysfunction who needs clear insulin control, and anyone who honestly can't eat 150g of carbs without it turning into 400g. That last group is larger than people want to admit.
+People who probably shouldn't bother: anyone in the first six to eight weeks of keto (you're [still adapting](/keto-fat-adapted-signs/), introducing carbs just extends that painful process), anyone with significant metabolic dysfunction who needs clear insulin control, and anyone who honestly can't eat 150g of carbs without it turning into 400g. That last group is larger than people want to admit.
 
 ## How to Structure It
 

@@ -71,7 +71,7 @@ The palpitations one tends to scare people, and reasonably so. But in otherwise 
 
 Your gut is going to have opinions about keto. Which opinion it expresses depends on what your previous diet looked like.
 
-**Constipation** is common when people cut out grains and fruits without replacing their fiber. [Magnesium deficiency worsens it](/keto-diet-constipation/). Load up on fibrous above-ground vegetables (broccoli, zucchini, asparagus, leafy greens), consider a tablespoon of psyllium husk daily, and make sure your magnesium intake is where it needs to be. Adequate fat intake also keeps things moving; constipation sometimes shows up in people who went low-carb but are still fear eating fat.
+**Constipation** is common when people cut out grains and fruits without replacing their fiber. [Magnesium deficiency worsens it](/constipation-on-keto-remedies/). Load up on fibrous above-ground vegetables (broccoli, zucchini, asparagus, leafy greens), consider a tablespoon of psyllium husk daily, and make sure your magnesium intake is where it needs to be. Adequate fat intake also keeps things moving; constipation sometimes shows up in people who went low-carb but are still fear eating fat.
 
 **Diarrhea** is the opposite problem, and it shows up more often than people expect. Adding large amounts of MCT oil or heavy cream quickly can overwhelm your digestive system. MCT oil in particular, start with half a teaspoon and work up over two weeks rather than dumping a tablespoon into your coffee on day one. [Sports Research MCT Oil](https://www.amazon.com/s?k=sports+research+mct+oil&tag=contentportfo-20) comes with a graduated pump that makes dosing easy. *(This site may earn a commission on qualifying purchases.)*
 

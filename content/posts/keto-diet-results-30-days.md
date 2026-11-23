@@ -50,7 +50,7 @@ What surprises most people when they see this breakdown is that the diet can fee
 
 ## The Keto Flu Is Real, and Electrolytes Are Not Optional
 
-It is easy to underestimate how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a [ketogenic diet](/what-foods-to-avoid-on-a-ketogenic-diet/) experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
+It is easy to underestimate how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a [ketogenic diet](/foods-to-avoid-on-keto/) experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
 
 The mechanism isn't mysterious. When insulin drops, the kidneys excrete sodium more aggressively. Sodium loss pulls potassium and magnesium with it. Within 48 to 72 hours, electrolyte depletion is the primary driver of symptoms, not some inherent toxicity of the metabolic shift.
 

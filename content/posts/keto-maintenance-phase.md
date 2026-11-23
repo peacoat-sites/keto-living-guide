@@ -25,7 +25,7 @@ faqs:
     a: "Check portion sizes before anything else. Calorie-dense keto foods (nuts, cheese, nut butters, oils) are easy to overeat without noticing. Run a few days of honest tracking and compare actual calorie intake against your maintenance target. Portion drift is by far the most common explanation, more than metabolic adaptation or 'carb creep.'"
 ---
 
-Most people treat keto like a project with a finish line. They hit their goal weight, feel great, and then... improvise. That's usually where things fall apart. Maintenance on a [ketogenic diet](/can-a-ketogenic-diet-help-treat-anorexia-nervosa/) is a distinct phase with its own rules, and the adjustments that feel intuitive often aren't.
+Most people treat keto like a project with a finish line. They hit their goal weight, feel great, and then... improvise. That's usually where things fall apart. Maintenance on a [ketogenic diet](/keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/) is a distinct phase with its own rules, and the adjustments that feel intuitive often aren't.
 
 The short answer: successful keto maintenance means recalibrating your carbohydrate threshold, your calorie intake, and your relationship with flexibility, not just "eating keto forever." It's not the same protocol as the weight-loss phase, and treating it that way is one of the most common reasons people regain weight or burn out within six to twelve months.
 

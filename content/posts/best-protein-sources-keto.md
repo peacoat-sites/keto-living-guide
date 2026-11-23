@@ -31,7 +31,7 @@ Most people jumping into keto spend the first week obsessing over carb counts an
 
 ## Why Protein on Keto Is More Complicated Than Anyone Tells You
 
-Protein is the macro that requires the most individual calibration on a ketogenic diet. Fat targets are relatively forgiving. Carbs are a hard ceiling. But protein sits in this awkward middle ground where too little causes real problems and too much can theoretically blunt ketosis through [gluconeogenesis](/how-to-become-fat-adapted/), where your liver converts amino acids into glucose.
+Protein is the macro that requires the most individual calibration on a ketogenic diet. Fat targets are relatively forgiving. Carbs are a hard ceiling. But protein sits in this awkward middle ground where too little causes real problems and too much can theoretically blunt ketosis through [gluconeogenesis](/keto-fat-adapted-signs/), where your liver converts amino acids into glucose.
 
 The gluconeogenesis fear is genuinely overblown in most mainstream keto circles. The research here is mixed. Some studies suggest that gluconeogenesis is largely demand-driven, meaning your body only converts protein to glucose when it needs to, not just because protein is available. Others show that very high protein intakes can raise insulin enough to reduce ketone production in some people. This response is highly individual. Some people eat 180 grams of protein daily and stay in solid ketosis. Others find anything above 120 grams pushes them into a gray zone.
 

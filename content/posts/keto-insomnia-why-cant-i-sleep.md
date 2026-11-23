@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why the ketogenic diet causes sleep problems and learn proven strategies to sleep better while staying in ketosis."
 image: "/img/heroes/6753361.jpg"
-categories: ["Keto Side Effects"]
+categories: ["health"]
 tags: ["keto", "insomnia", "cant", "sleep"]
 author: "Jake Torres"
 author_slug: "jake-torres"

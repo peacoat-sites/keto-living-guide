@@ -75,7 +75,7 @@ Here's where it gets concrete.
 | **Fat intake** | Moderately high | Very high (typically 65-75% of calories) |
 | **Protein** | Flexible | Often moderate (excess protein can raise glucose) |
 | **Ketone production** | Unlikely or minimal | Primary fuel source when sustained |
-| **Food flexibility** | More (some fruit, legumes, dairy) | Less ([very limited fruit](/what-foods-to-avoid-on-a-ketogenic-diet/), no legumes for most) |
+| **Food flexibility** | More (some fruit, legumes, dairy) | Less ([very limited fruit](/foods-to-avoid-on-keto/), no legumes for most) |
 | **Adaptation period** | Shorter, milder | 2-6 weeks, often with "keto flu" |
 | **Requires tracking** | Often no | Yes, at least initially |
 | **Best studied for** | Weight loss, blood sugar management | Epilepsy, weight loss, type 2 diabetes management, some neurological conditions |

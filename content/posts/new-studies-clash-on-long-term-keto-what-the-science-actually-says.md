@@ -58,7 +58,7 @@ I've seen people treat keto as a permanent state and others use it as a short re
 
 ## What This Means If You're Deciding Right Now
 
-If you have type 2 diabetes and you're considering a ketogenic diet under medical supervision, the April 2026 human data is legitimately encouraging for [short-term beta-cell outcomes](/keto-can-restore-pancreas-function-in-type-2-diabetes-without-big-weig/). That's a real finding from real people. Talk to your doctor or a registered dietitian who knows your full picture, including your liver enzymes and lipid panel, before and during.
+If you have type 2 diabetes and you're considering a ketogenic diet under medical supervision, the April 2026 human data is legitimately encouraging for [short-term beta-cell outcomes](/keto-may-repair-pancreas-cells-that-low-fat-diets-cannot/). That's a real finding from real people. Talk to your doctor or a registered dietitian who knows your full picture, including your liver enzymes and lipid panel, before and during.
 
 If you've been doing keto for more than a year, the Utah findings are a reason to get bloodwork done, not a reason to panic. Liver function tests and a full lipid panel are reasonable monitoring tools. If your numbers are trending the wrong direction, that's information worth having.
 

@@ -42,7 +42,7 @@ Dr. Sarah Hallberg, a physician and researcher who spent years running clinical 
 
 I'll be honest: the research on optimal vegetable intake for keto specifically is pretty thin. Most of the larger studies don't separate out vegetable consumption as a variable. What we have is good mechanistic reasoning and some strong observational data. That's not nothing, but it's not a randomized controlled trial, either.
 
-**Try** swapping your side salad for a full 3-cup base of mixed greens and track how your energy and digestion shift over two weeks, then check out our [low-carb meal planning guide](/low-carb-meal-planning) for building this into your weekly routine.
+**Try** swapping your side salad for a full 3-cup base of mixed greens and track how your energy and digestion shift over two weeks, then check out our low-carb meal planning guide for building this into your weekly routine.
 
 ---
 
