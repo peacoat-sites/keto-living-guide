@@ -33,7 +33,7 @@ That's the problem this article is going to fix.
 
 ## Why Most 30-Day Keto Plans Fail Before Day 10
 
-The typical keto meal plan gives you 30 days of recipes and calls it a day. What it doesn't give you is a framework for what actually derails people: meal fatigue, insufficient fat intake, the keto flu hitting on day 3, and the complete absence of a strategy for weekends, travel, or [eating with other humans](/keto-fast-food-options/).
+The typical keto meal plan gives you 30 days of recipes and calls it a day. What it doesn't give you is a framework for what actually derails people: meal fatigue, insufficient fat intake, the keto flu hitting on day 3, and the complete absence of a strategy for weekends, travel, or eating with other humans.
 
 The research on ketogenic diets is legitimately promising for weight loss, blood sugar regulation, and appetite control, especially in the first 3 to 6 months. But a clinical trial has a dietitian keeping people on track. You have a grocery store and a Tuesday night.
 

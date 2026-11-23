@@ -31,7 +31,7 @@ Most people who end up going keto don't do it because they read a study. They do
 
 Keto isn't just "low carb." It's a metabolic shift. When you cut carbohydrates to roughly 20-50 grams of net carbs per day, your liver runs low on glycogen and starts converting fatty acids into ketone bodies, primarily beta-hydroxybutyrate (BHB). Your brain, which normally runs almost entirely on glucose, begins using BHB as its primary fuel instead.
 
-This state is called nutritional ketosis, and it typically shows up 2-4 days into carb restriction, though that timeline varies depending on your activity level and what you ate before. You can confirm it with a [blood ketone meter](/blood-ketone-levels-chart/) (anything above 0.5 mmol/L counts) or urine test strips, though strips become less reliable the longer you've been keto.
+This state is called nutritional ketosis, and it typically shows up 2-4 days into carb restriction, though that timeline varies depending on your activity level and what you ate before. You can confirm it with a blood ketone meter (anything above 0.5 mmol/L counts) or urine test strips, though strips become less reliable the longer you've been keto.
 
 Why does any of this matter? Because the metabolic machinery that gets switched on in ketosis does more than just burn fat. Ketones act as signaling molecules, not just fuel. BHB, specifically, has been shown to inhibit a protein complex called the NLRP3 inflammasome, which plays a role in inflammation. That's one reason the benefits of keto extend well beyond simple calorie burning.
 
@@ -101,7 +101,7 @@ Eggs, ground beef, chicken thighs, salmon, cheese, full-fat Greek yogurt (check 
 
 **Step 5: Handle electrolytes aggressively**
 
-Add salt to your food liberally, eat potassium-rich foods like avocado and leafy greens, and consider a magnesium glycinate supplement at night. Most [keto flu](/electrolytes-on-keto/) symptoms are electrolyte issues, not some inherent reaction to ketosis.
+Add salt to your food liberally, eat potassium-rich foods like avocado and leafy greens, and consider a magnesium glycinate supplement at night. Most keto flu symptoms are electrolyte issues, not some inherent reaction to ketosis.
 
 **Step 6: Test your ketones**
 

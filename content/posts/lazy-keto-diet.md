@@ -63,7 +63,7 @@ A practical benchmark: aim for roughly 0.7 to 1 gram of protein per pound of lea
 
 The goal is reducing friction without removing structure. Here's how to actually run it.
 
-**Step 1: Set your carb ceiling.** Choose 20 grams net carbs if you're trying to actively lose weight or you're sensitive to carbs. Choose 30-50 grams if you're in maintenance or you've confirmed through [ketone testing](/blood-ketone-levels-chart/) that your body tolerates more. Net carbs means total carbs minus fiber (and often sugar alcohols, with some caveats).
+**Step 1: Set your carb ceiling.** Choose 20 grams net carbs if you're trying to actively lose weight or you're sensitive to carbs. Choose 30-50 grams if you're in maintenance or you've confirmed through ketone testing that your body tolerates more. Net carbs means total carbs minus fiber (and often sugar alcohols, with some caveats).
 
 **Step 2: Build your default meals.** Three to four breakfasts, three to four lunches, three to four dinners you can rotate without thinking. These should already be keto-compliant, so you're not recalculating each time. Eggs with cheese and avocado. Salmon with roasted broccoli. Ground beef with cauliflower rice. Repetition isn't boring. It's efficient.
 

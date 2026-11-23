@@ -1,5 +1,5 @@
 ---
-title: "How Ketosis Actually Works in Your Body"
+title: "Keto Diet Science Explained: How Ketosis Works"
 date: 2026-06-23T15:39:59.069182+00:00
 draft: false
 description: "Discover how the keto diet shifts your body into ketosis, burns fat for fuel, and impacts metabolism, hormones, and brain function backed by science."
@@ -59,7 +59,7 @@ The "keto flu" is real and it lasts roughly 3-14 days for most people. Fatigue, 
 
 The actual [fat adaptation process](/keto-fat-adapted-signs/), meaning the full upregulation of fat-burning enzymes and mitochondrial changes that let you perform athletically and cognitively on ketones, takes 4-12 weeks. This is longer than most people expect. At week two you might feel great. At week four during a hard workout you might feel like garbage again as your body recalibrates how it handles exercise intensity. This is normal. It's not a sign keto isn't working.
 
-A practical note: [sodium supplementation](/electrolytes-on-keto/) matters more than most keto content admits. Aim for 3-5g of sodium daily during adaptation, which is more than standard dietary advice and frankly more than feels intuitive. Something like LMNT packets (about $1.50 each, which adds up, but the sodium content is actually correct unlike most "electrolyte" drinks) or just salting your food aggressively and adding a cup of broth daily will make the transition dramatically more tolerable.
+A practical note: sodium supplementation matters more than most keto content admits. Aim for 3-5g of sodium daily during adaptation, which is more than standard dietary advice and frankly more than feels intuitive. Something like LMNT packets (about $1.50 each, which adds up, but the sodium content is actually correct unlike most "electrolyte" drinks) or just salting your food aggressively and adding a cup of broth daily will make the transition dramatically more tolerable.
 
 ## What the research actually shows keto is good for
 

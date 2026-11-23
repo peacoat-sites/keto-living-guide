@@ -1,5 +1,5 @@
 ---
-title: "Why Your Keto Diet Makes You Foggy (And How to Fix It)"
+title: "Keto Brain Fog: Why It Happens and How to Fix It"
 date: 2026-06-07T14:31:52.489413+00:00
 draft: false
 description: "Struggling with keto brain fog? Discover why it happens, how long it lasts, and proven tips to clear mental cloudiness fast on your ketogenic diet journey."
@@ -79,7 +79,7 @@ If you go the electrolyte powder route, check the label. A lot of popular option
 
 This is where I see people get truly stuck. First week's done, electrolytes are handled, and they're still foggy at week three or four. Usually it's one of three things at that point.
 
-**Calories are too low.** [Keto kills appetite](/keto-mental-clarity/) so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. Adding a tablespoon of almond butter or an extra ounce of cheese at each meal can clear persistent brain fog.
+**Calories are too low.** Keto kills appetite so effectively that people accidentally end up eating 1,100 calories a day. Your brain runs on energy. If total calories are chronically low, ketones don't fix that. Adding a tablespoon of almond butter or an extra ounce of cheese at each meal can clear persistent brain fog.
 
 **You're not actually in ketosis.** Hidden carbs are everywhere. Dressings, deli meats, sauces. If you're not testing, you're guessing. A Keto-Mojo blood ketone meter (about $50 upfront, plus strips) gives you an answer in 10 seconds. Urine strips are cheap but unreliable after the first few weeks.
 

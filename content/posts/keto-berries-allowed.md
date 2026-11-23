@@ -26,9 +26,9 @@ faqs:
     a: "In a serving size of around 60-80g, most people see little to no impact on measured ketone levels when eating low-carb berries like raspberries or blackberries. Blueberries in larger portions can suppress ketones transiently in people who are more sensitive. If you're using a ketone meter, test two hours after eating berries to see your personal response."
 ---
 
-Strawberries get a lot of grief on keto. A common misconception is that all fruit is off-limits on keto, and that even a handful of raspberries would spike [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/) and knock you out of ketosis for a week. That's not how it works, and I want to clear this up once and for all.
+Strawberries get a lot of grief on keto. A common misconception is that all fruit is off-limits on keto, and that even a handful of raspberries would spike blood sugar and knock you out of ketosis for a week. That's not how it works, and I want to clear this up once and for all.
 
-The truth is that some berries fit into a well-formulated [ketogenic diet](/foods-to-avoid-on-keto/) just fine. Not all of them, and not in unlimited quantities, but the idea that berries are categorically forbidden is one of those keto myths that won't die despite the evidence. You might be wondering which ones are actually safe, how much you can eat without derailing yourself, and whether the carb counts you've seen online are net or total. Good questions. Let's work through all of it.
+The truth is that some berries fit into a well-formulated ketogenic diet just fine. Not all of them, and not in unlimited quantities, but the idea that berries are categorically forbidden is one of those keto myths that won't die despite the evidence. You might be wondering which ones are actually safe, how much you can eat without derailing yourself, and whether the carb counts you've seen online are net or total. Good questions. Let's work through all of it.
 
 I've tracked food logs for hundreds of clients over the years, and berries come up constantly as a point of confusion. Part of the problem is that "berries" covers a huge range. Blueberries and strawberries have very different carb profiles. Raspberries and blackberries behave differently again, largely because of fiber content. The chart below shows you exactly where each one stands.
 

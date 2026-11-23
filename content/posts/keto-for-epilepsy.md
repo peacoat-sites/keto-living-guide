@@ -1,5 +1,5 @@
 ---
-title: "Ketogenic Diet for Epilepsy: How It Works and What Research Shows"
+title: "Keto for Epilepsy: How It Works and What Research Shows"
 date: 2026-08-12T14:01:04.526317+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -26,7 +26,7 @@ faqs:
     a: "Most epilepsy teams recommend a trial of diet discontinuation after two or more years of seizure freedom. Some patients maintain seizure control after stopping; others see seizures return. The discontinuation should always be gradual and supervised, never abrupt, as rapid ketosis withdrawal can trigger seizure clusters."
 ---
 
-The first thing most families hear when their child is diagnosed with epilepsy is a list of medications. The [ketogenic diet](/foods-to-avoid-on-keto/), if it comes up at all, often gets mentioned as a last resort, something to try "if the drugs don't work." I've watched this pattern play out over and over in clinical settings, and I think it's a mistake. Not because medications are wrong, but because the diet deserves to be understood on its own terms, not treated as an afterthought.
+The first thing most families hear when their child is diagnosed with epilepsy is a list of medications. The ketogenic diet, if it comes up at all, often gets mentioned as a last resort, something to try "if the drugs don't work." I've watched this pattern play out over and over in clinical settings, and I think it's a mistake. Not because medications are wrong, but because the diet deserves to be understood on its own terms, not treated as an afterthought.
 
 So if you're here because someone you love has epilepsy, and you've started wondering whether diet could help, you're asking the right questions. You might be wondering whether this is fringe science or something with real clinical weight behind it. Whether it's safe for kids. Whether it's sustainable for adults. What exactly it involves.
 

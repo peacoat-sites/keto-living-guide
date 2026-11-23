@@ -1,5 +1,5 @@
 ---
-title: "30-Minute Keto Dinners That Actually Taste Good"
+title: "Easy Keto Meals You Can Make in Under 30 Minutes"
 date: 2026-05-24T14:46:59.461844+00:00
 draft: false
 description: "Easy keto meals that fit your busy lifestyle. Discover simple, delicious low-carb recipes, quick dinner ideas, and meal prep tips to stay in ketosis."
@@ -59,7 +59,7 @@ Forget hunting for a new recipe every single night. Templates are more powerful.
 
 **The Sheet Pan Dinner:** Pick a protein (salmon fillets, chicken thighs, Italian sausage), toss with olive oil and seasoning, scatter low-carb vegetables around it (broccoli, zucchini, bell peppers), roast at 425°F for 20 to 25 minutes. Done. One pan, minimal cleanup, endlessly variable.
 
-**The [Skillet Scramble](/keto-egg-recipes/):** Eggs are one of the most keto-friendly foods on the planet. Melt butter in a pan, add diced bacon or sausage, throw in some spinach or mushrooms, crack in 3 to 4 eggs, scramble together. Season with salt, pepper, and hot sauce if you like heat. This works for breakfast, lunch, or dinner. Don't let the word "scramble" confuse you into thinking it's only a morning option.
+**The Skillet Scramble:** Eggs are one of the most keto-friendly foods on the planet. Melt butter in a pan, add diced bacon or sausage, throw in some spinach or mushrooms, crack in 3 to 4 eggs, scramble together. Season with salt, pepper, and hot sauce if you like heat. This works for breakfast, lunch, or dinner. Don't let the word "scramble" confuse you into thinking it's only a morning option.
 
 **The Big Salad with a Real Protein:** A bowl of romaine, cucumber, and cherry tomatoes with grilled steak, shredded rotisserie chicken, or canned tuna. Dress it with olive oil and red wine vinegar or a full-fat Caesar. Croutons are gone, but you won't miss them once the protein is generous enough.
 

@@ -67,7 +67,7 @@ Electrolytes are non-negotiable, and most people undershoot them badly. On keto,
 
 Slow down. This is hard for runners. You may need to drop your easy pace by 60 to 90 seconds per mile for a while. Your aerobic base will build. Trying to maintain pre-keto paces during adaptation is like trying to drive your car hard while the fuel system is being reconfigured.
 
-Prioritize sleep and protein. Your [recovery capacity takes a hit](/keto-brain-fog/) during adaptation. Research supports 1.6 to 2.2g of protein per kilogram of bodyweight for endurance athletes, and I'd lean toward the top of that range during adaptation.
+Prioritize sleep and protein. Your recovery capacity takes a hit during adaptation. Research supports 1.6 to 2.2g of protein per kilogram of bodyweight for endurance athletes, and I'd lean toward the top of that range during adaptation.
 
 A kitchen scale is quietly one of the most useful investments you'll make. Eyeballing macros doesn't work on keto, especially with protein, which converts to glucose through gluconeogenesis and can kick you out of ketosis. The [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=contentportfo-20) runs about $25 and will save you weeks of wondering why your ketones are low.
 

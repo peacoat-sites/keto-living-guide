@@ -12,7 +12,7 @@ author_title: "Keto Habits"
 author_bio: "Emma Lawson is the byline used at Keto Living Guide for articles on the habit side of low-carb eating: the first weeks, eating out, social situations and keeping it going. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
-This database tracks the **[net carbs](/keto-vs-low-carb-diet-explained/)** (total carbs minus fiber) in common keto foods. All numbers are per 100 grams, raw, straight from the USDA FoodData Central database and updated monthly. Everything's sorted lowest to highest net carbs, so the best keto picks sit at the top.
+This database tracks the **net carbs** (total carbs minus fiber) in common keto foods. All numbers are per 100 grams, raw, straight from the USDA FoodData Central database and updated monthly. Everything's sorted lowest to highest net carbs, so the best keto picks sit at the top.
 
 {{< keto-carbs >}}
 

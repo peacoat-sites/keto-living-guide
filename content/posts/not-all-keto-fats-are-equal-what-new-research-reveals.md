@@ -26,7 +26,7 @@ This doesn't mean keto is broken. A separate randomized [clinical trial](/keto-a
 
 ## Why Past Keto Inflammation Research Contradicts Itself
 
-If you've read conflicting headlines about keto and inflammation, this research provides a likely explanation. Studies that loaded participants with butter and red meat would have produced different inflammatory signals than studies anchored in olive oil and fish. Neither group was necessarily wrong. They were measuring different diets that happened to share a macronutrient ratio. Gius and his team's work gives that confusion a mechanistic basis: long-chain saturated fats appear to activate cGAS-STING, a cellular stress pathway linked to inflammatory immune responses, in a way that unsaturated fats do not. That's a specific, testable claim. It also means you can't evaluate a [keto diet](/keto-diet-while-breastfeeding/) just by its carb count.
+If you've read conflicting headlines about keto and inflammation, this research provides a likely explanation. Studies that loaded participants with butter and red meat would have produced different inflammatory signals than studies anchored in olive oil and fish. Neither group was necessarily wrong. They were measuring different diets that happened to share a macronutrient ratio. Gius and his team's work gives that confusion a mechanistic basis: long-chain saturated fats appear to activate cGAS-STING, a cellular stress pathway linked to inflammatory immune responses, in a way that unsaturated fats do not. That's a specific, testable claim. It also means you can't evaluate a keto diet just by its carb count.
 
 ## What the Fat-Source Comparison Actually Looks Like
 

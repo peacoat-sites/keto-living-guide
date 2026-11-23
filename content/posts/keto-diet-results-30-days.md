@@ -36,7 +36,7 @@ The weight number that shows up on the scale at day 30 typically overstates fat 
 
 ## What the Scale Actually Shows Week by Week
 
-Here's how a typical month breaks down, based on aggregated data from the Virta Health 2018 [clinical trial](/keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/) (which tracked over 200 patients in real-time metabolic panels) and my own clinical records:
+Here's how a typical month breaks down, based on aggregated data from the Virta Health 2018 clinical trial (which tracked over 200 patients in real-time metabolic panels) and my own clinical records:
 
 | Week | Typical Scale Loss | Estimated Fat Loss | Primary Driver |
 |------|-------------------|-------------------|----------------|
@@ -50,7 +50,7 @@ What surprises most people when they see this breakdown is that the diet can fee
 
 ## The Keto Flu Is Real, and Electrolytes Are Not Optional
 
-It is easy to underestimate how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a [ketogenic diet](/foods-to-avoid-on-keto/) experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
+It is easy to underestimate how disruptive the transition period is for people who go cold-turkey on carbs. A 2019 paper in Frontiers in Nutrition reported that approximately 25% of people initiating a ketogenic diet experience notable symptoms in the first week, including headache, fatigue, brain fog, irritability, and muscle cramps. These get lumped together as the "keto flu."
 
 The mechanism isn't mysterious. When insulin drops, the kidneys excrete sodium more aggressively. Sodium loss pulls potassium and magnesium with it. Within 48 to 72 hours, electrolyte depletion is the primary driver of symptoms, not some inherent toxicity of the metabolic shift.
 

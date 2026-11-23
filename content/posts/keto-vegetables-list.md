@@ -29,7 +29,7 @@ You've just committed to keto, you're standing in the produce section of the gro
 
 ## Why Vegetables Matter More on Keto Than You Might Think
 
-A lot of people come to keto thinking vegetables are just filler. They load up on bacon and cheese, treat vegetables as an afterthought, and then wonder why they feel foggy, constipated, or crampy by week two. Vegetables are where you get [potassium, magnesium, folate, and fiber](/electrolytes-on-keto/) on a ketogenic diet. Without them, you're running a micronutrient deficit that shows up fast.
+A lot of people come to keto thinking vegetables are just filler. They load up on bacon and cheese, treat vegetables as an afterthought, and then wonder why they feel foggy, constipated, or crampy by week two. Vegetables are where you get potassium, magnesium, folate, and fiber on a ketogenic diet. Without them, you're running a micronutrient deficit that shows up fast.
 
 The goal of a well-formulated ketogenic diet is to keep net carbs low enough to maintain ketosis, typically between 20 and 50 grams of net carbs per day depending on the individual. Net carbs are calculated by subtracting fiber from total carbohydrates, because fiber doesn't spike blood sugar or trigger an insulin response the way digestible carbs do. This is why fiber-rich vegetables can actually be your best friend on keto. A cup of raw spinach has about 1 gram of net carbs. You could eat a serious amount of spinach and barely register it in your daily count.
 

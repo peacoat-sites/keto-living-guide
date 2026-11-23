@@ -1,5 +1,5 @@
 ---
-title: "How Ketosis Sharpens Your Brain and Mental Focus"
+title: "Keto Mental Clarity: How Ketosis Sharpens Your Brain"
 date: 2026-06-08T16:38:38.743251+00:00
 draft: false
 description: "Discover how the keto diet can boost mental clarity, sharpen focus, and enhance brain function by fueling your mind with ketones instead of glucose."

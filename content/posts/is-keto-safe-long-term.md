@@ -1,5 +1,5 @@
 ---
-title: "The Long-Term Safety of Ketogenic Diets Explained"
+title: "Is Keto Safe Long Term? What the Evidence Shows"
 date: 2026-06-02T15:48:22.233927+00:00
 draft: false
 description: "Wondering if keto is safe long term? Discover what research says about the risks, benefits, and expert recommendations for following a ketogenic diet over time."

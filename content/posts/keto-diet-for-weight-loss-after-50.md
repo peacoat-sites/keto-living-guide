@@ -40,7 +40,7 @@ The standard keto pitch promises fast initial weight loss from water and glycoge
 
 What does change is hormonal context. Insulin sensitivity often decreases. Cortisol becomes easier to elevate (and harder to recover from). For women, the estrogen decline during perimenopause and menopause actively shifts fat storage toward visceral fat, the metabolically active, inflammation-prone kind around organs. Testosterone drops in men, directly reducing the anabolic drive that helps muscle repair after resistance training.
 
-This is actually where keto has a real, specific argument. Lowering carbohydrates meaningfully reduces circulating insulin, which helps with visceral fat reduction specifically. A 2021 trial in *Nutrition & Metabolism* found that older adults (average age 58) on low-carb diets preferentially lost visceral fat compared to those on low-[fat diets](/keto-may-repair-pancreas-cells-that-low-fat-diets-cannot/) at similar caloric deficits. That's not a trivial distinction. Visceral fat reduction is associated with better cardiovascular markers and reduced inflammation, not just a smaller waistline.
+This is actually where keto has a real, specific argument. Lowering carbohydrates meaningfully reduces circulating insulin, which helps with visceral fat reduction specifically. A 2021 trial in *Nutrition & Metabolism* found that older adults (average age 58) on low-carb diets preferentially lost visceral fat compared to those on low-fat diets at similar caloric deficits. That's not a trivial distinction. Visceral fat reduction is associated with better cardiovascular markers and reduced inflammation, not just a smaller waistline.
 
 ## The Protein Problem Everyone Gets Wrong
 

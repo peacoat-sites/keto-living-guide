@@ -102,7 +102,7 @@ Get a decent home monitor before you start. The Omron Platinum ([available on Am
 
 Plan your electrolytes from day one, not after you get symptoms. The sodium-potassium-magnesium triad is non-negotiable.
 
-If you're on [blood pressure medication](/keto-for-type-2-diabetes/), tell your doctor you're starting keto and schedule a check-in at the 3-4 week mark. If they don't know what keto is or wave it off, push for the appointment anyway and bring your home monitoring data.
+If you're on blood pressure medication, tell your doctor you're starting keto and schedule a check-in at the 3-4 week mark. If they don't know what keto is or wave it off, push for the appointment anyway and bring your home monitoring data.
 
 Don't expect linear results. Week one and two are often weird: electrolytes fluctuating, water weight shifting, your body recalibrating. Give it a full month before drawing conclusions.
 

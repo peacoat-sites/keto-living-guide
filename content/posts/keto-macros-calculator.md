@@ -31,7 +31,7 @@ You've been eating keto for three weeks, you feel pretty good, but the scale has
 
 Macronutrients are fat, protein, and carbohydrates. On a standard ketogenic diet, the classic breakdown looks roughly like this: 70-75% of calories from fat, 20-25% from protein, and 5% or less from carbohydrates. For most people, that 5% translates to somewhere between 20 and 50 grams of net carbs per day.
 
-Here's what gets lost in that textbook description, though. Those percentages describe what a ketogenic eating pattern tends to look like in practice, not a rigid formula you must hit exactly every single day. The real goal is to keep carbohydrates low enough that your liver starts producing ketone bodies from fat, pushing your body into a metabolic state called [nutritional ketosis](/how-long-to-enter-ketosis/).
+Here's what gets lost in that textbook description, though. Those percentages describe what a ketogenic eating pattern tends to look like in practice, not a rigid formula you must hit exactly every single day. The real goal is to keep carbohydrates low enough that your liver starts producing ketone bodies from fat, pushing your body into a metabolic state called nutritional ketosis.
 
 Protein is where people get confused most often. Keto has a reputation for being a high-fat diet (which it is), but many beginners take that to mean protein should be kept low. Wrong call. Protein preserves your muscle mass while you're in a calorie deficit, keeps you full, and has the highest thermic effect of any macronutrient, meaning your body burns more calories just digesting it. The sweet spot for most active people is 0.7 to 1.0 grams of protein per pound of lean body mass, not total body weight.
 

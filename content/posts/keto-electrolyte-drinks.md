@@ -28,7 +28,7 @@ faqs:
 
 Most people don't realize they're not just tired on keto. They're depleted.
 
-It happens to nearly everyone who cuts carbs seriously. You're a week in, you're hitting your macros, and then the fatigue, headaches, and leg cramps show up uninvited. The standard advice is "just add salt," which is technically correct but wildly incomplete. Because once you understand what's actually happening to your electrolytes on a low-[carb diet](/keto-vs-low-carb-diet-explained/), you'll stop treating it like a minor inconvenience and start treating it like the foundation your entire keto experience is built on.
+It happens to nearly everyone who cuts carbs seriously. You're a week in, you're hitting your macros, and then the fatigue, headaches, and leg cramps show up uninvited. The standard advice is "just add salt," which is technically correct but wildly incomplete. Because once you understand what's actually happening to your electrolytes on a low-carb diet, you'll stop treating it like a minor inconvenience and start treating it like the foundation your entire keto experience is built on.
 
 You might be wondering whether electrolyte drinks are just expensive marketing dressed up in a powder packet. A common mistake is trying to power through [keto flu](/keto-flu-symptoms/) with extra water and a banana. That's exactly wrong, and the banana is actively counterproductive. Here's what the actual physiology tells us.
 

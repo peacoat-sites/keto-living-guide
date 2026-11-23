@@ -81,7 +81,7 @@ Even without a specific recipe, you can assemble a complete keto ground beef mea
 
 **Step 5: Add a fat finisher.** A knob of butter, a drizzle of olive oil, a spoonful of cream cheese, or a handful of shredded cheese. This adds richness and helps you hit your fat macros.
 
-**Step 6: Pick your low-carb base.** Cauliflower rice (roughly 3g net carbs per cup), [zucchini noodles](/keto-cauliflower-recipes/) (2g net carbs per cup), or leafy greens like romaine or butter lettuce (under 1g net carbs per cup).
+**Step 6: Pick your low-carb base.** Cauliflower rice (roughly 3g net carbs per cup), zucchini noodles (2g net carbs per cup), or leafy greens like romaine or butter lettuce (under 1g net carbs per cup).
 
 Follow this framework and you'll never be stuck staring into the fridge again.
 

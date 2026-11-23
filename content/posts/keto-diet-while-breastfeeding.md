@@ -50,7 +50,7 @@ There's one thing the research does support clearly: caloric restriction in brea
 
 Most healthy adults doing keto don't develop ketoacidosis. Their bodies maintain enough insulin response to keep ketones in a safe range. But lactation changes the metabolic picture.
 
-There are documented case reports, including one published in the journal *Diabetes Care*, of non-diabetic breastfeeding women developing [starvation ketoacidosis](/keto-diet-side-effects/). It's rare, but it's not theoretical. The mechanism makes sense: breastfeeding already places a significant glucose demand on the body, and when you combine that with very low carbohydrate intake and caloric restriction, some women tip into a state their non-lactating counterparts wouldn't.
+There are documented case reports, including one published in the journal *Diabetes Care*, of non-diabetic breastfeeding women developing starvation ketoacidosis. It's rare, but it's not theoretical. The mechanism makes sense: breastfeeding already places a significant glucose demand on the body, and when you combine that with very low carbohydrate intake and caloric restriction, some women tip into a state their non-lactating counterparts wouldn't.
 
 Symptoms to take seriously: nausea, vomiting, rapid breathing, confusion, and extreme fatigue that feels different from ordinary new-mom tired. If you experience those together, that's a call your doctor or an ER visit. Not a "wait and see."
 

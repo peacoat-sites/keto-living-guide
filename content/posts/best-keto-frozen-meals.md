@@ -63,7 +63,7 @@ Here's my contrarian take: **some Amy's Kitchen frozen meals are better keto cho
 
 ## The Freezer Aisle Trap to Avoid
 
-The worst offenders are the "protein bowls" and "[cauliflower crust pizza](/best-keto-bread-brands/)" products that seem like obvious keto choices. Cauliflower crust frozen pizzas almost universally run 15 to 22g net carbs per serving, and the serving sizes are often set artificially small to make the numbers look better. A typical 10-inch cauliflower crust pizza has two servings listed on the box. Nobody eats half a personal pizza. Look at the full container numbers, not the per-serving numbers, and decide from there.
+The worst offenders are the "protein bowls" and "cauliflower crust pizza" products that seem like obvious keto choices. Cauliflower crust frozen pizzas almost universally run 15 to 22g net carbs per serving, and the serving sizes are often set artificially small to make the numbers look better. A typical 10-inch cauliflower crust pizza has two servings listed on the box. Nobody eats half a personal pizza. Look at the full container numbers, not the per-serving numbers, and decide from there.
 
 Protein bowls in the "healthy" section (think Healthy Choice Power Bowls or similar) often contain brown rice or quinoa as filler, pushing net carbs to 30 to 40g per bowl. A few look low-carb on the front but aren't. Read the label every time, even on products you've bought before, because reformulations happen constantly and not always with any announcement.
 

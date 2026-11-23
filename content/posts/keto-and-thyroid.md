@@ -36,7 +36,7 @@ Let me give you what I actually know, including where my knowledge runs out.
 
 ## What Keto Actually Does to Your Thyroid Hormones
 
-Here's the number most people see and panic over: T3, the active thyroid hormone, typically drops 15-30% on a well-formulated [ketogenic diet](/foods-to-avoid-on-keto/). A 2015 study in the journal *Nutrition* tracked obese patients over 12 weeks and found T3 declined significantly while TSH remained unchanged. Similar findings have shown up in multiple other trials since.
+Here's the number most people see and panic over: T3, the active thyroid hormone, typically drops 15-30% on a well-formulated ketogenic diet. A 2015 study in the journal *Nutrition* tracked obese patients over 12 weeks and found T3 declined significantly while TSH remained unchanged. Similar findings have shown up in multiple other trials since.
 
 The conventional interpretation is that this is bad. Lower T3 means slower metabolism, fatigue, [brain fog](/keto-brain-fog/), hair loss. But there's a competing theory that's actually well-supported: when you're burning fat for fuel instead of glucose, your cells may simply need less T3 to maintain the same metabolic rate. Some researchers call this "euthyroid sick syndrome lite," though that term is contested. The more neutral framing is that it could be a physiological adaptation rather than a deficiency.
 

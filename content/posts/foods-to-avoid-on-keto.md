@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Carbs Sabotaging Your Keto Diet"
+title: "Foods to Avoid on Keto Including Hidden Carb Traps"
 date: 2026-05-23T12:08:19.495491+00:00
 draft: false
 description: "Discover which foods to avoid on keto to stay in ketosis. Cut out sugar, grains, fruit, and starchy carbs to maximize fat burning and reach your health goals."
@@ -57,7 +57,7 @@ Nine times out of ten, when I look at someone's food diary, the culprit is somet
 | Sweet wine (Riesling/Moscato) | 1 glass | 5-10 |
 | Margarita mix | standard serving | 25 |
 
-Let's start with the rule. A standard ketogenic diet keeps net carbohydrates between 20 and 50 grams per day. Net carbs are total carbs minus fiber (and for some people, [sugar alcohols](/best-keto-sweeteners/)). Your body doesn't store much glucose, so once you hit your threshold, insulin rises, ketone production slows, and you're running on carbs instead of fat.
+Let's start with the rule. A standard ketogenic diet keeps net carbohydrates between 20 and 50 grams per day. Net carbs are total carbs minus fiber (and for some people, sugar alcohols). Your body doesn't store much glucose, so once you hit your threshold, insulin rises, ketone production slows, and you're running on carbs instead of fat.
 
 This is why portion size matters so much on keto. Two tablespoons of peanut butter? Fine. Half a jar? That's 30 grams of carbs. Your day's done.
 

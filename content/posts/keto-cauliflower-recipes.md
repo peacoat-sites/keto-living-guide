@@ -30,7 +30,7 @@ Cauliflower gets more credit than it deserves on keto. There, I said it.
 
 Not because it's bad. It's genuinely one of the most useful vegetables you can keep in your keto kitchen. But expectations around cauliflower substitutes often get set too high. Many people expect cauliflower pizza crust to taste like actual pizza, which leads to disappointment. The expectations are set wrong, and that leads to a lot of wasted produce and a lot of abandoned diets.
 
-So let me reframe this before we get into the actual recipes: cauliflower isn't a perfect substitute for anything. It's its own ingredient that happens to work beautifully in [low-carb cooking](/easy-keto-meals/) when you stop trying to trick yourself into thinking it's something else. Once I stopped pretending and started cooking, that's when things got interesting.
+So let me reframe this before we get into the actual recipes: cauliflower isn't a perfect substitute for anything. It's its own ingredient that happens to work beautifully in low-carb cooking when you stop trying to trick yourself into thinking it's something else. Once I stopped pretending and started cooking, that's when things got interesting.
 
 Here's what I know from working with hundreds of clients and testing these recipes myself: cauliflower is one of the best investments you can make on a keto grocery run. A large head runs around $3-4, it's filling, it freezes well, and a single head has roughly 25-30 grams of total carbs, with about 10-12 grams net after fiber. Plenty of room to work with.
 

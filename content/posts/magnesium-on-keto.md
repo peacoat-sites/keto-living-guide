@@ -41,7 +41,7 @@ The symptom list here is frustratingly broad, which is part of why magnesium def
 
 **Muscle cramps and twitching** are the most dramatic. The calf cramp at 3am is the classic presentation, but eye twitches (called myokymia) and general muscle tension are also common. Magnesium is essential for muscle relaxation. Without enough, muscles contract more easily and struggle to release.
 
-**Sleep disruption** is underappreciated. Magnesium plays a role in regulating GABA, an inhibitory neurotransmitter that quiets the nervous system. Low magnesium can mean lighter sleep, more wakefulness, and that wired-but-tired feeling that some people wrongly attribute to [keto adaptation itself](/exogenous-ketones/).
+**Sleep disruption** is underappreciated. Magnesium plays a role in regulating GABA, an inhibitory neurotransmitter that quiets the nervous system. Low magnesium can mean lighter sleep, more wakefulness, and that wired-but-tired feeling that some people wrongly attribute to keto adaptation itself.
 
 **Constipation** is another one. Keto can already slow things down for some people due to changes in fiber intake and gut microbiome. Magnesium deficiency makes it worse because the mineral draws water into the intestines and supports smooth muscle contraction. This is actually the mechanism behind magnesium-based laxatives.
 

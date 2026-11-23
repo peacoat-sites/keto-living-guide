@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most people find [exogenous ketones](/keto-supplements-list/) after a rough week. They've been strict about carbs, they're waiting for the fog to lift, and someone in a Facebook group swears that a $60 tub of BHB salts fixed everything. You might be wondering if it's actually that simple, or if you're about to spend money on something that sounds too good to be true.
+Most people find exogenous ketones after a rough week. They've been strict about carbs, they're waiting for the fog to lift, and someone in a Facebook group swears that a $60 tub of BHB salts fixed everything. You might be wondering if it's actually that simple, or if you're about to spend money on something that sounds too good to be true.
 
 Here's the short answer: exogenous ketones are real, they work in a narrow technical sense, and they're wildly oversold. Let me explain what I mean by both halves of that.
 

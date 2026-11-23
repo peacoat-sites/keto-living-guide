@@ -1,5 +1,5 @@
 ---
-title: "Eat Keto Without Breaking the Bank"
+title: "Keto Meal Plan on a Budget That Works"
 date: 2026-05-27T03:12:55.060131+00:00
 draft: false
 description: "Discover how to follow a keto diet without breaking the bank. Get our budget-friendly keto meal plan with simple, affordable recipes and smart shopping tips."

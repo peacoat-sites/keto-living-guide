@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 If you've made it about a week into keto and you feel like you got hit by a truck, you're not imagining it. The fatigue, the headaches, the muscle cramps that wake you at 3am, that's not your body rejecting low-carb eating. That's electrolyte depletion, and it's one of the most predictable and fixable things in all of nutrition.
 
-Here's what's happening: when you drop carbs, your insulin levels fall, your kidneys shift into a different mode, and you start flushing sodium, potassium, and magnesium at a much faster rate than you did before. Most people lose several pounds of water in the first week, and all those minerals go with it. The "[keto flu](/electrolytes-on-keto/)" isn't some mysterious metabolic punishment. It's mostly just salt deficiency with a side of magnesium.
+Here's what's happening: when you drop carbs, your insulin levels fall, your kidneys shift into a different mode, and you start flushing sodium, potassium, and magnesium at a much faster rate than you did before. Most people lose several pounds of water in the first week, and all those minerals go with it. The "keto flu" isn't some mysterious metabolic punishment. It's mostly just salt deficiency with a side of magnesium.
 
 A common misconception among beginners is that they need to push through the misery as some kind of rite of passage. They don't. And the fix is usually cheap and fast.
 

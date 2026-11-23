@@ -34,7 +34,7 @@ That was years ago. Much of the difficulty with restaurant eating happens before
 
 ## The Thing That Gets People Before They Sit Down
 
-Decision fatigue is real. If you arrive at a restaurant hungry, with no plan, and you're staring at a laminated menu with seventeen pasta dishes, you're going to make a worse call than if you'd spent ninety seconds on their website beforehand. This isn't a willpower failure. It's just how the brain works under time pressure and low [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/).
+Decision fatigue is real. If you arrive at a restaurant hungry, with no plan, and you're staring at a laminated menu with seventeen pasta dishes, you're going to make a worse call than if you'd spent ninety seconds on their website beforehand. This isn't a willpower failure. It's just how the brain works under time pressure and low blood sugar.
 
 My standard advice: look up the menu before you go. Almost every chain and most independents post their menus online, and many now have nutritional info. Identify your two or three fallback options. Then when you sit down, you're not deliberating, you're confirming.
 

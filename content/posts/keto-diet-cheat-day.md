@@ -57,7 +57,7 @@ Watch what happens: the cheat meal goes fine. Then it becomes a cheat afternoon.
 
 Keto's particularly bad for this spiral because carb restriction directly affects hunger hormones. Ghrelin, the hormone making you hungry, drops when you're in ketosis. But eat a big carb load and it comes roaring back, sometimes for days. Your intense cravings on day two after cheating aren't weakness. They're physiology.
 
-I'm not saying cheat days always blow up. Some people genuinely do well with [planned flexibility](/keto-carb-cycling/). But the clients who succeed long-term almost always have a specific, boundaried plan rather than a vague "I'll get back on track." Vague doesn't work.
+I'm not saying cheat days always blow up. Some people genuinely do well with planned flexibility. But the clients who succeed long-term almost always have a specific, boundaried plan rather than a vague "I'll get back on track." Vague doesn't work.
 
 ## If you're going to do it, do it deliberately
 

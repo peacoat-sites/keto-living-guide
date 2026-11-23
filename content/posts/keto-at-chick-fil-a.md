@@ -70,7 +70,7 @@ One thing I'd tell anyone doing this for the first time: say "no bun, no sauce o
 
 ## The Sauce Problem (It's Bigger Than You Think)
 
-Sauces deserve their own section because they're where I see clients get sloppy. Chick-fil-A's signature Chick-fil-A Sauce, which is what most people default to, has 13g of [carbs per](/keto-carbs-per-day-limit/) packet. It's delicious. It's also basically a sugar vehicle. Garden Herb Ranch has 1g per packet. Zesty Buffalo is 1g. Those are the two to remember.
+Sauces deserve their own section because they're where I see clients get sloppy. Chick-fil-A's signature Chick-fil-A Sauce, which is what most people default to, has 13g of carbs per packet. It's delicious. It's also basically a sugar vehicle. Garden Herb Ranch has 1g per packet. Zesty Buffalo is 1g. Those are the two to remember.
 
 The Honey Mustard is 11g. Polynesian Sauce is 13g. If you're dipping a 12-count grilled nuggets in two packets of Polynesian, you've just added 26g of carbs to a 3g base. That's a whole day's carb budget for strict keto, in dipping sauce.
 

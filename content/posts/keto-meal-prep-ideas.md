@@ -33,7 +33,7 @@ Here's the honest truth: keto is more forgiving than people think, but only when
 
 Meal prep removes that friction entirely. You're not making a decision at 7 p.m. when your willpower's gone. You made it on Sunday when you had energy and a clear head.
 
-The macros on keto are strict: typically 70-75% fat, 20-25% protein, and under 25 grams of net carbs per day. That kind of precision doesn't happen by accident. If you're just getting started, check out our guide on [how to start keto](/keto-diet-for-beginners/) before diving into prep strategies, because understanding the basics will make your prep sessions far more efficient.
+The macros on keto are strict: typically 70-75% fat, 20-25% protein, and under 25 grams of net carbs per day. That kind of precision doesn't happen by accident. If you're just getting started, check out our guide on how to start keto before diving into prep strategies, because understanding the basics will make your prep sessions far more efficient.
 
 Beyond the logistics, there's a real metabolic argument for meal prep. Consistency keeps you in ketosis. A single bad day can take you 2-3 days to recover. When you've got prepped meals waiting, you don't have bad days.
 

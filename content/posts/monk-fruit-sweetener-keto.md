@@ -37,7 +37,7 @@ The good news is that the dominant commercial format pairs monk fruit with eryth
 
 ## What Monk Fruit Actually Is
 
-Monk fruit (Luo Han Guo, *Siraitia grosvenorii*) is a small melon grown primarily in southern China. The sweetness comes from mogrosides, a group of antioxidant compounds extracted from the fruit's flesh. The FDA classifies monk fruit extract as Generally Recognized as Safe (GRAS), which means the safety review threshold has been met, though it's not the same as an extensive human [clinical trial](/keto-as-anorexia-nervosa-therapy-what-a-new-clinical-trial-found/) record.
+Monk fruit (Luo Han Guo, *Siraitia grosvenorii*) is a small melon grown primarily in southern China. The sweetness comes from mogrosides, a group of antioxidant compounds extracted from the fruit's flesh. The FDA classifies monk fruit extract as Generally Recognized as Safe (GRAS), which means the safety review threshold has been met, though it's not the same as an extensive human clinical trial record.
 
 The mogroside content varies by product, with mogroside V being the most concentrated sweet compound. Liquid drops tend to use a more concentrated extract; granular blends dilute it considerably. Neither format causes problems for ketosis, but they behave differently in baking.
 

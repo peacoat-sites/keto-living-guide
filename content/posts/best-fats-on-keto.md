@@ -1,5 +1,5 @@
 ---
-title: "Fatty Fish and Oils: Your Keto Diet Game Changers"
+title: "Best Fats on Keto and How to Use Them"
 date: 2026-06-27T14:16:11.930875+00:00
 draft: false
 description: "Discover the best fats to eat on keto for energy and fat loss. From avocado to butter, learn which healthy fats fuel ketosis most effectively."

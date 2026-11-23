@@ -37,7 +37,7 @@ The better keto-specific apps organize your dashboard around fat, protein, and n
 
 ## The Apps Worth Knowing About
 
-**Carb Manager** is what I recommend most often to new clients, and not just because it's popular. It's genuinely built for low-carb eating specifically. The free version covers most of what beginners need: net carb tracking, macro breakdowns, a solid barcode scanner, and meal logging. Premium ($40/year or $8/month if you pay monthly) adds deeper analytics, fasting tracking, [blood ketone logging](/best-ketone-meter/), and recipe analysis. Most people don't need premium for the first few months. Start free.
+**Carb Manager** is what I recommend most often to new clients, and not just because it's popular. It's genuinely built for low-carb eating specifically. The free version covers most of what beginners need: net carb tracking, macro breakdowns, a solid barcode scanner, and meal logging. Premium ($40/year or $8/month if you pay monthly) adds deeper analytics, fasting tracking, blood ketone logging, and recipe analysis. Most people don't need premium for the first few months. Start free.
 
 **Cronometer** is what I personally use for clients doing keto for therapeutic reasons, metabolic health, or who care about micronutrients. It's less polished than Carb Manager but tracks what others ignore: selenium, choline, B vitamins, the full mineral panel. If you want to know whether you're getting enough magnesium from food (most people aren't), Cronometer will show you. The Gold version runs about $45/year. Worth it if you're detail-oriented.
 

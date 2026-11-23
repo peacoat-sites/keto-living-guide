@@ -36,7 +36,7 @@ Keto cheesecake recipes vary widely in results. A flaxseed-heavy crust, for exam
 
 ## Why Most Keto Cheesecake Recipes Get the Texture Wrong
 
-The number one complaint I hear about [low-carb cheesecakes](/keto-dessert-recipes/) is that they're grainy, rubbery, or they weep liquid after they set. Almost always, this comes down to three mistakes: cold cream cheese, overmixing, and skipping the water bath.
+The number one complaint I hear about low-carb cheesecakes is that they're grainy, rubbery, or they weep liquid after they set. Almost always, this comes down to three mistakes: cold cream cheese, overmixing, and skipping the water bath.
 
 Cold cream cheese doesn't incorporate smoothly. Full stop. You need it at genuine room temperature, which means leaving it out for at least 90 minutes, not 20 minutes on the counter while you preheat the oven. If you've ever had tiny white lumps in a finished cheesecake, that's why.
 
@@ -54,7 +54,7 @@ The water bath question is where I'll acknowledge real nuance: it's not strictly
 | Erythritol (powdered) | Yes, when chilled | Baking where grittiness is less noticeable | Lower cost |
 | Monk Fruit + Erythritol blend | Minimal | Cold desserts, acceptable alternative | ~$10-12/container |
 
-Almond flour crust is fine. It's the default for most [keto baking](/keto-bread-recipe/), and it's genuinely decent. But I want to be honest: a straight almond flour crust can be a little soft and prone to crumbling once refrigerated, especially if you cut it while it's still cold from the fridge.
+Almond flour crust is fine. It's the default for most keto baking, and it's genuinely decent. But I want to be honest: a straight almond flour crust can be a little soft and prone to crumbling once refrigerated, especially if you cut it while it's still cold from the fridge.
 
 What I actually use now is a 50/50 blend of almond flour and finely ground pecans (or walnuts), with butter and a small amount of erythritol. The nut mixture creates a slightly more cohesive crust that holds a cleaner slice. The carb count is similar.
 

@@ -28,7 +28,7 @@ faqs:
 
 Most people don't quit keto. They drift out of it. One birthday dinner, one stressful week, one vacation where the bread basket just looked too good, and suddenly they're eating 200 grams of carbs a day again and wondering why they feel absolutely terrible. A common pattern: it's not the carbs that cause the problem. It's the speed.
 
-Quitting keto without a plan can trigger some genuinely unpleasant symptoms, including bloating, fatigue, rapid water weight gain, and [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/) swings that feel alarming even when they're not dangerous. None of this is permanent, but it's avoidable if you know what you're doing. What's striking is how little guidance exists on the *exit* side of keto. There's a mountain of content on how to start. Almost nothing on how to stop well.
+Quitting keto without a plan can trigger some genuinely unpleasant symptoms, including bloating, fatigue, rapid water weight gain, and blood sugar swings that feel alarming even when they're not dangerous. None of this is permanent, but it's avoidable if you know what you're doing. What's striking is how little guidance exists on the *exit* side of keto. There's a mountain of content on how to start. Almost nothing on how to stop well.
 
 This article is my attempt to fix that.
 

@@ -26,7 +26,7 @@ Maltitol is the biggest culprit, a sugar alcohol you'll find in a disturbing num
 
 Soluble corn fiber is a separate issue. Some people report that certain Quest flavors don't affect their performance despite "clean" macros. The science on soluble corn fiber's actual net carb contribution is contested. Some researchers argue it behaves more like a digestible carb than marketing suggests. I don't think this is settled, and I'd be suspicious of anyone who tells you it is.
 
-If you're doing strict keto for metabolic or therapeutic reasons (epilepsy management, for example), [skip protein bars almost entirely](/best-keto-frozen-meals/) and use a kitchen scale to build snacks from whole foods. For most people doing low-carb for fat loss or general metabolic health, a good bar used strategically isn't a problem. The word "strategically" is doing real work there.
+If you're doing strict keto for metabolic or therapeutic reasons (epilepsy management, for example), skip protein bars almost entirely and use a kitchen scale to build snacks from whole foods. For most people doing low-carb for fat loss or general metabolic health, a good bar used strategically isn't a problem. The word "strategically" is doing real work there.
 
 ## The Bars That Actually Hold Up
 

@@ -83,7 +83,7 @@ Some packaged keto snacks are legitimately good, and I'd rather help you find th
 
 **Whisps or Parmesan crisps.** These are literally baked cheese, which is about as keto as food gets. About 0g net carbs, high protein, genuinely crunchy in a way that scratches the chip craving. Whisps is widely available at most major grocery chains. The only downside is cost per ounce, but the ingredient list is one item: cheese.
 
-**Siete [grain-free](/how-to-make-keto-bread-without-almond-flour/) tortilla chips.** These aren't zero-carb. A 1-ounce serving runs about 7-8g net carbs depending on the variety. For someone doing a more relaxed low-carb approach (say, 50-75g carbs per day rather than strict keto), they fill the crunchy snack gap better than most alternatives. Know your budget before you reach for them.
+**Siete grain-free tortilla chips.** These aren't zero-carb. A 1-ounce serving runs about 7-8g net carbs depending on the variety. For someone doing a more relaxed low-carb approach (say, 50-75g carbs per day rather than strict keto), they fill the crunchy snack gap better than most alternatives. Know your budget before you reach for them.
 
 **Lily's chocolate.** Sweetened with stevia and erythritol, about 3-4g net carbs per square depending on the bar. The research on erythritol is generally reassuring, though there's some emerging discussion worth following. I wouldn't eat half a bar in a sitting and assume it's free, but a square or two after dinner is a reasonable treat. Most major grocery stores carry it now.
 

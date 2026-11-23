@@ -1,5 +1,5 @@
 ---
-title: "What Actually Happens To Your Body On Keto"
+title: "Keto Diet Side Effects and What to Do About Them"
 date: 2026-05-27T18:57:10.683717+00:00
 draft: false
 description: "Discover the most common keto diet side effects, from keto flu to nutrient deficiencies, and learn how to manage them safely for a healthier low-carb journey."
@@ -50,7 +50,7 @@ Beyond electrolytes, your gut bacteria shift when the fiber and prebiotic conten
 - Dizziness when standing up (orthostatic hypotension)
 - Heart palpitations or a racing sensation
 
-The palpitations one tends to scare people, and reasonably so. But in otherwise healthy individuals, this is almost always a potassium or magnesium deficit triggering minor electrical dysregulation. If you have a [pre-existing heart condition](/keto-and-blood-pressure/), talk to your doctor before starting keto. For everyone else, addressing electrolytes usually resolves it within 24 to 48 hours.
+The palpitations one tends to scare people, and reasonably so. But in otherwise healthy individuals, this is almost always a potassium or magnesium deficit triggering minor electrical dysregulation. If you have a pre-existing heart condition, talk to your doctor before starting keto. For everyone else, addressing electrolytes usually resolves it within 24 to 48 hours.
 
 ### Step-by-Step Electrolyte Protocol for Keto Flu Relief
 

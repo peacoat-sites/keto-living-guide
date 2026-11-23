@@ -1,5 +1,5 @@
 ---
-title: "Cauliflower Crust Pizza That Actually Tastes Good"
+title: "Keto Pizza Recipe With a Crust That Tastes Good"
 date: 2026-06-19T15:52:58.313152+00:00
 draft: false
 description: "Make a delicious keto pizza with a crispy low-carb crust, melted cheese, and all your favorite toppings. Easy recipe ready in under 30 minutes!"

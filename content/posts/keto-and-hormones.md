@@ -34,7 +34,7 @@ Hormones and low-[carb eating](/the-2025-2030-dietary-guidelines-finally-validat
 
 ## What keto actually does to insulin (this one's real)
 
-The clearest, most well-supported hormonal effect of a [ketogenic diet](/foods-to-avoid-on-keto/) is on insulin. When you cut carbohydrates below roughly 20-50 grams a day, you remove the primary stimulus for insulin secretion. Insulin drops. Significantly. A 2021 study in *Cell Metabolism* found that participants on a ketogenic diet showed a 33% reduction in fasting insulin levels over four weeks compared to those on a low-fat diet. That's not nothing.
+The clearest, most well-supported hormonal effect of a ketogenic diet is on insulin. When you cut carbohydrates below roughly 20-50 grams a day, you remove the primary stimulus for insulin secretion. Insulin drops. Significantly. A 2021 study in *Cell Metabolism* found that participants on a ketogenic diet showed a 33% reduction in fasting insulin levels over four weeks compared to those on a low-fat diet. That's not nothing.
 
 For people with hyperinsulinemia, type 2 diabetes, or polycystic ovary syndrome (PCOS), this is often the most therapeutically meaningful change keto produces. Lower chronic insulin means less androgen stimulation in PCOS, which is why some women see dramatic improvement in cycle regularity and ovulatory function. This is consistent enough across the published PCOS literature that keto is considered one of the more effective dietary interventions for this condition specifically.
 
@@ -44,7 +44,7 @@ What keto is not is a universal insulin cure. If you're already insulin-sensitiv
 
 Here's where I see the most fear. People get a thyroid panel six months into keto and see that their T3, the active thyroid hormone, has dropped. Sometimes meaningfully. They panic, start supplementing, switch back to carbs overnight.
 
-What most people don't realize is that this T3 drop is partially a normal metabolic adaptation, not pathology. The body requires glucose to convert T4 (the storage form) into T3. On a very low-[carb diet](/keto-vs-low-carb-diet-explained/), that conversion slows. Some researchers call this "euthyroid sick syndrome lite," a benign adaptive state. The question is whether it crosses into actual hypothyroid symptoms: fatigue that's debilitating, hair loss beyond the typical keto adjustment period, cold intolerance, slow digestion, poor cognition.
+What most people don't realize is that this T3 drop is partially a normal metabolic adaptation, not pathology. The body requires glucose to convert T4 (the storage form) into T3. On a very low-carb diet, that conversion slows. Some researchers call this "euthyroid sick syndrome lite," a benign adaptive state. The question is whether it crosses into actual hypothyroid symptoms: fatigue that's debilitating, hair loss beyond the typical keto adjustment period, cold intolerance, slow digestion, poor cognition.
 
 I thought for a long time that any T3 drop on keto was fine to ignore. Then I had a client, Marcus, a 41-year-old who'd been strict keto for eight months, whose T3 free came back at 1.9 pg/mL (reference range typically 2.3-4.2 at most labs), and who had classic hypothyroid symptoms. His TSH was still normal, which is why his GP wasn't alarmed. We added a small amount of carbohydrate back in around his workouts, roughly 30-40 grams on training days, and within six weeks his T3 had climbed to 2.6 and he felt dramatically better.
 

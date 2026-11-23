@@ -28,7 +28,7 @@ faqs:
 
 Most articles about building muscle on keto spend 800 words hyping the diet and about two paragraphs on the part that actually matters: protein, training load, and calorie surplus. Let me fix that.
 
-The short version is that yes, you can build meaningful muscle on a [ketogenic diet](/foods-to-avoid-on-keto/). But it's harder than on a higher-carb approach, the margin for error is smaller, and the people telling you keto is "superior for muscle gain" are selling something. The research is more nuanced than the influencer version suggests.
+The short version is that yes, you can build meaningful muscle on a ketogenic diet. But it's harder than on a higher-carb approach, the margin for error is smaller, and the people telling you keto is "superior for muscle gain" are selling something. The research is more nuanced than the influencer version suggests.
 
 Lean mass gains on keto depend heavily on execution. Common mistakes include undereating protein, over-restricting calories, or both. The diet itself isn't the limiting factor when these fundamentals slip.
 
@@ -38,7 +38,7 @@ Lean mass gains on keto depend heavily on execution. Common mistakes include und
 
 The standard keto advice is 20–25% of calories from protein. At 2,000 calories, that's 100–125g. For a 180-pound person trying to build muscle, that's probably not enough.
 
-A 2022 meta-analysis in the *British Journal of Sports Medicine* examined protein dose and lean mass gains across resistance-trained adults, finding that intakes up to 1.6g per kg of bodyweight (roughly 0.73g per pound) produced meaningfully better outcomes than lower intakes. Some individual studies suggest benefits up to 2.2g/kg for hard trainers in a slight deficit. On keto, where the anabolic signaling environment is somewhat reduced compared to a higher-[carb diet](/keto-vs-low-carb-diet-explained/), aim toward the higher end of that range.
+A 2022 meta-analysis in the *British Journal of Sports Medicine* examined protein dose and lean mass gains across resistance-trained adults, finding that intakes up to 1.6g per kg of bodyweight (roughly 0.73g per pound) produced meaningfully better outcomes than lower intakes. Some individual studies suggest benefits up to 2.2g/kg for hard trainers in a slight deficit. On keto, where the anabolic signaling environment is somewhat reduced compared to a higher-carb diet, aim toward the higher end of that range.
 
 Practically: if you weigh 180 lbs, aim for 130–160g of protein daily. That's not "high protein by keto standards," that's just adequate for the goal.
 

@@ -76,7 +76,7 @@ Roasted and salted nuts are also worth scrutinizing. Some commercial roasting pr
 
 ## Seeds as the Underrated Half of This Category
 
-Seeds get less attention than nuts in keto circles, which is a mistake. Pound for pound, they're often lower in carbs and more nutritionally concentrated. Hemp seeds in particular are one of the few plant foods with a [complete amino acid profile](/best-protein-sources-keto/), which matters if you're eating low-carb and not eating a lot of meat.
+Seeds get less attention than nuts in keto circles, which is a mistake. Pound for pound, they're often lower in carbs and more nutritionally concentrated. Hemp seeds in particular are one of the few plant foods with a complete amino acid profile, which matters if you're eating low-carb and not eating a lot of meat.
 
 Flaxseed meal is genuinely useful for keto baking. It acts as a binder, adds fiber, and brings the net carb count of baked goods down considerably. I use it in crackers and as a partial flour substitute. [Anthony's Organic Flaxseed Meal](https://www.amazon.com/s?k=anthony%27s+organic+flaxseed+meal&tag=contentportfo-20) is what I reach for.
 

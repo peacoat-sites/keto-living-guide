@@ -38,7 +38,7 @@ Here's the short version before we get into it.
 
 This is where most people get tripped up, and honestly, I got it wrong myself the first time I evaluated these products. The net carb math sounds simple: [total carbs](/net-carbs-vs-total-carbs/) minus fiber, minus sugar alcohols. But not all fiber is created equal.
 
-Soluble corn fiber, which is what Mission uses in their Carb Balance line, does raise [blood sugar](/keto-could-unlock-exercise-benefits-blocked-by-high-blood-sugar/) in some people. Not as much as regular starch, but it's not a free pass either. A 2020 study published in the *Journal of the Academy of Nutrition and Dietetics* found that soluble corn fiber had a glycemic index of roughly 35, compared to 70 for white bread. So it matters, but it's not zero. If you're using continuous glucose monitoring (CGM) or tracking ketones closely, test your personal response instead of assuming the label math is your math.
+Soluble corn fiber, which is what Mission uses in their Carb Balance line, does raise blood sugar in some people. Not as much as regular starch, but it's not a free pass either. A 2020 study published in the *Journal of the Academy of Nutrition and Dietetics* found that soluble corn fiber had a glycemic index of roughly 35, compared to 70 for white bread. So it matters, but it's not zero. If you're using continuous glucose monitoring (CGM) or tracking ketones closely, test your personal response instead of assuming the label math is your math.
 
 Chicory root fiber and psyllium husk, used by some brands, behave differently again. Psyllium-based products may cause fewer glucose spikes than corn fiber products for some people, but the research on individual variation here is genuinely not settled.
 
@@ -69,7 +69,7 @@ The **Crepini Egg White Wraps** deserve their own paragraph. One net carb, no fi
 
 Honestly? For most people, no. The store brands have gotten good enough that making your own is a weekend project, not a weekly routine.
 
-That said, if you have specific sensitivities to the additives in commercial brands (methylcellulose in some of them, carrageenan in others), or if you genuinely enjoy cooking, a homemade [almond flour](/how-to-make-keto-bread-without-almond-flour/) tortilla is better than everything on that list above in terms of texture and ingredient control. A simple homemade recipe: 1.5 cups fine almond flour, 1 egg, 1 tbsp water, a pinch of salt, and if you want pliability, half a teaspoon of xanthan gum. Press them between parchment on a tortilla press, then cook in a dry skillet on medium-high about 90 seconds per side.
+That said, if you have specific sensitivities to the additives in commercial brands (methylcellulose in some of them, carrageenan in others), or if you genuinely enjoy cooking, a homemade almond flour tortilla is better than everything on that list above in terms of texture and ingredient control. A simple homemade recipe: 1.5 cups fine almond flour, 1 egg, 1 tbsp water, a pinch of salt, and if you want pliability, half a teaspoon of xanthan gum. Press them between parchment on a tortilla press, then cook in a dry skillet on medium-high about 90 seconds per side.
 
 What the recipes never tell you: the dough needs to rest for 5 minutes after mixing or it tears on the press. I ruined a dozen before I figured that out.
 

@@ -72,7 +72,7 @@ I'm not going to give you twenty recipes. Nobody needs twenty recipes. You need 
 
 ## Where Keto Soups Go Wrong
 
-The most common failure I see: building the whole soup around broth, keeping it low-fat because "broth feels light," and then being disappointed it doesn't taste satisfying. Satiety in keto eating is fat-driven. A bowl of low-fat chicken broth with vegetables is not a [keto meal](/keto-7-day-meal-plan/). It's a diet soup that'll have you raiding the pantry two hours later.
+The most common failure I see: building the whole soup around broth, keeping it low-fat because "broth feels light," and then being disappointed it doesn't taste satisfying. Satiety in keto eating is fat-driven. A bowl of low-fat chicken broth with vegetables is not a keto meal. It's a diet soup that'll have you raiding the pantry two hours later.
 
 Second most common failure: using imitation or low-fat cheese. Reduced-fat cheddar doesn't melt correctly, and it contributes a slightly artificial flavor that lingers. Full-fat cheese only. Not a preference, a functional requirement.
 
