@@ -38,7 +38,7 @@ Decision fatigue is real. If you arrive at a restaurant hungry, with no plan, an
 
 My standard advice: look up the menu before you go. Almost every chain and most independents post their menus online, and many now have nutritional info. Identify your two or three fallback options. Then when you sit down, you're not deliberating, you're confirming.
 
-The other thing I tell clients is to decide in advance how strict you're being tonight. A 20g net carb day, or more like 30-35g with some flexibility? That changes which calls you make on sauces, alcohol, and whether you eat the one breadstick someone put in front of you. Having a number in your head is more useful than a vague intention to "be good."
+Decide in advance how strict you're being tonight. A 20g net carb day, or more like 30-35g with some flexibility? That changes which calls you make on sauces, alcohol, and whether you eat the one breadstick someone put in front of you. Having a number in your head is more useful than a vague intention to "be good."
 
 ## What's Actually in Restaurant Food
 

@@ -46,7 +46,7 @@ There's also a structural sleep change that the research documents pretty clearl
 
 ## The Electrolyte Problem (Which Is Bigger Than You Think)
 
-I used to underestimate this. A reader emailed me last spring, Maria from Austin, who'd been on keto for ten days and was waking up with leg cramps bad enough to make her cry. She'd been drinking plenty of water, had cut out processed food, was doing everything "right." What she wasn't doing was replacing the electrolytes she was losing through increased urinary excretion, which is a direct consequence of low insulin suppressing renal sodium reabsorption.
+The importance of electrolytes is easy to overlook on keto. When someone switches to a ketogenic diet, low insulin suppresses renal sodium reabsorption, leading to increased urinary excretion of electrolytes. This can cause severe leg cramps even in people who drink plenty of water and cut out processed food. Replacing electrolytes, not just fluids, becomes essential to prevent this painful side effect.
 
 When insulin drops, your kidneys flush sodium aggressively. Sodium loss drags magnesium and potassium with it. And magnesium specifically is deeply tied to sleep quality. It regulates GABA receptors (the inhibitory neurotransmitter system that lets your brain quiet down) and helps control melatonin production. Running low on magnesium will make sleep lighter, more fragmented, and harder to initiate.
 

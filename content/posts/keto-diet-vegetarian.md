@@ -81,7 +81,7 @@ I add a tablespoon of [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/
 
 Keto drops insulin, insulin drops, kidneys excrete more sodium, sodium drops, and suddenly you feel like you have the flu. This is real and it's not a vegetarian-specific problem, but vegetarian keto makes it trickier because you're not eating broth or meat, which are the easy sodium sources most keto guides lean on.
 
-Salt your food aggressively. I mean genuinely aggressively, more than feels right. Add potassium through avocado, spinach, and pumpkin seeds. Magnesium tends to run low on keto and low-carb vegetarian diets both; a nightly dose of magnesium glycinate (200-400mg) helps many people sleep better and reduces leg cramps. A reader emailed me last month specifically to say this single addition fixed the cramps she'd had for her first two weeks. I've been recommending it for years.
+Salt your food aggressively. I mean genuinely aggressively, more than feels right. Add potassium through avocado, spinach, and pumpkin seeds. Magnesium tends to run low on keto and low-carb vegetarian diets both; a nightly dose of magnesium glycinate (200-400mg) helps many people sleep better and reduces leg cramps. Some people report that this single addition fixes cramps that appeared in their first two weeks on a restrictive diet.
 
 [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) are popular in keto communities and they're genuinely useful: no sugar, high sodium, with potassium and magnesium included. About $45 for a 30-pack. If that's too steep, a pinch of salt in your water plus a magnesium supplement covers most of the bases.
 
@@ -95,8 +95,7 @@ Salt your food aggressively. I mean genuinely aggressively, more than feels righ
 - [The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=contentportfo-20)
 - [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=contentportfo-20)
 
-
-The first week of vegetarian keto is the hardest, not because of the biology but because you haven't built the habits yet. What I tell clients: spend 20 minutes before the week starts and map out breakfast and lunch. Dinner can be more flexible. If you wake up without a plan you will stand in front of the fridge feeling annoyed at eggs.
+The first week of vegetarian keto is the hardest, not because of the biology but because you haven't built the habits yet. Spend 20 minutes before the week starts and map out breakfast and lunch. Dinner can be more flexible. If you wake up without a plan you will stand in front of the fridge feeling annoyed at eggs.
 
 A workable day looks like: scrambled eggs with spinach and feta in the morning, a big salad with avocado, hemp seeds, and olive oil dressing at lunch, and dinner that's either a tofu stir-fry with low-carb vegetables in sesame oil, a crustless quiche, or zucchini noodles with a creamy pesto and cottage cheese protein boost. None of these require advanced cooking skills.
 

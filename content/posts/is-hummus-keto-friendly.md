@@ -60,7 +60,7 @@ If you're doing strict keto for neurological reasons, epilepsy management, or sp
 
 If you're doing a relaxed low-carb approach to lose weight or manage blood sugar without hitting full ketosis, two tablespoons of hummus as part of a vegetable plate is not going to wreck anything. I'd just measure it. Don't guess.
 
-I made this mistake myself in my early years of recommending low-carb eating: I told clients "hummus in moderation is fine" without being specific about what moderation meant. One client, Laura, was genuinely confused why she'd stalled for three weeks. When we pulled her food diary, she was having what she called "a small bowl" of hummus with cucumbers every afternoon. Her small bowl was about 200 calories' worth. That's closer to 12 to 15 grams of net carbs in one snack, daily. We swapped it for cucumber slices with a tablespoon of tahini and a drizzle of olive oil. She was back moving in two weeks.
+A common pitfall with low-carb eating is saying "hummus in moderation is fine" without being specific. For example, if someone eats what they consider "a small bowl" of hummus with cucumbers every afternoon, say, about 200 calories' worth, that's closer to 12 to 15 grams of net carbs in one snack, daily. That amount can stall progress. Swapping it for cucumber slices with a tablespoon of tahini and a drizzle of olive oil removes most of those carbs while keeping the satisfying flavors and textures. Being precise about portion sizes, not just vague guidance, makes the difference.
 
 ## The Chickpea Problem (And Why It's Not Fully Bad News)
 

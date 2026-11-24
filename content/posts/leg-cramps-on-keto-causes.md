@@ -40,7 +40,7 @@ When you cut carbohydrates below roughly 50 grams a day, insulin drops. Lower in
 
 Here's where it gets counterintuitive: the cramps most people blame on magnesium in week one are often primarily a sodium problem. Sodium is the main electrolyte that controls fluid balance in your blood. When you lose it fast, your body pulls fluid from muscle tissue to compensate, and that's when you get the 3am calf cramp that makes you yelp.
 
-I spent probably two years telling clients to start with magnesium before I started tracking their sodium intake more carefully. Embarrassing, in retrospect. The clients who were salting their food aggressively and drinking broth were having far fewer early cramps than those eating "clean" keto meals with no added salt.
+Magnesium is often recommended as a first step for early cramps, but sodium intake deserves closer attention. People who salt their food aggressively and drink broth tend to have fewer early cramps than those eating "clean" keto meals with no added salt.
 
 Potassium gets less attention than it deserves. You need roughly 4,700mg a day according to the National Institutes of Health, and most people on keto don't get close to that because they've cut out the standard potassium sources: fruit, starchy vegetables, beans. Avocado, salmon, and [leafy greens](/keto-leafy-greens/) will get you some of the way there, but not all the way.
 

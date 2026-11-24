@@ -75,7 +75,7 @@ I don't know why the keto community treats this like an afterthought. After 50, 
 
 Practical targets: 2,000-3,000mg sodium daily (more if you sweat heavily), 300-400mg magnesium, and at least 3,000mg potassium. I recommend magnesium glycinate over magnesium oxide because the oxide form causes digestive upset in a significant percentage of people, particularly those who've had any gut issues. Something like [Thorne Magnesium Bisglycinate](https://amzn.to/placeholder) runs about $25-30 for 60 days and is worth it. (Disclosure: the site may earn a commission on purchases made through links in this article.)
 
-Bone broth is underrated here. One cup of a quality bone broth like Kettle & Fire contains roughly 250-350mg sodium and trace minerals. I tell clients to drink a cup mid-morning and another mid-afternoon during the adaptation phase, which is usually weeks 1-3.
+Bone broth is underrated here. One cup of a quality bone broth like Kettle & Fire contains roughly 250-350mg sodium and trace minerals. A cup mid-morning and another mid-afternoon is an easy routine during the adaptation phase, which is usually weeks 1-3.
 
 ## The Resistance Training Piece
 
