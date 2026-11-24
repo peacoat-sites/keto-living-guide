@@ -63,7 +63,7 @@ A 60g serving of raspberries (about a third of a cup, which is what fits in your
 
 Same 60g of blueberries? About 7.3g net carbs. Not catastrophic, but you've spent a meaningful chunk of your budget on something that doesn't keep you full the way fat and protein do.
 
-Real scenario: Maria, a client I worked with last spring, was eating what she described as "just a small bowl of blueberries" every morning with her yogurt. When we actually weighed it out, her bowl was closer to 150g, putting her at 18g net carbs from berries alone before she'd eaten anything else. She switched to an 80g serving of strawberries and raspberries mixed together (about 5g net carbs total), kept her ketones stable, and stopped wondering why her energy was crashing mid-morning. Action taken: weighed portion and swapped berry mix. Result: net carb intake from berries dropped from 18g to 5g, ketones measured at 1.2 mmol/L by the following week.
+Portion sizes for berries can be deceptively large. A bowl that feels like "just a small serving" might actually contain 150g, delivering 18g net carbs before any other food is eaten. By contrast, an 80g serving of strawberries and raspberries mixed together provides only about 5g net carbs total. Swapping to the smaller, mixed portion can help keep ketone levels stable and prevent mid-morning energy crashes. Weighing portions, rather than estimating by eye, reveals where carbs are actually coming from and makes it easier to stay within target ranges.
 
 The lesson isn't "never eat blueberries." It's that portion size with higher-carb berries requires actual measurement, not eyeballing.
 
@@ -87,7 +87,7 @@ I want to be direct here because sometimes the keto community treats all plant f
 
 Raspberries and blackberries are genuinely high in manganese, vitamin C, and a class of polyphenols called anthocyanins. A 2022 study published in the American Journal of Clinical Nutrition found that higher anthocyanin intake was associated with improved insulin sensitivity and reduced inflammatory markers in adults with metabolic syndrome. That's the population most likely to be doing keto in the first place. You're not just getting a sweet treat; you're getting something that may actively support the metabolic goals you're chasing.
 
-Second concrete example: I worked with a client doing keto for blood sugar management who had eliminated all fruit for six months based on advice from a podcast. He was doing fine on glucose, but his A1c had plateaued and he was eating an extremely monotonous diet. We added 70g of blackberries three or four times a week. A1c continued to improve over the following quarter, and he reported better diet adherence. His endocrinologist noted the polyphenol intake as a likely contributor. Net carb addition was under 15g per week total. Outcome: diet adherence improved and A1c dropped from 5.9 to 5.6 over three months.
+A person following keto for blood sugar management might eliminate all fruit based on podcast advice, even while maintaining stable glucose readings. If A1c plateaus and diet variety suffers, adding 70g of blackberries three or four times a week could shift results. Polyphenols in blackberries may contribute to improvements, with net carb addition under 15g per week total. This approach has resulted in A1c improvements from 5.9 to 5.6 over three months, alongside better diet adherence.
 
 ## Sources
 

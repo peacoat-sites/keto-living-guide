@@ -85,10 +85,10 @@ The fat balance in IP recipes can be tricky because pressure cooking doesn't ren
 ## Sources
 
 - USDA FoodData Central: Nutritional database used for all macro values cited in the comparison table, current data as of 2026
-- Bostock, E.C.S., et al. (2020): "High-Fat Ketogenic Diet and Electrolyte Balance," *Journal of the International Society of Sports Nutrition* -- cited for electrolyte depletion during keto adaptation
-- Wang, Y., et al. (2019): "Effect of Cooking Methods on Vitamin B Retention in Beef," *Food Chemistry* -- cited for pressure cooking's effect on B vitamin preservation
+- Bostock, E.C.S., et al. (2020): "High-Fat Ketogenic Diet and Electrolyte Balance," *Journal of the International Society of Sports Nutrition*, cited for electrolyte depletion during keto adaptation
+- Wang, Y., et al. (2019): "Effect of Cooking Methods on Vitamin B Retention in Beef," *Food Chemistry*, cited for pressure cooking's effect on B vitamin preservation
 - Virta Health Clinical Guidelines (2025): Patient-facing electrolyte recommendations for therapeutic ketogenic diets
-- Rubin, M.R., et al. (2021): "Mineral Content of Bone Broth," *Nutrients* -- cited for sodium and potassium content per cup
+- Rubin, M.R., et al. (2021): "Mineral Content of Bone Broth," *Nutrients*, cited for sodium and potassium content per cup
 
 ---
 

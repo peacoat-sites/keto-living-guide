@@ -88,10 +88,10 @@ Scenario 3: A competitive CrossFit athlete asked about pre-workout energy balls,
 
 ## Sources
 
-- [IFIC Foundation (2021): International Food Information Council Food and Health Survey](https://foodinsight.org) -- annual consumer survey on sweetener perceptions and use patterns
+- [IFIC Foundation (2021): International Food Information Council Food and Health Survey](https://foodinsight.org), annual consumer survey on sweetener perceptions and use patterns
 - Witkowski M, et al. (2023): "The artificial sweetener erythritol and cardiovascular event risk." *Nature Medicine*, March 2023, prospective observational study linking erythritol blood levels to MACE risk
-- Maki KC, et al. (2020): "Erythritol does not cause hyperglycemia or hyperinsulinemia in healthy adults." *Nutrients* -- single-dose crossover trial confirming zero glycemic response
-- Anton SD, et al. (2012): "Effects of stevia, aspartame, and sucrose on food intake, satiety, and postprandial glucose and insulin levels." *Appetite* -- randomized trial showing stevia did not increase caloric compensation or insulin
+- Maki KC, et al. (2020): "Erythritol does not cause hyperglycemia or hyperinsulinemia in healthy adults." *Nutrients*, single-dose crossover trial confirming zero glycemic response
+- Anton SD, et al. (2012): "Effects of stevia, aspartame, and sucrose on food intake, satiety, and postprandial glucose and insulin levels." *Appetite*, randomized trial showing stevia did not increase caloric compensation or insulin
 - EFSA Panel on Food Additives (2015): Scientific opinion on the safety of steviol glycosides for the proposed uses as a food additive, EFSA's safety review establishing ADI of 4mg/kg body weight per day for steviol equivalents
 
 ---

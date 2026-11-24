@@ -44,7 +44,7 @@ Client example: A 41-year-old teacher, Maria, started keto in January and emaile
 
 ## The Cholesterol Question (This One Deserves Careful Attention)
 
-I'll be honest: this is the myth I get most wrong in my predictions for individual clients. The general story -- keto raises HDL, lowers triglycerides, and may or may not raise LDL, is well-supported. A 2020 meta-analysis published in *Nutrients* reviewed 41 trials and found significant reductions in triglycerides (average drop of about 44 mg/dL) and meaningful HDL increases. LDL was more variable, with most participants seeing small to no increase.
+I'll be honest: this is the myth I get most wrong in my predictions for individual clients. The general story, keto raises HDL, lowers triglycerides, and may or may not raise LDL, is well-supported. A 2020 meta-analysis published in *Nutrients* reviewed 41 trials and found significant reductions in triglycerides (average drop of about 44 mg/dL) and meaningful HDL increases. LDL was more variable, with most participants seeing small to no increase.
 
 But here's what that meta-analysis can't tell you about yourself: whether you're a "hyper-responder."
 

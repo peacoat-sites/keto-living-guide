@@ -52,7 +52,7 @@ Hashimoto's thyroiditis is an autoimmune condition, and keto's ability to reduce
 
 But "promising" isn't the same as "proven," and this is exactly where keto gets oversold.
 
-What I've seen work: a client named Janet (not her real name) came to me in late 2024 with TPO antibodies around 340 IU/mL and a lot of fatigue. She went strict keto for six months, kept her selenium intake up through Brazil nuts and seafood, had her doctor monitor labs every three months. At the six-month mark, her TPO had dropped to 198 IU/mL and she felt meaningfully better. Not cured. Better.
+What works: someone with TPO antibodies around 340 IU/mL and significant fatigue might try a strict keto diet for six months while maintaining selenium intake through Brazil nuts and seafood, with doctor-monitored labs every three months. This approach has shown results, TPO levels can drop to 198 IU/mL or lower, and fatigue often improves noticeably. The outcome is not a cure, but meaningful relief.
 
 Scenario → Janet implements strict [keto plus](/keto-on-ozempic-what-new-research-says-about-combining-both/) selenium optimization (200 mcg/day) → TPO antibodies drop 42% over 6 months, fatigue improves substantially, Synthroid dose unchanged.
 

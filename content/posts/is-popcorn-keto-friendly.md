@@ -92,7 +92,7 @@ As of July 2026, there isn't a commercially available "keto popcorn" made from c
 
 - USDA FoodData Central: Nutritional composition database for popcorn varieties (air-popped, oil-popped, microwave), used for all net carb figures in this article
 - Harvard T.H. Chan School of Public Health, Glycemic Index Resource: Glycemic index listings for popcorn and comparative grain-based snacks
-- Batch, J.T. et al. (2020), *Journal of the Academy of Nutrition and Dietetics*: "Advantages of a Whole Food Plant-Based Diet Compared to a Ketogenic Diet" -- referenced for carb threshold adherence data
+- Batch, J.T. et al. (2020), *Journal of the Academy of Nutrition and Dietetics*: "Advantages of a Whole Food Plant-Based Diet Compared to a Ketogenic Diet", referenced for carb threshold adherence data
 - Westman, E.C. et al., *Nutrition & Metabolism* (2008): Foundational study on carbohydrate thresholds for ketosis induction, widely used to establish the 20-50g net carb range
 - Paoli, A. et al. (2013), *European Journal of Clinical Nutrition*: Review of ketogenic diet mechanisms and carbohydrate-insulin response thresholds
 

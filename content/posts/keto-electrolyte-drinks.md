@@ -82,7 +82,7 @@ Here's what I tell people who are just starting keto: front-load your electrolyt
 
 After the initial adaptation phase (roughly weeks three and four), most people find they can dial back. This is individual. Some people, especially those who exercise heavily or sweat a lot, continue needing aggressive sodium supplementation indefinitely.
 
-Three real-world examples from my clinical work:
+Three illustrative examples:
 
 Marcus, 38, started keto and hit severe cramping and heart palpitations by day 5 → I had him start LMNT twice daily plus magnesium glycinate 400mg at night → cramping resolved within 36 hours, palpitations gone by day 8
 

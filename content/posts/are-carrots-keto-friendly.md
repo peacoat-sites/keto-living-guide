@@ -65,7 +65,7 @@ For example, someone doing strict keto at 20g net carbs per day could eat a smal
 
 A beef stew with three large carrots divided into six portions contains about half a carrot per serving, around 2.2g net carbs from carrots alone. But eyeballing portions rather than weighing them can lead to eating closer to two servings at a time without realizing it. A kitchen scale makes the difference between thinking you're eating one portion and discovering you've actually consumed more.
 
-Client scenario 3: Janet, 38, came to me frustrated that her ketone levels had dropped after she started juicing. She was having a 16-oz fresh-pressed carrot juice every morning as a "health habit." That single juice was delivering approximately 42 grams of net carbs, which is more than double a strict keto daily limit before breakfast. → She switched to a small green juice (cucumber, celery, lemon, ginger, no carrots) → Ketone levels recovered within a week.
+A person on a strict keto diet who starts a morning habit of 16-oz fresh-pressed carrot juice may find their ketone levels drop. That single juice delivers approximately 42 grams of net carbs, which is more than double a strict keto daily limit before breakfast. Switching to a small green juice made from cucumber, celery, lemon, and ginger instead can help ketone levels recover within a week.
 
 ## What About the Nutritional Case for Keeping Them?
 

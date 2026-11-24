@@ -87,11 +87,11 @@ One thing people don't tell you: the first ten days, you'll likely have strong h
 
 ## Sources
 
-- Varady, K.A. et al. (2022): "Cardiometabolic Benefits of Intermittent Fasting," *Annual Review of Nutrition* -- covers dropout rates and metabolic outcomes across IF protocols including OMAD-style approaches.
-- Wilkinson, M.J. et al. (2020): "Ten-Hour Time-Restricted Eating Reduces Weight, Blood Pressure, and Atherogenic Lipids in Patients with Metabolic Syndrome," *Cell Metabolism* -- key data on TRE and insulin sensitivity.
+- Varady, K.A. et al. (2022): "Cardiometabolic Benefits of Intermittent Fasting," *Annual Review of Nutrition*, covers dropout rates and metabolic outcomes across IF protocols including OMAD-style approaches.
+- Wilkinson, M.J. et al. (2020): "Ten-Hour Time-Restricted Eating Reduces Weight, Blood Pressure, and Atherogenic Lipids in Patients with Metabolic Syndrome," *Cell Metabolism*, key data on TRE and insulin sensitivity.
 - Phillips, S.M. et al.: Ongoing lab research at McMaster University on per-meal protein synthesis limits; frequently cited in sports nutrition literature, accessible via PubMed.
-- Sutton, E.F. et al. (2018): "Early Time-Restricted Feeding Improves Insulin Sensitivity, Blood Pressure, and Oxidative Stress Even without Weight Loss in Men with Prediabetes," *Cell Metabolism* -- relevant to the insulin sensitivity mechanism underlying keto OMAD.
-- Manoogian, E.N.C. & Panda, S. (2017): "Circadian rhythms, time-restricted feeding, and healthy aging," *Ageing Research Reviews* -- chronobiology background for meal timing recommendations.
+- Sutton, E.F. et al. (2018): "Early Time-Restricted Feeding Improves Insulin Sensitivity, Blood Pressure, and Oxidative Stress Even without Weight Loss in Men with Prediabetes," *Cell Metabolism*, relevant to the insulin sensitivity mechanism underlying keto OMAD.
+- Manoogian, E.N.C. & Panda, S. (2017): "Circadian rhythms, time-restricted feeding, and healthy aging," *Ageing Research Reviews*, chronobiology background for meal timing recommendations.
 
 ---
 

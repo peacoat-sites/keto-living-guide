@@ -113,10 +113,10 @@ Check out [Lily's sugar-free chocolate chips](https://www.amazon.com) as a stead
 
 ## Sources
 
-- Accurso, A. et al. (2008): "Dietary carbohydrate restriction in type 2 diabetes mellitus and metabolic syndrome," *Nutrition & Metabolism* -- foundational work on carbohydrate metabolism relevant to ingredient choices in low-carb baking.
+- Accurso, A. et al. (2008): "Dietary carbohydrate restriction in type 2 diabetes mellitus and metabolic syndrome," *Nutrition & Metabolism*, foundational work on carbohydrate metabolism relevant to ingredient choices in low-carb baking.
 - Bob's Red Mill product testing data: documentation on blanched vs. almond meal differences in baked applications, available on their technical resources page.
 - Emmerich, Maria. *Simply Keto* (2017): practical keto baking techniques with detailed notes on flour behavior and moisture ratios.
-- Westman, E.C., Feinman, R.D. et al.: "Low-carbohydrate nutrition and metabolism," *American Journal of Clinical Nutrition* (2007) -- context on how fat and carbohydrate ratios affect metabolic outcomes in dietary patterns.
+- Westman, E.C., Feinman, R.D. et al.: "Low-carbohydrate nutrition and metabolism," *American Journal of Clinical Nutrition* (2007), context on how fat and carbohydrate ratios affect metabolic outcomes in dietary patterns.
 - Lakanto product documentation: comparative sweetness ratios and baking behavior notes for monk fruit/erythritol blends vs. pure erythritol.
 
 ---

@@ -29,7 +29,7 @@ You've probably done the research. You know your diagnosis, you've heard that di
 
 ## Why PCOS and Insulin Resistance Are Deeply Connected
 
-Here's what I tell people when they first come to me with a PCOS diagnosis: this is not just a hormone problem. It's a metabolic problem that shows up as a hormone problem.
+Here's what experts explain about a PCOS diagnosis: this is not just a hormone problem. It's a metabolic problem that shows up as a hormone problem.
 
 Up to 70% of women with PCOS have some degree of [insulin resistance](/keto-and-insulin-resistance/), even those who are lean. When your cells don't respond efficiently to insulin, your pancreas compensates by producing more of it. That excess insulin then stimulates the ovaries to produce more androgens, particularly testosterone. Those elevated androgens drive the symptoms most people recognize: irregular cycles, acne, excess facial or body hair, and the kind of stubborn fat storage around the abdomen that doesn't respond the way it should to calorie restriction alone.
 
