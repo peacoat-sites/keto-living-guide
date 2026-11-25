@@ -84,17 +84,11 @@ This is why I tell people considering keto long-term to honestly ask themselves 
 
 ## Sources
 
-- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [Redmond Re-Lyte](https://www.amazon.com/s?k=Redmond+Re-Lyte+electrolytes&tag=contentportfo-20)
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20)
 - [Jess Loiterton](https://www.pexels.com/@jess-vide)
-- on ketogenic diets the way we do for
 
 A few things matter more than almost everything else if you're doing this for years:
 
 Regular bloodwork. At minimum: a full lipid panel with LDL-P or ApoB if you can get it, fasting glucose, HbA1c, a metabolic panel to check kidney and liver function, and vitamin D. Every six months for the first two years, then annually if everything looks stable.
-
-Food quality over macros. The longevity research keeps pointing the same direction: the *type* of fat matters. Olive oil, fatty fish, avocado, nuts, grass-fed meat. Not processed keto products with palm oil and a laundry list of fillers. I use a [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20) to track portions precisely, especially for nuts, which are easy to overdo.
 
 Fiber. This is the biggest nutritional gap I see in long-term keto eaters. Most people drop to 5-10g of fiber per day. The research on gut microbiome health is pretty clear that your bacteria need fermentable fiber to thrive, and that matters for everything from immunity to mental health. Non-starchy vegetables, chia seeds, flax, and psyllium husk can get you to 25g+ without blowing your carb budget.
 
@@ -109,5 +103,3 @@ Get the bloodwork. Eat the vegetables. And don't let anyone, including me, make 
 ---
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
-
----

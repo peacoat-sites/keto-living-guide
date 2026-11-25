@@ -31,9 +31,7 @@ The short answer: successful keto maintenance means recalibrating your carbohydr
 
 Here's what the phase actually involves, who handles it well, and where the standard advice misses the mark.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Maintenance carb thresholds vary: most people can sustain 50-100g net carbs/day without full weight regain.</li><li style="margin:5px 0">Calorie intake needs an upward adjustment from the deficit you used to lose weight.</li><li style="margin:5px 0">Metabolic flexibility, not strict ketosis, is the realistic goal for most long-term maintainers.</li><li style="margin:5px 0">Reintroducing carbs too fast, too soon after weight loss is the leading cause of rapid regain.</li><li style="margin:5px 0">Regular weight tracking (weekly, same conditions) catches drift before it becomes a problem.</li></ul></div>
-
 
 ## What Maintenance Actually Changes
 
@@ -111,7 +109,6 @@ Electrolytes remain relevant in maintenance if you're staying low-carb. Many peo
 - **Precision Nutrition**: Practical resources on body composition and dietary flexibility during weight maintenance phases.
 
 ---
-
 
 *Photo: [Jane  T D.](https://www.pexels.com/@janetrangdoan) via Pexels*
 

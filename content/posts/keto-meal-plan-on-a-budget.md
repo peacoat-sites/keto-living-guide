@@ -120,9 +120,6 @@ If you want a convenient electrolyte option, [electrolyte supplements formulated
 
 ## Sources
 
-- [A reliable option on Amazon](https://www.amazon.com/s?k=digital+kitchen+scale)
-- [electrolyte supplements formulated for keto](https://www.amazon.com/s?k=keto+electrolyte+supplement)
-- [Good-quality glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
 - [Rulo Davila](https://www.pexels.com/@rulomx)
 
 Buying the right foods is one thing. Getting them at the best price is another. A few strategies I consistently recommend:
@@ -136,8 +133,6 @@ Buying the right foods is one thing. Getting them at the best price is another. 
 **Generic and store brands are usually fine.** For pantry staples, canned goods, frozen vegetables, and spices, the store brand performs identically to the name brand. The money you save on spices alone adds up.
 
 **Discount grocery stores and ethnic markets are underused.** Asian and Latin grocery stores often have significantly cheaper produce and proteins than mainstream chains, and they tend to stock exactly the kind of ingredients that work well on keto: ginger, bok choy, pork belly, cabbage, canned fish.
-
-For meal prep, having the right containers makes a real difference in whether you actually follow through. [Good-quality glass meal prep containers](https://www.amazon.com/s?k=glass+meal+prep+containers) are worth the investment because they go from freezer to oven without issue and don't absorb odors the way plastic does.
 
 Eating keto on a tight budget is genuinely possible. But it requires you to let go of the version of keto you see in glossy food photography. The version that works in real life looks like chicken thighs and eggs and a head of cabbage and a slow cooker doing its thing while you're at work. It's less photogenic and considerably more sustainable. As with any significant dietary change, if you have underlying health conditions or take medications, it's worth checking in with your doctor or a registered dietitian before making major shifts. But if you've been held back by the assumption that keto has to be expensive, I hope this makes it a little easier to take the first practical step.
 

@@ -81,10 +81,7 @@ Electrolytes matter more on cycling days, not less. The glycogen/water flux mess
 
 ## Sources
 
-- [A good kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food&tag=contentportfo-20)
-- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
 - [Biel Heinrich](https://www.pexels.com/@biel-heinrich-114407456)
-- in the *Journal of the International Society of Sports Nutrition* showed measura
 
 Carb cycling is harder psychologically than strict keto for a lot of people. You'd think more flexibility would be easier to maintain. It often isn't.
 

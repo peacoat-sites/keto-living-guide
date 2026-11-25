@@ -76,10 +76,7 @@ Salt, potassium, magnesium. These matter even on a normal keto day. After drinki
 
 ## Sources
 
-- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
 - [Karolina Grabowska www.kaboompics.com](https://www.pexels.com/@karola-g2)
-- suggests that even pure ethanol can blunt fat oxidation for 12-24 hours in certa
-- here is genuinely mixed
 
 Bar menus are not your enemy.
 

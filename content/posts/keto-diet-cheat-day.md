@@ -77,11 +77,7 @@ Here's what works:
 
 ## Sources
 
-- [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks)
-- [electrolytes](https://www.amazon.com/s?k=keto+electrolytes)
 - [taha balta](https://www.pexels.com/@taha-balta-3031128)
-- what's the point. Keto
-- on cycling in and out of ketosis is genuinely mixed
 
 Some people do loose low-carb without obsessing over exact macros. A moderate meal hitting 60-80 grams of carbs is less disruptive for them than for someone tracking strictly.
 

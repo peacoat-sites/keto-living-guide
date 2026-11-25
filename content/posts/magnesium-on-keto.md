@@ -96,11 +96,7 @@ Hitting 350 to 400mg from food alone while keeping carbs under 20 to 30g is genu
 
 ## Sources
 
-- [Thorne Magnesium Bisglycinate](https://www.amazon.com/s?k=magnesium+glycinate+supplement&tag=contentportfo-20)
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutrition&tag=contentportfo-20)
-- [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=contentportfo-20)
 - [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
-- here is mixed and I won't oversell it
 
 If you're dealing with symptoms right now, here's what I'd actually walk through with a client:
 
@@ -115,8 +111,6 @@ If you're dealing with symptoms right now, here's what I'd actually walk through
 5. **Watch for interactions.** If you take medications for blood pressure, heart arrhythmia, or diabetes, check with your doctor before supplementing. Magnesium has real physiological effects and isn't consequence-free in certain clinical situations.
 
 6. **Track a few key symptoms.** Rate your sleep quality, cramp frequency, and constipation on a simple 1-10 scale before you start. It makes it much easier to know whether what you're doing is actually working.
-
-A quality [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+nutrition&tag=contentportfo-20) can help you accurately portion magnesium-rich foods like seeds and nuts when you're tracking intake. And if you want to keep electrolytes balanced more broadly, an [electrolyte supplement that includes magnesium](https://www.amazon.com/s?k=keto+electrolyte+supplement+magnesium&tag=contentportfo-20) rather than just sodium and potassium can simplify the whole process. (Disclosure: this site may earn a commission on qualifying purchases.)
 
 ---
 

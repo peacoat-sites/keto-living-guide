@@ -108,11 +108,7 @@ The ADA's actually updated its position in recent years to accept low-carb eatin
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+keto)
-- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement)
-- [Perfect Keto bars](https://www.amazon.com/s?k=perfect+keto+bars)
 - [Artem Podrez](https://www.pexels.com/@artempodrez)
-- in *Diabetes Therapy* tracked 349 adults with type 2 diabetes through a year of
 
 Keto isn't for everyone with type 2 diabetes. Pretending otherwise would be reckless.
 

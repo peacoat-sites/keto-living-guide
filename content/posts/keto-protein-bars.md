@@ -71,10 +71,7 @@ If you're using bars regularly, pair them with good electrolytes (I like LMNT pa
 
 ## Sources
 
-- [Quest Bars on Amazon](https://www.amazon.com/s?k=quest+protein+bars)
 - [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682)
-- on glycemic impact varies across individuals
-- in the Journal of Nutrition found they behave more like digestible carbs
 
 #### Are protein bars actually keto-friendly?
 

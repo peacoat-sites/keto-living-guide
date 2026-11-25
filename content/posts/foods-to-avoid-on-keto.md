@@ -115,10 +115,7 @@ Non-alcoholic beverages aren't innocent either. Fruit juices, sweetened iced tea
 
 ## Sources
 
-- [A digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale)
-- [electrolyte supplements](https://www.amazon.com/s?k=keto+electrolytes)
 - [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682)
-
 
 | Food | Net Carbs (typical serving) | Keto-Friendly? |
 |---|---|---|

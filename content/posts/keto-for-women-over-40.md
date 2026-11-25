@@ -119,10 +119,6 @@ Here's where keto gets specific to women, and where generic advice breaks down.
 
 ## Sources
 
-- [A good one](https://www.amazon.com)
-- [LMNT](https://www.amazon.com)
-- [Good meal prep containers](https://www.amazon.com)
-- [MCT oil](https://www.amazon.com)
 - [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
 
 This is a template, not gospel. It shows eating keto doesn't mean subsisting on bacon:
@@ -134,8 +130,6 @@ This is a template, not gospel. It shows eating keto doesn't mean subsisting on 
 | Wednesday | 3-egg omelet, cheddar, mushrooms | Leftover beef stir fry | Salmon fillet + asparagus + lemon butter | Olives + pumpkin seeds |
 | Thursday | Bulletproof coffee + 2 bacon strips + 2 eggs | Big green salad, grilled chicken, olive oil dressing | Pork tenderloin + cauliflower mash + green beans | Small handful macadamia nuts |
 | Friday | Keto smoothie (almond milk, spinach, protein powder, MCT oil) | Egg salad stuffed in avocado | Shrimp stir fry, bok choy, garlic butter | Celery + almond butter |
-
-For smoothies, [MCT oil](https://www.amazon.com) converts to ketones quickly and sustains energy without spiking insulin. Start with one teaspoon if you're new to it; more than that causes digestive trouble.
 
 ---
 

@@ -127,9 +127,6 @@ If energy crashes are hitting hard in the first two weeks, it's probably electro
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com)
-- [Glass meal prep containers](https://www.amazon.com)
-- [electrolyte supplement](https://www.amazon.com)
 - [Lukas Blazek](https://www.pexels.com/@goumbik)
 
 **Eating too lean.** This is the biggest one. People terrified of fat choose 99% lean turkey, skip the olive oil, and wonder why they're ravenous by 9pm. Keto works because fat is satiating. Don't fight it. Use 80/20 beef. Cook your chicken in butter. Dress your vegetables generously.

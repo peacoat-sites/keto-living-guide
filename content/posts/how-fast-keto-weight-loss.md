@@ -110,11 +110,7 @@ Getting electrolytes right doesn't just stop the symptoms. It actually supports 
 
 ## Sources
 
-- [Etekcity Digital Kitchen Scale](https://www.amazon.com/s?k=kitchen+food+scale)
-- [Prep Naturals Glass Meal Prep Containers](https://www.amazon.com/s?k=glass+meal+prep+containers)
-- [LMNT Electrolytes](https://www.amazon.com/s?k=LMNT+electrolytes)
 - [www.kaboompics.com](https://www.pexels.com/@karola-g)
-- here is genuinely interesting
 
 Stalled for more than three to four weeks? Something needs to change. Here's how to work through it systematically.
 

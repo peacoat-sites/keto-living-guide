@@ -107,19 +107,11 @@ Prep matters here. When you're only eating in a defined window, having food read
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20)
-- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
-- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
-- [quality meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
-- [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20)
-
 Adding intermittent fasting to keto can help some people drop another 8 to 12 pounds over a couple of months. But it's worth understanding why it works, because that understanding helps you troubleshoot if it stops working.
 
 The combination helps the plateau problem for two reasons. First, it creates a natural caloric deficit without obsessive counting. If you can only eat between noon and 8pm, you're probably eating less than you were. Second, fasting periods increase lipolysis (the breakdown of fat for fuel) and can elevate ketone levels, which some people find helps with appetite regulation and mental clarity.
 
 What it isn't: a metabolic loophole. You still need a caloric deficit to lose body fat over time. You still need adequate protein to avoid losing muscle. If you're cramming two meals worth of fat bombs and keto treats into your eating window, the fasting window won't compensate. A common frustration: someone tries keto with intermittent fasting but eats 2,800 calories in eight hours without realizing it. The foods are dense, and the fasting window can create a false sense of permission to eat freely when it opens.
-
-Keep things like [keto-friendly snacks](https://www.amazon.com/s?k=keto+snacks&tag=contentportfo-20) around for genuine hunger, not recreational eating. There's a difference.
 
 ---
 

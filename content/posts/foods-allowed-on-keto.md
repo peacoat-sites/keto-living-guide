@@ -145,8 +145,6 @@ For meal prep, the biggest lever you can pull is portioning and organizing ahead
 
 ## Sources
 
-- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
-- [kitchen scale](https://www.amazon.com/s?k=food+kitchen+scale&tag=contentportfo-20)
 - [Ivan Vi](https://www.pexels.com/@juanvidas)
 
 Beverages are a quiet carb trap. Water is always the right answer. Coffee and tea are fine, black or with heavy cream. Sparkling water is great. Diet sodas are technically zero carbs, but artificial sweeteners affect some people's insulin response and cravings, so they're worth experimenting with rather than assuming they're neutral.

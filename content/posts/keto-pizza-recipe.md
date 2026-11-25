@@ -72,7 +72,6 @@ This crust won't hold up to being picked up like a slice. It's a fork-and-knife 
 
 ## Sources
 
-- [pizza stone](https://www.amazon.com/s?k=pizza+stone&tag=)
 - [Nomad Ashwin](https://www.pexels.com/@nomad-ashwin-509086572)
 
 Classic tomato sauce is fine on keto. Two or three tablespoons of a no-sugar-added marinara (Rao's Homemade is excellent and widely available, about $9 a jar) has maybe 2-3g net carbs for the whole pizza. Some people swap in crushed San Marzano tomatoes with olive oil and garlic, which is also great.
@@ -83,8 +82,6 @@ What to avoid: corn, regular pizza sauce brands that add sugar, and any "flatout
 
 ---
 
----
-
 Make it once and you'll see exactly where recipes cut corners. The dough is a 15-minute project. Once you've done it a few times, you can have it in the oven faster than ordering delivery. That's the part nobody tells you upfront.
 
 *Photo: [Nomad Ashwin](https://www.pexels.com/@nomad-ashwin-509086572) via Pexels*
@@ -92,5 +89,3 @@ Make it once and you'll see exactly where recipes cut corners. The dough is a 15
 ---
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
-
----

@@ -123,5 +123,3 @@ Don't expect linear results. Week one and two are often weird: electrolytes fluc
 ---
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
-
----

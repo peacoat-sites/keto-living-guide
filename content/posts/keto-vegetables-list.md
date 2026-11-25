@@ -142,9 +142,6 @@ A kitchen scale and a reliable carb-tracking app make this kind of monitoring mu
 
 ## Sources
 
-- [digital kitchen scale](https://www.amazon.com)
-- [keto electrolyte supplement](https://www.amazon.com)
-
 Here's a practical approach I give to clients who are meal prepping or just trying to get the week organized.
 
 **Step 1: Choose your leafy green base.** Start every dinner plate with a foundation of leafy greens. Two cups of spinach, arugula, or romaine costs you almost nothing in carbs and gives you a real nutritional foundation.
@@ -156,8 +153,6 @@ Here's a practical approach I give to clients who are meal prepping or just tryi
 **Step 4: Fat is not optional.** Dress your vegetables with olive oil, butter, avocado oil, or a creamy sauce. Fat-soluble vitamins in vegetables (like vitamins A, D, E, and K) require fat to be absorbed properly. This isn't indulgence. It's biochemistry.
 
 **Step 5: Track for the first few weeks.** You don't have to track forever, but until you have a reliable sense of what different portions look like in terms of carb counts, some tracking helps. Most people are surprised by how much they were underestimating or overestimating.
-
-Pairing your vegetables with a quality electrolyte supplement is also smart, especially early in keto. Many of the vegetables on the keto-friendly list provide potassium and magnesium, but often not enough to offset what you lose when glycogen stores drop and your kidneys start excreting more sodium. A good [keto electrolyte supplement](https://www.amazon.com) can bridge that gap. *(Disclosure: this site may earn a commission on purchases made through links.)*
 
 Eating vegetables on keto isn't complicated once you understand the basic framework. Prioritize above-ground, fiber-rich vegetables, track the moderate ones, and skip the starchy ones entirely. You don't need to fear produce. You just need to know what you're working with. Start by building a few reliable meals around the vegetables you already like, get comfortable with those, and expand from there.
 

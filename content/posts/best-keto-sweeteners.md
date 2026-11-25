@@ -96,10 +96,7 @@ Beyond the bulking agent issue, there's ongoing debate about whether sucralose a
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+baking)
 - [Leeloo The First](https://www.pexels.com/@leeloothefirst)
-- from the Cleveland Clinic suggesting a possible association between high erythri
-- is preliminary
 
 Swapping sweeteners isn't always a one-to-one trade. Here's how to approach it practically.
 
@@ -112,8 +109,6 @@ Swapping sweeteners isn't always a one-to-one trade. Here's how to approach it p
 **Step 4: Add liquid sweeteners at the end.** Monk fruit extract and liquid stevia don't contribute bulk. Add them after you've established your base measurements with a solid sweetener. Start with less than you think you need; both can turn bitter if you overshoot.
 
 **Step 5: Test your personal tolerance separately.** Before you make a full batch of keto fudge with a new sweetener, eat a small amount of that sweetener on its own and wait a few hours. Digestive sensitivity is real and individual. Finding out during a party dessert is suboptimal.
-
-If you're baking regularly, a [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+baking) makes a meaningful difference in getting sweetener ratios right, since volume measurements for granulated sweeteners vary considerably by grind size. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

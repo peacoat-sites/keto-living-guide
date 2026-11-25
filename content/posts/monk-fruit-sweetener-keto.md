@@ -31,9 +31,7 @@ What's worth unpacking is the gap between "monk fruit extract" and what you actu
 
 The good news is that the dominant commercial format pairs monk fruit with erythritol, and that combination is genuinely well-tolerated on keto.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pure monk fruit extract has zero net carbs and doesn't spike blood sugar or insulin.</li><li style="margin:5px 0">Most retail monk fruit products are blends; check for dextrose or maltodextrin before buying.</li><li style="margin:5px 0">Monk fruit + erythritol blends (like Lakanto) are the most common keto-safe retail format.</li><li style="margin:5px 0">Erythritol has ~0.2 calories/gram and minimal glycemic effect; it's generally listed as zero net carbs.</li><li style="margin:5px 0">Digestive tolerance varies; large amounts of erythritol cause GI issues in some people.</li></ul></div>
-
 
 ## What Monk Fruit Actually Is
 
@@ -97,7 +95,6 @@ One more group: people with IBS or significant digestive sensitivity may want to
 - [International Food Information Council (IFIC)](https://ific.org): Consumer-facing summaries of sweetener safety research.
 
 ---
-
 
 *Photo: [Evgeniy Alekseyev](https://www.pexels.com/@shliftik) via Pexels*
 

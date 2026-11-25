@@ -103,17 +103,9 @@ Neither version is inherently superior. They serve different goals and different
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale&tag=contentportfo-20)
-- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
-- [MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20)
-- doesn't fully support that panic
-
-
 Lazy keto will likely produce slower fat loss results than strict keto for most people, particularly in the first few months. Removing calorie tracking removes a real feedback loop. That's the trade-off and it's fair to make it, as long as you're making it with clear eyes.
 
 What lazy keto does reliably: reduces decision fatigue. Keeps carbs low enough for many people to reach and maintain ketosis. Makes long-term adherence more realistic. And long-term adherence is almost always more valuable than short-term perfection.
-
-[MCT oil](https://www.amazon.com/s?k=MCT+oil+keto&tag=contentportfo-20) can be a useful tool here, especially during the transition. Adding it to coffee or a smoothie shifts your fat intake up without requiring a big meal restructure, which helps if your lazy keto meals are running protein-heavy. Start with a teaspoon and work up. Jumping straight to a tablespoon is a reliable way to spend an unpleasant afternoon.
 
 ---
 

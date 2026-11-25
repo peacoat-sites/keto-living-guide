@@ -75,17 +75,11 @@ A kitchen scale is quietly one of the most useful investments you'll make. Eyeba
 
 ## Sources
 
-- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [Escali Primo Digital Scale](https://www.amazon.com/s?k=Escali+Primo+digital+food+scale&tag=contentportfo-20)
-- [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=contentportfo-20)
 - [RUN 4 FFWPU](https://www.pexels.com/@runffwpu)
-- in the Journal of Physiology
 
 Once you're fully adapted, many low-carb runners find they need little to no fuel during runs under 90 minutes. This is real and it's one of the genuine practical advantages: no gel dependency on moderate-distance runs.
 
 For longer efforts, things get more complicated. Some adapted runners go completely fat-fueled and do well. Others use targeted keto, taking 20-30g of fast carbs immediately before a long effort or hard workout, then returning to strict keto. This doesn't fully knock you out of ketosis and it blunts the performance hit at higher intensities. It's a reasonable middle ground that a lot of endurance athletes find practical.
-
-MCT oil is worth mentioning. [MCT oil](https://www.amazon.com/s?k=MCT+oil+powder&tag=contentportfo-20) converts quickly to ketones and some runners use it as a pre-run fuel source. The evidence that it improves performance is modest at best, but as a source of fast-burning fat calories before a run, it works. Start small. Your gut will let you know if you've gone too fast.
 
 Runners who succeed on keto treat it like a training adaptation: patient and methodical, willing to accept temporary regression for a longer-term shift. Whether that trade-off makes sense for you depends entirely on what kind of runner you are and what you actually want. Working with a sports dietitian who knows both endurance training and low-carb physiology is worth the investment if you're serious about getting this right.
 

@@ -101,7 +101,6 @@ People tend to make the same errors, and they're all easy to fix.
 
 ## Sources
 
-- [Ozeri Pronto Digital Kitchen Scale on Amazon](https://www.amazon.com/s?k=kitchen+scale+for+cooking)
 - [Angele J](https://www.pexels.com/@angele-j-35172)
 
 Ground beef is one of the best ingredients for keto meal prep. Cook a large batch on Sunday and repurpose it across the week.
@@ -114,8 +113,6 @@ Here's a realistic four-meal plan from a single 2-pound batch of browned, season
 | Tuesday Lunch | Lettuce wrap tacos with avocado | 4g |
 | Wednesday Dinner | Cheesy skillet with zucchini | 4g |
 | Thursday Lunch | Stuffed bell pepper | 7g |
-
-This kind of planning is exactly what makes keto sustainable long-term. You're not cooking from scratch every day, you're working smarter. A good kitchen scale (something like the [Ozeri Pronto Digital Kitchen Scale on Amazon](https://www.amazon.com/s?k=kitchen+scale+for+cooking)) helps you portion accurately and hit your macros consistently. The site may earn a commission if you buy through that link.
 
 For more structured meal ideas that require minimal daily effort, our collection of [easy keto meals](/easy-keto-meals/) is a solid starting point.
 

@@ -120,20 +120,11 @@ The biggest mistake I see is treating avocado like a prep ingredient. It's not. 
 
 ## Sources
 
-- [A digital food scale](https://www.amazon.com/s?k=digital+food+scale)
-- [Glass meal prep containers with locking lids](https://www.amazon.com/s?k=glass+meal+prep+containers+with+lids)
-- [Quality MCT oil](https://www.amazon.com/s?k=mct+oil+keto)
-- [keto electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement)
-
 Keto works within a range, not a perfect number. Most people doing therapeutic keto for weight loss are aiming to stay under 20-50g net carbs per day, with fat making up roughly 60-75% of calories and protein somewhere around 20-25%. Those ranges vary by individual, and if you have a specific medical reason for doing keto, you should be working with a healthcare provider on your exact targets.
 
 For lunch specifically, aim for something in the range of 400-600 calories (exact amount depends on your total daily target), with at least 25-35g of protein to keep you satisfied through the afternoon.
 
 A few practical tools that help:
-
-**MCT oil** is one of the most legitimate supplements in the keto world. It's rapidly converted to ketones, making it useful for people who struggle to stay in ketosis or who want a cognitive boost mid-day. A tablespoon stirred into a dressing or added to a sauce can bring up the fat percentage of a lunch without changing the flavor much. [Quality MCT oil](https://www.amazon.com/s?k=mct+oil+keto) varies a lot in purity and source, so it's worth looking at what you're buying. C8 (caprylic acid) is the most ketogenic form.
-
-**Electrolytes** are genuinely important on keto, not a marketing gimmick. The kidneys excrete more sodium, potassium, and magnesium on a low-carb diet. If you're getting afternoon headaches or fatigue, the culprit is usually electrolytes, not your macros. A good [keto electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement) or even just being deliberate about salting your food and eating magnesium-rich foods (leafy greens, nuts) makes a real difference.
 
 Tracking apps like Cronometer or Carb Manager are both useful for learning what's in your food. I don't think most people need to track forever, but spending two or three weeks accurately logging teaches you patterns that stick.
 

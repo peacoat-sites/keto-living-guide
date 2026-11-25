@@ -128,10 +128,6 @@ Here's a quick comparison of common fat bomb bases:
 
 ## Sources
 
-- [MCT oil](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20)
-- [silicone mold](https://www.amazon.com/s?k=silicone+candy+mold+keto&tag=contentportfo-20)
-- [airtight container](https://www.amazon.com/s?k=meal+prep+containers+airtight&tag=contentportfo-20)
-- [kitchen scale](https://www.amazon.com/s?k=digital+kitchen+scale&tag=contentportfo-20)
 - [ROMAN ODINTSOV](https://www.pexels.com/@roman-odintsov)
 
 Skipping salt is the most common one. Fat without salt tastes flat and doesn't satisfy in the same way. Even sweet fat bombs benefit from a pinch of sea salt because it rounds out flavor and makes the sweetness register more clearly.

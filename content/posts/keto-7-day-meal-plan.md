@@ -164,11 +164,8 @@ MCT oil is another useful addition during week one. A tablespoon in coffee or a 
 
 ## Sources
 
-- [This one on Amazon](https://www.amazon.com/s?k=kitchen+food+scale&tag=contentportfo-20)
-- [Bulletproof or Sports Research brands](https://www.amazon.com/s?k=mct+oil+keto&tag=contentportfo-20)
 - [Ella Olsson](https://www.pexels.com/@ella-olsson-572949)
 - brands](https://www
-
 
 Weight loss and maintenance look different on keto, and so does this meal plan depending on your starting point.
 

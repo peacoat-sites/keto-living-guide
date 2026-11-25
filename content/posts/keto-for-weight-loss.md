@@ -119,11 +119,7 @@ If your primary goal is fat loss and you're not a high-level athlete, standard k
 
 ## Sources
 
-- [This OXO digital scale](https://www.amazon.com)
-- [LMNT is popular](https://www.amazon.com)
 - [Annushka Ahuja](https://www.pexels.com/@annushka-ahuja)
-- in *Obesity Reviews* found that very low-carb diets produced significantly great
-- found that subjects in ketosis maintained muscle during resistance training whil
 
 Keto works solo. But pair it with the right movement and everything accelerates.
 

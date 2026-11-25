@@ -133,9 +133,7 @@ Adding [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20) to a s
 
 ## Sources
 
-- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=contentportfo-20)
 - [Tamanna Rumee](https://www.pexels.com/@tamanna-rumee-52377920)
-
 
 Having the list is half the battle. Using it well is the other half.
 

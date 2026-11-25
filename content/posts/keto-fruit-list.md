@@ -118,12 +118,7 @@ One caveat on blueberries: they're frequently lumped in with raspberries and bla
 
 ## Sources
 
-- [A reliable kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food+digital&tag=)
-- [MCT oil powder](https://www.amazon.com/s?k=mct+oil+powder+keto&tag=)
-- [keto-friendly nuts](https://www.amazon.com/s?k=keto+snack+nuts+mixed&tag=)
-- [quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=)
 - [Ar kay](https://www.pexels.com/@ar-kay-768552413)
-
 
 Sometimes the issue isn't avoiding fruit entirely. It's replacing what fruit provides: sweetness, freshness, brightness.
 
@@ -132,10 +127,6 @@ For **sweetness in smoothies or yogurt bowls**, frozen raspberries or blackberri
 For **citrus flavor in cooking**, lemon and lime zest deliver intense flavor with almost zero carbs. A tablespoon of fresh lemon juice is about 1.3g net carbs. Use it liberally. It wakes up everything from roasted chicken to keto cheesecake.
 
 For **texture and bulk in fruit salads**, cucumber (yes) and jicama both have mild sweetness, high water content, and very low carbs. Diced cucumber with lime juice, mint, and a few blackberries tastes genuinely refreshing without the carb hit.
-
-For **snacking**, freeze-dried raspberries or strawberries give you concentrated fruit flavor in small quantities. Check labels for added sugar, but plain freeze-dried berries are usually just fruit. A small amount goes a long way. Pair with some [keto-friendly nuts](https://www.amazon.com/s?k=keto+snack+nuts+mixed&tag=) and you have a satisfying snack that travels well.
-
-If you're finding fruit cravings are persistent and intense, it's often a sign that electrolytes are low. Magnesium deficiency in particular drives sweet cravings. Worth addressing with a [quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=) before assuming you have a willpower problem.
 
 The honest version of keto fruit guidance isn't "eat no fruit ever" or "fruit is natural so eat as much as you want." It's "know your numbers, pick your battles, and spend your carb budget where it earns you the most." For most people, a half-cup of raspberries over full-fat yogurt fits keto comfortably and doesn't require any sacrifice worth grieving. That's not deprivation. That's just eating with intention. As always, if you have specific health conditions or are working with a clinician on your diet, loop them in before making significant changes.
 

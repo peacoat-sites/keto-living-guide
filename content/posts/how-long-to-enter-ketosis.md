@@ -95,10 +95,6 @@ If you want to get into ketosis as fast as safely possible, here's a practical s
 
 ## Sources
 
-- [LMNT and similar no-sugar electrolyte packets](https://www.amazon.com/s?k=keto+electrolytes&tag=contentportfo-20)
-- [C8 MCT oil](https://www.amazon.com/s?k=C8+MCT+oil&tag=contentportfo-20)
-- [Blood ketone meters](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
-- [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=contentportfo-20)
 - [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich)
 
 Testing is reliable. Symptoms are less so.
@@ -112,8 +108,6 @@ For real confirmation:
 | Urine strips | Acetoacetate | Low to moderate (varies by hydration) | Very low (~$10 for 100 strips) |
 | Blood meter | Beta-hydroxybutyrate | High | Moderate (meter ~$30, strips ~$1 each) |
 | Breath meter | Acetone | Moderate | High upfront (~$150 to $200) |
-
-For a beginner, urine strips confirm you've entered ketosis initially. For anyone optimizing performance or troubleshooting a plateau, a blood meter like the [Keto-Mojo](https://www.amazon.com/s?k=keto+mojo+blood+meter&tag=contentportfo-20) is worth the investment.
 
 Your timeline into ketosis is yours. It won't look exactly like your friend's or some influencer's transformation post. What matters is that you're measuring, adjusting, and giving your body enough time to make a real metabolic shift before drawing conclusions. Two weeks of honest, consistent effort is a fair test. Most people who "tried keto and it didn't work" quit during the exact window when things were about to change.
 

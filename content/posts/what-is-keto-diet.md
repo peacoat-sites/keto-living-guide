@@ -129,11 +129,7 @@ The key distinguishing feature of keto is the consistent production of ketones. 
 
 ## Sources
 
-- [LMNT or Ultima Replenisher](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=contentportfo-20)
 - [Pixabay](https://www.pexels.com/@pixabay)
-- published in *Obesity* found that subjects following a ketogenic diet reported s
-- has examined its role in Type 2 diabetes management
-- menstrual cycle disruptions in the first few months on keto
 
 Keto isn't magic and it's not for everyone.
 

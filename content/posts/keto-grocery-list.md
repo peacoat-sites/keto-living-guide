@@ -124,9 +124,6 @@ Frozen vegetables are just as nutritious as fresh and dramatically faster on bus
 
 ## Sources
 
-- [A quality MCT oil](https://www.amazon.com)
-- [A well-formulated product](https://www.amazon.com)
-- [Glass meal prep containers](https://www.amazon.com)
 - [Anna Shvets](https://www.pexels.com/@shvetsa)
 
 Here's a starting framework for one person for one week. Adjust for your household.
@@ -141,8 +138,6 @@ Here's a starting framework for one person for one week. Adjust for your househo
 | **Pantry Staples** | Salt (don't be shy), garlic, electrolyte supplement, MCT oil (optional) |
 
 Pre-shredded cheese often has potato starch or cellulose to prevent clumping. It's not a huge deal, but if you're very carb-sensitive or not seeing results, switching to block cheese you shred yourself removes one variable.
-
-Good storage containers make a real difference if you're meal prepping. [Glass meal prep containers](https://www.amazon.com) hold up better than plastic, don't absorb odors, and make your fridge look organized enough that you'll actually use what you prepped.
 
 The real secret to a good keto grocery list is that it becomes automatic fast. After four or five consistent weekly trips, you'll stop second-guessing yourself in the dairy aisle and move through the store with a pattern you trust. The first few trips are the hardest. Build your list before you leave the house, stick to the perimeter of the store (that's where meat, fish, eggs, and produce live), and don't shop hungry. Your future self, standing at the checkout with a cart that actually makes sense, will thank you. Working with a dietitian or your doctor when making significant dietary changes is a smart move, especially if you're managing a health condition.
 

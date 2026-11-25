@@ -113,19 +113,11 @@ For supplemental protein, a [quality whey protein isolate](https://www.amazon.co
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20)
-- [quality whey protein isolate](https://www.amazon.com/s?k=whey+protein+isolate+low+carb&tag=contentportfo-20)
-- [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20)
-- on protein and ketosis is messier than either camp admits
-- published in journals like *Cell Metabolism* and work from scientists like Dr
-
 Protein's most underappreciated job on keto isn't macro balance. It's protecting muscle during a calorie deficit, which is where most people on a weight-loss protocol actually live.
 
 When you cut carbs and calories, your body will pull energy from anywhere available, including lean tissue, if protein intake is too low. Losing muscle slows your metabolic rate over time, makes the diet feel harder, and leaves you looking softer than you want even after significant weight loss. Adequate protein is the single most effective dietary strategy to prevent this, more effective than resistance training alone when protein is insufficient.
 
 Satiety is the other big one. Protein is the most satiating macronutrient. Studies on subjective hunger ratings consistently show high-protein meals suppress appetite more effectively. If you're constantly hungry on keto, the first variable to examine isn't fat intake. It's protein.
-
-A few practical habits that make hitting protein targets easier without feeling like a chore: keep [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers&tag=contentportfo-20) stocked with pre-cooked protein, batch-cook ground beef or chicken thighs on Sundays, and keep quick options like hard-boiled eggs or canned fish available for the gaps. Protein is the macro that's easiest to under-eat when life gets busy, and the one where under-eating has the most consequence.
 
 ---
 

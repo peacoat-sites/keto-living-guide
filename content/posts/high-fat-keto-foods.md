@@ -70,20 +70,13 @@ Zucchini, asparagus, Brussels sprouts, green beans, cabbage. All low in net carb
 
 ## Sources
 
-- [Bulletproof Brain Octane](https://www.amazon.com/s?k=MCT+oil+C8&tag=contentportfo-20)
-- [Ozeri Pronto](https://www.amazon.com/s?k=Ozeri+Pronto+kitchen+scale&tag=contentportfo-20)
-- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
 - [Mithul Varshan](https://www.pexels.com/@mithulvarshan)
 
 You might be wondering how to actually do this without spending an hour cooking every meal. Here's what I tell people when they're getting started.
 
 Breakfast doesn't demand effort. Three eggs scrambled in a tablespoon of butter, half an avocado, and coffee with a splash of heavy cream gets you to 35+ grams of fat before 9am. That's not a special occasion meal. It's a ten-minute routine.
 
-Lunch is where leftovers pay off. A decent kitchen scale (the [Ozeri Pronto](https://www.amazon.com/s?k=Ozeri+Pronto+kitchen+scale&tag=contentportfo-20) costs about $12 and is accurate enough for daily tracking) helps you portion protein without getting obsessive about macros. Batch-cook a fatty cut on Sunday, like a bone-in pork shoulder or chuck roast, and you've got multiple meals built with zero weekday cooking.
-
 Dinner is the meal most people nail anyway, because it's the one they actually plan. Salmon with butter and capers. A ribeye with roasted asparagus. Chicken thighs braised in cream. These aren't complicated. They're just protein plus quality fat plus a low-carb vegetable.
-
-Electrolytes matter here too, because fat-heavy eating changes how your body handles electrolytes in ways standard keto guides underplay. When insulin drops, your kidneys dump sodium, and magnesium and potassium tend to follow. [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20) works, or just salt your food heavily and eat enough avocado and leafy greens. *(Note: this site may earn a commission on Amazon purchases.)*
 
 ---
 

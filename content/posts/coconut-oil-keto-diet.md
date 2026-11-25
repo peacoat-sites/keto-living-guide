@@ -29,9 +29,7 @@ Coconut oil isn't magic, but it's also not just another fat. For people on a ket
 
 The honest summary: coconut oil is a reasonable and convenient fat source for keto, it has some real advantages over other saturated fats for ketone production, and it can easily be overused or misunderstood in ways that stall fat loss or cause GI misery. Use it deliberately, not by default.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Coconut oil is roughly 62% MCT-range fatty acids by weight, primarily lauric acid (C12), which raises ketones but more slowly than pure MCT oil.</li><li style="margin:5px 0">A common starting dose is 1 tablespoon per day; exceeding 2-3 tablespoons at once often causes digestive distress.</li><li style="margin:5px 0">Coconut oil raises both LDL and HDL cholesterol; the cardiovascular implications vary significantly by individual.</li><li style="margin:5px 0">It's a solid cooking fat for keto, but pure MCT oil is more efficient if ketone elevation is your primary goal.</li><li style="margin:5px 0">People with known familial hypercholesterolemia should discuss high saturated fat intake with a clinician before adding it regularly.</li></ul></div>
-
 
 ## What Makes Coconut Oil Different From Other Fats
 
@@ -96,7 +94,6 @@ A [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=contentport
 - Nutrients journal (MDPI): Peer-reviewed research on MCT oil, ketone production, and cognitive and metabolic effects
 
 ---
-
 
 *Photo: [Roberto  Muñoz](https://www.pexels.com/@roberto-munoz-328307461) via Pexels*
 

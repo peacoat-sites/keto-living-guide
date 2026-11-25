@@ -74,17 +74,9 @@ Some people respond better to fat restriction than carb restriction. Individual 
 
 ## Sources
 
-- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [body tape measure](https://www.amazon.com/s?k=body+measuring+tape&tag=contentportfo-20)
-- [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
-- in *Frontiers in Nutrition*
-- feeling noticeably better than those who don't
-
 The photos always show a before and a specific after moment. They never show what happens at month 18.
 
 Long-term keto maintenance is genuinely possible for some people. I have clients who've eaten this way for four or five years and feel better than they have in decades. I also have clients who cycled off after a year, regained some weight, and are still trying to figure things out. Regain on keto isn't inevitable, but it's common if you slip back into old patterns without a transition plan.
-
-What tends to work long-term: keeping protein high (at least 1.2-1.6g per kg of body weight), not obsessing over a specific ketone number on a [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20), and allowing yourself a few non-keto meals without treating it like failure. Some people do well with cyclical keto, higher-carb eating on weekends or around intense training. The research on that approach is sparse, though anecdotal reports suggest it may help with adherence.
 
 The most durable transformations I've witnessed weren't built on perfection. They were built on people who understood what they were eating and why, and who kept showing up even when the scale stalled.
 

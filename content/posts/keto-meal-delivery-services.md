@@ -97,12 +97,6 @@ Keep these on hand regardless: [electrolyte supplements](https://www.amazon.com/
 
 ## Sources
 
-- [kitchen scale](https://www.amazon.com/s?k=kitchen+scale+food)
-- [electrolyte supplements](https://www.amazon.com/s?k=electrolyte+supplements+keto)
-- [MCT oil](https://www.amazon.com/s?k=mct+oil)
-- [meal prep containers](https://www.amazon.com/s?k=meal+prep+containers)
-- [keto-friendly snack bars](https://www.amazon.com/s?k=keto+snack+bars)
-
 Getting value from these services is partly choosing the right one and partly using it strategically. Here's a step-by-step approach that works better than just subscribing and hoping.
 
 **Step 1: Identify your highest-risk meals.** For most people, it's lunch on workdays or dinner on nights with evening commitments. Pick the meal you most consistently fail to plan for. That's where delivery adds real value.
@@ -112,8 +106,6 @@ Getting value from these services is partly choosing the right one and partly us
 **Step 3: Map delivery days to your week.** Order so meals arrive before your hardest days, not during them. If Thursday is always brutal, you want food in the fridge by Wednesday.
 
 **Step 4: Read labels like a skeptic.** When your first order arrives, check every meal against the website's nutrition info. Verify it matches. Some companies are more consistent than others.
-
-**Step 5: Have backup snacks for gaps.** Delivery services don't cover every meal, and sometimes boxes are delayed. Keep reliable keto snacks on hand: hard-boiled eggs, quality deli meats, nuts, cheese, or [keto-friendly snack bars](https://www.amazon.com/s?k=keto+snack+bars). Don't let a late delivery derail a solid week.
 
 **Step 6: Reassess monthly.** After a month, look at whether the service is actually solving your problem or whether you've defaulted back to bad patterns despite having food there. If it's working, keep it. If not, figure out what's really happening.
 

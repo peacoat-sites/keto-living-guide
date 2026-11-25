@@ -121,8 +121,6 @@ Check out [Lily's sugar-free chocolate chips](https://www.amazon.com) as a stead
 
 ---
 
----
-
 One last thing: don't refrigerate them in a sealed container with other foods. Almond flour baked goods absorb odors faster than you'd expect. Airtight container, kept separate, and they hold well for five days or freeze for up to two months.
 
 *Photo: [Kawê Rodrigues](https://www.pexels.com/@kawerodriguess) via Pexels*

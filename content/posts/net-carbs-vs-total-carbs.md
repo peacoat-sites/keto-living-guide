@@ -114,7 +114,6 @@ If electrolyte issues are part of your early-keto struggles (very common), a qua
 
 ## Sources
 
-- [like this one on Amazon](https://www.amazon.com)
 - [Silviu Din](https://www.pexels.com/@silviu-din-1620549)
 - Total Carbohydrates. Net
 

@@ -118,21 +118,11 @@ The calculator is only as useful as the inputs you give it. Here are the errors 
 
 ## Sources
 
-- [this one on Amazon](https://www.amazon.com)
-- [kitchen food scale](https://www.amazon.com)
-- [LMNT](https://www.amazon.com)
-- [The Ketogenic Bible](https://www.amazon.com)
 - [Markus Spiske](https://www.pexels.com/@markusspiske)
 
 Having macro targets is just the prerequisite. Acting on them consistently is the actual work. A few practical systems make that easier.
 
 Start with a meal template rather than tracking every bite from scratch every day. Once you know your targets, build 2-3 repeatable breakfasts, 2-3 lunches, and a handful of dinner options that hit your numbers. For Sarah in our example above, a breakfast of 3 eggs cooked in a tablespoon of butter plus two strips of bacon covers roughly 25g protein, 28g fat, and 1g net carbs. That's a template she can use without logging from scratch.
-
-For new meals or eating out, a [kitchen food scale](https://www.amazon.com) and a tracking app like Cronometer (which has better micronutrient data than most) make a meaningful difference. Portion estimation by eye is notoriously unreliable, and even experienced trackers tend to underestimate calorie-dense foods like olive oil, cheese, and nuts.
-
-Electrolytes deserve a mention here. When carbohydrate intake drops sharply, insulin falls, and your kidneys excrete significantly more sodium, potassium, and magnesium. Replenishing these isn't optional if you want to function well. Symptoms of electrolyte depletion, often called "keto flu," include headaches, muscle cramps, brain fog, and fatigue. A quality electrolyte supplement like [LMNT](https://www.amazon.com) or a DIY blend of sodium, potassium, and magnesium can eliminate most of these symptoms within a day or two. This isn't a supplement upsell, it's genuinely the most impactful single change most new keto dieters can make in the first two weeks.
-
-If you want more structured guidance on building meals around your targets, [The Ketogenic Bible](https://www.amazon.com) by Jacob Wilson and Ryan Lowery is one of the most research-grounded resources available and worth having on your shelf.
 
 Your macros are a starting estimate, not a verdict. The body is adaptive and individual variation is real. Use the calculator to get a solid, evidence-based starting point, track honestly for 3-4 weeks, and then let your actual results (energy, body composition, hunger levels) guide your adjustments. That feedback loop, calculator plus real-world data plus small calibrations, is how sustainable results actually happen.
 

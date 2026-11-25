@@ -96,23 +96,13 @@ The honest takeaway isn't "dirty keto is bad." It's that dirty keto trades long-
 
 ## Sources
 
-- [a quality electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplements&tag=)
-- [good kitchen scale](https://www.amazon.com/s?k=kitchen+scale+grams&tag=)
-- [Keto-friendly nut packs](https://www.amazon.com/s?k=macadamia+nuts+keto&tag=)
-- [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=)
-- in ketosis. A
-
 You don't have to overhaul everything at once.
 
 1. **Audit one meal first.** Look at breakfast. If it's processed meat and a diet soda, swap one element. Add two eggs cooked in butter. Add half an avocado. That's it.
 
 2. **Add a vegetable before you remove anything.** A handful of spinach sautéed in olive oil takes four minutes. Add it to whatever you're already eating. Don't subtract yet.
 
-3. **Replace one processed snack with a whole-food option.** String cheese and pepperoni are easy, but a small handful of macadamia nuts or a boiled egg does the same job with better micronutrients. [Keto-friendly nut packs](https://www.amazon.com/s?k=macadamia+nuts+keto&tag=) are a convenient bridge option. (Commission disclosure applies.)
-
 4. **Upgrade your fat sources gradually.** Swap out vegetable oil for olive oil or butter. Choose salmon or sardines once or twice a week. These changes compound over time.
-
-5. **Use MCT oil strategically, not as a food group.** [MCT oil](https://www.amazon.com/s?k=mct+oil&tag=) can support ketone production, but it's not a substitute for nutrient-dense whole foods. Add it to coffee or a smoothie as a supplement, not a meal replacement. (Commission disclosure applies.)
 
 6. **Track your vegetables, not just your carbs.** Most dirty keto practitioners track net carbs obsessively and never think about whether they've eaten a single vegetable. Set a minimum of three servings of non-starchy vegetables daily and see what happens to your energy.
 

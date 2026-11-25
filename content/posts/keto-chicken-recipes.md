@@ -101,8 +101,6 @@ Rotate through four or five of these across a two-week period and you're never a
 
 ## Sources
 
-- [This food scale on Amazon](https://www.amazon.com/s?k=kitchen+food+scale)
-
 Batch cooking is the single most reliable strategy for staying on a ketogenic diet long-term. When there's cooked protein in the refrigerator, the 6 PM "I don't know what to eat" moment doesn't spiral into a drive-through decision.
 
 Here's a practical Sunday prep routine:
@@ -110,8 +108,6 @@ Here's a practical Sunday prep routine:
 1. Season and roast 3 pounds of bone-in chicken thighs at 425°F for 40 minutes. These last 4 days in the fridge and reheat beautifully.
 2. Poach 2 pounds of chicken breast in seasoned broth. Shred while warm. Use in salads, wraps, or Alfredo throughout the week.
 3. Prep two different sauces so the same chicken can taste completely different on different days. A green herb sauce (blended parsley, garlic, olive oil, lemon) and a creamy mustard sauce (Dijon, heavy cream, a little apple cider vinegar) give you serious range.
-
-A good kitchen scale helps enormously here for tracking macros accurately. [This food scale on Amazon](https://www.amazon.com/s?k=kitchen+food+scale) is affordable and precise, and it makes hitting your protein targets much less guesswork. (This site may earn a commission on purchases made through links here.)
 
 For storage, invest in a set of glass meal prep containers. They go from fridge to microwave without any issues, and the chicken reheats more evenly than it does in plastic. Pair your prepped chicken with [keto dinner recipes](/keto-dinner-recipes/) that use it as a component and you'll have a full week of dinners planned around a single prep session.
 

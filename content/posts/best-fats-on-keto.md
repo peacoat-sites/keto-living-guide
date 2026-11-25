@@ -73,19 +73,11 @@ Coconut oil deserves a separate note. It's high in saturated fat (mostly lauric 
 
 ## Sources
 
-- [Sports Research MCT Oil](https://www.amazon.com/dp/B00WFP31ZO?tag=contentportfo-20)
-- [kitchen scale](https://www.amazon.com/dp/B0113UZJE2?tag=contentportfo-20)
 - [Daniela Elena Tentis](https://www.pexels.com/@daniela-elena-tentis-118658)
-- in *Nutrients* looking at over 30 trials confirmed what clinical practice alread
-- on saturated fat and cardiovascular risk has gotten genuinely more complicated o
-
-Getting 60-75% of your calories from fat on keto sounds like a lot until you see what it actually means in food. Two eggs cooked in a tablespoon of butter, a handful of macadamia nuts, half an avocado at lunch, salmon for dinner, and a small amount of olive oil on a salad gets you there without forcing anything. A [kitchen scale](https://www.amazon.com/dp/B0113UZJE2?tag=contentportfo-20) makes this much easier to track in the early weeks.
 
 Relying too heavily on cheese as a primary fat source can backfire: it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Not a terrible food, but it's also a significant protein source, and the fat profile is less favorable than what you'd get from olive oil, avocado, or fatty fish. Variety matters for both nutritional balance and satiety.
 
 One underrated fat source: macadamia nuts. They're the closest nut to olive oil in fatty acid composition, high in monounsaturated fats, low in omega-6s, and genuinely satisfying. They're expensive (usually $15-20 a pound), but a small portion goes a long way.
-
----
 
 ---
 

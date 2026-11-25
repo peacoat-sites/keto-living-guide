@@ -105,9 +105,6 @@ Strength trainers on keto often hit a wall around week two they blame on "no car
 
 ## Sources
 
-- [LMNT](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [Nuun Sport tablets](https://www.amazon.com/s?k=nuun+sport+electrolytes&tag=contentportfo-20)
-- [kitchen scale like this OXO model](https://www.amazon.com/s?k=OXO+food+scale&tag=contentportfo-20)
 - [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)
 
 | Source | Key Electrolyte | Amount | Pros | Cons |
@@ -126,5 +123,3 @@ Strength trainers on keto often hit a wall around week two they blame on "no car
 Electrolytes are unglamorous. Nobody sells a course on drinking broth or salting your eggs. But solving this one issue is genuinely the difference between someone saying keto changed their life and someone saying it was miserable and they quit after a week. Get the sodium, potassium, and magnesium right, and the rest of the adaptation becomes manageable. Your future keto-adapted self will be grateful you paid attention to the boring stuff first.
 
 *Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
-
----

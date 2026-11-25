@@ -115,20 +115,11 @@ If you're trying to decide, talk it through with a healthcare provider or regist
 
 ## Sources
 
-- [Good options are available on Amazon](https://www.amazon.com/s?k=mct+oil+keto)
-- [digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food)
-- [Electrolyte supplements formulated for low carb diets](https://www.amazon.com/s?k=keto+electrolyte+supplements)
-- comparing the two directly shows that both produce meaningful weight loss and me
-
 Once you've thought through your goals, here's how to actually move forward without overthinking it.
 
 **Step 1: Define your goal, specifically.** "Losing weight" is not specific enough. Are you targeting 20 pounds over six months? Managing A1C? Getting off a medication under a doctor's supervision? Specificity helps determine how aggressive your carb restriction needs to be.
 
-**Step 2: Start with a two-week trial of low carb (50-100g net carbs).** Most people haven't actually done this properly. Before committing to full keto, see how your body and your life respond to meaningful carb reduction. Use a kitchen scale and a tracking app for at least the first week to understand what your meals actually contain. A reliable [digital kitchen scale](https://www.amazon.com/s?k=kitchen+scale+for+food) takes the guesswork out of it (affiliate link).
-
 **Step 3: If you want to try keto, commit to 30 days properly.** The first two weeks of keto are often the hardest and aren't representative of how you'll feel after adaptation. Judge the approach after a full month, not after day four when your head hurts and you're tired.
-
-**Step 4: Manage electrolytes actively.** This is non-negotiable on keto and very helpful on low carb. Reduced carb intake causes your kidneys to excrete more sodium, which pulls potassium and magnesium with it. Most "keto flu" symptoms are electrolyte depletion, not some unavoidable metabolic crisis. Sodium, potassium, and magnesium supplementation matters. [Electrolyte supplements formulated for low carb diets](https://www.amazon.com/s?k=keto+electrolyte+supplements) are widely available (affiliate link) and worth having on hand from day one.
 
 **Step 5: Evaluate at 30 and 90 days.** Are you feeling better? Are relevant markers improving? Is this workable in your actual life, with your actual social calendar and food preferences? These are the questions that determine whether to continue, adjust, or try something different.
 

@@ -89,19 +89,9 @@ Salt your food aggressively. I mean genuinely aggressively, more than feels righ
 
 ## Sources
 
-- [Ozeri Pronto digital scale](https://www.amazon.com/s?k=kitchen+scale+for+food&tag=contentportfo-20)
-- [Bulletproof Brain Octane MCT Oil](https://www.amazon.com/s?k=mct+oil+brain+octane&tag=contentportfo-20)
-- [LMNT electrolyte packets](https://www.amazon.com/s?k=LMNT+electrolytes&tag=contentportfo-20)
-- [The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=contentportfo-20)
-- [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=contentportfo-20)
-
 The first week of vegetarian keto is the hardest, not because of the biology but because you haven't built the habits yet. Spend 20 minutes before the week starts and map out breakfast and lunch. Dinner can be more flexible. If you wake up without a plan you will stand in front of the fridge feeling annoyed at eggs.
 
 A workable day looks like: scrambled eggs with spinach and feta in the morning, a big salad with avocado, hemp seeds, and olive oil dressing at lunch, and dinner that's either a tofu stir-fry with low-carb vegetables in sesame oil, a crustless quiche, or zucchini noodles with a creamy pesto and cottage cheese protein boost. None of these require advanced cooking skills.
-
-[The Ketogenic Bible by Jacob Wilson and Ryan Lowery](https://www.amazon.com/s?k=the+ketogenic+bible+jacob+wilson&tag=contentportfo-20) has solid foundational information on the metabolic side, though it's more science-heavy than recipe-focused. For vegetarian-specific keto recipes I've found the cookbook [Vegetarian Keto](https://www.amazon.com/s?k=vegetarian+keto+cookbook&tag=contentportfo-20) by Liz MacDowell genuinely helpful. Real recipes, not just "eat more cheese."
-
-Glass meal prep containers make a difference if you're going to batch-cook. The [Pyrex Simply Store set](https://www.amazon.com/s?k=pyrex+meal+prep+containers&tag=contentportfo-20) holds up better than cheap plastic and doesn't absorb smell from eggy dishes the way plastic does.
 
 If you've tried standard keto and found it meat-heavy and uninspiring, or you've been vegetarian for years and want to try cutting carbs without blowing up your whole food identity, this combination is genuinely doable. It's more work in the planning phase than either diet alone. But the people I've seen stick with it past the first month tend to feel pretty strongly that it was worth the effort.
 

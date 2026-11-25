@@ -102,11 +102,7 @@ Keep sodium intake deliberate, especially on training days. Don't rely on feelin
 
 ## Sources
 
-- [blood ketone meter](https://www.amazon.com/s?k=blood+ketone+meter&tag=contentportfo-20)
-- [electrolyte supplement](https://www.amazon.com/s?k=keto+electrolyte+supplement&tag=contentportfo-20)
 - Actually Shows
-- behind it than standard keto
-- on ketogenic diets and athletic performance
 
 I'll be honest: TKD has less direct research behind it than standard keto. Most of what we know comes from broader research on ketogenic diets and athletic performance, plus the well-established physiology of glycogen use during high-intensity exercise.
 
@@ -117,5 +113,3 @@ What we don't have are large, controlled trials specifically on TKD protocols. P
 The targeted ketogenic diet won't solve everything, and it's not for everyone. But if you're serious about training and you've been grinding through flat workouts on strict keto, it's a reasonable, physiologically sound adjustment worth trying. Start conservative with the carb dose, keep everything else tight, and give it a few weeks before drawing conclusions. Your gym sessions will tell you whether it's working better than any app or tracker will.
 
 *This article is for general informational purposes only and does not constitute medical or dietary advice. Always consult a licensed healthcare provider or registered dietitian before making significant changes to your diet, especially if you have a medical condition.*
-
----
