@@ -1,6 +1,7 @@
 ---
 title: "The Best Leafy Greens For Your Keto Diet"
 date: 2026-06-28T14:25:36.760028+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto leafy greens to boost nutrition, stay in ketosis, and add flavor to your low-carb meals. Learn which greens fit your macros."
 image: "/img/heroes/7456546.jpg"

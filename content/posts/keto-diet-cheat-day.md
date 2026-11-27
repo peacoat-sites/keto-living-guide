@@ -1,6 +1,7 @@
 ---
 title: "How To Handle A Keto Cheat Day Without Derailing Progress"
 date: 2026-06-06T14:18:55.702373+00:00
+googlebot_noindex: true
 draft: false
 description: "Wondering if a keto diet cheat day will ruin your progress? Learn what really happens to your body, how to recover fast, and tips to stay on track."
 image: "/img/heroes/4628466.jpg"

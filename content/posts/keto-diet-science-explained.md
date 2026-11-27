@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet Science Explained: How Ketosis Works"
 date: 2026-06-23T15:39:59.069182+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet shifts your body into ketosis, burns fat for fuel, and impacts metabolism, hormones, and brain function backed by science."
 image: "/img/heroes/19302562.jpg"

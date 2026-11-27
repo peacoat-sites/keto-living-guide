@@ -1,6 +1,7 @@
 ---
 title: "Is Hummus Keto Friendly? Carbs, Calories, and Better Alternatives"
 date: 2026-07-13T15:28:59.141693+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn whether hummus fits a keto diet, how many carbs it contains, and which alternatives work better for low-carb eating."
 image: "/img/heroes/34227785.jpg"

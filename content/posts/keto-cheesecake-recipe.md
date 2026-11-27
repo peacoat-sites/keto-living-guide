@@ -1,6 +1,7 @@
 ---
 title: "Creamy Keto Cheesecake Without The Carbs"
 date: 2026-06-29T16:29:01.376865+00:00
+googlebot_noindex: true
 draft: false
 description: "Make the perfect keto cheesecake with this easy low-carb recipe. Creamy, rich, and sugar-free with an almond flour crust. Only 4g net carbs per slice!"
 image: "/img/heroes/37766352.jpg"

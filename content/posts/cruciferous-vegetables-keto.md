@@ -1,6 +1,7 @@
 ---
 title: "Cruciferous Vegetables on Keto: Best Low-Carb Options"
 date: 2026-07-19T14:06:23.851007+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which cruciferous vegetables fit your keto diet, their carb counts, and how to prepare them for maximum flavor and nutrition."

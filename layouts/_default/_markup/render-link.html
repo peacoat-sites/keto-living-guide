@@ -1,0 +1,6 @@
+{{- $dest := .Destination -}}
+{{- if and site.Params.hide_amazon (or (strings.Contains $dest "amazon.com") (strings.Contains $dest "amzn.to")) -}}
+{{ .Text | safeHTML }}
+{{- else -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

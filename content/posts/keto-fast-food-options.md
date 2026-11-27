@@ -1,6 +1,7 @@
 ---
 title: "Fast Food Chains With Hidden Keto-Friendly Meals"
 date: 2026-05-28T12:36:14.398700+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto fast food options to keep you on track. From bunless burgers to grilled chicken, enjoy low-carb meals without sacrificing taste or conven"
 image: "/img/heroes/1137473.jpg"

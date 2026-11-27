@@ -1,6 +1,7 @@
 ---
 title: "How to Quit Keto Without Gaining Weight Back"
 date: 2026-07-29T14:55:11.109802+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the safest way to transition off keto diet, reintroduce carbs gradually, and maintain your results while avoiding common mistakes."

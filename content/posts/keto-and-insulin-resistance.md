@@ -1,6 +1,7 @@
 ---
 title: "Reverse Insulin Resistance With Ketogenic Eating"
 date: 2026-05-26T19:45:20.465324+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet may help improve insulin resistance, stabilize blood sugar levels, and support metabolic health through low-carb, high-fat eating str"
 image: "/img/heroes/15754963.jpg"

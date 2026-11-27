@@ -1,6 +1,7 @@
 ---
 title: "Building Muscle on Keto: The Complete Nutrition Guide"
 date: 2026-07-23T14:55:08.686637+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to build lean muscle while following a ketogenic diet. Strategies for protein, training, and recovery on keto."

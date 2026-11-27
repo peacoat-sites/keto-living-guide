@@ -1,6 +1,7 @@
 ---
 title: "Easy Keto Dinners Ready in 30 Minutes or Less"
 date: 2026-05-28T04:24:04.244958+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover easy and delicious keto dinner recipes perfect for low-carb living. From hearty meats to creamy sauces, enjoy satisfying meals that keep you in ketosis"
 image: "/img/heroes/1309595.jpg"

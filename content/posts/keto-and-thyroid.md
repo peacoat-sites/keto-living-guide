@@ -1,6 +1,7 @@
 ---
 title: "Keto and Thyroid Health: What You Need to Know"
 date: 2026-07-28T15:02:59.999569+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how the ketogenic diet affects thyroid function, including potential risks and how to maintain thyroid health while in ketosis."

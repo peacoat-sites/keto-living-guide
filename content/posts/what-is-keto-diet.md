@@ -1,6 +1,7 @@
 ---
 title: "The Keto Diet Explained: How It Works and What to Eat"
 date: 2026-05-24T05:53:12.333989+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover what the keto diet is, how it works, and its key benefits. Learn about foods to eat, avoid, and how this low-carb lifestyle can transform your health."
 image: "/img/heroes/361184.jpg"

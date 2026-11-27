@@ -1,6 +1,7 @@
 ---
 title: "Is Keto Safe While Breastfeeding? What Experts Say"
 date: 2026-07-01T15:24:55.156948+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover what you need to know about following a keto diet while breastfeeding, including safety tips, risks, and how to meet your nutritional needs."
 image: "/img/heroes/21073558.jpg"

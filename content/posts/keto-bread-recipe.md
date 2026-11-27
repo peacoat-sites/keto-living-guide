@@ -1,6 +1,7 @@
 ---
 title: "Homemade Keto Bread That Actually Stays Fresh"
 date: 2026-05-25T15:20:09.147337+00:00
+googlebot_noindex: true
 draft: false
 description: "Try this keto bread recipe for low-carb baking at home. Easy steps, simple ingredients, and delicious results. Perfect for your ketogenic diet goals."
 image: "/img/heroes/7118921.jpg"

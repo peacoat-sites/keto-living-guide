@@ -1,6 +1,7 @@
 ---
 title: "12 Keto Lunch Ideas for Work You Can Meal Prep"
 date: 2026-08-11T14:00:03.442725+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Simple keto lunch ideas perfect for work. 12 easy meal prep recipes that keep you in ketosis and satisfy hunger all day long."

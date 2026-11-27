@@ -1,6 +1,7 @@
 ---
 title: "Best Keto Coffee Drinks To Keep You In Ketosis"
 date: 2026-06-14T14:56:59.038013+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto coffee drinks to boost energy and support fat burning. From bulletproof to iced lattes, find delicious low-carb recipes you'll love."
 image: "/img/heroes/11348524.jpg"

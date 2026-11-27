@@ -1,6 +1,7 @@
 ---
 title: "Keto Diet Side Effects and What to Do About Them"
 date: 2026-05-27T18:57:10.683717+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the most common keto diet side effects, from keto flu to nutrient deficiencies, and learn how to manage them safely for a healthier low-carb journey."
 image: "/img/heroes/3808819.jpg"

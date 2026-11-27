@@ -1,6 +1,7 @@
 ---
 title: "Your 7-Day Keto Meal Plan: Ready-To-Eat Recipes"
 date: 2026-05-28T09:49:49.166909+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover our complete keto 7 day meal plan with easy recipes, shopping lists, and macros to help you start ketosis and lose weight fast. Get started today!"
 image: "/img/heroes/19808820.jpg"

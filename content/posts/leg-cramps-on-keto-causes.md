@@ -1,6 +1,7 @@
 ---
 title: "Why Keto Causes Leg Cramps and How to Stop Them"
 date: 2026-08-03T15:28:01.929015+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why leg cramps happen on keto diet and learn proven strategies to prevent muscle pain and stay comfortable during ketosis."

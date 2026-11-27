@@ -1,6 +1,7 @@
 ---
 title: "Keto Is Now Being Tested Against Brain Cancer in a Major Trial"
 date: 2026-07-08T14:59:05.081580+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Scientists are testing the ketogenic diet as a treatment for brain cancer in a major clinical trial. Learn what the research means for future glioma patients."

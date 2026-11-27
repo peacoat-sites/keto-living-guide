@@ -1,6 +1,7 @@
 ---
 title: "How a Keto Metabolite Is Being Used to Supercharge Cancer Immunotherapy"
 date: 2026-07-11T14:03:51.746098+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how a key keto metabolite is revolutionizing cancer immunotherapy, boosting immune responses and opening exciting new doors in cutting-edge oncology tr"
 image: "/img/heroes/8851727.jpg"

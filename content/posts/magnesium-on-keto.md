@@ -1,6 +1,7 @@
 ---
 title: "Why Keto Dieters Need More Magnesium"
 date: 2026-06-02T12:54:03.218573+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how magnesium on keto can prevent deficiency, reduce cramps, and boost energy. Learn the best food sources and supplement tips for keto dieters."
 image: "/img/heroes/7526048.jpg"

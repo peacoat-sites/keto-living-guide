@@ -1,6 +1,7 @@
 ---
 title: "Top Keto Breads That Actually Taste Good"
 date: 2026-07-04T14:11:35.690124+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto bread brands available today. Compare low-carb options that taste great and fit your ketogenic lifestyle perfectly."
 image: "/img/heroes/1571073.jpg"

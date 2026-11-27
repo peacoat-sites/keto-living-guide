@@ -1,6 +1,7 @@
 ---
 title: "Crispy Keto Salmon: Restaurant-Quality in 20 Minutes"
 date: 2026-06-04T12:23:17.662673+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover a delicious keto salmon recipe packed with healthy fats and bold flavors. Easy to make, low carb, and perfect for a satisfying weeknight dinner."
 image: "/img/heroes/8951035.jpg"

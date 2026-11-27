@@ -1,6 +1,7 @@
 ---
 title: "The Easiest Ways To Check Your Ketosis At Home"
 date: 2026-06-11T16:38:49.850071+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the easiest ways to test for ketosis at home using urine strips, blood meters, or breath analyzers and find out which method suits you best."
 image: "/img/heroes/6823611.jpg"

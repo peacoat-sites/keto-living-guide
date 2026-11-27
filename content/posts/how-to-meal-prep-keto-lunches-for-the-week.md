@@ -1,6 +1,7 @@
 ---
 title: "Simple Keto Lunch Prep: 5 Days Of Meals In 2 Hours"
 date: 2026-05-31T11:08:41.608410+00:00
+googlebot_noindex: true
 draft: false
 description: "Plan a full week of keto lunches with ease. Discover simple meal prep tips, low-carb recipe ideas, and time-saving strategies to stay on track effortlessly."
 image: "/img/heroes/37112193.jpg"

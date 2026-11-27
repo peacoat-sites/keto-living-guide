@@ -1,6 +1,7 @@
 ---
 title: "Keto Breath Causes: Why It Happens and How to Fix It"
 date: 2026-08-15T13:10:17.447250+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what causes keto breath, why ketosis produces that distinctive odor, and proven strategies to eliminate it quickly."

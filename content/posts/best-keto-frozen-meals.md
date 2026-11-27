@@ -1,6 +1,7 @@
 ---
 title: "Top Keto Frozen Meals That Actually Taste Good"
 date: 2026-06-22T17:17:16.600278+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto frozen meals that are low carb, high fat, and delicious. Save time without breaking ketosis with our top picks."
 image: "/img/heroes/18897265.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Why Net Carbs Matter More Than Total Carbs on Keto"
 date: 2026-05-28T16:43:24.901281+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn the difference between net carbs and total carbs, how to calculate them, and which method best supports your health and low-carb diet goals."
 image: "/img/heroes/17236199.jpg"

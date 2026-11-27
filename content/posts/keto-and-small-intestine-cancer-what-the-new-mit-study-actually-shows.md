@@ -1,6 +1,7 @@
 ---
 title: "Keto and Small Intestine Cancer: What the New MIT Study Actually Shows"
 date: 2026-07-24T14:23:13.364005+00:00
+googlebot_noindex: true
 draft: false
 description: "Keto and Small Intestine Cancer: What the New MIT Study Actually Shows. Learn what recent research reveals about ketogenic diets and cancer risk."
 image: "/img/heroes/1759055.jpg"

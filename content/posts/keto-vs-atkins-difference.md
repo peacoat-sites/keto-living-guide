@@ -1,6 +1,7 @@
 ---
 title: "Keto vs Atkins: Which Low-Carb Diet Works Better"
 date: 2026-06-16T17:35:46.564535+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the key differences between keto and Atkins diets, including carb limits, phases, flexibility, and which low-carb plan best fits your health goals."
 image: "/img/heroes/6025677.jpg"

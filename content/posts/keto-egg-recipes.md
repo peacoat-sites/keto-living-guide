@@ -1,6 +1,7 @@
 ---
 title: "15 Easy Egg Recipes Perfect For Keto Diets"
 date: 2026-06-11T16:41:04.669202+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover delicious keto egg recipes perfect for low-carb living. From fluffy omelets to baked dishes, these easy high-protein meals keep you full and in ketosis"
 image: "/img/heroes/162712.jpg"

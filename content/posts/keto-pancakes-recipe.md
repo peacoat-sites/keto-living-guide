@@ -1,6 +1,7 @@
 ---
 title: "Fluffy Keto Pancakes: The Easy Low-Carb Breakfast"
 date: 2026-07-03T14:54:32.627574+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to make delicious keto pancakes with simple ingredients. Our easy recipe delivers fluffy, low-carb pancakes perfect for a ketogenic breakfast."
 image: "/img/heroes/600618.jpg"

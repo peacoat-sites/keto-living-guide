@@ -1,6 +1,7 @@
 ---
 title: "5 Keto Soup Recipes That Keep You Full and In Ketosis"
 date: 2026-07-16T14:38:44.086453+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Easy, delicious keto soup recipes loaded with fat and protein. Stay satisfied and maintain ketosis with these low-carb soup ideas."

@@ -1,6 +1,7 @@
 ---
 title: "Keto May Repair Pancreas Cells That Low-Fat Diets Cannot"
 date: 2026-06-27T14:18:10.406867+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how a ketogenic diet may restore damaged pancreatic cells and improve insulin production in ways that traditional low-fat diets simply cannot achieve."
 image: "/img/heroes/6942002.jpg"

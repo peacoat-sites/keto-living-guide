@@ -1,6 +1,7 @@
 ---
 title: "Metabolism Over 40: Why Keto Works Differently For Women"
 date: 2026-05-29T14:30:55.256264+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet can help women over 40 balance hormones, boost metabolism, lose weight, and feel their best through menopause and beyond."
 image: "/img/heroes/6874289.jpg"

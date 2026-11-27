@@ -1,6 +1,7 @@
 ---
 title: "Calculate Your Perfect Keto Macros in Minutes"
 date: 2026-05-23T12:26:17.838654+00:00
+googlebot_noindex: true
 draft: false
 description: "Calculate your perfect keto macros with our free calculator. Get personalized fat, protein, and carb targets based on your goals, weight, and activity level."
 image: "/img/heroes/4378645.jpg"

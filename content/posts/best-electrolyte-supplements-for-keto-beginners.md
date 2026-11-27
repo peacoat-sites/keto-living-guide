@@ -1,6 +1,7 @@
 ---
 title: "Stop Keto Flu: The Best Electrolyte Supplements To Start With"
 date: 2026-06-25T15:27:05.517863+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best electrolyte supplements for keto beginners to prevent fatigue and keto flu. Stay balanced with top picks for sodium, magnesium, and potassium."
 image: "/img/heroes/17820711.jpg"

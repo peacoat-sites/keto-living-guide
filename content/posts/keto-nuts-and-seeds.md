@@ -1,6 +1,7 @@
 ---
 title: "The Best Keto Nuts And Seeds For Weight Loss"
 date: 2026-06-26T15:16:20.071238+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto nuts and seeds to snack on, boost healthy fats, and stay in ketosis. Low carb, nutrient-dense options for your keto diet."
 image: "/img/heroes/4753637.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Lose Weight Fast: Your 1500-Calorie Keto Meal Plan"
 date: 2026-07-01T15:22:48.510028+00:00
+googlebot_noindex: true
 draft: false
 description: "Follow this keto meal plan for 1500 calories a day to lose weight, stay in ketosis, and enjoy delicious low-carb meals for breakfast, lunch, and dinner."
 image: "/img/heroes/6995260.jpg"

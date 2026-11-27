@@ -1,6 +1,7 @@
 ---
 title: "Plant-Based Keto: The Complete Vegetarian Guide"
 date: 2026-06-02T15:50:38.963965+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how to combine the keto diet with a vegetarian lifestyle. Explore delicious low-carb plant-based meals, tips, and food lists to start your journey toda"
 image: "/img/heroes/33323285.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Your Complete Keto Food List: What You Can Actually Eat"
 date: 2026-05-23T18:30:00.129580+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover which foods are allowed on keto. From healthy fats and proteins to low-carb veggies, learn what to eat to stay in ketosis and reach your goals."
 image: "/img/heroes/19808822.jpg"

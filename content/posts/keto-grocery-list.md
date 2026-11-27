@@ -1,6 +1,7 @@
 ---
 title: "The Complete Keto Grocery List for Beginners"
 date: 2026-05-25T13:58:54.757297+00:00
+googlebot_noindex: true
 draft: false
 description: "Stock your kitchen for keto success with this complete grocery list covering proteins, healthy fats, low-carb veggies, dairy, and pantry staples to keep you in "
 image: "/img/heroes/3962283.jpg"

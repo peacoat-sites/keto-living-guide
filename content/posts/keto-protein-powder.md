@@ -1,6 +1,7 @@
 ---
 title: "Best Keto Protein Powders for Steady Weight Loss"
 date: 2026-06-07T14:33:35.951614+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto protein powders to support low-carb goals. Compare top picks, key ingredients, and tips to boost fat burning while hitting your protein t"
 image: "/img/heroes/10994727.jpg"

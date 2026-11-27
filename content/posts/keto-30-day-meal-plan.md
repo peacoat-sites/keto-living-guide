@@ -1,6 +1,7 @@
 ---
 title: "Your 30-Day Keto Meal Plan: Simple Recipes to Start"
 date: 2026-05-23T22:00:22.082371+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover our complete keto 30 day meal plan with easy recipes, shopping lists, and expert tips to help you burn fat, lose weight, and stay on track effortlessly"
 image: "/img/heroes/13689977.jpg"

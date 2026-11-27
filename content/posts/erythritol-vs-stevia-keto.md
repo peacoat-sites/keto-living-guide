@@ -1,6 +1,7 @@
 ---
 title: "Erythritol vs Stevia for Keto: Which Sweetener Wins"
 date: 2026-07-14T14:29:42.681918+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare erythritol and stevia on keto: taste, blood sugar impact, digestive effects, and which sweetener fits your low-carb diet best."

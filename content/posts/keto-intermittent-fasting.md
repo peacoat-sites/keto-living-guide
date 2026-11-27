@@ -1,6 +1,7 @@
 ---
 title: "Fasting And Keto: The Complete Beginner's Guide"
 date: 2026-05-24T08:36:36.540976+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how combining keto and intermittent fasting can accelerate fat loss, boost energy, and improve metabolic health. Learn the best strategies to get start"
 image: "/img/heroes/48770.jpg"

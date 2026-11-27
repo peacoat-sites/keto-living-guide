@@ -1,6 +1,7 @@
 ---
 title: "Easy Keto Chicken Recipes for Every Weeknight"
 date: 2026-05-29T18:06:15.861492+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover delicious keto chicken recipes perfect for low-carb diets. Easy, healthy meals with simple ingredients that help you stay in ketosis while enjoying fla"
 image: "/img/heroes/36202022.jpg"

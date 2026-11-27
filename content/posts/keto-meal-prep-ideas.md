@@ -1,6 +1,7 @@
 ---
 title: "7 Keto Meals You Can Prep in One Hour"
 date: 2026-05-26T18:17:08.010689+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover easy keto meal prep ideas to save time and stay on track. Simple recipes, shopping lists, and storage tips for successful ketogenic dieting."
 image: "/img/heroes/6969765.jpg"

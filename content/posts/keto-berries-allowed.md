@@ -1,6 +1,7 @@
 ---
 title: "Keto Berries Allowed: Best Low-Carb Fruit Choices"
 date: 2026-07-31T15:02:26.145354+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which berries fit a ketogenic diet. Learn carb counts and serving sizes for keto-friendly berry options."

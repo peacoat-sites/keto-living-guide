@@ -1,6 +1,7 @@
 ---
 title: "How Keto Can Help Manage PCOS Symptoms"
 date: 2026-05-24T14:07:01.350768+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet may help manage PCOS symptoms by balancing hormones, reducing insulin resistance, and supporting weight loss for better overall healt"
 image: "/img/heroes/1640775.jpg"

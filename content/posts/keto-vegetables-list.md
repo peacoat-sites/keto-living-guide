@@ -1,6 +1,7 @@
 ---
 title: "The Complete Keto Vegetables Guide: What To Eat"
 date: 2026-05-22T08:53:31.671993+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto vegetables to eat on a low carb diet. Our complete list helps you stay in ketosis while enjoying nutritious, delicious veggies every day."
 image: "/img/heroes/3159251.jpg"

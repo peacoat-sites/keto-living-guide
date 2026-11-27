@@ -1,6 +1,7 @@
 ---
 title: "Keto for Epilepsy: How It Works and What Research Shows"
 date: 2026-08-12T14:01:04.526317+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how the keto diet may reduce seizures in epilepsy patients, what the evidence reveals, and whether it's right for you."

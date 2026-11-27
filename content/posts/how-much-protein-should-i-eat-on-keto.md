@@ -1,6 +1,7 @@
 ---
 title: "The Protein Math: Getting Your Keto Macros Right"
 date: 2026-06-01T20:33:06.277074+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how much protein you should eat on keto to stay in ketosis, preserve muscle, and reach your goals. Get expert guidelines and easy daily intake tips."
 image: "/img/heroes/34415588.jpg"

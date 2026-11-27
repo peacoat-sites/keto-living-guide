@@ -1,6 +1,7 @@
 ---
 title: "Sweeteners That Actually Taste Good on Keto"
 date: 2026-05-25T10:34:01.115444+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto sweeteners to satisfy your sweet tooth without spiking blood sugar. Compare top low-carb options and find the perfect sugar substitute fo"
 image: "/img/heroes/6545619.jpg"

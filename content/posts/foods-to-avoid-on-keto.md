@@ -1,6 +1,7 @@
 ---
 title: "Foods to Avoid on Keto Including Hidden Carb Traps"
 date: 2026-05-23T12:08:19.495491+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover which foods to avoid on keto to stay in ketosis. Cut out sugar, grains, fruit, and starchy carbs to maximize fat burning and reach your health goals."
 image: "/img/heroes/8791797.jpg"

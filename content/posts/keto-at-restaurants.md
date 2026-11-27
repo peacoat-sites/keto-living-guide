@@ -1,6 +1,7 @@
 ---
 title: "Eating Keto at Restaurants: Your Survival Guide"
 date: 2026-07-21T14:37:45.288493+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to order keto-friendly meals at any restaurant, from fast food to fine dining, without breaking your diet."

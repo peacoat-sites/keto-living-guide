@@ -1,6 +1,7 @@
 ---
 title: "Signs Your Body Is Fat Adapted on Keto"
 date: 2026-06-01T22:38:38.539568+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the key signs you are fat adapted on keto, from steady energy and reduced hunger to better mental clarity and improved athletic performance."
 image: "/img/heroes/33089686.jpg"

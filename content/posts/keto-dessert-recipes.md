@@ -1,6 +1,7 @@
 ---
 title: "Keto Desserts That Actually Taste Good"
 date: 2026-05-23T04:09:02.514950+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover easy, delicious keto dessert recipes that satisfy your sweet cravings while keeping carbs low. From brownies to cheesecake, find your new favorite trea"
 image: "/img/heroes/45245.jpg"

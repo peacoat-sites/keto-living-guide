@@ -1,6 +1,7 @@
 ---
 title: "Keto as Mental Health Treatment: What the New Research Actually Shows"
 date: 2026-06-26T15:14:30.681582+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover what the latest research reveals about the ketogenic diet as a potential mental health treatment for depression, anxiety, bipolar disorder, and schizop"
 image: "/img/heroes/17072292.jpg"

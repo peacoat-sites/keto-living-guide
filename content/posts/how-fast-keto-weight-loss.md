@@ -1,6 +1,7 @@
 ---
 title: "How Fast Keto Weight Loss Happens"
 date: 2026-05-24T06:10:01.678060+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how fast keto weight loss really works, what results to expect in the first weeks, and tips to maximize fat burning on a ketogenic diet."
 image: "/img/heroes/5714349.jpg"

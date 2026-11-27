@@ -1,6 +1,7 @@
 ---
 title: "Start Your Morning Right: 12 Easy Keto Breakfast Ideas"
 date: 2026-05-21T03:01:46.557656+00:00
+googlebot_noindex: true
 draft: false
 description: "Start your day right with our best keto breakfast ideas. Quick, delicious, and low-carb recipes to keep you in ketosis and energized all morning long."
 image: "/img/heroes/4869425.jpg"

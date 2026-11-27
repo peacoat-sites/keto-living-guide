@@ -1,6 +1,7 @@
 ---
 title: "The Complete Keto Beverage Guide: What You Can Drink"
 date: 2026-06-01T22:36:19.543012+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto-friendly drinks to keep you in ketosis. From water and coffee to low-carb smoothies, learn what you can sip guilt-free on the keto diet."
 image: "/img/heroes/31336111.jpg"

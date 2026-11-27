@@ -1,6 +1,7 @@
 ---
 title: "Does Keto Raise Your Cholesterol? What Research Shows"
 date: 2026-05-24T05:17:22.501516+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet affects cholesterol levels, including HDL, LDL, and triglycerides, and what the latest research says about heart health on keto."
 image: "/img/heroes/17071579.jpg"

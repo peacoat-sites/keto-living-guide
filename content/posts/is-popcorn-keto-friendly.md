@@ -1,6 +1,7 @@
 ---
 title: "Is Popcorn Keto Friendly? 6.2g Net Carbs Per Cup"
 date: 2026-07-13T15:26:48.120829+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn if popcorn fits your keto diet. Find out carb counts, portion sizes, and keto-friendly popcorn alternatives for low-carb snacking."
 image: "/img/heroes/34191655.jpg"

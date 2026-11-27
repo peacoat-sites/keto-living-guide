@@ -1,6 +1,7 @@
 ---
 title: "16g Fat Per Serving: Is Peanut Butter Actually Keto?"
 date: 2026-07-11T14:06:24.691811+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Peanut butter has 16g fat but 20g carbs per serving. Find out if it fits your keto macros and which brands to choose."

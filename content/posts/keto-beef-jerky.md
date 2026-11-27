@@ -1,6 +1,7 @@
 ---
 title: "The Best Keto Beef Jerky Brands For Low-Carb Snacking"
 date: 2026-06-22T17:19:17.563483+00:00
+googlebot_noindex: true
 draft: false
 description: "Make delicious keto beef jerky at home with simple ingredients and bold flavors. Low carb, high protein snack perfect for your ketogenic lifestyle."
 image: "/img/heroes/16148045.jpg"

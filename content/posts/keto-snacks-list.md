@@ -1,6 +1,7 @@
 ---
 title: "25 Keto Snacks That Actually Taste Good"
 date: 2026-05-23T15:54:04.320980+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto-friendly snacks to keep you satisfied while staying in ketosis. Low-carb, high-fat snack ideas for weight loss success."
 image: "/img/heroes/8793939.jpg"

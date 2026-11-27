@@ -1,6 +1,7 @@
 ---
 title: "Dirty Keto vs Clean Keto: Which Approach Works Better"
 date: 2026-05-28T00:50:59.841562+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the key differences between dirty keto and clean keto diets. Learn which approach suits your health goals, lifestyle, and helps you achieve lasting res"
 image: "/img/heroes/35041653.jpg"

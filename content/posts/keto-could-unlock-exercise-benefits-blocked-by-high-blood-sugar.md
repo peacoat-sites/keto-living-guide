@@ -1,6 +1,7 @@
 ---
 title: "Keto Could Unlock Exercise Benefits Blocked by High Blood Sugar"
 date: 2026-07-14T14:27:13.973185+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how ketogenic diets may enhance exercise performance by improving blood sugar control and unlocking fitness benefits previously limited by high glucose"
 image: "/img/heroes/13896071.jpg"

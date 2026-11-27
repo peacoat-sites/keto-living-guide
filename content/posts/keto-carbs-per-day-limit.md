@@ -1,6 +1,7 @@
 ---
 title: "Keto Carbs Per Day: Finding Your Personal Limit"
 date: 2026-05-22T05:59:50.136971+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the ideal keto carbs per day limit to stay in ketosis. Learn how many grams of carbs you need to cut to burn fat and boost your results fast."
 image: "/img/heroes/7299855.jpg"

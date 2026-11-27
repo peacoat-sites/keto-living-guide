@@ -1,6 +1,7 @@
 ---
 title: "How Runners Fuel Performance On Keto"
 date: 2026-06-08T16:40:37.785777+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet can fuel your running performance, boost fat burning, and enhance endurance. Learn tips, benefits, and potential risks for runners."
 image: "/img/heroes/12683172.jpg"

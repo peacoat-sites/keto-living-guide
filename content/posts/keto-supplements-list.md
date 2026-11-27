@@ -1,6 +1,7 @@
 ---
 title: "The Best Keto Supplements to Actually Work"
 date: 2026-05-28T15:10:50.874738+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best keto supplements to boost your results. Our complete list covers electrolytes, MCT oil, exogenous ketones, and more for optimal ketosis."
 image: "/img/heroes/12955610.jpg"

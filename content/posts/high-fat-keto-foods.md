@@ -1,6 +1,7 @@
 ---
 title: "Best High Fat Foods For Keto Success"
 date: 2026-06-15T17:34:16.340248+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best high fat keto foods to fuel your low carb lifestyle. From avocados to fatty meats, boost ketosis with these delicious nutrient-rich options."
 image: "/img/heroes/5092568.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Why The Keto Diet Works For Weight Loss"
 date: 2026-05-26T02:01:22.246811+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the top keto diet benefits, from rapid weight loss and improved energy to better blood sugar control. Learn how going keto can transform your health to"
 image: "/img/heroes/16134559.jpg"

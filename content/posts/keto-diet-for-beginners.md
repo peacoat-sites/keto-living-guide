@@ -1,6 +1,7 @@
 ---
 title: "Your First Week on Keto: A Beginner's Roadmap"
 date: 2026-05-28T10:38:40.712902+00:00
+googlebot_noindex: true
 draft: false
 description: "Start your keto journey with confidence. Learn the basics of the ketogenic diet, what to eat, what to avoid, and simple tips to help beginners achieve fast resu"
 image: "/img/heroes/3760259.jpg"

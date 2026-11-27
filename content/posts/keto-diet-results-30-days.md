@@ -1,6 +1,7 @@
 ---
 title: "10 Pounds in 30 Days: Real Keto Diet Results"
 date: 2026-07-16T14:36:20.199862+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "See actual keto diet results after 30 days. Real weight loss numbers, body changes, and what to expect from ketogenic eating."

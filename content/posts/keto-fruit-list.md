@@ -1,6 +1,7 @@
 ---
 title: "Fruits You Can Actually Eat on Keto"
 date: 2026-05-26T04:59:13.887947+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best low-carb fruits for your keto diet. Our keto fruit list helps you enjoy sweet flavors while staying in ketosis and reaching your health goals."
 image: "/img/heroes/32096101.jpg"

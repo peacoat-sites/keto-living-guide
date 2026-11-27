@@ -1,6 +1,7 @@
 ---
 title: "Stop Buying Expensive Keto Snacks, The Best Grocery Store Finds"
 date: 2026-05-31T11:10:48.702813+00:00
+googlebot_noindex: true
 draft: false
 description: "Stock your pantry with the best keto snacks from any grocery store. Discover low-carb, high-fat options that satisfy cravings and keep you in ketosis all day lo"
 image: "/img/heroes/4090833.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Dairy-Free Keto: Complete Food Guide and Meal Ideas"
 date: 2026-06-16T17:38:02.131654+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover delicious keto diet dairy free meals and snacks. Learn what to eat, what to avoid, and how to thrive on a dairy free ketogenic lifestyle."
 image: "/img/heroes/15913500.jpg"

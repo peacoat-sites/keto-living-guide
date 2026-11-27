@@ -1,6 +1,7 @@
 ---
 title: "Easy Keto Fat Bombs Ready in 10 Minutes"
 date: 2026-06-02T12:55:50.928476+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover easy keto fat bombs recipes packed with healthy fats to keep you full, boost energy, and stay in ketosis. Perfect for low-carb snacking on the go!"
 image: "/img/heroes/5846193.jpg"

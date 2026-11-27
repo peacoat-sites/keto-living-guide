@@ -1,6 +1,7 @@
 ---
 title: "Keto and Heart Health: What Two Conflicting 2026 Studies Actually Show"
 date: 2026-06-30T15:17:47.154387+00:00
+googlebot_noindex: true
 draft: false
 description: "Two major 2026 studies reach opposite conclusions on keto and heart health. We break down the methods, limitations, and what the findings actually mean for your"
 image: "/img/heroes/5340270.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "200 Keto Zucchini Recipes: Low-Carb Ideas for Every Meal"
 date: 2026-07-30T14:52:30.672984+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover 200 delicious keto zucchini recipes perfect for breakfast, lunch, dinner and snacks. Low-carb, high-fat meals that fit your ketogenic diet."

@@ -1,6 +1,7 @@
 ---
 title: "How Long to Enter Ketosis and What Affects Your Timeline"
 date: 2026-05-22T01:06:21.316979+00:00
+googlebot_noindex: true
 draft: false
 description: "Find out exactly how long it takes to enter ketosis, what factors affect the timeline, and tips to get into ketosis faster with a ketogenic diet."
 image: "/img/heroes/6941102.jpg"

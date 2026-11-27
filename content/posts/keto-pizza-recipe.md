@@ -1,6 +1,7 @@
 ---
 title: "Keto Pizza Recipe With a Crust That Tastes Good"
 date: 2026-06-19T15:52:58.313152+00:00
+googlebot_noindex: true
 draft: false
 description: "Make a delicious keto pizza with a crispy low-carb crust, melted cheese, and all your favorite toppings. Easy recipe ready in under 30 minutes!"
 image: "/img/heroes/16203831.jpg"

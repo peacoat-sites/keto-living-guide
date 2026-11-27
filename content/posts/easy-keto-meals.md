@@ -1,6 +1,7 @@
 ---
 title: "Easy Keto Meals You Can Make in Under 30 Minutes"
 date: 2026-05-24T14:46:59.461844+00:00
+googlebot_noindex: true
 draft: false
 description: "Easy keto meals that fit your busy lifestyle. Discover simple, delicious low-carb recipes, quick dinner ideas, and meal prep tips to stay in ketosis."
 image: "/img/heroes/3298057.jpg"

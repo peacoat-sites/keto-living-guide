@@ -1,6 +1,7 @@
 ---
 title: "Keto Alcohol Guide: Drinks That Won't Break Ketosis"
 date: 2026-06-13T14:40:42.030465+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover which alcoholic drinks fit your keto lifestyle. Learn low-carb alcohol options, what to avoid, and how drinking affects ketosis in our complete guide."
 image: "/img/heroes/6366.jpg"

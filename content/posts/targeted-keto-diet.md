@@ -1,6 +1,7 @@
 ---
 title: "Strategic Keto Eating: Maximize Results With Targeted Nutrition"
 date: 2026-05-25T11:17:36.088702+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how a targeted keto diet can boost your performance and energy. Learn when to eat carbs strategically while staying in ketosis and burning fat effectiv"
 image: "/img/heroes/17898140.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Keto Flu: Why It Happens and When It Ends"
 date: 2026-06-01T15:34:56.142176+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover what keto flu is, why it happens when starting a ketogenic diet, and how long symptoms typically last, plus tips to reduce discomfort fast."
 image: "/img/heroes/7641422.jpg"

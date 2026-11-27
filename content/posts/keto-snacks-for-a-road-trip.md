@@ -1,6 +1,7 @@
 ---
 title: "20 Keto Snacks for Road Trips Under $2.49"
 date: 2026-07-17T14:17:34.876102+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Stay in ketosis on long drives with affordable, portable keto snacks. Find low-carb options that keep you satisfied for 1,200+ miles."

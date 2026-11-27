@@ -1,6 +1,7 @@
 ---
 title: "Why Your Keto Diet Needs Strategic Electrolyte Planning"
 date: 2026-05-28T22:23:13.894029+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover why electrolytes on keto matter, which minerals you need most, and how to prevent fatigue, cramps, and keto flu with simple daily strategies."
 image: "/img/heroes/4720515.jpg"

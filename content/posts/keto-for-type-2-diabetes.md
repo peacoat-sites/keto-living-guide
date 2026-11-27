@@ -1,6 +1,7 @@
 ---
 title: "Reversing Type 2 Diabetes With Ketogenic Diet"
 date: 2026-05-29T01:49:29.282967+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the keto diet may help manage type 2 diabetes by lowering blood sugar, improving insulin sensitivity, and supporting weight loss. Learn the benefit"
 image: "/img/heroes/6823517.jpg"

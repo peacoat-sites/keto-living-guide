@@ -1,6 +1,7 @@
 ---
 title: "Ketosis Symptoms: Signs You Are in Ketosis"
 date: 2026-05-22T08:42:31.546423+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the most common ketosis symptoms, from increased energy and mental clarity to bad breath and frequent urination, and learn what they mean for your heal"
 image: "/img/heroes/7776348.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "How Keto Affects Your Hormones: What Science Shows"
 date: 2026-08-09T13:33:26.794587+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how ketogenic diets impact insulin, cortisol, thyroid, and reproductive hormones. Evidence-based insights on hormonal changes from keto."

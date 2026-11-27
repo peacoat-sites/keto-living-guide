@@ -1,6 +1,7 @@
 ---
 title: "Order Keto at Chipotle Without Blowing Your Macros"
 date: 2026-06-18T16:02:54.418852+00:00
+googlebot_noindex: true
 draft: false
 description: "Eating keto at Chipotle is easy with the right order. Discover the best low-carb bowls, proteins, and toppings to stay in ketosis without sacrificing flavor."
 image: "/img/heroes/12507877.jpg"

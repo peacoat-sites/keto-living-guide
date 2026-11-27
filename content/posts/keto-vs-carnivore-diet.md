@@ -1,6 +1,7 @@
 ---
 title: "Carnivore vs Keto: Which Diet Wins for Results"
 date: 2026-07-07T15:29:36.425664+00:00
+googlebot_noindex: true
 draft: false
 description: "Compare keto vs carnivore diet to find which fits your goals. Explore differences in food choices, benefits, and results for weight loss and health."
 image: "/img/heroes/7936728.jpg"

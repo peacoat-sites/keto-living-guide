@@ -1,6 +1,7 @@
 ---
 title: "Keto Insomnia: Why You Can't Sleep and How to Fix It"
 date: 2026-07-25T14:13:18.488706+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why the ketogenic diet causes sleep problems and learn proven strategies to sleep better while staying in ketosis."

@@ -1,6 +1,7 @@
 ---
 title: "Lazy Keto: Skip The Tracking, Keep The Results"
 date: 2026-05-21T13:30:23.363847+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how the lazy keto diet works, what you can eat, and how it differs from strict keto. A simple guide to effortless low-carb eating for beginners."
 image: "/img/heroes/6509214.jpg"

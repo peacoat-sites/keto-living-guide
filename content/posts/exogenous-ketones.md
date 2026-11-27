@@ -1,6 +1,7 @@
 ---
 title: "Do Exogenous Ketones Actually Work For Keto?"
 date: 2026-06-19T15:51:03.817755+00:00
+googlebot_noindex: true
 draft: false
 description: "Exogenous ketones boost blood ketone levels without fasting. Learn how they work, their benefits, side effects, and whether they suit your goals."
 image: "/img/heroes/4378523.jpg"
